@@ -1,8 +1,11 @@
-name: Knowledge Scan
+name: Deep Research
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0 4 * * *"
+  push:
+    paths:
+      - "gaps/pending.md"
   workflow_dispatch: {}
 
 permissions:
@@ -13,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  scan:
+  research:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -25,18 +28,20 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run scan
-        run: python scripts/run_scan.py
+      - name: Run deep research on pending gaps
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/gap_research.py
 
-      - name: Commit and push new notes
+      - name: Commit and push briefs
         run: |
           git config user.name "primebot-knowledge-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add notes/ data/seen.json
+          git add notes/ gaps/
           if git diff --cached --quiet; then
-            echo "Sin cambios, nada que commitear."
+            echo "Sin cambios."
           else
-            git commit -m "scan: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "research: $(date -u +'%Y-%m-%d %H:%M UTC')"
             git pull --rebase origin main
             git push
           fi

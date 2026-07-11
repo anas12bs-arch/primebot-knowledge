@@ -14,7 +14,18 @@ NOTES_DIR = os.path.join(ROOT, "notes")
 def load_config():
     import yaml
     with open(CONFIG_PATH, "r", encoding="utf-8") as f:
-        return yaml.safe_load(f)
+        config = yaml.safe_load(f)
+    # Merge de keywords aprendidas (self_audit.py) con peso 1.
+    # Archivo separado del hecho a mano: el filtro base nunca se auto-reescribe.
+    learned_path = os.path.join(ROOT, "config", "keywords-learned.yml")
+    if os.path.exists(learned_path):
+        with open(learned_path, "r", encoding="utf-8") as f:
+            learned = yaml.safe_load(f) or {}
+        for cat, kws in learned.items():
+            if cat in config.get("categories", {}):
+                for kw in kws:
+                    config["categories"][cat]["keywords"].setdefault(kw, 1)
+    return config
 
 
 def load_seen():
