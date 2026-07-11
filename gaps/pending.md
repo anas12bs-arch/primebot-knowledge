@@ -13,11 +13,11 @@ Quién añade gaps aquí:
 
 ## Pendientes
 
-- [ ] improve-sources-fiscal-legal | best information sources blogs research feeds for fiscal legal
+- [x] improve-sources-fiscal-legal | best information sources blogs research feeds for fiscal legal  (done 2026-07-11)
 
-- [ ] improve-sources-business-models | best information sources blogs research feeds for business models
+- [x] improve-sources-business-models | best information sources blogs research feeds for business models  (done 2026-07-11)
 
-- [ ] improve-sources-marketing-growth | best information sources blogs research feeds for marketing growth
+- [x] improve-sources-marketing-growth | best information sources blogs research feeds for marketing growth  (done 2026-07-11)
 
 - [ ] improve-sources-sales-psychology | best information sources blogs research feeds for sales psychology
 
