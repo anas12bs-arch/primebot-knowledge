@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+sync/sync.log
+sync/sync.error.log
+.DS_Store

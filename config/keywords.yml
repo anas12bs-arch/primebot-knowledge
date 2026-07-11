@@ -1,0 +1,119 @@
+# Categorías y keywords que definen "relevante para Anas".
+# Cada match de keyword suma su peso al score del item.
+# threshold_default se usa si una categoría no define el suyo.
+
+threshold_default: 3
+
+categories:
+  ai_models:
+    threshold: 3
+    keywords:
+      diffusion model: 3
+      transformer architecture: 2
+      video generation: 3
+      text-to-video: 3
+      multimodal model: 2
+      LoRA: 2
+      fine-tuning: 1
+      open source model: 2
+      inference optimization: 2
+      new model release: 2
+      claude: 2
+      anthropic: 2
+      gpt-5: 3
+      gemini: 1
+      runway: 3
+      pika labs: 3
+      stable diffusion: 2
+      3d generation: 3
+      gaussian splatting: 2
+      neural rendering: 2
+
+  automation:
+    threshold: 3
+    keywords:
+      n8n: 3
+      make.com: 3
+      zapier: 2
+      workflow automation: 2
+      ai agent: 3
+      autonomous agent: 3
+      RPA: 1
+      no-code: 1
+
+  sales_psychology:
+    threshold: 3
+    keywords:
+      cialdini: 3
+      persuasion: 2
+      behavioral economics: 3
+      pricing psychology: 3
+      cognitive bias: 2
+      sales methodology: 2
+      objection handling: 2
+      negotiation tactics: 2
+      consumer psychology: 2
+
+  marketing_growth:
+    threshold: 3
+    keywords:
+      growth hacking: 2
+      viral loop: 3
+      conversion rate optimization: 2
+      customer acquisition: 2
+      retention strategy: 2
+      content strategy: 1
+      social media algorithm: 2
+      attention economy: 2
+
+  business_models:
+    threshold: 3
+    keywords:
+      saas pricing: 3
+      subscription model: 2
+      unit economics: 2
+      churn rate: 2
+      ltv cac: 3
+      business model innovation: 2
+      startup strategy: 1
+      bootstrapped: 1
+
+  fiscal_legal:
+    threshold: 2
+    keywords:
+      vat eu: 3
+      tax optimization: 2
+      freelance taxation: 2
+      autonomo españa: 3
+      fiscal strategy: 2
+
+# Fuentes RSS curadas (sin API key)
+rss_feeds:
+  - https://openai.com/blog/rss.xml
+  - https://www.anthropic.com/rss.xml
+  - https://ai.googleblog.com/feeds/posts/default
+  - https://techcrunch.com/category/artificial-intelligence/feed/
+  - https://www.indiehackers.com/feed.xml
+  - https://stability.ai/news?format=rss
+  - https://venturebeat.com/category/ai/feed/
+  - https://www.marketingdive.com/feeds/news/
+  - https://blog.hubspot.com/marketing/rss.xml
+  - https://a16z.com/feed/
+  - https://www.saastr.com/feed/
+  - https://neurosciencenews.com/feed/
+  - https://www.growthhackers.com/feed
+
+# Subreddits públicos (JSON endpoint, sin auth)
+# NOTA: Reddit bloquea sistemáticamente tráfico automatizado (403 incluso con
+# user-agent de navegador). Se deja el fetcher como best-effort (falla en
+# silencio si Reddit bloquea) pero no se depende de él — cubierto via RSS.
+subreddits:
+  - artificial
+  - MachineLearning
+  - marketing
+  - Entrepreneur
+  - SaaS
+  - automation
+
+# Ventana de "reciente" en horas — descarta contenido más viejo
+max_age_hours: 36
