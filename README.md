@@ -8,22 +8,32 @@ bóveda de Obsidian sin convertirla en repo git.
 ## Cómo funciona
 
 ```
-GitHub Actions (cada 30 min, 24/7, gratis en repo público)
-  -> scripts/run_scan.py
-     -> fetch_hackernews.py  (Algolia HN Search API)
-     -> fetch_arxiv.py       (arXiv API oficial)
-     -> fetch_rss.py         (blogs de labs de IA, SaaStr, a16z, etc.)
-     -> fetch_reddit.py      (best-effort, Reddit bloquea bots -> normalmente 0 resultados)
-  -> filtro de relevancia (config/keywords.yml, scoring por keyword, sin LLM)
-  -> dedupe (data/seen.json)
-  -> notes/<categoria>/<fecha>-<slug>.md
-  -> git commit + push
+CAPA 1 — Scan (cada 30 min, 24/7)
+  scripts/run_scan.py: HN + arXiv + RSS -> filtro keywords -> notes/<categoria>/
+
+CAPA 2 — Deep research (diario 4am + al pushear gaps/pending.md)
+  scripts/gap_research.py: por cada gap pendiente agrega Wikipedia + arXiv +
+  Semantic Scholar + HN all-time (>40 puntos) -> brief citado en
+  notes/deep-research/. Con GEMINI_API_KEY (secret opcional, free tier):
+  añade síntesis automática estilo NotebookLM. Sin key: el brief queda
+  "gathered" y Claude sintetiza en sesión (barato, material pre-recolectado).
+
+CAPA 3 — Auto-reparación (semanal, domingo 5am)
+  scripts/self_audit.py:
+    - mide rendimiento (aceptación, notas por categoría)
+    - aprende keywords de notas ACEPTADAS -> config/keywords-learned.yml
+      (archivo separado: el filtro base jamás se auto-reescribe; auditable
+      y reversible via git)
+    - detecta categorías muertas y les auto-crea gaps de investigación
+    - escribe informe de salud con pregunta de falsación
 
 Mac local (launchd, cada 30 min)
-  -> sync/sync_to_obsidian.sh
-     -> git pull del repo (cache en ~/.primebot-knowledge-cache)
-     -> rsync de notes/ -> boveda/wiki/auto-research/
+  sync/sync_to_obsidian.sh -> rsync notes/ -> boveda/wiki/auto-research/
 ```
+
+El loop completo: el auditor detecta debilidad -> crea gap -> el push del
+gap dispara la investigación profunda -> el brief llega a Obsidian -> las
+keywords aprendidas refinan el scanner. Cada capa alimenta a las otras.
 
 La bóveda de Obsidian real (con tus notas de negocio, clientes, etc.) nunca
 se toca como repo git. Solo se le copian archivos .md ya generados.
