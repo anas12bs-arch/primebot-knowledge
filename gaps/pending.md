@@ -14,9 +14,9 @@ Quién añade gaps aquí:
 ## Pendientes (prioritario — investigar profundo, sesión 4)
 
 ### VIDEO & HIGGSFIELD
-- [ ] higgsfield-video-analysis | how Higgsfield analyzes videos frame-level feature extraction temporal dynamics CNN models
-- [ ] viral-hook-patterns | micro-patterns in first 3 seconds that cause viewers to stop scroll TikTok Reels Shorts
-- [ ] retention-curve-mechanics | how retention curves work viewer drop-off points audience retention video length
+- [x] higgsfield-video-analysis | how Higgsfield analyzes videos frame-level feature extraction temporal dynamics CNN models  (done 2026-07-11)
+- [x] viral-hook-patterns | micro-patterns in first 3 seconds that cause viewers to stop scroll TikTok Reels Shorts  (done 2026-07-11)
+- [x] retention-curve-mechanics | how retention curves work viewer drop-off points audience retention video length  (done 2026-07-11)
 
 ### DROPSHIPPING & E-COMMERCE
 - [ ] winning-products-2025 | product characteristics high-margin low-weight fast-shipping winning dropshipping niches
