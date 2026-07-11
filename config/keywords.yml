@@ -1,119 +1,262 @@
-# Categorías y keywords que definen "relevante para Anas".
-# Cada match de keyword suma su peso al score del item.
-# threshold_default se usa si una categoría no define el suyo.
+# Configuración profunda de keywords — orientada a decisiones de negocio de Anas
+# Objetivo: anticipar qué necesitará antes de que lo pida
+# Principio: especificidad > amplitud. Profundo, no superficial.
 
-threshold_default: 3
+threshold_default: 2
 
 categories:
-  ai_models:
-    threshold: 3
-    keywords:
-      diffusion model: 3
-      transformer architecture: 2
-      video generation: 3
-      text-to-video: 3
-      multimodal model: 2
-      LoRA: 2
-      fine-tuning: 1
-      open source model: 2
-      inference optimization: 2
-      new model release: 2
-      claude: 2
-      anthropic: 2
-      gpt-5: 3
-      gemini: 1
-      runway: 3
-      pika labs: 3
-      stable diffusion: 2
-      3d generation: 3
-      gaussian splatting: 2
-      neural rendering: 2
-
-  automation:
-    threshold: 3
-    keywords:
-      n8n: 3
-      make.com: 3
-      zapier: 2
-      workflow automation: 2
-      ai agent: 3
-      autonomous agent: 3
-      RPA: 1
-      no-code: 1
-
-  sales_psychology:
-    threshold: 3
-    keywords:
-      cialdini: 3
-      persuasion: 2
-      behavioral economics: 3
-      pricing psychology: 3
-      cognitive bias: 2
-      sales methodology: 2
-      objection handling: 2
-      negotiation tactics: 2
-      consumer psychology: 2
-
-  marketing_growth:
-    threshold: 3
-    keywords:
-      growth hacking: 2
-      viral loop: 3
-      conversion rate optimization: 2
-      customer acquisition: 2
-      retention strategy: 2
-      content strategy: 1
-      social media algorithm: 2
-      attention economy: 2
-
-  business_models:
-    threshold: 3
-    keywords:
-      saas pricing: 3
-      subscription model: 2
-      unit economics: 2
-      churn rate: 2
-      ltv cac: 3
-      business model innovation: 2
-      startup strategy: 1
-      bootstrapped: 1
-
-  fiscal_legal:
+  # === VIDEO & CONTENT ===
+  video_analysis:
     threshold: 2
     keywords:
-      vat eu: 3
-      tax optimization: 2
-      freelance taxation: 2
-      autonomo españa: 3
-      fiscal strategy: 2
+      higgsfield: 4
+      frame analysis: 3
+      video feature extraction: 3
+      micro-interaction: 3
+      first 3 seconds hook: 3
+      retention curve: 3
+      viewer attention flow: 3
+      visual saliency: 2
+      eye tracking video: 3
+      scene understanding: 2
+      action recognition: 2
+      temporal dynamics: 2
 
-# Fuentes RSS curadas (sin API key)
+  short_form_video:
+    threshold: 2
+    keywords:
+      tiktok algorithm: 4
+      reels algorithm: 3
+      shorts algorithm: 3
+      hook writing: 3
+      viral pattern: 3
+      watch time optimization: 3
+      scroll-stop mechanism: 3
+      engagement loop: 3
+      content pattern recognition: 2
+      trending audio: 2
+      caption strategy: 2
+
+  tiktok_organic_growth:
+    threshold: 2
+    keywords:
+      fyp algorithm: 4
+      tiktok engagement: 3
+      organic reach tiktok: 3
+      viewer behavior tiktok: 2
+      posting schedule tiktok: 2
+      hashtag strategy tiktok: 2
+      duet stitch reply: 2
+      creator fund: 1
+
+  # === E-COMMERCE & DROPSHIPPING ===
+  dropshipping:
+    threshold: 2
+    keywords:
+      product sourcing: 3
+      supplier vetting: 3
+      margin calculation: 3
+      dropshipping niche: 3
+      product-market fit signals: 3
+      winning product: 3
+      supply chain: 2
+      stock management: 2
+      supplier negotiation: 2
+      aliexpress pricing: 2
+      amazon sourcing: 2
+
+  ecommerce_logistics:
+    threshold: 2
+    keywords:
+      international shipping: 3
+      customs clearance: 3
+      import tariffs: 3
+      delivery time optimization: 2
+      logistics cost: 2
+      fulfillment center: 2
+      dhl fedex usps: 1
+      warehouse management: 1
+
+  product_strategy:
+    threshold: 2
+    keywords:
+      product bundling: 3
+      upsell strategy: 3
+      cross-sell: 2
+      product positioning: 3
+      competitive positioning: 2
+      product differentiation: 2
+      price elasticity: 2
+      product lifecycle: 1
+
+  # === CONVERSION & SALES ===
+  conversion_optimization:
+    threshold: 2
+    keywords:
+      landing page: 3
+      checkout funnel: 3
+      conversion rate: 3
+      form optimization: 2
+      cro framework: 2
+      friction reduction: 2
+      trust signals: 2
+      social proof: 2
+      urgency scarcity: 3
+      cta button: 2
+      split testing: 2
+
+  pricing_psychology:
+    threshold: 2
+    keywords:
+      price anchoring: 4
+      pricing psychology: 3
+      bundling strategy: 3
+      decoy pricing: 3
+      charm pricing: 2
+      prestige pricing: 2
+      value perception: 2
+      price justification: 2
+
+  sales_psychology:
+    threshold: 2
+    keywords:
+      cialdini principles: 3
+      persuasion framework: 3
+      behavioral economics: 3
+      cognitive bias: 2
+      decision making: 2
+      objection handling: 2
+      sales pitch: 2
+      closing technique: 2
+
+  # === PAID ADVERTISING ===
+  meta_ads:
+    threshold: 2
+    keywords:
+      facebook ads: 3
+      instagram ads: 3
+      meta capi: 2
+      roas optimization: 3
+      cpc optimization: 2
+      ctr improvement: 2
+      audience targeting: 2
+      creative testing: 2
+      lookalike audience: 2
+
+  # === OPERATIONS ===
+  fiscal_international:
+    threshold: 2
+    keywords:
+      eu vat: 3
+      vat digital services: 3
+      tax automation españa: 3
+      autonomo taxation: 3
+      foreign tax: 2
+      currency exchange: 2
+      cross-border invoicing: 2
+      tax compliance: 1
+
+  web_conversion:
+    threshold: 2
+    keywords:
+      landing page design: 3
+      conversion copywriting: 3
+      ux optimization: 2
+      form design: 2
+      mobile optimization: 2
+      page speed: 1
+      seo copywriting: 1
+
+  # === AI & AUTOMATION (refined) ===
+  ai_models:
+    threshold: 2
+    keywords:
+      video generation: 4
+      text-to-video: 4
+      runway gen3: 3
+      pika labs: 3
+      higgsfield: 4
+      3d generation: 3
+      multi-modal ai: 2
+      claude api: 2
+      gpt-5: 2
+      inference optimization: 2
+
+  automation:
+    threshold: 2
+    keywords:
+      workflow automation: 3
+      ai agent: 3
+      autonomous agent: 3
+      n8n: 2
+      make.com: 2
+      zapier: 1
+      no-code automation: 1
+
+  # === BUSINESS & GROWTH ===
+  startup_strategy:
+    threshold: 2
+    keywords:
+      startup metrics: 3
+      unit economics: 3
+      ltv cac ratio: 3
+      burn rate: 2
+      growth strategy: 2
+      bootstrapped startup: 1
+      founder journey: 1
+
+  market_trends:
+    threshold: 1
+    keywords:
+      trending product: 3
+      market trend: 2
+      consumer trend: 2
+      seasonal trend: 2
+      niche discovery: 2
+      market gap: 2
+
+# === RSS FEEDS (expanded) ===
 rss_feeds:
+  # AI & Video Generation
   - https://openai.com/blog/rss.xml
   - https://www.anthropic.com/rss.xml
   - https://ai.googleblog.com/feeds/posts/default
-  - https://techcrunch.com/category/artificial-intelligence/feed/
-  - https://www.indiehackers.com/feed.xml
   - https://stability.ai/news?format=rss
   - https://venturebeat.com/category/ai/feed/
+
+  # E-commerce & Dropshipping
+  - https://www.indiehackers.com/feed.xml
+  - https://www.shopify.com/blog/feeds/posts.xml
+  - https://ecommerce.shopify.com/feeds/posts.xml
+  - https://blog.oberlo.com/feed/
+  - https://www.bigcommerce.com/blog/feed/
+
+  # Marketing & Growth
+  - https://www.saastr.com/feed/
+  - https://a16z.com/feed/
   - https://www.marketingdive.com/feeds/news/
   - https://blog.hubspot.com/marketing/rss.xml
-  - https://a16z.com/feed/
-  - https://www.saastr.com/feed/
-  - https://neurosciencenews.com/feed/
   - https://www.growthhackers.com/feed
+  - https://techcrunch.com/category/artificial-intelligence/feed/
+  - https://www.conversionxl.com/feed/
+  - https://www.customeracquisitionio.com/feed/
 
-# Subreddits públicos (JSON endpoint, sin auth)
-# NOTA: Reddit bloquea sistemáticamente tráfico automatizado (403 incluso con
-# user-agent de navegador). Se deja el fetcher como best-effort (falla en
-# silencio si Reddit bloquea) pero no se depende de él — cubierto via RSS.
-subreddits:
-  - artificial
-  - MachineLearning
-  - marketing
-  - Entrepreneur
-  - SaaS
-  - automation
+  # Conversion & CRO
+  - https://www.goodui.org/feed/
+  - https://blog.optimizely.com/feed/
 
-# Ventana de "reciente" en horas — descarta contenido más viejo
+  # E-commerce specific
+  - https://feeds.bloomberg.com/markets/news.rss
+  - https://www.ecommercebytes.com/rss/2,0,0.xml
+
+# Ventana de contenido reciente (horas)
 max_age_hours: 36
+
+# Multiplicador de relevancia por fuente (opcional)
+# Fuentes de alto valor pesan más en decisiones borderline
+source_weights:
+  "hubspot.com": 1.2
+  "a16z.com": 1.3
+  "saastr.com": 1.2
+  "conversionxl.com": 1.4
+  "indiehackers.com": 1.1

@@ -11,18 +11,40 @@ Quién añade gaps aquí:
 2. self_audit.py, cuando una categoría del scanner está muerta (0 notas).
 3. Anas manualmente, cuando quiera investigar un tema.
 
-## Pendientes
+## Pendientes (prioritario — investigar profundo, sesión 4)
 
-- [x] improve-sources-fiscal-legal | best information sources blogs research feeds for fiscal legal  (done 2026-07-11)
+### VIDEO & HIGGSFIELD
+- [ ] higgsfield-video-analysis | how Higgsfield analyzes videos frame-level feature extraction temporal dynamics CNN models
+- [ ] viral-hook-patterns | micro-patterns in first 3 seconds that cause viewers to stop scroll TikTok Reels Shorts
+- [ ] retention-curve-mechanics | how retention curves work viewer drop-off points audience retention video length
 
-- [x] improve-sources-business-models | best information sources blogs research feeds for business models  (done 2026-07-11)
+### DROPSHIPPING & E-COMMERCE
+- [ ] winning-products-2025 | product characteristics high-margin low-weight fast-shipping winning dropshipping niches
+- [ ] dropshipping-margin-math | supplier cost CAP pricing elasticity profit margins competitive analysis
+- [ ] international-shipping-2025 | DHL FedEx UPS costs regions customs tariffs import taxes clearance time
+- [ ] product-bundling-strategy | bundling psychology cross-sell upsell anchor pricing complementary products
 
-- [x] improve-sources-marketing-growth | best information sources blogs research feeds for marketing growth  (done 2026-07-11)
+### TIKTOK & ALGORITHM
+- [ ] tiktok-fyp-algorithm-2025 | TikTok For You Page recommendation system watch time engagement signal ranking
+- [ ] tiktok-organic-growth | seed strategy posting time hashtag strategy duet stitch growth tactics
+- [ ] reels-vs-shorts-algorithm | YouTube Shorts vs Instagram Reels vs TikTok algorithm differences 2025
 
-- [ ] improve-sources-sales-psychology | best information sources blogs research feeds for sales psychology
+### CONVERSION & PRICING
+- [ ] conversion-rate-optimization | landing page checkout funnel friction CRO methodology frameworks
+- [ ] price-anchoring-empirical | price anchoring studies e-commerce psychology charm pricing prestige pricing
+- [ ] urgency-scarcity-conversion | scarcity countdown timers limited inventory conversion rate impact studies
+- [ ] landing-page-copywriting | copywriting techniques persuasion framework value proposition benefit hierarchy
 
-- [x] ai-video-generation-landscape | AI video generation models comparison capabilities commercial licensing  (done 2026-07-11)
-- [x] b2b-pricing-anchoring | price anchoring B2B services empirical studies negotiation  (done 2026-07-11)
-- [x] eu-vat-digital-freelancer | EU VAT rules digital services freelancer Spain cross-border invoicing  (done 2026-07-11)
+### META ADS & PAID
+- [ ] meta-ads-roas-2025 | Facebook Instagram ads ROAS optimization audience targeting creative testing 2025
+- [ ] cpc-ctr-benchmarks-ecommerce | cost-per-click CTR benchmarks by industry e-commerce conversion benchmarks
+
+### DONE (anterior)
+- [x] improve-sources-fiscal-legal | (done 2026-07-11)
+- [x] improve-sources-business-models | (done 2026-07-11)
+- [x] improve-sources-marketing-growth | (done 2026-07-11)
+- [x] ai-video-generation-landscape | (done 2026-07-11)
+- [x] b2b-pricing-anchoring | (done 2026-07-11)
+- [x] eu-vat-digital-freelancer | (done 2026-07-11)
 
 ## Completados
