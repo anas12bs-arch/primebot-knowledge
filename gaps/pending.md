@@ -19,9 +19,9 @@ Quién añade gaps aquí:
 - [x] retention-curve-mechanics | how retention curves work viewer drop-off points audience retention video length  (done 2026-07-11)
 
 ### DROPSHIPPING & E-COMMERCE
-- [ ] winning-products-2025 | product characteristics high-margin low-weight fast-shipping winning dropshipping niches
-- [ ] dropshipping-margin-math | supplier cost CAP pricing elasticity profit margins competitive analysis
-- [ ] international-shipping-2025 | DHL FedEx UPS costs regions customs tariffs import taxes clearance time
+- [x] winning-products-2025 | product characteristics high-margin low-weight fast-shipping winning dropshipping niches  (done 2026-07-12)
+- [x] dropshipping-margin-math | supplier cost CAP pricing elasticity profit margins competitive analysis  (done 2026-07-12)
+- [x] international-shipping-2025 | DHL FedEx UPS costs regions customs tariffs import taxes clearance time  (done 2026-07-12)
 - [ ] product-bundling-strategy | bundling psychology cross-sell upsell anchor pricing complementary products
 
 ### TIKTOK & ALGORITHM
