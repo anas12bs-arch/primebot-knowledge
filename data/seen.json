@@ -506,5 +506,156 @@
   "8b24edb5f64a4afd": {
     "title": "Gold Declines as Renewed US-Iran Strikes Raise Rate-Hike Bets",
     "reason": "irrelevant"
+  },
+  "ee47ed3691cf3a9d": {
+    "title": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis",
+    "reason": "irrelevant"
+  },
+  "662310dd170e5684": {
+    "title": "PanoWorld: Real-World Panoramic Generation",
+    "reason": "irrelevant"
+  },
+  "9a409f5752d3d4ec": {
+    "title": "Scalable Visual Pretraining for Language Intelligence",
+    "reason": "irrelevant"
+  },
+  "0eab61b59c937561": {
+    "title": "OpenLongTail: Generative Scaling of Long-Tail Driving Data",
+    "reason": "irrelevant"
+  },
+  "4363eb8fe7497032": {
+    "title": "Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models",
+    "reason": "irrelevant"
+  },
+  "d148aa9694828118": {
+    "title": "VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents",
+    "category": "automation",
+    "score": 3
+  },
+  "35d6a1ba0989a203": {
+    "title": "Revisiting Euler-Angle Regression with Kolmogorov-Arnold Networks",
+    "reason": "irrelevant"
+  },
+  "eb6ad2959e69b3d3": {
+    "title": "ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI",
+    "reason": "irrelevant"
+  },
+  "d6e49d61e10cda1c": {
+    "title": "Deep Gaussian Processes on Directed Acyclic Graphs",
+    "reason": "irrelevant"
+  },
+  "f46996618b2c24a9": {
+    "title": "Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection",
+    "reason": "irrelevant"
+  },
+  "3a6280f24dac6f4d": {
+    "title": "Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory",
+    "reason": "irrelevant"
+  },
+  "4ee9f3467a4c7fc0": {
+    "title": "The Effects of Synthetic Data and Label Distribution on Canola Branch Counting",
+    "reason": "irrelevant"
+  },
+  "b90e718f787e2441": {
+    "title": "4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception",
+    "category": "video_analysis",
+    "score": 2
+  },
+  "00fa38caad45bc10": {
+    "title": "Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reasoning for QANTA 2026",
+    "reason": "irrelevant"
+  },
+  "934c6ed929c22be5": {
+    "title": "LLM for EDA in Front-End Design: Challenges and Opportunities",
+    "reason": "irrelevant"
+  },
+  "61cd0fe5567b2dd0": {
+    "title": "Toward Real-Time Sentence-Level Sign Language Translation",
+    "reason": "irrelevant"
+  },
+  "6944eeba9bda8acb": {
+    "title": "Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation",
+    "reason": "irrelevant"
+  },
+  "69c0a331ef90ca98": {
+    "title": "Tokenizer Transplantation: Mitigating Autoregressive Collapse in Edge-Efficient Bengali ASR",
+    "reason": "irrelevant"
+  },
+  "8f876812d6d633e0": {
+    "title": "PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers",
+    "reason": "irrelevant"
+  },
+  "e81ede38a469b0c1": {
+    "title": "TrustX Agent Risk Classification Framework (ARC): Risk-Tiering Internally Created Agentic AI Systems",
+    "reason": "irrelevant"
+  },
+  "f46df42f340c6a81": {
+    "title": "Promptable Concept Segmentation from Above: Evaluating SAM 3's Zero-Shot and One-Shot Capabilities in Remote Sensing",
+    "reason": "irrelevant"
+  },
+  "fcd8ec75c49ec854": {
+    "title": "Entropy-Constrained Machine Learning with Residual Data Augmentation for Modeling Chemical Kinetics",
+    "reason": "irrelevant"
+  },
+  "33ef9786a4147f8a": {
+    "title": "Wan-Dancer: A Hierarchical Framework for Minute-scale Coherent Music-to-Dance Generation",
+    "reason": "irrelevant"
+  },
+  "58af507fda888a30": {
+    "title": "Knowledge Graphs and Explainable AI as Complementary Resources for Urban Mining",
+    "reason": "irrelevant"
+  },
+  "4ee07a7f00b2edd6": {
+    "title": "Conceptual Networks for Cross-Linguistic Idiomatic Expressions:A Feature-Based Graph Approach",
+    "reason": "irrelevant"
+  },
+  "524506c70dfb74b9": {
+    "title": "Modi Seals Deals After\u00a0Courting Indo-Pacific Partners",
+    "reason": "irrelevant"
+  },
+  "475dd1072942602e": {
+    "title": "MiniMax\u00a0Shares Slump After JPMorgan Cuts Target Price Further",
+    "reason": "irrelevant"
+  },
+  "7e196e3704785d06": {
+    "title": "US Embassy Tells Americans to Avoid Congo Over Ebola After Aid Worker Infected",
+    "reason": "irrelevant"
+  },
+  "49274d4f84a4fc66": {
+    "title": "China Expands Strategic Mineral Toolkit With New Investment Firm",
+    "category": "dropshipping",
+    "score": 2
+  },
+  "85b6c12c2c553955": {
+    "title": "SBI Funds IPO Anchor Book 20 Times Subscribed; Draws Capital Group, BlackRock, Goldman, ADIA, GIC",
+    "reason": "irrelevant"
+  },
+  "d29379674b065b93": {
+    "title": "SK Hynix Shares Slump in Seoul After $26.5 Billion US Debut",
+    "reason": "irrelevant"
+  },
+  "86ac55c6a49415f8": {
+    "title": "Nippon Paint Offers $8.6 Billion for Akzo Nobel\u2019s Paint Business",
+    "reason": "irrelevant"
+  },
+  "5607e60403b8d982": {
+    "title": "India Inflows at Risk With Foreigners\u2019 Bearish Futures Bets, Mideast Flareup",
+    "reason": "irrelevant"
+  },
+  "b871354930315684": {
+    "title": "Treasury Two-Year Yields Rise to Highest Since 2025 as Oil Jumps",
+    "reason": "irrelevant"
+  },
+  "72320fc5a8d169c4": {
+    "title": "US to Increase Mexico Sugar Imports to 1.15 Million Metric Tons",
+    "reason": "irrelevant"
+  },
+  "4f182b8941712344": {
+    "title": "US Says It Conducted Fresh Round of Strikes Against Iran",
+    "reason": "irrelevant"
+  },
+  "299f46dc719c416f": {
+    "title": "Season of Selling to End Philippine Peso Rally, Strategists Say",
+    "reason": "irrelevant"
   }
 }
