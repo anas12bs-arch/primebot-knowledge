@@ -58,6 +58,42 @@ def subqueries(query, max_sub=4):
     return subs[:max_sub + 1]
 
 
+STOPWORDS = {
+    "the", "and", "for", "with", "from", "that", "this", "how", "what", "why",
+    "does", "into", "when", "where", "which", "their", "them", "then", "than",
+    "over", "under", "between", "about", "study", "studies", "analysis", "2024",
+    "2025", "2026", "empirical", "framework", "frameworks", "methodology",
+}
+
+
+def sig_terms(query):
+    """Términos significativos de la query, colapsados por prefijo de 4 chars
+    para que price/pricing o anchor/anchoring cuenten como uno solo."""
+    words = re.findall(r"[a-z0-9][a-z0-9-]{3,}", query.lower())
+    prefixes = {}
+    for w in words:
+        if w in STOPWORDS:
+            continue
+        prefixes.setdefault(w[:4], w)
+    return prefixes  # {prefijo: término original}
+
+
+def filter_relevant(items, query, keep):
+    """El fetch crudo trae mucho ruido (matching de 1 sola palabra: 'friction
+    CRO' -> papers de fricción física). Exigir >=2 familias de términos de la
+    query en título+snippet; ordenar por score y quedarse con los mejores."""
+    terms = sig_terms(query)
+    min_score = 2 if len(terms) > 2 else 1
+    scored = []
+    for it in items:
+        text = (it.get("title", "") + " " + it.get("snippet", "")).lower()
+        score = sum(1 for p in terms if p in text)
+        if score >= min_score:
+            scored.append((score, it))
+    scored.sort(key=lambda x: -x[0])
+    return [it for _, it in scored[:keep]]
+
+
 def fetch_wikipedia(query, limit=3):
     items, seen_titles = [], set()
     for sub in subqueries(query):
@@ -194,10 +230,12 @@ def render_section(name, items):
 
 def research_gap(slug, query):
     print(f"== Gap: {slug} | {query}")
-    wiki = fetch_wikipedia(query)
-    arxiv = fetch_arxiv_search(query)
-    s2 = fetch_semantic_scholar(query)
-    hn = fetch_hn_alltime(query)
+    # Fetch amplio, luego filtro de relevancia (los APIs devuelven mucho ruido
+    # de match parcial; mejor traer más candidatos y quedarse con los buenos).
+    wiki = filter_relevant(fetch_wikipedia(query, limit=6), query, keep=3)
+    arxiv = filter_relevant(fetch_arxiv_search(query, limit=12), query, keep=5)
+    s2 = filter_relevant(fetch_semantic_scholar(query, limit=12), query, keep=5)
+    hn = filter_relevant(fetch_hn_alltime(query, limit=16), query, keep=8)
     total = len(wiki) + len(arxiv) + len(s2) + len(hn)
     print(f"  fuentes: wiki={len(wiki)} arxiv={len(arxiv)} s2={len(s2)} hn={len(hn)}")
 
