@@ -1836,5 +1836,18 @@
     "title": "Show HN: Approv \u2013 human approval and a signed audit trail for AI agent actions",
     "category": "automation",
     "score": 3
+  },
+  "35994e21c94b28ee": {
+    "title": "OpenAI\u2019s first hardware device is reportedly a screenless speaker that can move",
+    "reason": "irrelevant"
+  },
+  "954e9233d858dd99": {
+    "title": "OpenAI pushes back on Apple trade secret lawsuit",
+    "reason": "irrelevant"
+  },
+  "9f76f31d2847cf24": {
+    "title": "OpenAI\u2019s new flagship model deletes files on its own, people keep warning",
+    "category": "ai_models",
+    "score": 2
   }
 }
