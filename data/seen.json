@@ -1211,5 +1211,175 @@
   "3d68e8ecb36f2e9e": {
     "title": "India\u2019s Beaten-Down Large Caps Set to Rebound on Foreign Flows",
     "reason": "irrelevant"
+  },
+  "cedf1afbebc44012": {
+    "title": "One Contract, Every Model: An Operating Standard for AI Coding Agents",
+    "reason": "irrelevant"
+  },
+  "a7baaacc1385d527": {
+    "title": "Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation",
+    "reason": "irrelevant"
+  },
+  "b613f8a649eac14c": {
+    "title": "Latent-Identity Tuning in Text-to-Image Personalization Models",
+    "reason": "irrelevant"
+  },
+  "0ca98805681839e2": {
+    "title": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data",
+    "reason": "irrelevant"
+  },
+  "5c42ae360fa63232": {
+    "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
+    "reason": "irrelevant"
+  },
+  "61402a78e8313e54": {
+    "title": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks",
+    "reason": "irrelevant"
+  },
+  "9235b4a32b9cc0f2": {
+    "title": "A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation",
+    "reason": "irrelevant"
+  },
+  "f6987521968b6941": {
+    "title": "A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol",
+    "reason": "irrelevant"
+  },
+  "ef990cb0328c3b82": {
+    "title": "Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias",
+    "reason": "irrelevant"
+  },
+  "3c074e200f798fff": {
+    "title": "Evidence-Backed Video Question Answering",
+    "reason": "irrelevant"
+  },
+  "690de006f444673b": {
+    "title": "AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification",
+    "reason": "irrelevant"
+  },
+  "185ce8c893e22295": {
+    "title": "Beyond the Single Camera: Agentic Multi-View Reasoning in Sports Video Understanding",
+    "reason": "irrelevant"
+  },
+  "46c30a32908fe8fc": {
+    "title": "Input-Aware Dynamic Backdoor Attack Against Quantum Neural Networks",
+    "reason": "irrelevant"
+  },
+  "7972c013dfe4903b": {
+    "title": "LoRA-Based Cascaded Multimodal Fusion for Action Recognition in Medical Training Environments",
+    "category": "video_analysis",
+    "score": 2
+  },
+  "35abbb400cb186c8": {
+    "title": "HASTE: A Platform for Rapid Post-Disaster Building Damage Assessment",
+    "reason": "irrelevant"
+  },
+  "7465a2a1c398ca53": {
+    "title": "Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency",
+    "category": "ai_models",
+    "score": 5
+  },
+  "5d4de9a5b7958aa5": {
+    "title": "MicroCharNet: Less is More for License Plate Character Detection",
+    "reason": "irrelevant"
+  },
+  "782b5cdb76964ddb": {
+    "title": "Transformer-Guided Swarm Intelligence for Frugal Neural Architecture Search",
+    "reason": "irrelevant"
+  },
+  "faa7636adc6f6a0f": {
+    "title": "MM-ToolSandBox: A Unified Framework for Evaluating Visual Tool-Calling Agents",
+    "reason": "irrelevant"
+  },
+  "a6bce38fadb4b3af": {
+    "title": "Relaxing Faithfulness with Intervention-Only Causal Discovery",
+    "reason": "irrelevant"
+  },
+  "1cc6ef91e1d1325f": {
+    "title": "Introducing Human-Centeredness in AI-Assisted Lexicography",
+    "reason": "irrelevant"
+  },
+  "2ffd934cdcf02480": {
+    "title": "Encoder-Side Neuron Identification and Amplification for Acoustic Perception in Large Audio-Language Models",
+    "reason": "irrelevant"
+  },
+  "2c5f5b969f158629": {
+    "title": "StoryTeller: Training-Free Narrative Grounding for Long-Form Audio Description",
+    "reason": "irrelevant"
+  },
+  "110244876be521e1": {
+    "title": "An Exact Instrument for State Usage in Selective State-Space Models, and the Input-Driven Migration It Reveals",
+    "reason": "irrelevant"
+  },
+  "be5c6b09772afe64": {
+    "title": "Forgetting Our Way to Shared Meaning: Effects of Forgetting on Conceptual Alignment in a Non-Partnership Coordination Game",
+    "reason": "irrelevant"
+  },
+  "670b7a0193825f3e": {
+    "title": "How Temperature Shapes Ideological Discourse in Retrieval-Augmented Generation?",
+    "reason": "irrelevant"
+  },
+  "5ff9e4858ff1b61a": {
+    "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+    "reason": "irrelevant"
+  },
+  "e0ec73b6a245d7e8": {
+    "title": "US, Iran Check the Oil Price Before Pushing Limits",
+    "reason": "irrelevant"
+  },
+  "b96f7e5de9e49d50": {
+    "title": "UNSW's Parker on US' 20% Cargo Toll in Strait of Hormuz",
+    "reason": "irrelevant"
+  },
+  "574a206ddb69626b": {
+    "title": "SK Hynix Slides More Than 20% in Two Days as AI Trade Unravels",
+    "reason": "irrelevant"
+  },
+  "6310496c64d81a77": {
+    "title": "Japan\u2019s 20-Year Bond Sale Demand Stronger Than 12-Month Average",
+    "reason": "irrelevant"
+  },
+  "c9edbe71b16b5c61": {
+    "title": "China\u2019s Crude Imports Plunge to Lowest in Nearly a Decade",
+    "reason": "irrelevant"
+  },
+  "a53df20153d62423": {
+    "title": "China Trade Numbers Top All Forecasts in June 2026",
+    "reason": "irrelevant"
+  },
+  "64df42e96df859b4": {
+    "title": "Iran Sneaking Out Tankers Via Hormuz as Trump Amps Up Threats",
+    "reason": "irrelevant"
+  },
+  "adef92d6fa99a3a6": {
+    "title": "Phillippine Peso Approaches Record Low as Oil Prices Advance",
+    "reason": "irrelevant"
+  },
+  "b70a51acb72307bc": {
+    "title": "Leveraged Chip Bets Backfire in Korea as Biggest ETF Falls 45%",
+    "reason": "irrelevant"
+  },
+  "a6d47b793c08773a": {
+    "title": "Yuan Still Cheap Versus Euro Even After Gain, Deutsche Bank Says",
+    "reason": "irrelevant"
+  },
+  "eccc75e68c9c215f": {
+    "title": "Taiwan Fund Profits 80% After Intervening to Blunt Trump Tariffs",
+    "reason": "irrelevant"
+  },
+  "a41cb896e9c5bafa": {
+    "title": "India Large-Caps Eye Comeback on Global Funds\u2019 Support",
+    "reason": "irrelevant"
+  },
+  "6a446108ddeefcdc": {
+    "title": "SocGen Sees $76 Billion of JGB Buying If GPIF Rebalances Assets",
+    "reason": "irrelevant"
+  },
+  "f11c02e57b65b943": {
+    "title": "China Airline Shares Face More Profit Pain as Demand Stays Weak",
+    "reason": "irrelevant"
+  },
+  "4f976da0f2b0131b": {
+    "title": "What to Know About Shein's Plans for Mega HK IPO",
+    "reason": "irrelevant"
   }
 }
