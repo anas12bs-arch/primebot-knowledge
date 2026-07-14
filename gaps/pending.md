@@ -27,11 +27,11 @@ Quién añade gaps aquí:
 ### TIKTOK & ALGORITHM
 - [x] tiktok-fyp-algorithm-2025 | TikTok For You Page recommendation system watch time engagement signal ranking  (done 2026-07-13)
 - [x] tiktok-organic-growth | seed strategy posting time hashtag strategy duet stitch growth tactics  (done 2026-07-13)
-- [ ] reels-vs-shorts-algorithm | YouTube Shorts vs Instagram Reels vs TikTok algorithm differences 2025
+- [x] reels-vs-shorts-algorithm | YouTube Shorts vs Instagram Reels vs TikTok algorithm differences 2025  (done 2026-07-14)
 
 ### CONVERSION & PRICING
-- [ ] conversion-rate-optimization | landing page checkout funnel friction CRO methodology frameworks
-- [ ] price-anchoring-empirical | price anchoring studies e-commerce psychology charm pricing prestige pricing
+- [x] conversion-rate-optimization | landing page checkout funnel friction CRO methodology frameworks  (done 2026-07-14)
+- [x] price-anchoring-empirical | price anchoring studies e-commerce psychology charm pricing prestige pricing  (done 2026-07-14)
 - [ ] urgency-scarcity-conversion | scarcity countdown timers limited inventory conversion rate impact studies
 - [ ] landing-page-copywriting | copywriting techniques persuasion framework value proposition benefit hierarchy
 
