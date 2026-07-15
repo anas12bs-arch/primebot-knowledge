@@ -1853,5 +1853,114 @@
   "b4562ff52976f046": {
     "title": "Lorde says AI glasses are \u201cnot sexy\u201d",
     "reason": "irrelevant"
+  },
+  "13583fd17f0cc4da": {
+    "title": "The math behind PrismML's 27B-parameter model in 4GB of RAM",
+    "reason": "irrelevant"
+  },
+  "91740efedc0a4b22": {
+    "title": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution",
+    "category": "automation",
+    "score": 3
+  },
+  "adc9ff59b48e604e": {
+    "title": "The Seriality Gap in Video Diffusion Models",
+    "reason": "irrelevant"
+  },
+  "13920c7606064f65": {
+    "title": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale",
+    "reason": "irrelevant"
+  },
+  "a973d2811c832e23": {
+    "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
+    "reason": "irrelevant"
+  },
+  "8645aeee2fdadd67": {
+    "title": "A Shortcut to Statistically Steady-State Turbulence with Flow Matching",
+    "reason": "irrelevant"
+  },
+  "5164ab6eba5f0b25": {
+    "title": "FlowWAM: Optical Flow as a Unified Action Representation for World Action Models",
+    "reason": "irrelevant"
+  },
+  "18cba73af654e0e4": {
+    "title": "Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model",
+    "reason": "irrelevant"
+  },
+  "49cc89eba41b9034": {
+    "title": "DermDepth: Toward Monocular Metric Scale 3D Reconstruction Models for Dermatology",
+    "reason": "irrelevant"
+  },
+  "77c7aff1ba6c2e75": {
+    "title": "Dynamic Resource Allocation for Ensemble Determinization MCTS",
+    "reason": "irrelevant"
+  },
+  "0187fa48f6bce223": {
+    "title": "The Spectrum Is Not Enough: When Context Helps Time-Series Forecasting",
+    "reason": "irrelevant"
+  },
+  "6a7f74cb8c56bbb5": {
+    "title": "Watermark Forensics for Generative Models: An Information-Theoretic Perspective",
+    "reason": "irrelevant"
+  },
+  "7c3e018e3d277dd4": {
+    "title": "X-Lens: Real-Time Metric Depth Estimation with Heterogeneous Cameras",
+    "reason": "irrelevant"
+  },
+  "660c2eae6f2ce379": {
+    "title": "Controllable Generation of Diverse Dermatological Imagery for Fair and Efficient Malignancy Classification",
+    "reason": "irrelevant"
+  },
+  "67559ec23936022b": {
+    "title": "Win by Silence: Deletion Non-Monotonicity, Autonomous Exploitation, and Typed-State Gating in LLM Plan Evaluation",
+    "reason": "irrelevant"
+  },
+  "b33a634b40e81dc4": {
+    "title": "Resist and Update: Counterfactual Report Coordinates for Incentive-Compatible LLMs",
+    "reason": "irrelevant"
+  },
+  "c271ecd288a8c64e": {
+    "title": "FormalAnalyticGeo: A Neural-Symbolic Based Framework for Multimodal Analytic Geometry Problem Generation",
+    "reason": "irrelevant"
+  },
+  "ba05b75aad425d17": {
+    "title": "Ensemble Controlled-Flow Filtering for Implicit Data Assimilation",
+    "reason": "irrelevant"
+  },
+  "a7f1fc5cd425e965": {
+    "title": "The Illusion of Robustness: Aggregate Accuracy Hides Prediction Flips under Task-Irrelevant Context",
+    "reason": "irrelevant"
+  },
+  "380a07e068218bb0": {
+    "title": "Form, Not Content? A Preregistered, Placebo-Controlled Evaluation of Learned Error-Conditioned Self-Repair Through Prompts and Weights in Frozen Small Code Models",
+    "reason": "irrelevant"
+  },
+  "a0766a2857e87f51": {
+    "title": "ViCo3D: Empowering LiDAR-based Collaborative 3D Object Detection with Vision Foundation Models",
+    "reason": "irrelevant"
+  },
+  "ff1ba3e1137705be": {
+    "title": "Robustness of Deep Learning Models for PV Power Forecasting under NWP Forecast Errors: A Spatiotemporal and Physically Interpretable Analysis",
+    "reason": "irrelevant"
+  },
+  "43df3846e70de3fa": {
+    "title": "ViHoRec: A Quality-Controlled Vietnamese Hotel Recommendation Dataset and Cold-Start Benchmark",
+    "reason": "irrelevant"
+  },
+  "a67a1784448968d6": {
+    "title": "Point Tracking in Surgery--The 2025 Surgical Tattoos in Infrared Challenge (STIRC2025)",
+    "reason": "irrelevant"
+  },
+  "75bcb47abb00495b": {
+    "title": "Exact and Calibrated Diffusion Reconstruction for Digital Breast Tomosynthesis",
+    "reason": "irrelevant"
+  },
+  "bf2044f49b540a16": {
+    "title": "Domain-Incremental Remote Sensing Change Detection via Difference-Guided Adaptation and Frequency-Decoupled Distillation",
+    "reason": "irrelevant"
+  },
+  "06f6d22989a125be": {
+    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+    "reason": "irrelevant"
   }
 }
