@@ -18,6 +18,16 @@ Quién añade gaps aquí:
 - [x] viral-hook-patterns | micro-patterns in first 3 seconds that cause viewers to stop scroll TikTok Reels Shorts  (done 2026-07-14)
 - [x] retention-curve-mechanics | how retention curves work viewer drop-off points audience retention video length  (done 2026-07-14)
 
+### CASOS CRIMINALES — VERIFICACIÓN PARA GUIONES (canal Deep Sea)
+- [ ] gardner-museum-heist | Isabella Stewart Gardner Museum 1990 art theft timeline 81 minutes fake police guards handcuffed stolen paintings value unsolved
+- [ ] belenko-mig25-defection | Viktor Belenko 1976 MiG-25 defection Japan Hakodate flight fuel radar evasion Soviet intelligence damage
+- [ ] mabhouh-dubai-assassination | Mahmoud al-Mabhouh Dubai 2010 assassination Mossad agents fake passports hotel CCTV forensic evidence
+- [ ] qusay-iraq-central-bank | Qusay Hussein 2003 Iraq Central Bank one billion dollars removal handwritten note trucks
+- [ ] ghosn-escape-japan | Carlos Ghosn 2019 escape Japan audio equipment case Osaka private jet Michael Taylor operation details
+- [ ] tipton-lottery-hack | Eddie Tipton lottery random number generator rootkit hack Multi-State Lottery Association conviction details
+- [ ] vastberga-helicopter-heist | Vastberga G4S cash depot helicopter heist Stockholm 2009 police helicopter hangar fake bombs planning
+- [ ] silk-road-ulbricht | Silk Road Ross Ulbricht marketplace reputation system escrow operational security capture details
+
 ### DROPSHIPPING & E-COMMERCE
 - [x] winning-products-2025 | product characteristics high-margin low-weight fast-shipping winning dropshipping niches  (done 2026-07-15)
 - [x] dropshipping-margin-math | supplier cost CAP pricing elasticity profit margins competitive analysis  (done 2026-07-15)
