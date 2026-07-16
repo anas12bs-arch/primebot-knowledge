@@ -2249,5 +2249,158 @@
   "e2724970857a18df": {
     "title": "BHP\u2019s Iron Ore, Copper Output Slip as Top Miner Plans For Growth",
     "reason": "irrelevant"
+  },
+  "3c2280369603704e": {
+    "title": "VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders",
+    "reason": "irrelevant"
+  },
+  "dd42d2c8142f31ea": {
+    "title": "Leveraging unlabelled data for generalizable neural population decoding",
+    "reason": "irrelevant"
+  },
+  "463c94846e69ee2d": {
+    "title": "Linear Independent Component Analysis via Optimal Transport",
+    "reason": "irrelevant"
+  },
+  "194b6af3916a7a5e": {
+    "title": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
+    "reason": "irrelevant"
+  },
+  "2c61b4e77b478e9f": {
+    "title": "MetaPerch: Learning from metadata for bioacoustics foundation models",
+    "reason": "irrelevant"
+  },
+  "313a813f74f03d34": {
+    "title": "Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes",
+    "reason": "irrelevant"
+  },
+  "6fbb96604ecfe791": {
+    "title": "Hindcast: Replaying Prediction Markets to Evaluate LLM Forecasters",
+    "reason": "irrelevant"
+  },
+  "d634ba4eef304f5c": {
+    "title": "Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models",
+    "reason": "irrelevant"
+  },
+  "6a7fe71085be2955": {
+    "title": "Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education",
+    "reason": "irrelevant"
+  },
+  "4be95e4932d3193f": {
+    "title": "AI-accelerated End-to-End Framework for Rapid Professional Upskilling",
+    "reason": "irrelevant"
+  },
+  "38987cc486581af0": {
+    "title": "Multi-Expert Routing for Multi-Domain Low-Resource OCR: A Manchu Case Study",
+    "reason": "irrelevant"
+  },
+  "e26f958b3d87e948": {
+    "title": "Can an Old Dog Be Taught New Tricks? Taking LLMs Beyond Sentence Level Translation",
+    "reason": "irrelevant"
+  },
+  "4ef6a5f9e47e12e2": {
+    "title": "Early Adoption of Agentic Coding Tools by GitHub Projects",
+    "reason": "irrelevant"
+  },
+  "c23898e616da7184": {
+    "title": "Improving Wind and Solar Power Prediction with Efficient Wrapper-based Feature Selection: An Empirical Study",
+    "reason": "irrelevant"
+  },
+  "400c87a1e2aee1f4": {
+    "title": "Transforming Rank: How Architecture Navigates the Spectral Pathologies of Depth",
+    "reason": "irrelevant"
+  },
+  "05c0efece495d3cb": {
+    "title": "Lighthouse RL: Sample-Efficient Circuit Optimization via Strategic Reset Points",
+    "reason": "irrelevant"
+  },
+  "b1be195404d7d4e3": {
+    "title": "Rethinking Penetration Testing for AI-Enabled Systems: From Resource Compromise to Behavioral Objective Violation",
+    "reason": "irrelevant"
+  },
+  "eac44baa4a7d25d3": {
+    "title": "M$^\\text{4}$World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming",
+    "reason": "irrelevant"
+  },
+  "a5c86dce6d39be4a": {
+    "title": "Do Agent Optimizers Compound? A Continual-Learning Evaluation on Terminal-Bench 2.0",
+    "reason": "irrelevant"
+  },
+  "2850ff090fb080da": {
+    "title": "Lyapunov Exponent as Physics-Informed Dense Reward: RL Discovery of Stabilization Beyond the Kapitza Pendulum",
+    "reason": "irrelevant"
+  },
+  "6d61f3ebe8cf7ecb": {
+    "title": "The Dynamic Verifiable Multi-Agent Human Agentic Loyalty Loop (DVM-HALL) Model and the Net Human-Agent Score (NHAS) in Autonomous Commerce",
+    "reason": "irrelevant"
+  },
+  "14798f2276ac234f": {
+    "title": "TRACE: Turn-level Reward Assignment via Credit Estimation for Long-Horizon Agents",
+    "reason": "irrelevant"
+  },
+  "52010dd01539f322": {
+    "title": "Task-Specific Feature Fusion Method for Multi-Task Affective Behavior Analysis",
+    "reason": "irrelevant"
+  },
+  "45fd22b5cedc1a20": {
+    "title": "Multimodal Empirical Bayes Variational Autoencoders for Joint Longitudinal and Time-to-Event Modeling",
+    "reason": "irrelevant"
+  },
+  "b3096ccb47769c6a": {
+    "title": "Screening Is Effective for Visual Recognition",
+    "reason": "irrelevant"
+  },
+  "82fd1b486f32873f": {
+    "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+    "reason": "irrelevant"
+  },
+  "dd913fe9ada12138": {
+    "title": "Wheat Holds Near Two-Month High After Black Sea Attacks",
+    "reason": "irrelevant"
+  },
+  "e75b09a19c039aee": {
+    "title": "Global Investors Hunt For Creative Backdoors Into China\u2019s Mega CXMT IPO",
+    "reason": "irrelevant"
+  },
+  "033dfd4ecc435481": {
+    "title": "Korea Plans Measures on Leveraged ETFs Driving Wild Volatility",
+    "reason": "irrelevant"
+  },
+  "fe73a5e7849db221": {
+    "title": "Adani Flagship Draws Mutual Fund Interest as Governance Risks Recede",
+    "reason": "irrelevant"
+  },
+  "b4e4720c5d62c461": {
+    "title": "Pound Index Hits One-Year High on Mahmood for Chancellor Reports",
+    "reason": "irrelevant"
+  },
+  "eb065b3b3efdd3e7": {
+    "title": "India Raises Export Levies on Diesel and Jet Fuel",
+    "reason": "irrelevant"
+  },
+  "f48e87e91dc4088c": {
+    "title": "Modi Pushes to Cut Import Reliance to Shield India From Shocks",
+    "category": "dropshipping",
+    "score": 2
+  },
+  "c6e8d736605c6952": {
+    "title": "Japan PE Fund Seeks $1.9 Billion Economic-Security Investments",
+    "reason": "irrelevant"
+  },
+  "86955018cd2f7463": {
+    "title": "IEA Boss Warns Global Economy in Peril If Hormuz Crisis Persists",
+    "reason": "irrelevant"
+  },
+  "4fee501c0ecdc948": {
+    "title": "BHP Iron Ore Workers Stage First Port Hedland Strike Since 2000",
+    "reason": "irrelevant"
+  },
+  "160d577a8f3efe89": {
+    "title": "Liquidity in Malaysia May Tighten Further as Rate-Hike Bets Grow",
+    "reason": "irrelevant"
+  },
+  "a5beef4e1ce2f40c": {
+    "title": "Iran War Drives New Investment in US LNG, S&P Global Says",
+    "reason": "irrelevant"
   }
 }
