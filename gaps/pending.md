@@ -22,11 +22,11 @@ Quién añade gaps aquí:
 - [x] winning-products-2025 | product characteristics high-margin low-weight fast-shipping winning dropshipping niches  (done 2026-07-15)
 - [x] dropshipping-margin-math | supplier cost CAP pricing elasticity profit margins competitive analysis  (done 2026-07-15)
 - [x] international-shipping-2025 | DHL FedEx UPS costs regions customs tariffs import taxes clearance time  (done 2026-07-15)
-- [ ] product-bundling-strategy | bundling psychology cross-sell upsell anchor pricing complementary products
+- [x] product-bundling-strategy | bundling psychology cross-sell upsell anchor pricing complementary products  (done 2026-07-16)
 
 ### TIKTOK & ALGORITHM
-- [ ] tiktok-fyp-algorithm-2025 | TikTok For You Page recommendation system watch time engagement signal ranking
-- [ ] tiktok-organic-growth | seed strategy posting time hashtag strategy duet stitch growth tactics
+- [x] tiktok-fyp-algorithm-2025 | TikTok For You Page recommendation system watch time engagement signal ranking  (done 2026-07-16)
+- [x] tiktok-organic-growth | seed strategy posting time hashtag strategy duet stitch growth tactics  (done 2026-07-16)
 - [ ] reels-vs-shorts-algorithm | YouTube Shorts vs Instagram Reels vs TikTok algorithm differences 2025
 
 ### CONVERSION & PRICING
