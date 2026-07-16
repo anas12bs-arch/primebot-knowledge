@@ -19,9 +19,9 @@ Quién añade gaps aquí:
 - [x] retention-curve-mechanics | how retention curves work viewer drop-off points audience retention video length  (done 2026-07-14)
 
 ### CASOS CRIMINALES — VERIFICACIÓN PARA GUIONES (canal Deep Sea)
-- [ ] gardner-museum-heist | Isabella Stewart Gardner Museum 1990 art theft timeline 81 minutes fake police guards handcuffed stolen paintings value unsolved
-- [ ] belenko-mig25-defection | Viktor Belenko 1976 MiG-25 defection Japan Hakodate flight fuel radar evasion Soviet intelligence damage
-- [ ] mabhouh-dubai-assassination | Mahmoud al-Mabhouh Dubai 2010 assassination Mossad agents fake passports hotel CCTV forensic evidence
+- [x] gardner-museum-heist | Isabella Stewart Gardner Museum 1990 art theft timeline 81 minutes fake police guards handcuffed stolen paintings value unsolved  (done 2026-07-16)
+- [x] belenko-mig25-defection | Viktor Belenko 1976 MiG-25 defection Japan Hakodate flight fuel radar evasion Soviet intelligence damage  (done 2026-07-16)
+- [x] mabhouh-dubai-assassination | Mahmoud al-Mabhouh Dubai 2010 assassination Mossad agents fake passports hotel CCTV forensic evidence  (done 2026-07-16)
 - [ ] qusay-iraq-central-bank | Qusay Hussein 2003 Iraq Central Bank one billion dollars removal handwritten note trucks
 - [ ] ghosn-escape-japan | Carlos Ghosn 2019 escape Japan audio equipment case Osaka private jet Michael Taylor operation details
 - [ ] tipton-lottery-hack | Eddie Tipton lottery random number generator rootkit hack Multi-State Lottery Association conviction details
