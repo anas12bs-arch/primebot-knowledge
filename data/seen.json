@@ -2942,5 +2942,137 @@
   "25ce70295de95c69": {
     "title": "Top Currency Forecaster Says Yen May Reach 170 Against Dollar",
     "reason": "irrelevant"
+  },
+  "37f46dd2db0c083f": {
+    "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
+    "reason": "irrelevant"
+  },
+  "aa6c29cecacd5d08": {
+    "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
+    "reason": "irrelevant"
+  },
+  "31294b766ae079c6": {
+    "title": "RoboTTT: Context Scaling for Robot Policies",
+    "reason": "irrelevant"
+  },
+  "832559be7e1d2a7d": {
+    "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
+    "reason": "irrelevant"
+  },
+  "52041a914742c349": {
+    "title": "SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions",
+    "reason": "irrelevant"
+  },
+  "2ae6aa7940a01d97": {
+    "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis",
+    "reason": "irrelevant"
+  },
+  "c2c4e8a323e18d04": {
+    "title": "Motion-Conditioned Multi-View Fusion for Myocardial Infarction Localization from Echocardiography",
+    "reason": "irrelevant"
+  },
+  "2039c07dc4390ad1": {
+    "title": "Pretraining Data Can Be Poisoned through Computational Propaganda",
+    "reason": "irrelevant"
+  },
+  "f6dda9c70f018681": {
+    "title": "SceneBind: Binding What and Where Across Vision, Audio and Language",
+    "reason": "irrelevant"
+  },
+  "bc42f5af5841de79": {
+    "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
+    "reason": "irrelevant"
+  },
+  "79539b7c78ead57f": {
+    "title": "Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier",
+    "reason": "irrelevant"
+  },
+  "010a2a7542b00ea0": {
+    "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
+    "reason": "irrelevant"
+  },
+  "8c6db3a57a7a7d6e": {
+    "title": "HoloGeo: Mitigating Landmark Bias in Geo-localization via Evidence-Driven Reasoning",
+    "reason": "irrelevant"
+  },
+  "9b3a92cc88af067f": {
+    "title": "teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data",
+    "reason": "irrelevant"
+  },
+  "97f11b3ce171a7df": {
+    "title": "Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search",
+    "reason": "irrelevant"
+  },
+  "470751bf526db9dc": {
+    "title": "AutoSynthesis: An agentic system for automated meta-analysis",
+    "reason": "irrelevant"
+  },
+  "740cdadb6b92887c": {
+    "title": "ARMOR++: Agentic Orchestration of a Multi-Domain Primitive Set for Transferable Attacks on Deepfake Detectors",
+    "reason": "irrelevant"
+  },
+  "f1966e9fe61869b3": {
+    "title": "Mutable Low-Rank Sketches for Retrain-Free Recommendation",
+    "reason": "irrelevant"
+  },
+  "24024670a7a72f96": {
+    "title": "Beyond the Leaderboard: Design Lessons for Trustworthy Multimodal VQA",
+    "reason": "irrelevant"
+  },
+  "c5c7271434a276dc": {
+    "title": "TikStance: A Multimodal and Hierarchical Dataset for Multi-target Stance Analysis in TikTok Political Conversations",
+    "reason": "irrelevant"
+  },
+  "0135c90791b4179f": {
+    "title": "Language Identification via Compositional Data Analysis: A Linear-Time Classifier Based on Log-Ratio Geometry",
+    "reason": "irrelevant"
+  },
+  "f5916e164a421c57": {
+    "title": "In-Place Tokenizer Expansion for Pre-trained LLMs",
+    "reason": "irrelevant"
+  },
+  "010c5b4317a421e9": {
+    "title": "CRISP: Constrained Refinement via Iterative Squeezing Process for Robust Medical Image Segmentation under Domain Shift",
+    "reason": "irrelevant"
+  },
+  "565927820145d157": {
+    "title": "Data Driven Block Replacement Scheduling",
+    "reason": "irrelevant"
+  },
+  "c2e826f62ed2b9cc": {
+    "title": "Divergent Gaze Patterns in Artistic Viewing: Spatial and Temporal Signatures of Attention Across Autistic Individuals, Artists, and Neurotypical Observers",
+    "reason": "irrelevant"
+  },
+  "71a88851d0fa35d2": {
+    "title": "Hong Kong Stocks\u2019 Discount to China Widens on Liquidity Pressure",
+    "reason": "irrelevant"
+  },
+  "de9ac3dcbb968962": {
+    "title": "India Chemical Shares Surge on Hormuz Disruption, Better Pricing",
+    "reason": "irrelevant"
+  },
+  "196362e2796314c5": {
+    "title": "Industrial Metals Decline as Traders Weigh Fed Rate Outlook",
+    "reason": "irrelevant"
+  },
+  "5a0612b6d6b239fe": {
+    "title": "HDFC Bank, ICICI Bank Eye FX Deposits For Margin Boost",
+    "reason": "irrelevant"
+  },
+  "79f33959beddbe68": {
+    "title": "China Chip Stock Pullback Drives Investor Fear to Four-Year High",
+    "reason": "irrelevant"
+  },
+  "8d439125672bdeaa": {
+    "title": "Investor Srinivasan Seeks Meeting with Anwar\u2019s Office After Raid",
+    "reason": "irrelevant"
+  },
+  "e9d81e1ba42eaac8": {
+    "title": "Taco Bell Pulls Lettuce in Some States After Cyclospora Outbreak",
+    "reason": "irrelevant"
+  },
+  "cb3ab7290c087c9d": {
+    "title": "China AI Stocks\u2019 1000%-Plus Profit Gain May Fail to Revive Rally",
+    "reason": "irrelevant"
   }
 }
