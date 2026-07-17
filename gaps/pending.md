@@ -22,9 +22,9 @@ Quién añade gaps aquí:
 - [x] gardner-museum-heist | Isabella Stewart Gardner Museum 1990 art theft timeline 81 minutes fake police guards handcuffed stolen paintings value unsolved  (done 2026-07-16)
 - [x] belenko-mig25-defection | Viktor Belenko 1976 MiG-25 defection Japan Hakodate flight fuel radar evasion Soviet intelligence damage  (done 2026-07-16)
 - [x] mabhouh-dubai-assassination | Mahmoud al-Mabhouh Dubai 2010 assassination Mossad agents fake passports hotel CCTV forensic evidence  (done 2026-07-16)
-- [ ] qusay-iraq-central-bank | Qusay Hussein 2003 Iraq Central Bank one billion dollars removal handwritten note trucks
-- [ ] ghosn-escape-japan | Carlos Ghosn 2019 escape Japan audio equipment case Osaka private jet Michael Taylor operation details
-- [ ] tipton-lottery-hack | Eddie Tipton lottery random number generator rootkit hack Multi-State Lottery Association conviction details
+- [x] qusay-iraq-central-bank | Qusay Hussein 2003 Iraq Central Bank one billion dollars removal handwritten note trucks  (done 2026-07-17)
+- [x] ghosn-escape-japan | Carlos Ghosn 2019 escape Japan audio equipment case Osaka private jet Michael Taylor operation details  (done 2026-07-17)
+- [x] tipton-lottery-hack | Eddie Tipton lottery random number generator rootkit hack Multi-State Lottery Association conviction details  (done 2026-07-17)
 - [ ] vastberga-helicopter-heist | Vastberga G4S cash depot helicopter heist Stockholm 2009 police helicopter hangar fake bombs planning
 - [ ] silk-road-ulbricht | Silk Road Ross Ulbricht marketplace reputation system escrow operational security capture details
 
