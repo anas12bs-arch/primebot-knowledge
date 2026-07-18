@@ -25,8 +25,8 @@ Quién añade gaps aquí:
 - [x] qusay-iraq-central-bank | Qusay Hussein 2003 Iraq Central Bank one billion dollars removal handwritten note trucks  (done 2026-07-17)
 - [x] ghosn-escape-japan | Carlos Ghosn 2019 escape Japan audio equipment case Osaka private jet Michael Taylor operation details  (done 2026-07-17)
 - [x] tipton-lottery-hack | Eddie Tipton lottery random number generator rootkit hack Multi-State Lottery Association conviction details  (done 2026-07-17)
-- [ ] vastberga-helicopter-heist | Vastberga G4S cash depot helicopter heist Stockholm 2009 police helicopter hangar fake bombs planning
-- [ ] silk-road-ulbricht | Silk Road Ross Ulbricht marketplace reputation system escrow operational security capture details
+- [x] vastberga-helicopter-heist | Vastberga G4S cash depot helicopter heist Stockholm 2009 police helicopter hangar fake bombs planning  (done 2026-07-18)
+- [x] silk-road-ulbricht | Silk Road Ross Ulbricht marketplace reputation system escrow operational security capture details  (done 2026-07-18)
 
 ### DROPSHIPPING & E-COMMERCE
 - [x] winning-products-2025 | product characteristics high-margin low-weight fast-shipping winning dropshipping niches  (done 2026-07-15)
@@ -37,7 +37,7 @@ Quién añade gaps aquí:
 ### TIKTOK & ALGORITHM
 - [x] tiktok-fyp-algorithm-2025 | TikTok For You Page recommendation system watch time engagement signal ranking  (done 2026-07-16)
 - [x] tiktok-organic-growth | seed strategy posting time hashtag strategy duet stitch growth tactics  (done 2026-07-16)
-- [ ] reels-vs-shorts-algorithm | YouTube Shorts vs Instagram Reels vs TikTok algorithm differences 2025
+- [x] reels-vs-shorts-algorithm | YouTube Shorts vs Instagram Reels vs TikTok algorithm differences 2025  (done 2026-07-18)
 
 ### CONVERSION & PRICING
 - [ ] conversion-rate-optimization | landing page checkout funnel friction CRO methodology frameworks
