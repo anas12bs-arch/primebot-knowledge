@@ -3,4 +3,9 @@
 # Se cargan con peso 1 además de config/keywords.yml (que nunca se toca).
 # Para revertir un aprendizaje: borrar la línea y commitear.
 ai_models:
+- models
 - video
+automation:
+- agent
+- agents
+- problem
