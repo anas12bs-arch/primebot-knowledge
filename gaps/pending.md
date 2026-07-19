@@ -20,9 +20,9 @@ composiciones HTML/CSS/GSAP (hyperframes), React (Remotion) y pipeline ffmpeg (O
 - [x] kinetic-typography-technique | kinetic typography animation principles timing legibility motion text design readability  (done 2026-07-19)
 - [x] animation-easing-timing | easing functions animation timing principles anticipation overshoot follow-through motion perception  (done 2026-07-19)
 - [x] webgl-shader-transitions | GLSL fragment shader video transitions displacement dissolve warp effects techniques  (done 2026-07-19)
-- [ ] modern-motion-effects | contemporary motion graphics effects glitch datamosh chromatic aberration RGB split displacement trends
-- [ ] edit-pacing-attention | film editing pacing shot length cutting rate attention cognitive load viewer engagement empirical study
-- [ ] scene-transition-grammar | film transition grammar match cut J-cut L-cut smash cut visual continuity editing theory
+- [x] modern-motion-effects | contemporary motion graphics effects glitch datamosh chromatic aberration RGB split displacement trends  (done 2026-07-19)
+- [x] edit-pacing-attention | film editing pacing shot length cutting rate attention cognitive load viewer engagement empirical study  (done 2026-07-19)
+- [x] scene-transition-grammar | film transition grammar match cut J-cut L-cut smash cut visual continuity editing theory  (done 2026-07-19)
 - [ ] visual-saliency-attention | visual saliency models eye tracking gaze prediction screen composition where viewers look
 - [ ] color-grading-motion | color grading color science LUT contrast curves film emulation digital video look
 - [ ] film-grain-halation-emulation | film grain synthesis halation bloom gate weave texture emulation digital video realism
