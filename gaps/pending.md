@@ -13,6 +13,25 @@ Quién añade gaps aquí:
 
 ## Pendientes (prioritario — investigar profundo, sesión 4)
 
+### TÉCNICA DE EDICIÓN & MOTION DESIGN (para hyperframes / Remotion / OpenMontage)
+Objetivo: nutrir el stack de vídeo con técnica real y efectos modernos, aplicables en
+composiciones HTML/CSS/GSAP (hyperframes), React (Remotion) y pipeline ffmpeg (OpenMontage).
+
+- [ ] kinetic-typography-technique | kinetic typography animation principles timing legibility motion text design readability
+- [ ] animation-easing-timing | easing functions animation timing principles anticipation overshoot follow-through motion perception
+- [ ] webgl-shader-transitions | GLSL fragment shader video transitions displacement dissolve warp effects techniques
+- [ ] modern-motion-effects | contemporary motion graphics effects glitch datamosh chromatic aberration RGB split displacement trends
+- [ ] edit-pacing-attention | film editing pacing shot length cutting rate attention cognitive load viewer engagement empirical study
+- [ ] scene-transition-grammar | film transition grammar match cut J-cut L-cut smash cut visual continuity editing theory
+- [ ] visual-saliency-attention | visual saliency models eye tracking gaze prediction screen composition where viewers look
+- [ ] color-grading-motion | color grading color science LUT contrast curves film emulation digital video look
+- [ ] film-grain-halation-emulation | film grain synthesis halation bloom gate weave texture emulation digital video realism
+- [ ] audio-reactive-visuals | audio reactive visualization FFT spectral analysis beat detection music driven animation sync
+- [ ] video-compositing-techniques | alpha compositing premultiplied alpha matte keying blend modes layer compositing
+- [ ] parallax-depth-2-5d | 2.5D parallax depth map camera projection still image animation monocular depth estimation
+- [ ] procedural-motion-graphics | procedural generation motion graphics parametric animation generative design noise fields
+- [ ] programmatic-video-rendering | programmatic video rendering React Remotion headless browser deterministic frame capture pipeline
+
 ### VIDEO & HIGGSFIELD
 - [x] higgsfield-video-analysis | how Higgsfield analyzes videos frame-level feature extraction temporal dynamics CNN models  (done 2026-07-14)
 - [x] viral-hook-patterns | micro-patterns in first 3 seconds that cause viewers to stop scroll TikTok Reels Shorts  (done 2026-07-14)
