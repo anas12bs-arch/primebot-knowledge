@@ -17,9 +17,9 @@ Quién añade gaps aquí:
 Objetivo: nutrir el stack de vídeo con técnica real y efectos modernos, aplicables en
 composiciones HTML/CSS/GSAP (hyperframes), React (Remotion) y pipeline ffmpeg (OpenMontage).
 
-- [ ] kinetic-typography-technique | kinetic typography animation principles timing legibility motion text design readability
-- [ ] animation-easing-timing | easing functions animation timing principles anticipation overshoot follow-through motion perception
-- [ ] webgl-shader-transitions | GLSL fragment shader video transitions displacement dissolve warp effects techniques
+- [x] kinetic-typography-technique | kinetic typography animation principles timing legibility motion text design readability  (done 2026-07-19)
+- [x] animation-easing-timing | easing functions animation timing principles anticipation overshoot follow-through motion perception  (done 2026-07-19)
+- [x] webgl-shader-transitions | GLSL fragment shader video transitions displacement dissolve warp effects techniques  (done 2026-07-19)
 - [ ] modern-motion-effects | contemporary motion graphics effects glitch datamosh chromatic aberration RGB split displacement trends
 - [ ] edit-pacing-attention | film editing pacing shot length cutting rate attention cognitive load viewer engagement empirical study
 - [ ] scene-transition-grammar | film transition grammar match cut J-cut L-cut smash cut visual continuity editing theory
