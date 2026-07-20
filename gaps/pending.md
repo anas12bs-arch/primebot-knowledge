@@ -37,6 +37,23 @@ composiciones HTML/CSS/GSAP (hyperframes), React (Remotion) y pipeline ffmpeg (O
 - [x] viral-hook-patterns | micro-patterns in first 3 seconds that cause viewers to stop scroll TikTok Reels Shorts  (done 2026-07-14)
 - [x] retention-curve-mechanics | how retention curves work viewer drop-off points audience retention video length  (done 2026-07-14)
 
+### YOUTUBE — FOCO ACTIVO (canal Straight Face, sesión 2026-07-20)
+Objetivo: cubrir TODO lo relacionado con hacer crecer un canal de YouTube faceless de
+narrativa (guion, edición, audio, miniaturas, descripciones, algoritmo) sin esperar a
+que falte para pedirlo. Se reengorda este bloque cada sesión que toque YouTube.
+- [ ] youtube-algorithm-impressions-2025 | YouTube recommendation algorithm impressions click-through-rate suggested videos ranking signals 2025
+- [ ] youtube-new-channel-cold-start | new YouTube channel cold start algorithm behavior zero subscriber seed distribution test audience
+- [ ] youtube-thumbnail-ctr-psychology | YouTube thumbnail design click-through-rate psychology contrast face expression composition studies
+- [ ] youtube-title-click-psychology | video title curiosity gap clickbait threshold psychology headline click-through research
+- [ ] youtube-description-seo | YouTube video description SEO keyword optimization search ranking metadata best practices
+- [ ] youtube-chapters-endscreens-cards | YouTube chapters end screens cards optimal placement viewer navigation retention impact
+- [ ] youtube-audio-mastering-narration | voiceover narration audio mastering loudness normalization EQ compression podcast documentary standards
+- [ ] youtube-analytics-retention-graph | YouTube Studio analytics audience retention graph interpretation absolute vs relative retention drop-off diagnosis
+- [ ] documentary-narration-script-structure | true crime documentary narration script structure pacing information reveal ordering techniques
+- [ ] youtube-watch-time-vs-ctr-weighting | YouTube ranking watch time versus click-through-rate weighting session duration signals
+- [ ] youtube-shorts-to-longform-funnel | YouTube Shorts driving traffic to long-form videos funnel conversion strategies channel growth
+- [ ] voice-cloning-tts-narration-quality | AI voice cloning text-to-speech narration quality naturalness prosody for video documentary use
+
 ### CASOS CRIMINALES — VERIFICACIÓN PARA GUIONES (canal Deep Sea)
 - [x] gardner-museum-heist | Isabella Stewart Gardner Museum 1990 art theft timeline 81 minutes fake police guards handcuffed stolen paintings value unsolved  (done 2026-07-16)
 - [x] belenko-mig25-defection | Viktor Belenko 1976 MiG-25 defection Japan Hakodate flight fuel radar evasion Soviet intelligence damage  (done 2026-07-16)

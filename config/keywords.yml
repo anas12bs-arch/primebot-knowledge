@@ -22,6 +22,25 @@ categories:
       action recognition: 2
       temporal dynamics: 2
 
+  youtube_growth:
+    threshold: 2
+    keywords:
+      youtube algorithm: 4
+      youtube ctr: 3
+      thumbnail design: 3
+      video title psychology: 3
+      youtube seo: 3
+      audience retention: 3
+      youtube analytics: 2
+      video description keywords: 2
+      cold start channel: 3
+      watch time: 2
+      youtube chapters: 2
+      documentary narration: 2
+      voiceover mastering: 2
+      long form video script: 2
+      youtube shorts funnel: 2
+
   short_form_video:
     threshold: 2
     keywords:
@@ -276,6 +295,11 @@ rss_feeds:
   - https://www.fxguide.com/feed/
   - https://www.smashingmagazine.com/feed/
 
+  # YouTube growth / algoritmo / creator economy (foco activo — canal Straight Face)
+  - https://vidiq.com/blog/feed/
+  - https://www.tubefilter.com/feed/
+  - https://backlinko.com/feed
+
 # Ventana de contenido reciente (horas)
 max_age_hours: 36
 
@@ -287,6 +311,9 @@ source_weights:
   "tympanus.net": 1.4
   "motionographer.com": 1.4
   "fxguide.com": 1.3
+  "vidiq.com": 1.4
+  "tubefilter.com": 1.2
+  "backlinko.com": 1.2
   "saastr.com": 1.2
   "conversionxl.com": 1.4
   "indiehackers.com": 1.1
