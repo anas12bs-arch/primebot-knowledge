@@ -26,9 +26,9 @@ composiciones HTML/CSS/GSAP (hyperframes), React (Remotion) y pipeline ffmpeg (O
 - [x] visual-saliency-attention | visual saliency models eye tracking gaze prediction screen composition where viewers look  (done 2026-07-20)
 - [x] color-grading-motion | color grading color science LUT contrast curves film emulation digital video look  (done 2026-07-20)
 - [x] film-grain-halation-emulation | film grain synthesis halation bloom gate weave texture emulation digital video realism  (done 2026-07-20)
-- [ ] audio-reactive-visuals | audio reactive visualization FFT spectral analysis beat detection music driven animation sync
-- [ ] video-compositing-techniques | alpha compositing premultiplied alpha matte keying blend modes layer compositing
-- [ ] parallax-depth-2-5d | 2.5D parallax depth map camera projection still image animation monocular depth estimation
+- [x] audio-reactive-visuals | audio reactive visualization FFT spectral analysis beat detection music driven animation sync  (done 2026-07-20)
+- [x] video-compositing-techniques | alpha compositing premultiplied alpha matte keying blend modes layer compositing  (done 2026-07-20)
+- [x] parallax-depth-2-5d | 2.5D parallax depth map camera projection still image animation monocular depth estimation  (done 2026-07-20)
 - [ ] procedural-motion-graphics | procedural generation motion graphics parametric animation generative design noise fields
 - [ ] programmatic-video-rendering | programmatic video rendering React Remotion headless browser deterministic frame capture pipeline
 
