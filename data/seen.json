@@ -3709,5 +3709,158 @@
   "75bd5684308f86bb": {
     "title": "Latest Oil Market News and Analysis for July 20",
     "reason": "irrelevant"
+  },
+  "ea85c642e2ce62a2": {
+    "title": "Forget the model. When it comes to cybersecurity, it's all about the harness",
+    "reason": "irrelevant"
+  },
+  "407f623376dc25bf": {
+    "title": "Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs",
+    "category": "video_analysis",
+    "score": 2
+  },
+  "e0b3548a65cb15b2": {
+    "title": "MotionForesight: Re-purposing Video Models for Future 3D Scene-Flow Prediction",
+    "category": "ai_models",
+    "score": 2
+  },
+  "fced10a30050b9a2": {
+    "title": "FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation",
+    "category": "ai_models",
+    "score": 5
+  },
+  "a84ce1c09d1839cb": {
+    "title": "Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA",
+    "category": "automation",
+    "score": 2
+  },
+  "87779e6a95b66bbe": {
+    "title": "PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
+    "reason": "irrelevant"
+  },
+  "9462888b3d0876da": {
+    "title": "A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing",
+    "reason": "irrelevant"
+  },
+  "b8e89693873ccd77": {
+    "title": "Vision-Language Assistant for Emotional Reactions to Risky Driving",
+    "reason": "irrelevant"
+  },
+  "ea346d71719df616": {
+    "title": "Cluster-Aware Matching via Laplacian Optimal Transport",
+    "reason": "irrelevant"
+  },
+  "303f08e23c93b224": {
+    "title": "Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems",
+    "reason": "irrelevant"
+  },
+  "48fe80cd3c7d88be": {
+    "title": "Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities",
+    "reason": "irrelevant"
+  },
+  "99503111a1bddfd0": {
+    "title": "When Does Muon Help Agentic Reinforcement Learning?",
+    "reason": "irrelevant"
+  },
+  "80b1f4025abcd4db": {
+    "title": "Behaviour-Conditioned Neural Processes for Adaptive Residential Short-Term Load Forecasting",
+    "reason": "irrelevant"
+  },
+  "8755ec919c2309ac": {
+    "title": "An Exam for Active Observers",
+    "reason": "irrelevant"
+  },
+  "ba6071775df9353f": {
+    "title": "PRISA: Proactive Infrastructure LiDAR Framework for Intersection Safety Assessment",
+    "reason": "irrelevant"
+  },
+  "c9fb4d9d0606d815": {
+    "title": "CLIFE: Camera-LiDAR Fusion Framework for Edge-Deployable Roadside VRU Perception",
+    "reason": "irrelevant"
+  },
+  "8bab53a39cc2049f": {
+    "title": "VTLoc: Learning-based Tactile Contact Localization in Visual Point Clouds",
+    "reason": "irrelevant"
+  },
+  "cf83482d2cb54dd3": {
+    "title": "Learning Standard Model structure from LHC data with Riemannian flow matching",
+    "reason": "irrelevant"
+  },
+  "7c08ecb0b72eb072": {
+    "title": "Improving Improved Kernel PLS",
+    "reason": "irrelevant"
+  },
+  "b5b8fb6ce2ccf210": {
+    "title": "When Do Multi-Agent Systems Help? An Information Bottleneck Perspective",
+    "reason": "irrelevant"
+  },
+  "4618c3772b9b5a13": {
+    "title": "ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning",
+    "reason": "irrelevant"
+  },
+  "2eca70b9149b5ccf": {
+    "title": "A Methodology for Auditable Trustworthiness Levels in AI Lifecycle Governance",
+    "reason": "irrelevant"
+  },
+  "d513b3fd31d72a0e": {
+    "title": "Toward Semantic Communication for Real-time Mobile 3D Reconstruction",
+    "category": "video_analysis",
+    "score": 2
+  },
+  "5f201d99d088f248": {
+    "title": "CRAFT: Clustering Rubrics to Diagnose Weak LLM Capabilities and Generate Targeted Fine-Tuning Data",
+    "reason": "irrelevant"
+  },
+  "90a7f8c60582e1a6": {
+    "title": "Rate-Utility Frontiers for Language Encodings: Comparing Tokens, Bytes, and Pixels Under Controlled Linguistic Content",
+    "reason": "irrelevant"
+  },
+  "faf227f1e5848801": {
+    "title": "Harmonizing AI Safety Thresholds",
+    "reason": "irrelevant"
+  },
+  "37e05b91cd6323f2": {
+    "title": "NZD: Hedge Funds Amass Biggest New Zealand Dollar Net Short Since 2006",
+    "reason": "irrelevant"
+  },
+  "43ebcb6b8d4868b2": {
+    "title": "Tungsten Miner\u2019s Stock Jumps as Billionaire Forrest Buys Stake",
+    "reason": "irrelevant"
+  },
+  "36d9d319233ad5d1": {
+    "title": "Innolight Gauges Interest for $8 Billion Hong Kong Listing",
+    "reason": "irrelevant"
+  },
+  "4933f1e2666b3853": {
+    "title": "India Private Banks See Corporate Loans Rise as Bond Yields Climb",
+    "reason": "irrelevant"
+  },
+  "cad26741a0acc3d9": {
+    "title": "Soybeans and Corn Extend Gains as US-Iran Hostilities Escalate",
+    "reason": "irrelevant"
+  },
+  "564738791879c25d": {
+    "title": "Chinese Traders Unwind Leveraged Bets at Fastest Pace Since 2016",
+    "reason": "irrelevant"
+  },
+  "b2ec4811c348176a": {
+    "title": "US, Congo Ebola Travel Restrictions May Hamper Humanitarian Aid Response",
+    "reason": "irrelevant"
+  },
+  "64bcaee1ad1ca55c": {
+    "title": "INR/USD: HSBC Offers Indian Diaspora 19x Leverage on FCNR(B) Deposits",
+    "reason": "irrelevant"
+  },
+  "887a9ddc95f47da3": {
+    "title": "Gold Steadies as Traders Assess Rates Path After US-Iran Clashes",
+    "reason": "irrelevant"
+  },
+  "ebb91f2196e6c043": {
+    "title": "Venezuela\u2019s Official Death Toll From Twin Quakes Rises to 5,208",
+    "reason": "irrelevant"
+  },
+  "399a8a45c074cd7b": {
+    "title": "IDR/USD: Rupiah May Recover on Rate Hike, Stronger Fiscals, Analysts Say",
+    "reason": "irrelevant"
   }
 }
