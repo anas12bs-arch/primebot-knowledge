@@ -1,7 +1,7 @@
 ---
 gap: webgl-shader-transitions
 query: "GLSL fragment shader video transitions displacement dissolve warp effects techniques"
-status: gathered
+status: synthesized
 sources_count: 13
 generated_at: 2026-07-19T00:45:20.087701+00:00
 ---
@@ -75,4 +75,4 @@ In recent years, the image and video coding technologies have advanced by leaps 
 
 ## Síntesis
 
-PENDIENTE — Claude: sintetizar en sesión. Formato: mecanismo → implicación práctica para Anas → condición límite. Solo con las fuentes de arriba.
+HECHA (2026-07-20) → ver [[Sintesis-tecnica-edicion-motion-design-9-briefs-easing-tipografia-cinetica-cortes-color-grano]] en Cerebro/concepts/patrones/Sintesis-tecnica-edicion-motion-design-9-briefs-easing-tipografia-cinetica-cortes-color-grano.md

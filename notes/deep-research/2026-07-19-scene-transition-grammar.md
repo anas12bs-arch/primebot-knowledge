@@ -1,7 +1,7 @@
 ---
 gap: scene-transition-grammar
 query: "film transition grammar match cut J-cut L-cut smash cut visual continuity editing theory"
-status: gathered
+status: synthesized
 sources_count: 4
 generated_at: 2026-07-19T06:42:14.920962+00:00
 ---
@@ -41,4 +41,4 @@ Altermagnets are a newly identified class of materials that combine advantageous
 
 ## Síntesis
 
-PENDIENTE — Claude: sintetizar en sesión. Formato: mecanismo → implicación práctica para Anas → condición límite. Solo con las fuentes de arriba.
+HECHA (2026-07-20) → ver [[Sintesis-tecnica-edicion-motion-design-9-briefs-easing-tipografia-cinetica-cortes-color-grano]] en Cerebro/concepts/patrones/Sintesis-tecnica-edicion-motion-design-9-briefs-easing-tipografia-cinetica-cortes-color-grano.md

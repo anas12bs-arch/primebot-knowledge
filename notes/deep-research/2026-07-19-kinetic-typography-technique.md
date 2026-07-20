@@ -1,7 +1,7 @@
 ---
 gap: kinetic-typography-technique
 query: "kinetic typography animation principles timing legibility motion text design readability"
-status: gathered
+status: synthesized
 sources_count: 10
 generated_at: 2026-07-19T00:43:42.324460+00:00
 ---
@@ -63,4 +63,4 @@ Designing expressive typography that visually conveys a word's meaning while mai
 
 ## Síntesis
 
-PENDIENTE — Claude: sintetizar en sesión. Formato: mecanismo → implicación práctica para Anas → condición límite. Solo con las fuentes de arriba.
+HECHA (2026-07-20) → ver [[Sintesis-tecnica-edicion-motion-design-9-briefs-easing-tipografia-cinetica-cortes-color-grano]] en Cerebro/concepts/patrones/Sintesis-tecnica-edicion-motion-design-9-briefs-easing-tipografia-cinetica-cortes-color-grano.md

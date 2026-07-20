@@ -215,6 +215,26 @@ categories:
       niche discovery: 2
       market gap: 2
 
+  # === MOTION DESIGN & EDICIÓN (hyperframes / Remotion / ffmpeg) ===
+  motion_design:
+    threshold: 3
+    keywords:
+      motion design: 3
+      kinetic typography: 3
+      easing function: 3
+      color grading: 3
+      film grain: 3
+      video editing technique: 3
+      match cut: 3
+      shader effect: 2
+      webgl animation: 2
+      gsap: 2
+      remotion: 3
+      after effects: 2
+      video transition: 2
+      title sequence: 2
+      motion graphics: 2
+
 # === RSS FEEDS (expanded) ===
 rss_feeds:
   # AI & Video Generation
@@ -249,6 +269,13 @@ rss_feeds:
   - https://feeds.bloomberg.com/markets/news.rss
   - https://www.ecommercebytes.com/rss/2,0,0.xml
 
+  # Motion design & craft de edición (fuentes de oficio, no académicas)
+  - https://tympanus.net/codrops/feed/
+  - https://css-tricks.com/feed/
+  - https://motionographer.com/feed/
+  - https://www.fxguide.com/feed/
+  - https://www.smashingmagazine.com/feed/
+
 # Ventana de contenido reciente (horas)
 max_age_hours: 36
 
@@ -257,6 +284,9 @@ max_age_hours: 36
 source_weights:
   "hubspot.com": 1.2
   "a16z.com": 1.3
+  "tympanus.net": 1.4
+  "motionographer.com": 1.4
+  "fxguide.com": 1.3
   "saastr.com": 1.2
   "conversionxl.com": 1.4
   "indiehackers.com": 1.1

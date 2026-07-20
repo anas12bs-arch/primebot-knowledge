@@ -1,7 +1,7 @@
 ---
 gap: visual-saliency-attention
 query: "visual saliency models eye tracking gaze prediction screen composition where viewers look"
-status: gathered
+status: synthesized
 sources_count: 8
 generated_at: 2026-07-20T06:56:39.663773+00:00
 ---
@@ -58,4 +58,4 @@ Accurate eye segmentation can improve eye-gaze estimation and support interactiv
 
 ## Síntesis
 
-PENDIENTE — Claude: sintetizar en sesión. Formato: mecanismo → implicación práctica para Anas → condición límite. Solo con las fuentes de arriba.
+HECHA (2026-07-20) → ver [[Sintesis-tecnica-edicion-motion-design-9-briefs-easing-tipografia-cinetica-cortes-color-grano]] en Cerebro/concepts/patrones/Sintesis-tecnica-edicion-motion-design-9-briefs-easing-tipografia-cinetica-cortes-color-grano.md

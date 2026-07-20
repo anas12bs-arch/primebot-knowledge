@@ -1,7 +1,7 @@
 ---
 gap: modern-motion-effects
 query: "contemporary motion graphics effects glitch datamosh chromatic aberration RGB split displacement trends"
-status: gathered
+status: synthesized
 sources_count: 8
 generated_at: 2026-07-19T06:39:04.075272+00:00
 ---
@@ -55,4 +55,4 @@ Our motion relative to the cosmic-microwave-background (CMB) rest frame deflects
 
 ## Síntesis
 
-PENDIENTE — Claude: sintetizar en sesión. Formato: mecanismo → implicación práctica para Anas → condición límite. Solo con las fuentes de arriba.
+HECHA (2026-07-20) → ver [[Sintesis-tecnica-edicion-motion-design-9-briefs-easing-tipografia-cinetica-cortes-color-grano]] en Cerebro/concepts/patrones/Sintesis-tecnica-edicion-motion-design-9-briefs-easing-tipografia-cinetica-cortes-color-grano.md

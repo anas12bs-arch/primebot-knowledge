@@ -1,7 +1,7 @@
 ---
 gap: color-grading-motion
 query: "color grading color science LUT contrast curves film emulation digital video look"
-status: gathered
+status: synthesized
 sources_count: 16
 generated_at: 2026-07-20T06:58:14.582520+00:00
 ---
@@ -87,4 +87,4 @@ We discuss digitization, subsequent digital analysis and processing of negatives
 
 ## Síntesis
 
-PENDIENTE — Claude: sintetizar en sesión. Formato: mecanismo → implicación práctica para Anas → condición límite. Solo con las fuentes de arriba.
+HECHA (2026-07-20) → ver [[Sintesis-tecnica-edicion-motion-design-9-briefs-easing-tipografia-cinetica-cortes-color-grano]] en Cerebro/concepts/patrones/Sintesis-tecnica-edicion-motion-design-9-briefs-easing-tipografia-cinetica-cortes-color-grano.md

@@ -1,7 +1,7 @@
 ---
 gap: film-grain-halation-emulation
 query: "film grain synthesis halation bloom gate weave texture emulation digital video realism"
-status: gathered
+status: synthesized
 sources_count: 13
 generated_at: 2026-07-20T06:59:50.053770+00:00
 ---
@@ -75,4 +75,4 @@ Text-to-video is a rapidly growing research area that aims to generate a semanti
 
 ## Síntesis
 
-PENDIENTE — Claude: sintetizar en sesión. Formato: mecanismo → implicación práctica para Anas → condición límite. Solo con las fuentes de arriba.
+HECHA (2026-07-20) → ver [[Sintesis-tecnica-edicion-motion-design-9-briefs-easing-tipografia-cinetica-cortes-color-grano]] en Cerebro/concepts/patrones/Sintesis-tecnica-edicion-motion-design-9-briefs-easing-tipografia-cinetica-cortes-color-grano.md
