@@ -69,6 +69,11 @@ que falte para pedirlo. Se reengorda este bloque cada sesión que toque YouTube.
 - [ ] youtube-watch-time-vs-ctr-weighting | YouTube ranking watch time versus click-through-rate weighting session duration signals
 - [ ] youtube-shorts-to-longform-funnel | YouTube Shorts driving traffic to long-form videos funnel conversion strategies channel growth
 - [ ] voice-cloning-tts-narration-quality | AI voice cloning text-to-speech narration quality naturalness prosody for video documentary use
+- [ ] retention-editing-pattern-interrupts | video editing pattern interrupts visual variety cut frequency techniques that increase audience retention
+- [ ] narrative-documentary-background-music | background music selection dramatic tension true crime documentary narrative storytelling scoring techniques
+- [ ] music-ducking-emotional-beats | music audio ducking sidechain timing emotional beats narration mixing techniques documentary video
+- [ ] faceless-channel-competitor-analysis | how to analyze competing faceless YouTube narrative channels format structure pacing success factors
+- [ ] true-crime-youtube-niche-landscape | true crime narrative faceless YouTube channel niche landscape top channels format comparison 2025
 
 ### CASOS CRIMINALES — VERIFICACIÓN PARA GUIONES (canal Deep Sea)
 - [x] gardner-museum-heist | Isabella Stewart Gardner Museum 1990 art theft timeline 81 minutes fake police guards handcuffed stolen paintings value unsolved  (done 2026-07-16)
