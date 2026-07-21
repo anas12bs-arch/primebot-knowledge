@@ -29,8 +29,8 @@ composiciones HTML/CSS/GSAP (hyperframes), React (Remotion) y pipeline ffmpeg (O
 - [x] audio-reactive-visuals | audio reactive visualization FFT spectral analysis beat detection music driven animation sync  (done 2026-07-20)
 - [x] video-compositing-techniques | alpha compositing premultiplied alpha matte keying blend modes layer compositing  (done 2026-07-20)
 - [x] parallax-depth-2-5d | 2.5D parallax depth map camera projection still image animation monocular depth estimation  (done 2026-07-20)
-- [ ] procedural-motion-graphics | procedural generation motion graphics parametric animation generative design noise fields
-- [ ] programmatic-video-rendering | programmatic video rendering React Remotion headless browser deterministic frame capture pipeline
+- [x] procedural-motion-graphics | procedural generation motion graphics parametric animation generative design noise fields  (done 2026-07-21)
+- [x] programmatic-video-rendering | programmatic video rendering React Remotion headless browser deterministic frame capture pipeline  (done 2026-07-21)
 
 ### VIDEO & HIGGSFIELD
 - [x] higgsfield-video-analysis | how Higgsfield analyzes videos frame-level feature extraction temporal dynamics CNN models  (done 2026-07-14)
@@ -41,7 +41,7 @@ composiciones HTML/CSS/GSAP (hyperframes), React (Remotion) y pipeline ffmpeg (O
 Objetivo: cubrir TODO lo relacionado con hacer crecer un canal de YouTube faceless de
 narrativa (guion, edición, audio, miniaturas, descripciones, algoritmo) sin esperar a
 que falte para pedirlo. Se reengorda este bloque cada sesión que toque YouTube.
-- [ ] youtube-algorithm-impressions-2025 | YouTube recommendation algorithm impressions click-through-rate suggested videos ranking signals 2025
+- [x] youtube-algorithm-impressions-2025 | YouTube recommendation algorithm impressions click-through-rate suggested videos ranking signals 2025  (done 2026-07-21)
 - [ ] youtube-new-channel-cold-start | new YouTube channel cold start algorithm behavior zero subscriber seed distribution test audience
 - [ ] youtube-thumbnail-ctr-psychology | YouTube thumbnail design click-through-rate psychology contrast face expression composition studies
 - [ ] youtube-title-click-psychology | video title curiosity gap clickbait threshold psychology headline click-through research
