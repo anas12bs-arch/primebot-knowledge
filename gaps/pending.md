@@ -29,6 +29,18 @@ arreglo del modelo en sí. Quiero saber si hay una forma mejor, nativa del model
 - [x] tts-speaking-rate-control | neural TTS speaking rate prosody duration control classifier-free guidance cfg weight speed parameter  (done 2026-07-21)
 - [ ] local-voice-cloning-apple-silicon | open source voice cloning TTS models Apple Silicon MPS performance comparison memory stability
 
+### LOGS/ESTADO EN TIEMPO REAL SERVIDOR-A-UI (para el job runner de OpenMontage)
+Objetivo: `review_server.py` ahora mismo hace que la web haga polling HTTP cada 1.5s
+para leer el log de un job en curso (`pollJob` en review_ui.html) -- funciona pero no es
+como lo hacen a escala. Quiero saber cómo empresas serias transmiten logs/estado de
+procesos en tiempo real a una UI (local o remota) de forma eficiente, y aplicar lo que
+sirva a este job runner concreto (Python http.server + JS vanilla, sin frameworks).
+
+- [ ] real-time-log-streaming-architecture | how companies stream server logs to web UI real time websocket server-sent-events architecture patterns
+- [ ] structured-logging-observability | structured logging best practices observability engineering log levels correlation ids production systems
+- [ ] polling-vs-websockets-vs-sse | polling versus WebSockets versus Server-Sent Events tradeoffs efficiency use cases local development tools
+- [ ] log-aggregation-at-scale | how large tech companies aggregate process massive log volume daily architecture pipeline design
+
 ### TÉCNICA DE EDICIÓN & MOTION DESIGN (para hyperframes / Remotion / OpenMontage)
 Objetivo: nutrir el stack de vídeo con técnica real y efectos modernos, aplicables en
 composiciones HTML/CSS/GSAP (hyperframes), React (Remotion) y pipeline ffmpeg (OpenMontage).
