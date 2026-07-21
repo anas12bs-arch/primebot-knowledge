@@ -24,9 +24,9 @@ cuelga sin avisar en Apple Silicon con 8GB. Se hostean en
 velocidad expuesto); el fix aplicado hoy fue post-procesar con ffmpeg atempo, no un
 arreglo del modelo en sí. Quiero saber si hay una forma mejor, nativa del modelo.
 
-- [ ] chatterbox-tts-architecture | Chatterbox TTS Resemble AI open source zero-shot voice cloning architecture quality benchmarks
-- [ ] neural-tts-chunking-limits | autoregressive text-to-speech context window text chunking long-form generation hallucination degradation
-- [ ] tts-speaking-rate-control | neural TTS speaking rate prosody duration control classifier-free guidance cfg weight speed parameter
+- [x] chatterbox-tts-architecture | Chatterbox TTS Resemble AI open source zero-shot voice cloning architecture quality benchmarks  (done 2026-07-21)
+- [x] neural-tts-chunking-limits | autoregressive text-to-speech context window text chunking long-form generation hallucination degradation  (done 2026-07-21)
+- [x] tts-speaking-rate-control | neural TTS speaking rate prosody duration control classifier-free guidance cfg weight speed parameter  (done 2026-07-21)
 - [ ] local-voice-cloning-apple-silicon | open source voice cloning TTS models Apple Silicon MPS performance comparison memory stability
 
 ### TÉCNICA DE EDICIÓN & MOTION DESIGN (para hyperframes / Remotion / OpenMontage)
