@@ -4282,5 +4282,149 @@
   "74f8579b0bc1ffce": {
     "title": "Top 50 Most Subscribed YouTube Channels Worldwide \u2022 Week Of 07/19/2026",
     "reason": "irrelevant"
+  },
+  "2c590f0feaecfa3f": {
+    "title": "Top American AI Execs Sound Alarm on Chinese Models",
+    "reason": "irrelevant"
+  },
+  "fd31b22d68ffed5a": {
+    "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
+    "reason": "irrelevant"
+  },
+  "a339695819d2bd44": {
+    "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
+    "reason": "irrelevant"
+  },
+  "14021c760a377a6d": {
+    "title": "Automated Discovery Has No Universally Superior Harness",
+    "reason": "irrelevant"
+  },
+  "8b7a643749a9d21b": {
+    "title": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
+    "reason": "irrelevant"
+  },
+  "ff9ab916b841d4cd": {
+    "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
+    "reason": "irrelevant"
+  },
+  "72484d505b36a344": {
+    "title": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes",
+    "reason": "irrelevant"
+  },
+  "3787d58bb1a657aa": {
+    "title": "FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry",
+    "reason": "irrelevant"
+  },
+  "f6b02dc33c6c36c2": {
+    "title": "Causal Discovery on Irregular Time Series",
+    "reason": "irrelevant"
+  },
+  "02e41d8af40e2510": {
+    "title": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
+    "reason": "irrelevant"
+  },
+  "7385496b26dc1b25": {
+    "title": "GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis",
+    "reason": "irrelevant"
+  },
+  "e52576cf433ebc6d": {
+    "title": "HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enchancement",
+    "category": "ai_models",
+    "score": 5
+  },
+  "b24ace66c697be7e": {
+    "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
+    "category": "automation",
+    "score": 2
+  },
+  "9ba8c8915709f6fa": {
+    "title": "Unveiling Invariant and Transferable Latent Factors Across Heterogeneous Environments via ATLAS",
+    "reason": "irrelevant"
+  },
+  "6b9d42ae55524f77": {
+    "title": "Learning Adaptive Safety Margins for Visual Navigation",
+    "reason": "irrelevant"
+  },
+  "a25ccc97d3d29f56": {
+    "title": "PPL-Factory: Task-Aware and Budget-Aware Data Selection from Language Modeling to Reasoning",
+    "reason": "irrelevant"
+  },
+  "23dd6c57503e4021": {
+    "title": "Three-Body Scattering for Generative Modeling",
+    "reason": "irrelevant"
+  },
+  "13387f5c3195d97b": {
+    "title": "Certified Training for Convolutional Perturbations",
+    "reason": "irrelevant"
+  },
+  "b682454da5d3eb7b": {
+    "title": "EVOLVE: Efficient Learned Volume Compression with Variable-Rate Encoding on a Cross-Domain Database",
+    "reason": "irrelevant"
+  },
+  "4bd378545381f4ef": {
+    "title": "VEHBench: A Stage-Local Diagnostic Benchmark for LLM-Assisted Vibration Energy Harvester Design",
+    "reason": "irrelevant"
+  },
+  "c8b07ead1a55d84e": {
+    "title": "FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications",
+    "category": "ai_models",
+    "score": 6
+  },
+  "0f9a4f66818d80aa": {
+    "title": "A Continual Validation, Updating, and Decision-Making Framework for Self-Adaptive Digital Twins via Robust Model Predictive Control: A Case Study in Additive Manufacturing",
+    "reason": "irrelevant"
+  },
+  "9634dc47f31dc525": {
+    "title": "OR Else: A Differentiable Trust Region for Policy Optimization",
+    "reason": "irrelevant"
+  },
+  "82b661ea3ab3a951": {
+    "title": "The Calibration Channel Determines the Bayes-Error Proxy: An Exact Law for Temperature-Induced Distortion",
+    "reason": "irrelevant"
+  },
+  "199f4f020609b222": {
+    "title": "TRIM: Reducing AI-Generated CodeSlop via Agent Trajectory Minimization",
+    "category": "automation",
+    "score": 2
+  },
+  "e16dd66e42bdb34f": {
+    "title": "Robust Multimodal Dynamic Object Segmentation",
+    "reason": "irrelevant"
+  },
+  "6f587fe95d6b5fb3": {
+    "title": "Anthropic\u2019s landmark $1.5B copyright settlement is approved",
+    "reason": "irrelevant"
+  },
+  "54402d9430d4b90f": {
+    "title": "Gold Rises on Dip-Buying as Traders Weigh Middle East Clashes",
+    "reason": "irrelevant"
+  },
+  "939113f7a418df6a": {
+    "title": "Global Investors Turn Cautious on Indian Bonds",
+    "reason": "irrelevant"
+  },
+  "b337947a633f88d0": {
+    "title": "China Broadens Market Rescue With Record Inflows Into Tech ETF",
+    "reason": "irrelevant"
+  },
+  "425b07476ff8bda5": {
+    "title": "SBI Funds Poised for Strong India Debut After $1 Billion IPO",
+    "reason": "irrelevant"
+  },
+  "b83aa2d0331f8bf7": {
+    "title": "Moody\u2019s Flags Rising Risks in Indonesia on Policy Uncertainty",
+    "reason": "irrelevant"
+  },
+  "410364539fd73a4c": {
+    "title": "Korean Stock Traders Slash Margin Loans to Lowest Since April",
+    "reason": "irrelevant"
+  },
+  "1d25cc09e85dd6f2": {
+    "title": "Global Stocks Lift Australian Pension Funds to 9.5% Annual Gain",
+    "reason": "irrelevant"
+  },
+  "85ffc5b86845910a": {
+    "title": "Australia\u2019s Stock Market Emerges as Haven From Volatile AI Trade",
+    "reason": "irrelevant"
   }
 }
