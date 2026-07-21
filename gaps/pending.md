@@ -13,6 +13,22 @@ Quién añade gaps aquí:
 
 ## Pendientes (prioritario — investigar profundo, sesión 4)
 
+### VOZ CLONADA / TTS LOCAL (para OpenMontage — Voicebox: chatterbox_turbo, luxtts, kokoro)
+Objetivo: entender de verdad por qué los motores de clonación de voz locales que usamos
+(Resemble AI Chatterbox / Chatterbox Turbo, LuxTTS) fallan como fallan -- alucinan
+palabras con textos largos, no exponen control de velocidad/ritmo por API, y LuxTTS se
+cuelga sin avisar en Apple Silicon con 8GB. Se hostean en
+~/Desktop/voicebox (fork local de jamiepine/voicebox). Contexto ya confirmado en sesión
+(2026-07-21/22): con chunks de ~800 caracteres alucina texto inventado; con chunks de
+~250 genera correcto pero a 165-180 palabras/min (demasiado rápido, sin dial de
+velocidad expuesto); el fix aplicado hoy fue post-procesar con ffmpeg atempo, no un
+arreglo del modelo en sí. Quiero saber si hay una forma mejor, nativa del modelo.
+
+- [ ] chatterbox-tts-architecture | Chatterbox TTS Resemble AI open source zero-shot voice cloning architecture quality benchmarks
+- [ ] neural-tts-chunking-limits | autoregressive text-to-speech context window text chunking long-form generation hallucination degradation
+- [ ] tts-speaking-rate-control | neural TTS speaking rate prosody duration control classifier-free guidance cfg weight speed parameter
+- [ ] local-voice-cloning-apple-silicon | open source voice cloning TTS models Apple Silicon MPS performance comparison memory stability
+
 ### TÉCNICA DE EDICIÓN & MOTION DESIGN (para hyperframes / Remotion / OpenMontage)
 Objetivo: nutrir el stack de vídeo con técnica real y efectos modernos, aplicables en
 composiciones HTML/CSS/GSAP (hyperframes), React (Remotion) y pipeline ffmpeg (OpenMontage).
