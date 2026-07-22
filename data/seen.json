@@ -4979,5 +4979,172 @@
   "6bc80dcd50ce5cf7": {
     "title": "Yen Slides Past 163 Mark to Fresh Four-Decade Low Against Dollar",
     "reason": "irrelevant"
+  },
+  "ae0ec71fdcb44d65": {
+    "title": "An off switch for dual use knowledge in AI models",
+    "reason": "irrelevant"
+  },
+  "229dde911b0f7b10": {
+    "title": "We're Hiring at Modular",
+    "reason": "irrelevant"
+  },
+  "f556f41c22fc8b3c": {
+    "title": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
+    "reason": "irrelevant"
+  },
+  "99f8967b3f69f5b3": {
+    "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
+    "reason": "irrelevant"
+  },
+  "6ec2b4fbc790bce8": {
+    "title": "Masked Visual Actions for Unified World Modeling",
+    "category": "ai_models",
+    "score": 2
+  },
+  "b4a84573aa1ad9c9": {
+    "title": "ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis",
+    "reason": "irrelevant"
+  },
+  "3f66711009bb6f57": {
+    "title": "OmniReasoner: Thinking with Long Audio-Video via Native Tool Use",
+    "reason": "irrelevant"
+  },
+  "b1ff5bd695cb36e4": {
+    "title": "CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents",
+    "category": "automation",
+    "score": 2
+  },
+  "abd16b06e900ff0f": {
+    "title": "Agents in the Wild: Where Research Meets Deployment",
+    "category": "automation",
+    "score": 2
+  },
+  "3328f2160b0c6dab": {
+    "title": "1-Lipschitz Neural Networks on Hadamard Manifolds",
+    "reason": "irrelevant"
+  },
+  "fbe5a113c27df047": {
+    "title": "Fundamental limits of distributed multiclass classification from simple binary decisions",
+    "category": "automation",
+    "score": 2
+  },
+  "7d1ee802fdfaf25a": {
+    "title": "Provable diffusion-based posterior sampling for linear inverse problems via DDIM",
+    "reason": "irrelevant"
+  },
+  "c5d30c1d27be9a4a": {
+    "title": "ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling",
+    "reason": "irrelevant"
+  },
+  "a0949f4d2141e80c": {
+    "title": "ISO: An RLVR-Native Optimization Stack",
+    "reason": "irrelevant"
+  },
+  "9bb7b8479a0c4b91": {
+    "title": "Associative Emotional Learning in Convolutional Neural Networks",
+    "reason": "irrelevant"
+  },
+  "283e99751bc9b292": {
+    "title": "Selective State-Space Adaptation and Retrieval for Language Model Reasoning",
+    "reason": "irrelevant"
+  },
+  "c58728b571d799f1": {
+    "title": "InstructMixup: Instruction-Guided Salient Patch Editing for Robust Data Augmentation",
+    "category": "ai_models",
+    "score": 2
+  },
+  "93c54a5622ee54ac": {
+    "title": "Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness",
+    "reason": "irrelevant"
+  },
+  "4f095ae9a3b9deb3": {
+    "title": "ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D",
+    "category": "automation",
+    "score": 5
+  },
+  "0df88a51000f3e62": {
+    "title": "CircuitKIT : Circuit Discovery, Evaluation, and Application Toolkit for Mechanistic Interpretability",
+    "reason": "irrelevant"
+  },
+  "7773198a5ad991f4": {
+    "title": "ERank in Latent Space as an Image-Complexity and Richness Measure",
+    "reason": "irrelevant"
+  },
+  "477a2a6f4480d5ae": {
+    "title": "Off-Context GRPO: Learning to Reason on Hard Problems using Privileged Information",
+    "reason": "irrelevant"
+  },
+  "9d1c73f756d11aa6": {
+    "title": "Staypoint Detection from Noisy Trajectory Data [Experiment Paper]",
+    "reason": "irrelevant"
+  },
+  "74bed879f4dadd65": {
+    "title": "From Distances to Trajectories: Real-Time Signed Distance Function Mapping and Distance-Accelerated Motion Planning for UAVs",
+    "reason": "irrelevant"
+  },
+  "4f4a62c4e0b0127b": {
+    "title": "Riemannian Deep Learning:Modules, Networks, and Geometries",
+    "reason": "irrelevant"
+  },
+  "7828ceaaac772d48": {
+    "title": "Real-time optimal control with shallow recurrent decoder networks",
+    "category": "video_analysis",
+    "score": 2
+  },
+  "57b37ab172a06718": {
+    "title": "LLM Detection as an Intervention: Downstream Impact under Strategic User Behavior",
+    "reason": "irrelevant"
+  },
+  "c98d7581ea7de0e6": {
+    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+    "reason": "irrelevant"
+  },
+  "a983abeb35773ed7": {
+    "title": "Meta is testing an AI bedtime story app for people with no imagination",
+    "reason": "irrelevant"
+  },
+  "b0276a15e2bddd01": {
+    "title": "OpenAI says Hugging Face was breached by its pre-release models",
+    "reason": "irrelevant"
+  },
+  "d1c4914c551fe59b": {
+    "title": "Rising Crude, US Rate-Hike Bets Counter Dollar Inflow Support for Rupee",
+    "reason": "irrelevant"
+  },
+  "f02d70a6e98f10e7": {
+    "title": "Korean Stocks Jump as Brokers Say Margin Unwind Nearing End",
+    "reason": "irrelevant"
+  },
+  "3e2b0a5bd6ea01de": {
+    "title": "Gold Extends Gains as Dip-Buyers Shrug Off US-Iran Escalation",
+    "reason": "irrelevant"
+  },
+  "3e5f240b14ab9826": {
+    "title": "PHP/USD: Philippine Peso Declines to Match Record Low on Higher Oil Prices",
+    "reason": "irrelevant"
+  },
+  "a35f5e334027b981": {
+    "title": "High-Risk Bets That Burned Korean Traders Are Making a Comeback",
+    "reason": "irrelevant"
+  },
+  "b496e51af0169428": {
+    "title": "XPeng Hunts New Markets to Escape Reliance on Weaker China",
+    "reason": "irrelevant"
+  },
+  "4d326e45082c6024": {
+    "title": "Thai Bonds Are Beating Asia and Analysts Predict Further Gains",
+    "reason": "irrelevant"
+  },
+  "5630ae6704cb5313": {
+    "title": "Indian Rupee Rebound Bets Vanish as Soaring Crude Blunts Inflows",
+    "reason": "irrelevant"
+  },
+  "4d4ad9216a564413": {
+    "title": "EUR/CNY: Why China\u2019s Yuan Is Drawing Scrutiny in Europe, What It Means for Euro",
+    "reason": "irrelevant"
+  },
+  "04951b6f682b48e5": {
+    "title": "Hong Kong Brokers Cling to Lunch Break Exchange Wants to Scrap",
+    "reason": "irrelevant"
   }
 }
