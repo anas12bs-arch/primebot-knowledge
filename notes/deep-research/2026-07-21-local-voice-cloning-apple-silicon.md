@@ -1,7 +1,7 @@
 ---
 gap: local-voice-cloning-apple-silicon
 query: "open source voice cloning TTS models Apple Silicon MPS performance comparison memory stability"
-status: gathered
+status: synthesized
 sources_count: 16
 generated_at: 2026-07-21T22:54:00.570504+00:00
 ---

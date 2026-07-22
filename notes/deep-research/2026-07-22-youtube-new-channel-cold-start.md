@@ -1,7 +1,7 @@
 ---
 gap: youtube-new-channel-cold-start
 query: "new YouTube channel cold start algorithm behavior zero subscriber seed distribution test audience"
-status: gathered
+status: synthesized
 sources_count: 9
 generated_at: 2026-07-22T06:41:20.712361+00:00
 ---

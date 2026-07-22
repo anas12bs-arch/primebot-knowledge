@@ -1,7 +1,7 @@
 ---
 gap: structured-logging-observability
 query: "structured logging best practices observability engineering log levels correlation ids production systems"
-status: gathered
+status: synthesized
 sources_count: 14
 generated_at: 2026-07-21T22:55:55.727402+00:00
 ---

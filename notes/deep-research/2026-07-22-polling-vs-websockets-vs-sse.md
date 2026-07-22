@@ -1,7 +1,7 @@
 ---
 gap: polling-vs-websockets-vs-sse
 query: "polling versus WebSockets versus Server-Sent Events tradeoffs efficiency use cases local development tools"
-status: gathered
+status: synthesized
 sources_count: 14
 generated_at: 2026-07-22T06:38:11.453194+00:00
 ---

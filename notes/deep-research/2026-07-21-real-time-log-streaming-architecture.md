@@ -1,7 +1,7 @@
 ---
 gap: real-time-log-streaming-architecture
 query: "how companies stream server logs to web UI real time websocket server-sent-events architecture patterns"
-status: gathered
+status: synthesized
 sources_count: 8
 generated_at: 2026-07-21T22:55:35.409626+00:00
 ---

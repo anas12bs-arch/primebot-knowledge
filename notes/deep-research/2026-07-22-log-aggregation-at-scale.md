@@ -1,7 +1,7 @@
 ---
 gap: log-aggregation-at-scale
 query: "how large tech companies aggregate process massive log volume daily architecture pipeline design"
-status: gathered
+status: synthesized
 sources_count: 9
 generated_at: 2026-07-22T06:39:44.837238+00:00
 ---
