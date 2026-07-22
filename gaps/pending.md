@@ -38,8 +38,8 @@ sirva a este job runner concreto (Python http.server + JS vanilla, sin framework
 
 - [x] real-time-log-streaming-architecture | how companies stream server logs to web UI real time websocket server-sent-events architecture patterns  (done 2026-07-21)
 - [x] structured-logging-observability | structured logging best practices observability engineering log levels correlation ids production systems  (done 2026-07-21)
-- [ ] polling-vs-websockets-vs-sse | polling versus WebSockets versus Server-Sent Events tradeoffs efficiency use cases local development tools
-- [ ] log-aggregation-at-scale | how large tech companies aggregate process massive log volume daily architecture pipeline design
+- [x] polling-vs-websockets-vs-sse | polling versus WebSockets versus Server-Sent Events tradeoffs efficiency use cases local development tools  (done 2026-07-22)
+- [x] log-aggregation-at-scale | how large tech companies aggregate process massive log volume daily architecture pipeline design  (done 2026-07-22)
 
 ### TÉCNICA DE EDICIÓN & MOTION DESIGN (para hyperframes / Remotion / OpenMontage)
 Objetivo: nutrir el stack de vídeo con técnica real y efectos modernos, aplicables en
@@ -70,7 +70,7 @@ Objetivo: cubrir TODO lo relacionado con hacer crecer un canal de YouTube facele
 narrativa (guion, edición, audio, miniaturas, descripciones, algoritmo) sin esperar a
 que falte para pedirlo. Se reengorda este bloque cada sesión que toque YouTube.
 - [x] youtube-algorithm-impressions-2025 | YouTube recommendation algorithm impressions click-through-rate suggested videos ranking signals 2025  (done 2026-07-21)
-- [ ] youtube-new-channel-cold-start | new YouTube channel cold start algorithm behavior zero subscriber seed distribution test audience
+- [x] youtube-new-channel-cold-start | new YouTube channel cold start algorithm behavior zero subscriber seed distribution test audience  (done 2026-07-22)
 - [ ] youtube-thumbnail-ctr-psychology | YouTube thumbnail design click-through-rate psychology contrast face expression composition studies
 - [ ] youtube-title-click-psychology | video title curiosity gap clickbait threshold psychology headline click-through research
 - [ ] youtube-description-seo | YouTube video description SEO keyword optimization search ranking metadata best practices
