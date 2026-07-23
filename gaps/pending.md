@@ -71,9 +71,9 @@ narrativa (guion, edición, audio, miniaturas, descripciones, algoritmo) sin esp
 que falte para pedirlo. Se reengorda este bloque cada sesión que toque YouTube.
 - [x] youtube-algorithm-impressions-2025 | YouTube recommendation algorithm impressions click-through-rate suggested videos ranking signals 2025  (done 2026-07-21)
 - [x] youtube-new-channel-cold-start | new YouTube channel cold start algorithm behavior zero subscriber seed distribution test audience  (done 2026-07-22)
-- [ ] youtube-thumbnail-ctr-psychology | YouTube thumbnail design click-through-rate psychology contrast face expression composition studies
-- [ ] youtube-title-click-psychology | video title curiosity gap clickbait threshold psychology headline click-through research
-- [ ] youtube-description-seo | YouTube video description SEO keyword optimization search ranking metadata best practices
+- [x] youtube-thumbnail-ctr-psychology | YouTube thumbnail design click-through-rate psychology contrast face expression composition studies  (done 2026-07-23)
+- [x] youtube-title-click-psychology | video title curiosity gap clickbait threshold psychology headline click-through research  (done 2026-07-23)
+- [x] youtube-description-seo | YouTube video description SEO keyword optimization search ranking metadata best practices  (done 2026-07-23)
 - [ ] youtube-chapters-endscreens-cards | YouTube chapters end screens cards optimal placement viewer navigation retention impact
 - [ ] youtube-audio-mastering-narration | voiceover narration audio mastering loudness normalization EQ compression podcast documentary standards
 - [ ] youtube-analytics-retention-graph | YouTube Studio analytics audience retention graph interpretation absolute vs relative retention drop-off diagnosis
