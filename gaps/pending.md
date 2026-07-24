@@ -74,9 +74,9 @@ que falte para pedirlo. Se reengorda este bloque cada sesión que toque YouTube.
 - [x] youtube-thumbnail-ctr-psychology | YouTube thumbnail design click-through-rate psychology contrast face expression composition studies  (done 2026-07-23)
 - [x] youtube-title-click-psychology | video title curiosity gap clickbait threshold psychology headline click-through research  (done 2026-07-23)
 - [x] youtube-description-seo | YouTube video description SEO keyword optimization search ranking metadata best practices  (done 2026-07-23)
-- [ ] youtube-chapters-endscreens-cards | YouTube chapters end screens cards optimal placement viewer navigation retention impact
-- [ ] youtube-audio-mastering-narration | voiceover narration audio mastering loudness normalization EQ compression podcast documentary standards
-- [ ] youtube-analytics-retention-graph | YouTube Studio analytics audience retention graph interpretation absolute vs relative retention drop-off diagnosis
+- [x] youtube-chapters-endscreens-cards | YouTube chapters end screens cards optimal placement viewer navigation retention impact  (done 2026-07-24)
+- [x] youtube-audio-mastering-narration | voiceover narration audio mastering loudness normalization EQ compression podcast documentary standards  (done 2026-07-24)
+- [x] youtube-analytics-retention-graph | YouTube Studio analytics audience retention graph interpretation absolute vs relative retention drop-off diagnosis  (done 2026-07-24)
 - [ ] documentary-narration-script-structure | true crime documentary narration script structure pacing information reveal ordering techniques
 - [ ] youtube-watch-time-vs-ctr-weighting | YouTube ranking watch time versus click-through-rate weighting session duration signals
 - [ ] youtube-shorts-to-longform-funnel | YouTube Shorts driving traffic to long-form videos funnel conversion strategies channel growth
