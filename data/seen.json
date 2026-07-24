@@ -6394,5 +6394,187 @@
   "6f5087be0ec0215e": {
     "title": "Will Americans pay for microdramas? TikTok is about to find out.",
     "reason": "irrelevant"
+  },
+  "ed26378abae6942f": {
+    "title": "Show HN: Tuziyo \u2013 Compare multiple AI image models in one studio",
+    "reason": "irrelevant"
+  },
+  "90e9409aa6fcc079": {
+    "title": "From Frontier Models to Enterprise Execution: Why Kimi Partnership Matters Now",
+    "reason": "irrelevant"
+  },
+  "08f057059517adad": {
+    "title": "AI Was Supposed to Lift Everybody., The Price Tag Says Otherwise",
+    "reason": "irrelevant"
+  },
+  "2a285cf7ee5b659f": {
+    "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
+    "category": "ai_models",
+    "score": 2
+  },
+  "327d865c2eaa3ac3": {
+    "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
+    "category": "ai_models",
+    "score": 2
+  },
+  "c691abec9bf42793": {
+    "title": "Unified Video Dense Prediction from Disjoint Data",
+    "category": "video_analysis",
+    "score": 2
+  },
+  "ce7894ead1401b95": {
+    "title": "Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning",
+    "reason": "irrelevant"
+  },
+  "15ffb7c45e391bba": {
+    "title": "Expanding Flow Maps",
+    "reason": "irrelevant"
+  },
+  "1fd1fc8b7a177b0c": {
+    "title": "Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation",
+    "reason": "irrelevant"
+  },
+  "3fb107311bd6ceac": {
+    "title": "GraphVid: Interactive Graph-Controllable Video Generation",
+    "category": "ai_models",
+    "score": 5
+  },
+  "8cbff65620724969": {
+    "title": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$",
+    "reason": "irrelevant"
+  },
+  "c2b707cc7b212884": {
+    "title": "Synthetic data generation framework for quality control automation in gravure printing",
+    "reason": "irrelevant"
+  },
+  "8a789ff259ddafa8": {
+    "title": "Self-Supervised Learning of Structured Dynamics from Videos",
+    "reason": "irrelevant"
+  },
+  "06d59a61e02ddf97": {
+    "title": "Surprisal Theory is Tautological (without Rational Grounding)",
+    "reason": "irrelevant"
+  },
+  "913c06693298a5b2": {
+    "title": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity",
+    "reason": "irrelevant"
+  },
+  "bee10c4c072aed6b": {
+    "title": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education",
+    "reason": "irrelevant"
+  },
+  "a39422bc8203bbfe": {
+    "title": "Scene Parameter Saliency via Differentiable Light Transport",
+    "reason": "irrelevant"
+  },
+  "25047f22926ce762": {
+    "title": "Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling",
+    "reason": "irrelevant"
+  },
+  "763e06be7cdb8ffb": {
+    "title": "Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana",
+    "reason": "irrelevant"
+  },
+  "6ec459c8f1daca26": {
+    "title": "Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning",
+    "reason": "irrelevant"
+  },
+  "e3da40c8fb236878": {
+    "title": "OpenForgeRL: Train Harness-native Agents in Any Environment",
+    "category": "automation",
+    "score": 5
+  },
+  "bb238b50b25872e0": {
+    "title": "Visual Contrastive Self-Distillation",
+    "reason": "irrelevant"
+  },
+  "5272a5d3eff5e389": {
+    "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
+    "category": "ai_models",
+    "score": 5
+  },
+  "aa155f7126355e58": {
+    "title": "MIRROR: Learning from the Other View for Multi-Modal Reasoning",
+    "reason": "irrelevant"
+  },
+  "8fa90f7364aafb3b": {
+    "title": "X$^3$-OPD: Distilling Reasoning into Large Audio-Language Models via On-Policy Alignment",
+    "reason": "irrelevant"
+  },
+  "9d1d3bc9a463f747": {
+    "title": "Neural solutions of coupled ghost and gluon Dyson--Schwinger equations in Landau gauge",
+    "reason": "irrelevant"
+  },
+  "d06998aa49096e02": {
+    "title": "The Boundaries of Automation: A Theory of Persistent Human Participation",
+    "reason": "irrelevant"
+  },
+  "383f36b29dc27260": {
+    "title": "UnDA: Unpaired Domain Alignment for Cross-Modal Knowledge Transfer in Medical Imaging",
+    "reason": "irrelevant"
+  },
+  "ed1f2994131ea003": {
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "reason": "irrelevant"
+  },
+  "076a8c053ff81790": {
+    "title": "PBOC Adds Most Liquidity to Economy in Five Months to Aid Growth",
+    "reason": "irrelevant"
+  },
+  "b73748657534d55e": {
+    "title": "Korean Stocks Sink as Chipmakers Drop on Middle East, China IPO",
+    "reason": "irrelevant"
+  },
+  "b8acf7f64495d3e2": {
+    "title": "Metals Fluctuate as Middle East Escalation Keep Bulls in Check",
+    "reason": "irrelevant"
+  },
+  "a2d2673ef60e3c7c": {
+    "title": "India\u2019s Markets Shrug Off Student Protests for Now",
+    "reason": "irrelevant"
+  },
+  "663ab04d04ec23e4": {
+    "title": "Wheat Extends July Rally as War Risks Stoke Fears Over Supply",
+    "reason": "irrelevant"
+  },
+  "d3e70d3fb11124ed": {
+    "title": "PHP/USD: Philippine Peso Falls to Fresh Record Low as Oil Advances",
+    "reason": "irrelevant"
+  },
+  "2adbeef2f16d8046": {
+    "title": "Malaysia Sells First Dollar Bonds in Five Years as Fuel Subsidy Bill Rises",
+    "reason": "irrelevant"
+  },
+  "2efc9168c9debc4d": {
+    "title": "India\u2019s SEBI Mulls Letting Portfolio Managers Invest Clients\u2019 Money Overseas",
+    "reason": "irrelevant"
+  },
+  "d0e95dfe945aab2a": {
+    "title": "Manipal Health Seeks to Raise Up to $960 Million in India IPO",
+    "reason": "irrelevant"
+  },
+  "64af583cc36933bb": {
+    "title": "China\u2019s Gold Imports Surge After International Prices Slump",
+    "reason": "irrelevant"
+  },
+  "78c0148f69e20214": {
+    "title": "Chinese Stock Turnover Shrinks as Sentiment Cools on Tech Sector",
+    "reason": "irrelevant"
+  },
+  "eb83221c47f59bcc": {
+    "title": "Japan\u2019s Katayama Says to Take Bold FX Steps Decisively as Needed",
+    "reason": "irrelevant"
+  },
+  "81f9dcf5cbb9cf21": {
+    "title": "Trump to Take Up Manila\u2019s Concerns With Xi, Philippines Says",
+    "reason": "irrelevant"
+  },
+  "43fe29e1df4df2b7": {
+    "title": "Macquarie\u2019s First Woman CEO Departs With a $339 Million Stake",
+    "reason": "irrelevant"
+  },
+  "55cf6063224fecff": {
+    "title": "Modi Seeks to Calm Anger in Rare Video as India Protests Widen",
+    "reason": "irrelevant"
   }
 }
