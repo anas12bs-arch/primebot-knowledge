@@ -77,9 +77,9 @@ que falte para pedirlo. Se reengorda este bloque cada sesión que toque YouTube.
 - [x] youtube-chapters-endscreens-cards | YouTube chapters end screens cards optimal placement viewer navigation retention impact  (done 2026-07-24)
 - [x] youtube-audio-mastering-narration | voiceover narration audio mastering loudness normalization EQ compression podcast documentary standards  (done 2026-07-24)
 - [x] youtube-analytics-retention-graph | YouTube Studio analytics audience retention graph interpretation absolute vs relative retention drop-off diagnosis  (done 2026-07-24)
-- [ ] documentary-narration-script-structure | true crime documentary narration script structure pacing information reveal ordering techniques
-- [ ] youtube-watch-time-vs-ctr-weighting | YouTube ranking watch time versus click-through-rate weighting session duration signals
-- [ ] youtube-shorts-to-longform-funnel | YouTube Shorts driving traffic to long-form videos funnel conversion strategies channel growth
+- [x] documentary-narration-script-structure | true crime documentary narration script structure pacing information reveal ordering techniques  (done 2026-07-25)
+- [x] youtube-watch-time-vs-ctr-weighting | YouTube ranking watch time versus click-through-rate weighting session duration signals  (done 2026-07-25)
+- [x] youtube-shorts-to-longform-funnel | YouTube Shorts driving traffic to long-form videos funnel conversion strategies channel growth  (done 2026-07-25)
 - [ ] voice-cloning-tts-narration-quality | AI voice cloning text-to-speech narration quality naturalness prosody for video documentary use
 - [ ] retention-editing-pattern-interrupts | video editing pattern interrupts visual variety cut frequency techniques that increase audience retention
 - [ ] narrative-documentary-background-music | background music selection dramatic tension true crime documentary narrative storytelling scoring techniques
