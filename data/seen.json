@@ -7108,5 +7108,9 @@
   "2e946ece94efb7bd": {
     "title": "Ask HN: HotPin \u2013 lossless 120B MoE inference on 24GB RAM (CPU, 50 loc)",
     "reason": "irrelevant"
+  },
+  "2bc5604b3cf5b17a": {
+    "title": "AMD publishes machine-readable ISA so frontier models can write its GPU kernels",
+    "reason": "irrelevant"
   }
 }
