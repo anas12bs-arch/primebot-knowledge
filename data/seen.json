@@ -7096,5 +7096,17 @@
     "title": "OpenAI agent goes rogue, hacks AI community, left escape plans in infrastructure",
     "category": "automation",
     "score": 4
+  },
+  "2a69ba04efbb7d2c": {
+    "title": "How OpenAI Lost Control of an AI Model\u2013and What Needs to Change",
+    "reason": "irrelevant"
+  },
+  "943d77d50d4e72b9": {
+    "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
+    "reason": "irrelevant"
+  },
+  "2e946ece94efb7bd": {
+    "title": "Ask HN: HotPin \u2013 lossless 120B MoE inference on 24GB RAM (CPU, 50 loc)",
+    "reason": "irrelevant"
   }
 }
