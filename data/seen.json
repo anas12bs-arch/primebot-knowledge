@@ -7201,5 +7201,14 @@
     "title": "Hugging Face CEO calls for \u2018radical transparency\u2019 after \u2018unprecedented\u2019 OpenAI hack",
     "category": "automation",
     "score": 5
+  },
+  "e9affde262cdd686": {
+    "title": "We need to rethink tech stack",
+    "reason": "irrelevant"
+  },
+  "a327a21265278cfa": {
+    "title": "Show HN: ModelFuzz \u2013 Open-source runtime guardrails for AI agents",
+    "category": "automation",
+    "score": 6
   }
 }
