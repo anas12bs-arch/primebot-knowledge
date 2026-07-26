@@ -7188,5 +7188,18 @@
   "eb921b41a26dc06a": {
     "title": "International Olympiad in AI opens an official medal track for AI systems",
     "reason": "irrelevant"
+  },
+  "c160326c7818fb74": {
+    "title": "Prompt: The Next AI Challenge Isn't the Model. It's the Organization",
+    "reason": "irrelevant"
+  },
+  "305f339db18779ef": {
+    "title": "Ask HN: Should I Combine Global Knowledge, Internet Search, and User RAG",
+    "reason": "irrelevant"
+  },
+  "446a8454722be8bb": {
+    "title": "Hugging Face CEO calls for \u2018radical transparency\u2019 after \u2018unprecedented\u2019 OpenAI hack",
+    "category": "automation",
+    "score": 5
   }
 }
