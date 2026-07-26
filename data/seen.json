@@ -7174,5 +7174,19 @@
   "34c2c59ed9150d0a": {
     "title": "Brazil ETF Market Triples in Boom for New Latin America Funds",
     "reason": "irrelevant"
+  },
+  "3ad720f05a97741d": {
+    "title": "AI agents are eating the Web, growing by 8,000% and rewiring business models",
+    "category": "automation",
+    "score": 6
+  },
+  "7e1b48a838e477ac": {
+    "title": "China considers tighter export controls on AI models and chips",
+    "category": "ai_models",
+    "score": 2
+  },
+  "eb921b41a26dc06a": {
+    "title": "International Olympiad in AI opens an official medal track for AI systems",
+    "reason": "irrelevant"
   }
 }
