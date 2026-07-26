@@ -1,0 +1,145 @@
+name: Learn editing craft at scale
+
+# Measures how the best-performing videos in the niche are actually edited:
+# transition vocabulary, how graphic elements arrive, frame movement, cut-to-
+# audio alignment, grade. Runs here rather than on the laptop because this repo
+# is public, so Actions minutes are unmetered — the corpus can grow every day
+# at no cost.
+#
+# Only measurements are committed. Videos are deleted on the runner as soon as
+# they are measured; no footage is ever stored or pushed.
+#
+# The doctrine itself is written on the Mac (launchd), which is the only place
+# that can reach OpenMontage and the Obsidian vault.
+
+on:
+  schedule:
+    # Offset from the 30-minute research scanner so the two never contend.
+    - cron: '15 1,7,13,19 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'New videos to measure this run'
+        required: false
+        default: '40'
+      shards:
+        description: 'Parallel runners (free tier allows 20)'
+        required: false
+        default: '8'
+
+concurrency:
+  group: learn-editing
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    outputs:
+      count: ${{ steps.discover.outputs.count }}
+      matrix: ${{ steps.discover.outputs.matrix }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: pip install --quiet google-api-python-client
+
+      - id: discover
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          python scripts/discover_niche_videos.py \
+            --limit "${{ github.event.inputs.limit || '40' }}" \
+            --shards "${{ github.event.inputs.shards || '8' }}"
+
+      - uses: actions/upload-artifact@v4
+        if: steps.discover.outputs.count != '0'
+        with:
+          name: shards
+          path: shards/
+          retention-days: 1
+
+  measure:
+    needs: plan
+    if: needs.plan.outputs.count != '0'
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    strategy:
+      fail-fast: false        # one blocked shard must not kill the others
+      max-parallel: 8
+      matrix:
+        shard: ${{ fromJson(needs.plan.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: System dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq tesseract-ocr ffmpeg
+
+      - name: Python dependencies
+        run: |
+          pip install --quiet opencv-python-headless numpy pytesseract
+          pip install --quiet --upgrade yt-dlp
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: shards
+          path: shards
+
+      - name: Measure
+        run: |
+          python scripts/measure_videos.py \
+            --shard "shards/shard-${{ matrix.shard }}.json" \
+            --out-dir "out"
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: grammar-${{ matrix.shard }}
+          path: out/
+          retention-days: 3
+          if-no-files-found: ignore
+
+  collect:
+    needs: [plan, measure]
+    # `always()` so a partially failed matrix still banks the shards that
+    # succeeded. Losing four measured videos because a fifth was blocked would
+    # be the expensive failure mode here.
+    if: always() && needs.plan.outputs.count != '0'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: grammar-*
+          merge-multiple: true
+          path: analysis/editing-grammar
+
+      - name: Commit measurements
+        run: |
+          new=$(git status --porcelain analysis/editing-grammar | wc -l | tr -d ' ')
+          if [ "$new" = "0" ]; then
+            echo "No new measurements — nothing to commit."
+            exit 0
+          fi
+          total=$(find analysis/editing-grammar -name '*_grammar.json' | wc -l | tr -d ' ')
+          git config user.name  "editing-learner"
+          git config user.email "actions@github.com"
+          git add analysis/editing-grammar
+          git commit -m "learn: +${new} measured videos (corpus: ${total})"
+          git pull --rebase --autostash
+          git push
+          echo "### Corpus now holds ${total} videos" >> $GITHUB_STEP_SUMMARY

@@ -1,0 +1,26 @@
+{
+  "_comment": "Defines the niche the editing engine learns from. Discovery searches YouTube for these queries and measures whatever is actually winning, rather than a hand-picked channel list — a competitor we have never heard of teaches us more than one we already watch.",
+  "queries": [
+    "bank heist documentary",
+    "greatest heist ever explained",
+    "how he stole millions",
+    "biggest scam explained",
+    "con artist documentary",
+    "financial fraud explained documentary",
+    "criminal mastermind story",
+    "the man who robbed",
+    "unbelievable crime story explained",
+    "casino cheat story",
+    "insider trading scandal explained",
+    "counterfeit money operation documentary"
+  ],
+  "min_views": 300000,
+  "min_duration_sec": 240,
+  "max_duration_sec": 2400,
+  "published_after": "2023-01-01T00:00:00Z",
+  "_notes": {
+    "min_views": "Below this the video is not evidence of anything working.",
+    "duration_band": "Long-form only. Shorts compress every structure measured here into 3 seconds and would poison the norms.",
+    "published_after": "Editing conventions age. Pre-2023 craft is a different era of the platform."
+  }
+}
