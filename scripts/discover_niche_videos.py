@@ -1,12 +1,18 @@
 #!/usr/bin/env python3
 """
-Find the videos worth learning from, then split the work into shards.
+Find the videos worth learning from and keep a measurement queue topped up.
 
 Deliberately not a channel list. A hand-picked list only ever teaches us what we
 already watch; searching the niche surfaces whoever is actually winning it,
-including channels nobody here has heard of. Videos already measured in this
-repo are skipped, so every scheduled run grows the corpus instead of
-re-measuring the same files.
+including channels nobody here has heard of. Videos already measured are
+skipped, so every scheduled run grows the corpus instead of re-measuring the
+same files.
+
+Discovery runs in the cloud; measurement does not. YouTube refuses datacenter
+IPs outright — "Sign in to confirm you're not a bot", verified on a runner — so
+no amount of free Actions minutes buys us a downloaded video. What a runner can
+do is talk to the Data API, which is this step. So the cloud keeps the queue
+full around the clock and the Mac, on a residential connection, drains it.
 """
 
 import argparse
@@ -89,12 +95,11 @@ def discover(api_key: str, cfg: dict, seen: set[str], limit: int) -> list[dict]:
 
 
 def main() -> None:
-    ap = argparse.ArgumentParser(description="Discover niche videos and shard them")
+    ap = argparse.ArgumentParser(description="Discover niche videos into a measurement queue")
     ap.add_argument("--config", default=str(REPO / "config" / "editing-niche.json"))
     ap.add_argument("--grammar-dir", default=str(REPO / "analysis" / "editing-grammar"))
-    ap.add_argument("--out-dir", default="shards")
-    ap.add_argument("--limit", type=int, default=40, help="New videos per run")
-    ap.add_argument("--shards", type=int, default=8)
+    ap.add_argument("--queue", default=str(REPO / "queue" / "pending.json"))
+    ap.add_argument("--limit", type=int, default=60, help="Queue depth to maintain")
     args = ap.parse_args()
 
     api_key = os.environ.get("YOUTUBE_API_KEY")
@@ -105,36 +110,36 @@ def main() -> None:
     grammar_dir = Path(args.grammar_dir)
     grammar_dir.mkdir(parents=True, exist_ok=True)
 
-    seen = already_measured(grammar_dir)
-    log.info("Corpus already holds %d measured videos", len(seen))
+    queue_path = Path(args.queue)
+    queue_path.parent.mkdir(parents=True, exist_ok=True)
+    existing = json.loads(queue_path.read_text()) if queue_path.exists() else []
 
-    videos = discover(api_key, cfg, seen, args.limit)
-    log.info("Selected %d new videos", len(videos))
+    # Anything already measured is dropped from the queue here rather than being
+    # rediscovered forever: the Mac deletes nothing, it only adds measurements.
+    measured = already_measured(grammar_dir)
+    existing = [v for v in existing if v["video_id"] not in measured]
+    log.info("Corpus holds %d videos; %d still queued", len(measured), len(existing))
 
-    out = Path(args.out_dir)
-    out.mkdir(parents=True, exist_ok=True)
+    room = args.limit - len(existing)
+    if room <= 0:
+        log.info("Queue already at depth %d — no discovery needed", len(existing))
+        queue_path.write_text(json.dumps(existing, indent=2))
+        return
 
-    # Round-robin rather than contiguous blocks: view count correlates with
-    # runtime, so contiguous slicing would hand one runner every long video.
-    shards = [[] for _ in range(args.shards)]
-    for i, v in enumerate(videos):
-        shards[i % args.shards].append(v)
+    seen = measured | {v["video_id"] for v in existing}
+    found = discover(api_key, cfg, seen, room)
+    log.info("Discovered %d new videos", len(found))
 
-    used = 0
-    for i, shard in enumerate(shards):
-        if not shard:
-            continue
-        (out / f"shard-{i}.json").write_text(json.dumps(shard, indent=2))
-        used += 1
-
-    matrix = [i for i, s in enumerate(shards) if s]
-    print(json.dumps({"count": len(videos), "shards": matrix}))
+    # Highest views first: if the Mac only gets through half the queue tonight,
+    # it should have measured the half that carries more evidence.
+    merged = sorted(existing + found, key=lambda v: v["views"], reverse=True)
+    queue_path.write_text(json.dumps(merged, indent=2))
+    log.info("Queue depth now %d", len(merged))
 
     if gh_out := os.environ.get("GITHUB_OUTPUT"):
         with open(gh_out, "a") as f:
-            f.write(f"count={len(videos)}\n")
-            f.write(f"matrix={json.dumps(matrix)}\n")
-    log.info("Wrote %d shard file(s)", used)
+            f.write(f"queued={len(merged)}\n")
+            f.write(f"added={len(found)}\n")
 
 
 if __name__ == "__main__":
