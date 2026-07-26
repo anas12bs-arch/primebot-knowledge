@@ -3,9 +3,21 @@
 # Se cargan con peso 1 además de config/keywords.yml (que nunca se toca).
 # Para revertir un aprendizaje: borrar la línea y commitear.
 ai_models:
+- attention
+- generation
+- model
 - models
 - video
+- world
 automation:
 - agent
 - agents
+- automation
+- browser
+- built
+- humans
+- model
+- openai
 - problem
+- security
+- still
