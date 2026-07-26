@@ -80,9 +80,9 @@ que falte para pedirlo. Se reengorda este bloque cada sesión que toque YouTube.
 - [x] documentary-narration-script-structure | true crime documentary narration script structure pacing information reveal ordering techniques  (done 2026-07-25)
 - [x] youtube-watch-time-vs-ctr-weighting | YouTube ranking watch time versus click-through-rate weighting session duration signals  (done 2026-07-25)
 - [x] youtube-shorts-to-longform-funnel | YouTube Shorts driving traffic to long-form videos funnel conversion strategies channel growth  (done 2026-07-25)
-- [ ] voice-cloning-tts-narration-quality | AI voice cloning text-to-speech narration quality naturalness prosody for video documentary use
-- [ ] retention-editing-pattern-interrupts | video editing pattern interrupts visual variety cut frequency techniques that increase audience retention
-- [ ] narrative-documentary-background-music | background music selection dramatic tension true crime documentary narrative storytelling scoring techniques
+- [x] voice-cloning-tts-narration-quality | AI voice cloning text-to-speech narration quality naturalness prosody for video documentary use  (done 2026-07-26)
+- [x] retention-editing-pattern-interrupts | video editing pattern interrupts visual variety cut frequency techniques that increase audience retention  (done 2026-07-26)
+- [x] narrative-documentary-background-music | background music selection dramatic tension true crime documentary narrative storytelling scoring techniques  (done 2026-07-26)
 - [ ] music-ducking-emotional-beats | music audio ducking sidechain timing emotional beats narration mixing techniques documentary video
 - [ ] faceless-channel-competitor-analysis | how to analyze competing faceless YouTube narrative channels format structure pacing success factors
 - [ ] true-crime-youtube-niche-landscape | true crime narrative faceless YouTube channel niche landscape top channels format comparison 2025
