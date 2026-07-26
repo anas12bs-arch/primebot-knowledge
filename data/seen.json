@@ -7136,5 +7136,14 @@
   "ff6bb8b4037f85c2": {
     "title": "Microsoft launches new in-house AI models. Cuts costs up to 89% versus OpenAI",
     "reason": "irrelevant"
+  },
+  "51a5da7c3751a41d": {
+    "title": "Claude Code Cut Their System Prompt by 80%. Does That Work for Small Models Too?",
+    "category": "ai_models",
+    "score": 2
+  },
+  "f74a285ac20ca40c": {
+    "title": "Show HN: ScreenFocus \u2013 keyboard focus follows the pointer across Mac displays",
+    "reason": "irrelevant"
   }
 }
