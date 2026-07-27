@@ -7760,5 +7760,40 @@
   "f42fb76c762a9ab8": {
     "title": "Call of Duty: Black Ops 7 | Territory Studio.",
     "reason": "irrelevant"
+  },
+  "511cf38ddcf3e54e": {
+    "title": "Why China is giving away its best AI models",
+    "category": "ai_models",
+    "score": 2
+  },
+  "cd3af024f94bac30": {
+    "title": "Jensen Huang's first-ever post on X is in defense of open access to AI models",
+    "category": "ai_models",
+    "score": 2
+  },
+  "2a86de2f40cb506b": {
+    "title": "Gap Inc. opens creator program to employees",
+    "reason": "irrelevant"
+  },
+  "dd98f963f3b250f7": {
+    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+    "category": "automation",
+    "score": 3
+  },
+  "a0ef9ae849bd185a": {
+    "title": "OpenAI\u2019s Hugging Face breach has reignited the debate over alignment and control",
+    "reason": "irrelevant"
+  },
+  "719096aff049ff52": {
+    "title": "Macquarie Sees Oil Surplus Risk on US-Iran Deal Before Midterms",
+    "reason": "irrelevant"
+  },
+  "efeca4f5e4d2bb4b": {
+    "title": "JPMorgan Sees S&P 500 Poised to Rally as New Buy Signal Flashes",
+    "reason": "irrelevant"
+  },
+  "3f9492e7a1f6a558": {
+    "title": "Carlyle\u2019s Bansal Says Bonds Shed Role as Stocks\u2019 Shock Absorber",
+    "reason": "irrelevant"
   }
 }
