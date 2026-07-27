@@ -7313,5 +7313,163 @@
   "c0df96194894a9fc": {
     "title": "EQT Lifts Takeover Offer for Perpetual to $1.8 Billion",
     "reason": "irrelevant"
+  },
+  "ee46b600302f6e7a": {
+    "title": "Show HN: Watch 14-Byte AI \"brains\" attempt to solve a 2D maze (Its hard)",
+    "reason": "irrelevant"
+  },
+  "67e85214fe271700": {
+    "title": "Robot-Factored World Models via Robot Rendering",
+    "category": "ai_models",
+    "score": 4
+  },
+  "9274a8e28ab44e70": {
+    "title": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
+    "category": "ai_models",
+    "score": 3
+  },
+  "fe37da2ec9f47f7b": {
+    "title": "Twins: Learn to Predict Unified Representations with Focal Loss",
+    "category": "ai_models",
+    "score": 3
+  },
+  "b55b43da3ef48294": {
+    "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
+    "reason": "irrelevant"
+  },
+  "0f63912127926f47": {
+    "title": "Explainable Reinforcement Learning for assisting Air Traffic Controllers",
+    "reason": "irrelevant"
+  },
+  "e06b1a744ccccd56": {
+    "title": "The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents",
+    "category": "automation",
+    "score": 4
+  },
+  "f099d7b78e19d97d": {
+    "title": "PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest",
+    "category": "automation",
+    "score": 2
+  },
+  "4f330ca7a3f50139": {
+    "title": "Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support",
+    "category": "ai_models",
+    "score": 2
+  },
+  "6fab73a3428a26b7": {
+    "title": "Dysphagia Risk Stratification in Head and Neck Cancer via Two-Stage PRO-Clinical Stacking",
+    "reason": "irrelevant"
+  },
+  "d5f241a397df003a": {
+    "title": "Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science",
+    "category": "ai_models",
+    "score": 2
+  },
+  "5ad096eee42bc654": {
+    "title": "CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference",
+    "category": "ai_models",
+    "score": 2
+  },
+  "3ded31547ad0ea9b": {
+    "title": "Interpretable EEG biomarkers with bag-of-waves: Spatial and temporal waveform dictionaries for low-data regimes",
+    "category": "ai_models",
+    "score": 2
+  },
+  "3805e5420a4c9c88": {
+    "title": "CARA: Concept-Aware Risk Attention for Interpretable Collision Anticipation",
+    "category": "ai_models",
+    "score": 3
+  },
+  "9ef88480e9e0f8b9": {
+    "title": "Susceptible Reservoir Architectures for Regime-Conditional Volatility Forecasting",
+    "category": "ai_models",
+    "score": 2
+  },
+  "5754f4262bd972ba": {
+    "title": "\\k{appa}-LoRA: Condition Numbers Reveal Which LoRA Matrices Worth Updating",
+    "category": "ai_models",
+    "score": 2
+  },
+  "9d4378b3de90c7d1": {
+    "title": "Optimal Transport Image Representation and Deep Covariance Alignment (CORAL) for Control Valve Stiction Detection",
+    "category": "ai_models",
+    "score": 2
+  },
+  "99870d0cea9c5a78": {
+    "title": "Singular value soft-thresholding via the polar decomposition",
+    "reason": "irrelevant"
+  },
+  "9f624211c815b3fe": {
+    "title": "Beyond Negative-Ridge Endpoints: Mixed-Sign Spectral Regularization via Negative-Shifted Gradient Descent",
+    "reason": "irrelevant"
+  },
+  "68bbe68a19f8607f": {
+    "title": "MineValiCoder: Reliable Code Generation with Test Case Quality Mining and Bipartite Graph-Based Mutual Validation",
+    "category": "ai_models",
+    "score": 2
+  },
+  "84e66964299ab6d6": {
+    "title": "Learning to Prepare Molecular Ground States with Transformer Models",
+    "category": "ai_models",
+    "score": 2
+  },
+  "2322e05dc4c7e687": {
+    "title": "Complexity Bounds and Approaches to Learning Projected Gradient Descent Solver Iterates",
+    "category": "ai_models",
+    "score": 2
+  },
+  "104bab60ec30b564": {
+    "title": "TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI",
+    "category": "ai_models",
+    "score": 2
+  },
+  "de99a69c71423427": {
+    "title": "Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education",
+    "reason": "irrelevant"
+  },
+  "2fd7b2450361ddf2": {
+    "title": "Phylogenetic signal in marine mammal and bird vocalizations captured by audio foundation models: the limited benefit of domain-specific pretraining",
+    "category": "ai_models",
+    "score": 2
+  },
+  "1a378e1dd48e1787": {
+    "title": "grapheme-kit: Grapheme-Level Metrics and Text Processing for Multilingual NLP",
+    "reason": "irrelevant"
+  },
+  "773a757de5721c14": {
+    "title": "Audi Turns Gloomier on Sales Outlook Due to Downturn in China",
+    "reason": "irrelevant"
+  },
+  "24ead1454189b550": {
+    "title": "First US LNG Shipment to China in a Year to Be Re-Exported",
+    "reason": "irrelevant"
+  },
+  "aad91c85e7a02a2a": {
+    "title": "Asia-Bound Tanker Exits Red Sea Via Suez as Others Risk Strait",
+    "reason": "irrelevant"
+  },
+  "0033ad219545a043": {
+    "title": "Vodacom Trims Payout Plan, Lifts Revenue Goal to $18 Billion",
+    "reason": "irrelevant"
+  },
+  "5b183750a65667b7": {
+    "title": "FTSE 100 Live: Stocks Jump as US-Iran Pause Sends Oil Lower",
+    "reason": "irrelevant"
+  },
+  "cc53b1a0e7cf76f6": {
+    "title": "Uber\u2019s Africa EV Pilot Pioneer Says Iran Conflict Drives Demand",
+    "reason": "irrelevant"
+  },
+  "d51d44340220a0e6": {
+    "title": "M&G\u2019s Kelly Bets on Former Highflyers Like Novo to Trounce Peers",
+    "reason": "irrelevant"
+  },
+  "abc670f741afe16b": {
+    "title": "Soybean Oil Drops Most in Month After US Halts Strikes on Iran",
+    "reason": "irrelevant"
+  },
+  "96fa7675320fc137": {
+    "title": "Innolight Is Said Set to Price Hong Kong Listing Below Maximum",
+    "reason": "irrelevant"
   }
 }
