@@ -7874,5 +7874,170 @@
   "916bc7552b1ac250": {
     "title": "CME\u2019s Debut of 24/7 Gold Futures Trading Met With Strong Demand",
     "reason": "irrelevant"
+  },
+  "e5e79f5da5ccf1db": {
+    "title": "Gemini was on the list of tools Google engineers are banned from using",
+    "reason": "irrelevant"
+  },
+  "0c89a85537d763a2": {
+    "title": "Show HN: Ray-color, color palettes sampled off a raytraced tennis ball",
+    "reason": "irrelevant"
+  },
+  "8d19d29eaedcbdc6": {
+    "title": "Data Pyramid for Embodied Manipulation",
+    "category": "automation",
+    "score": 3
+  },
+  "9c53f0e70bc1b908": {
+    "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+    "category": "ai_models",
+    "score": 2
+  },
+  "fad62d2b716e243d": {
+    "title": "Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport",
+    "reason": "irrelevant"
+  },
+  "47f047502cd744ee": {
+    "title": "Learning Distributions from Multiple Data Providers",
+    "reason": "irrelevant"
+  },
+  "503a193f933c594b": {
+    "title": "Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
+    "category": "ai_models",
+    "score": 2
+  },
+  "58183fb0e2d0fb64": {
+    "title": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability",
+    "category": "ai_models",
+    "score": 2
+  },
+  "6c74d7c0e13bb892": {
+    "title": "MicroZoom: Structure-Preserving Detail Synthesis at Extreme Scale",
+    "reason": "irrelevant"
+  },
+  "3ac14d97620dca4e": {
+    "title": "Infrared Imaging Empowered by Artificial Intelligence for Pediatric Skeletal Triage: A Narrative Review and Future Perspectives",
+    "reason": "irrelevant"
+  },
+  "3b541d04aad14f22": {
+    "title": "Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs",
+    "reason": "irrelevant"
+  },
+  "53748faef9e63072": {
+    "title": "DreamStyle3D: Efficient 3D Stylized Asset Generation via Dual-Attention Disentanglement",
+    "category": "ai_models",
+    "score": 2
+  },
+  "f9e4ac9cae08e59c": {
+    "title": "The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
+    "category": "automation",
+    "score": 4
+  },
+  "d467275faa31008d": {
+    "title": "DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data",
+    "category": "ai_models",
+    "score": 2
+  },
+  "8d6ed760ab7fcb3a": {
+    "title": "Efficient LLM-Generated Shuttling Compilers for Complex Trapped-Ion Architectures",
+    "reason": "irrelevant"
+  },
+  "7cbc4d2c27eee27f": {
+    "title": "ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams",
+    "category": "ai_models",
+    "score": 3
+  },
+  "599024cd019512cb": {
+    "title": "SADe: Sparse-Atom Support Decontamination for Few-Shot Segmentation with Weak Support Annotations",
+    "reason": "irrelevant"
+  },
+  "ac47331a05779d58": {
+    "title": "Panda: Unsupervised Pelvic Anomaly Detection for Real-Time MR Imaging",
+    "reason": "irrelevant"
+  },
+  "4d7fc39747c343c5": {
+    "title": "Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking",
+    "reason": "irrelevant"
+  },
+  "b2cb816e9499c37c": {
+    "title": "Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pipelines",
+    "reason": "irrelevant"
+  },
+  "3ae84c86ff070fda": {
+    "title": "Beyond Scale and Generation: Understanding Language Model-based Entity Matching",
+    "category": "ai_models",
+    "score": 4
+  },
+  "8310e6ba64fd1c7b": {
+    "title": "Stacking the Deck: Tunable Trainability in Stacked LCUs",
+    "reason": "irrelevant"
+  },
+  "48a24e4b1880d520": {
+    "title": "Co-Learning for Missing Arbitrary Modalities in Multi-modal Classification",
+    "reason": "irrelevant"
+  },
+  "7953eaa843616a4f": {
+    "title": "Causal-TS: A Python Library for Causal Discovery in High-Dimensional and Nonstationary Time Series",
+    "reason": "irrelevant"
+  },
+  "33728a8f25a8a45a": {
+    "title": "Explainable Reinforcement Learning via Physics-Aware Policy Distillation",
+    "category": "automation",
+    "score": 2
+  },
+  "7f3ede1816ce1772": {
+    "title": "Eviction as Estimation: A Fixed-Lag Smoothing View of Test-Time Memory, and When Measuring Beats Accumulating",
+    "category": "automation",
+    "score": 2
+  },
+  "cd61cd5245d90131": {
+    "title": "MMOE: Modernizing Diffusion Transformers with Efficient Expert Design",
+    "category": "ai_models",
+    "score": 3
+  },
+  "c25a72080997bc85": {
+    "title": "Anthropic\u2019s Dario Amodei responds: doesn\u2019t oppose open-weight models, but fears Chinese AI",
+    "category": "ai_models",
+    "score": 2
+  },
+  "e4ff2117e8a72574": {
+    "title": "RBA\u2019s Bullock Says Economy Cooling, Unsure If Rates High Enough",
+    "reason": "irrelevant"
+  },
+  "d6fe0e044d0c53c0": {
+    "title": "USD/PHP: Philippines Intervened in Small Way to Defend Peso, BSP Governor Says",
+    "reason": "irrelevant"
+  },
+  "cf0ab4b2b0387655": {
+    "title": "SK Hynix\u2019s $570 Billion Selloff Shows Cracks in Memory-Chip Boom",
+    "reason": "irrelevant"
+  },
+  "f7ee373176eb2b3d": {
+    "title": "India IPO Hopefuls Race to Beat August Deadline for Audited Results",
+    "reason": "irrelevant"
+  },
+  "6d04d6b6fef047d3": {
+    "title": "Chip Rout Deepens on Circular Funding, China Competition Fears",
+    "reason": "irrelevant"
+  },
+  "a610be36afa6c1a9": {
+    "title": "Innolight Prices $6.8 Billion Hong Kong Listing Below Maximum",
+    "reason": "irrelevant"
+  },
+  "1150e59659e0d3e4": {
+    "title": "Japanese, Korean Stocks Tumble as Chip Selloff Intensifies",
+    "reason": "irrelevant"
+  },
+  "0434c1edde860943": {
+    "title": "CXMT Listing Creates $192 Billion Windfall for Chinese Province",
+    "reason": "irrelevant"
+  },
+  "81ee4775233e23c4": {
+    "title": "YouTube Premium subscribers will get Peacock for free thanks to a first-of-its-kind deal",
+    "reason": "irrelevant"
+  },
+  "878be813fc2282d3": {
+    "title": "MIPCOM Cannes is bringing in microdramas",
+    "reason": "irrelevant"
   }
 }
