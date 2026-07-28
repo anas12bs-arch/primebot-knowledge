@@ -109,9 +109,9 @@ que falte para pedirlo. Se reengorda este bloque cada sesión que toque YouTube.
 - [x] reels-vs-shorts-algorithm | YouTube Shorts vs Instagram Reels vs TikTok algorithm differences 2025  (done 2026-07-18)
 
 ### CONVERSION & PRICING
-- [ ] conversion-rate-optimization | landing page checkout funnel friction CRO methodology frameworks
-- [ ] price-anchoring-empirical | price anchoring studies e-commerce psychology charm pricing prestige pricing
-- [ ] urgency-scarcity-conversion | scarcity countdown timers limited inventory conversion rate impact studies
+- [x] conversion-rate-optimization | landing page checkout funnel friction CRO methodology frameworks  (done 2026-07-28)
+- [x] price-anchoring-empirical | price anchoring studies e-commerce psychology charm pricing prestige pricing  (done 2026-07-28)
+- [x] urgency-scarcity-conversion | scarcity countdown timers limited inventory conversion rate impact studies  (done 2026-07-28)
 - [ ] landing-page-copywriting | copywriting techniques persuasion framework value proposition benefit hierarchy
 
 ### META ADS & PAID
