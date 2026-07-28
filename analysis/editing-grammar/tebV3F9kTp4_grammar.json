@@ -1,0 +1,1961 @@
+{
+  "video_id": "tebV3F9kTp4",
+  "duration_sec": 1565.1,
+  "fps": 25.0,
+  "cut_rhythm": {
+    "total_cuts": 224,
+    "average_shot_length_sec": 6.96,
+    "median_shot_length_sec": 3.48,
+    "shortest_shot_sec": 0.48,
+    "longest_shot_sec": 84.6,
+    "p25_shot_sec": 1.8,
+    "p75_shot_sec": 7.44,
+    "cuts_per_minute": 8.6,
+    "cut_density_by_decile": [
+      46.0,
+      31.0,
+      36.0,
+      21.0,
+      8.0,
+      13.0,
+      7.0,
+      19.0,
+      12.0,
+      32.0
+    ]
+  },
+  "hook": {
+    "cuts_first_5s": 3,
+    "cuts_first_15s": 6,
+    "hook_asl_sec": 2.23,
+    "body_asl_sec": 7.11,
+    "hook_acceleration_ratio": 3.19,
+    "first_shot_duration_sec": 0.48
+  },
+  "text_cadence": {
+    "text_coverage_ratio": 0.43,
+    "coverage_sample_count": 120,
+    "text_block_count": 16,
+    "mean_text_duration_sec": 2.59,
+    "min_text_duration_sec": 0.5,
+    "dominant_position": "center",
+    "position_distribution": {
+      "lower": 186,
+      "upper": 157,
+      "center": 235
+    },
+    "is_text_driven": true
+  },
+  "grade": {
+    "black_point": 22.1,
+    "white_point": 200.9,
+    "contrast_range": 178.8,
+    "blacks_lifted": true,
+    "highlights_rolled_off": true,
+    "mean_saturation": 41.8,
+    "saturation_character": "desaturated",
+    "shadow_hue_opencv": 29.2,
+    "highlight_hue_opencv": 70.7,
+    "split_tone": "yellow shadows / green highlights",
+    "temperature_bias": "neutral"
+  },
+  "camera_language": {
+    "shot_camera_distribution": {
+      "locked": 151,
+      "camera_move": 57,
+      "drift": 9,
+      "dynamic_subject": 8
+    },
+    "locked_shot_ratio": 0.67,
+    "camera_move_ratio": 0.25,
+    "dominant_camera_language": "locked"
+  },
+  "transitions": {
+    "sampled_boundaries": 60,
+    "transition_distribution": {
+      "dissolve": 4,
+      "zoom_punch_out": 1,
+      "slide_push": 5,
+      "hard_cut": 33,
+      "flash_frame": 4,
+      "flash_to_white": 10,
+      "fade_through_black": 3
+    },
+    "transition_mix_pct": {
+      "hard_cut": 55,
+      "flash_to_white": 17,
+      "slide_push": 8,
+      "dissolve": 7,
+      "flash_frame": 7,
+      "fade_through_black": 5,
+      "zoom_punch_out": 2
+    },
+    "hard_cut_ratio": 0.55,
+    "effect_transition_ratio": 0.45,
+    "dominant_effect": "flash_to_white",
+    "mean_effect_duration_sec": 0.09
+  },
+  "motion_graphics": {
+    "graphic_event_count": 13,
+    "graphic_events_per_minute": 0.5,
+    "entrance_distribution": {
+      "scale_in": 4,
+      "pop": 8,
+      "eased_in": 1
+    },
+    "dominant_entrance": "pop",
+    "mean_entrance_sec": 0.3,
+    "median_entrance_sec": 0.16,
+    "mean_hold_sec": 7.75,
+    "animated_entrance_ratio": 0.38,
+    "event_times": [
+      105.44,
+      634.56,
+      638.08,
+      641.44,
+      826.72,
+      938.4,
+      981.92,
+      983.52,
+      1092.16,
+      1102.24,
+      1245.76,
+      1254.72,
+      1395.04
+    ]
+  },
+  "shot_movement": {
+    "shot_movement_distribution": {
+      "pan": 54,
+      "subject_motion": 73,
+      "static": 69,
+      "push_in": 9,
+      "pull_out": 4
+    },
+    "frame_move_ratio": 0.32,
+    "static_frame_ratio": 0.33,
+    "push_ratio": 0.04,
+    "dominant_movement": "subject_motion"
+  },
+  "audio_sync": {
+    "audio_onset_count": 3108,
+    "onsets_per_minute": 119.5,
+    "cuts_on_audio_hit_ratio": 0.48,
+    "median_cut_offset_sec": 0.12,
+    "graphics_on_audio_hit_ratio": 0.62,
+    "median_graphic_offset_sec": 0.06,
+    "is_beat_cut": true
+  },
+  "shots": [
+    {
+      "index": 0,
+      "start_sec": 0.0,
+      "duration_sec": 0.48,
+      "mean_flow": 0.17,
+      "flow_coherence": 0.98,
+      "camera": "locked"
+    },
+    {
+      "index": 1,
+      "start_sec": 0.48,
+      "duration_sec": 2.16,
+      "mean_flow": 0.01,
+      "flow_coherence": 0.04,
+      "camera": "locked"
+    },
+    {
+      "index": 2,
+      "start_sec": 2.64,
+      "duration_sec": 1.32,
+      "mean_flow": 0.35,
+      "flow_coherence": 0.98,
+      "camera": "locked"
+    },
+    {
+      "index": 3,
+      "start_sec": 3.96,
+      "duration_sec": 1.2,
+      "mean_flow": 2.12,
+      "flow_coherence": 0.99,
+      "camera": "camera_move"
+    },
+    {
+      "index": 4,
+      "start_sec": 5.16,
+      "duration_sec": 5.76,
+      "mean_flow": 0.26,
+      "flow_coherence": 0.21,
+      "camera": "locked"
+    },
+    {
+      "index": 5,
+      "start_sec": 10.92,
+      "duration_sec": 3.0,
+      "mean_flow": 0.11,
+      "flow_coherence": 0.53,
+      "camera": "locked"
+    },
+    {
+      "index": 6,
+      "start_sec": 13.92,
+      "duration_sec": 1.68,
+      "mean_flow": 0.89,
+      "flow_coherence": 0.5,
+      "camera": "drift"
+    },
+    {
+      "index": 7,
+      "start_sec": 15.6,
+      "duration_sec": 1.8,
+      "mean_flow": 0.07,
+      "flow_coherence": 0.47,
+      "camera": "locked"
+    },
+    {
+      "index": 8,
+      "start_sec": 17.4,
+      "duration_sec": 4.8,
+      "mean_flow": 0.56,
+      "flow_coherence": 0.55,
+      "camera": "drift"
+    },
+    {
+      "index": 9,
+      "start_sec": 22.2,
+      "duration_sec": 7.32,
+      "mean_flow": 0.15,
+      "flow_coherence": 0.34,
+      "camera": "locked"
+    },
+    {
+      "index": 10,
+      "start_sec": 29.52,
+      "duration_sec": 1.92,
+      "mean_flow": 0.1,
+      "flow_coherence": 0.84,
+      "camera": "locked"
+    },
+    {
+      "index": 11,
+      "start_sec": 31.44,
+      "duration_sec": 3.0,
+      "mean_flow": 0.04,
+      "flow_coherence": 0.21,
+      "camera": "locked"
+    },
+    {
+      "index": 12,
+      "start_sec": 34.44,
+      "duration_sec": 2.28,
+      "mean_flow": 0.05,
+      "flow_coherence": 0.29,
+      "camera": "locked"
+    },
+    {
+      "index": 13,
+      "start_sec": 36.72,
+      "duration_sec": 1.56,
+      "mean_flow": 0.05,
+      "flow_coherence": 0.67,
+      "camera": "locked"
+    },
+    {
+      "index": 14,
+      "start_sec": 38.28,
+      "duration_sec": 1.56,
+      "mean_flow": 0.08,
+      "flow_coherence": 0.46,
+      "camera": "locked"
+    },
+    {
+      "index": 15,
+      "start_sec": 39.84,
+      "duration_sec": 1.44,
+      "mean_flow": 0.01,
+      "flow_coherence": 0.15,
+      "camera": "locked"
+    },
+    {
+      "index": 16,
+      "start_sec": 41.28,
+      "duration_sec": 0.6,
+      "mean_flow": 0.08,
+      "flow_coherence": 0.81,
+      "camera": "locked"
+    },
+    {
+      "index": 17,
+      "start_sec": 41.88,
+      "duration_sec": 1.8,
+      "mean_flow": 0.03,
+      "flow_coherence": 0.72,
+      "camera": "locked"
+    },
+    {
+      "index": 18,
+      "start_sec": 43.68,
+      "duration_sec": 0.48,
+      "mean_flow": 0.03,
+      "flow_coherence": 0.14,
+      "camera": "locked"
+    },
+    {
+      "index": 19,
+      "start_sec": 44.16,
+      "duration_sec": 1.08,
+      "mean_flow": 0.01,
+      "flow_coherence": 0.68,
+      "camera": "locked"
+    },
+    {
+      "index": 20,
+      "start_sec": 45.24,
+      "duration_sec": 1.56,
+      "mean_flow": 0.67,
+      "flow_coherence": 0.98,
+      "camera": "camera_move"
+    },
+    {
+      "index": 21,
+      "start_sec": 46.8,
+      "duration_sec": 0.96,
+      "mean_flow": 0.34,
+      "flow_coherence": 0.8,
+      "camera": "locked"
+    },
+    {
+      "index": 22,
+      "start_sec": 47.76,
+      "duration_sec": 0.48,
+      "mean_flow": 3.96,
+      "flow_coherence": 0.44,
+      "camera": "dynamic_subject"
+    },
+    {
+      "index": 23,
+      "start_sec": 48.24,
+      "duration_sec": 0.48,
+      "mean_flow": 4.55,
+      "flow_coherence": 0.33,
+      "camera": "dynamic_subject"
+    },
+    {
+      "index": 24,
+      "start_sec": 48.72,
+      "duration_sec": 7.92,
+      "mean_flow": 0.06,
+      "flow_coherence": 0.79,
+      "camera": "locked"
+    },
+    {
+      "index": 25,
+      "start_sec": 56.64,
+      "duration_sec": 1.56,
+      "mean_flow": 7.48,
+      "flow_coherence": 0.64,
+      "camera": "dynamic_subject"
+    },
+    {
+      "index": 26,
+      "start_sec": 58.2,
+      "duration_sec": 1.44,
+      "mean_flow": 1.45,
+      "flow_coherence": 0.96,
+      "camera": "camera_move"
+    },
+    {
+      "index": 27,
+      "start_sec": 59.64,
+      "duration_sec": 2.88,
+      "mean_flow": 3.28,
+      "flow_coherence": 0.98,
+      "camera": "camera_move"
+    },
+    {
+      "index": 28,
+      "start_sec": 62.52,
+      "duration_sec": 0.84,
+      "mean_flow": 0.37,
+      "flow_coherence": 0.85,
+      "camera": "camera_move"
+    },
+    {
+      "index": 29,
+      "start_sec": 63.36,
+      "duration_sec": 1.2,
+      "mean_flow": 0.7,
+      "flow_coherence": 0.99,
+      "camera": "camera_move"
+    },
+    {
+      "index": 30,
+      "start_sec": 64.56,
+      "duration_sec": 1.56,
+      "mean_flow": 0.38,
+      "flow_coherence": 0.98,
+      "camera": "camera_move"
+    },
+    {
+      "index": 31,
+      "start_sec": 66.12,
+      "duration_sec": 1.8,
+      "mean_flow": 0.99,
+      "flow_coherence": 0.87,
+      "camera": "camera_move"
+    },
+    {
+      "index": 32,
+      "start_sec": 67.92,
+      "duration_sec": 1.08,
+      "mean_flow": 1.42,
+      "flow_coherence": 0.97,
+      "camera": "camera_move"
+    },
+    {
+      "index": 33,
+      "start_sec": 69.0,
+      "duration_sec": 0.48,
+      "mean_flow": 4.25,
+      "flow_coherence": 0.64,
+      "camera": "dynamic_subject"
+    },
+    {
+      "index": 34,
+      "start_sec": 69.48,
+      "duration_sec": 0.6,
+      "mean_flow": 5.2,
+      "flow_coherence": 0.87,
+      "camera": "camera_move"
+    },
+    {
+      "index": 35,
+      "start_sec": 70.08,
+      "duration_sec": 0.72,
+      "mean_flow": 2.65,
+      "flow_coherence": 0.49,
+      "camera": "dynamic_subject"
+    },
+    {
+      "index": 36,
+      "start_sec": 70.8,
+      "duration_sec": 0.48,
+      "mean_flow": 2.61,
+      "flow_coherence": 0.63,
+      "camera": "dynamic_subject"
+    },
+    {
+      "index": 37,
+      "start_sec": 71.28,
+      "duration_sec": 5.76,
+      "mean_flow": 0.77,
+      "flow_coherence": 0.77,
+      "camera": "camera_move"
+    },
+    {
+      "index": 38,
+      "start_sec": 77.04,
+      "duration_sec": 1.56,
+      "mean_flow": 1.63,
+      "flow_coherence": 0.37,
+      "camera": "drift"
+    },
+    {
+      "index": 39,
+      "start_sec": 78.6,
+      "duration_sec": 4.92,
+      "mean_flow": 0.07,
+      "flow_coherence": 0.57,
+      "camera": "locked"
+    },
+    {
+      "index": 40,
+      "start_sec": 83.52,
+      "duration_sec": 4.44,
+      "mean_flow": 0.59,
+      "flow_coherence": 0.96,
+      "camera": "camera_move"
+    },
+    {
+      "index": 41,
+      "start_sec": 87.96,
+      "duration_sec": 21.12,
+      "mean_flow": 0.29,
+      "flow_coherence": 0.98,
+      "camera": "locked"
+    },
+    {
+      "index": 42,
+      "start_sec": 109.08,
+      "duration_sec": 1.68,
+      "mean_flow": 0.03,
+      "flow_coherence": 0.11,
+      "camera": "locked"
+    },
+    {
+      "index": 43,
+      "start_sec": 110.76,
+      "duration_sec": 2.76,
+      "mean_flow": 0.02,
+      "flow_coherence": 0.03,
+      "camera": "locked"
+    },
+    {
+      "index": 44,
+      "start_sec": 113.52,
+      "duration_sec": 3.96,
+      "mean_flow": 1.78,
+      "flow_coherence": 0.98,
+      "camera": "camera_move"
+    },
+    {
+      "index": 45,
+      "start_sec": 117.48,
+      "duration_sec": 46.68,
+      "mean_flow": 0.14,
+      "flow_coherence": 0.83,
+      "camera": "locked"
+    },
+    {
+      "index": 46,
+      "start_sec": 164.16,
+      "duration_sec": 5.64,
+      "mean_flow": 0.04,
+      "flow_coherence": 0.73,
+      "camera": "locked"
+    },
+    {
+      "index": 47,
+      "start_sec": 169.8,
+      "duration_sec": 3.6,
+      "mean_flow": 0.04,
+      "flow_coherence": 0.35,
+      "camera": "locked"
+    },
+    {
+      "index": 48,
+      "start_sec": 173.4,
+      "duration_sec": 5.64,
+      "mean_flow": 0.03,
+      "flow_coherence": 0.22,
+      "camera": "locked"
+    },
+    {
+      "index": 49,
+      "start_sec": 179.04,
+      "duration_sec": 2.52,
+      "mean_flow": 0.03,
+      "flow_coherence": 0.29,
+      "camera": "locked"
+    },
+    {
+      "index": 50,
+      "start_sec": 181.56,
+      "duration_sec": 5.28,
+      "mean_flow": 0.13,
+      "flow_coherence": 0.76,
+      "camera": "locked"
+    },
+    {
+      "index": 51,
+      "start_sec": 186.84,
+      "duration_sec": 1.92,
+      "mean_flow": 0.08,
+      "flow_coherence": 0.45,
+      "camera": "locked"
+    },
+    {
+      "index": 52,
+      "start_sec": 188.76,
+      "duration_sec": 3.0,
+      "mean_flow": 0.06,
+      "flow_coherence": 0.44,
+      "camera": "locked"
+    },
+    {
+      "index": 53,
+      "start_sec": 191.76,
+      "duration_sec": 3.24,
+      "mean_flow": 0.05,
+      "flow_coherence": 0.2,
+      "camera": "locked"
+    },
+    {
+      "index": 54,
+      "start_sec": 195.0,
+      "duration_sec": 3.72,
+      "mean_flow": 0.42,
+      "flow_coherence": 0.96,
+      "camera": "camera_move"
+    },
+    {
+      "index": 55,
+      "start_sec": 198.72,
+      "duration_sec": 0.96,
+      "mean_flow": 0.02,
+      "flow_coherence": 0.15,
+      "camera": "locked"
+    },
+    {
+      "index": 56,
+      "start_sec": 199.68,
+      "duration_sec": 3.36,
+      "mean_flow": 0.03,
+      "flow_coherence": 0.06,
+      "camera": "locked"
+    },
+    {
+      "index": 57,
+      "start_sec": 203.04,
+      "duration_sec": 2.4,
+      "mean_flow": 0.03,
+      "flow_coherence": 0.28,
+      "camera": "locked"
+    },
+    {
+      "index": 58,
+      "start_sec": 205.44,
+      "duration_sec": 3.96,
+      "mean_flow": 0.1,
+      "flow_coherence": 0.55,
+      "camera": "locked"
+    },
+    {
+      "index": 59,
+      "start_sec": 209.4,
+      "duration_sec": 9.48,
+      "mean_flow": 0.04,
+      "flow_coherence": 0.3,
+      "camera": "locked"
+    },
+    {
+      "index": 60,
+      "start_sec": 218.88,
+      "duration_sec": 29.4,
+      "mean_flow": 0.26,
+      "flow_coherence": 0.82,
+      "camera": "locked"
+    },
+    {
+      "index": 61,
+      "start_sec": 248.28,
+      "duration_sec": 5.04,
+      "mean_flow": 0.06,
+      "flow_coherence": 0.72,
+      "camera": "locked"
+    },
+    {
+      "index": 62,
+      "start_sec": 253.32,
+      "duration_sec": 0.48,
+      "mean_flow": 0.29,
+      "flow_coherence": 0.76,
+      "camera": "locked"
+    },
+    {
+      "index": 63,
+      "start_sec": 253.8,
+      "duration_sec": 4.68,
+      "mean_flow": 0.42,
+      "flow_coherence": 0.87,
+      "camera": "camera_move"
+    },
+    {
+      "index": 64,
+      "start_sec": 258.48,
+      "duration_sec": 2.76,
+      "mean_flow": 0.15,
+      "flow_coherence": 0.37,
+      "camera": "locked"
+    },
+    {
+      "index": 65,
+      "start_sec": 261.24,
+      "duration_sec": 3.36,
+      "mean_flow": 0.39,
+      "flow_coherence": 0.67,
+      "camera": "drift"
+    },
+    {
+      "index": 66,
+      "start_sec": 264.6,
+      "duration_sec": 3.36,
+      "mean_flow": 1.44,
+      "flow_coherence": 0.97,
+      "camera": "camera_move"
+    },
+    {
+      "index": 67,
+      "start_sec": 267.96,
+      "duration_sec": 3.12,
+      "mean_flow": 0.02,
+      "flow_coherence": 0.21,
+      "camera": "locked"
+    },
+    {
+      "index": 68,
+      "start_sec": 271.08,
+      "duration_sec": 3.12,
+      "mean_flow": 1.08,
+      "flow_coherence": 0.98,
+      "camera": "camera_move"
+    },
+    {
+      "index": 69,
+      "start_sec": 274.2,
+      "duration_sec": 4.44,
+      "mean_flow": 0.31,
+      "flow_coherence": 0.64,
+      "camera": "locked"
+    },
+    {
+      "index": 70,
+      "start_sec": 278.64,
+      "duration_sec": 5.52,
+      "mean_flow": 0.04,
+      "flow_coherence": 0.24,
+      "camera": "locked"
+    },
+    {
+      "index": 71,
+      "start_sec": 284.16,
+      "duration_sec": 5.16,
+      "mean_flow": 1.72,
+      "flow_coherence": 0.94,
+      "camera": "camera_move"
+    },
+    {
+      "index": 72,
+      "start_sec": 289.32,
+      "duration_sec": 4.32,
+      "mean_flow": 1.33,
+      "flow_coherence": 0.9,
+      "camera": "camera_move"
+    },
+    {
+      "index": 73,
+      "start_sec": 293.64,
+      "duration_sec": 9.36,
+      "mean_flow": 0.58,
+      "flow_coherence": 0.71,
+      "camera": "camera_move"
+    },
+    {
+      "index": 74,
+      "start_sec": 303.0,
+      "duration_sec": 4.56,
+      "mean_flow": 1.12,
+      "flow_coherence": 0.9,
+      "camera": "camera_move"
+    },
+    {
+      "index": 75,
+      "start_sec": 307.56,
+      "duration_sec": 4.68,
+      "mean_flow": 0.02,
+      "flow_coherence": 0.29,
+      "camera": "locked"
+    },
+    {
+      "index": 76,
+      "start_sec": 312.24,
+      "duration_sec": 3.36,
+      "mean_flow": 1.08,
+      "flow_coherence": 0.95,
+      "camera": "camera_move"
+    },
+    {
+      "index": 77,
+      "start_sec": 315.6,
+      "duration_sec": 1.32,
+      "mean_flow": 0.6,
+      "flow_coherence": 0.99,
+      "camera": "camera_move"
+    },
+    {
+      "index": 78,
+      "start_sec": 316.92,
+      "duration_sec": 2.16,
+      "mean_flow": 0.03,
+      "flow_coherence": 0.05,
+      "camera": "locked"
+    },
+    {
+      "index": 79,
+      "start_sec": 319.08,
+      "duration_sec": 3.24,
+      "mean_flow": 0.62,
+      "flow_coherence": 0.67,
+      "camera": "drift"
+    },
+    {
+      "index": 80,
+      "start_sec": 322.32,
+      "duration_sec": 6.48,
+      "mean_flow": 0.19,
+      "flow_coherence": 0.85,
+      "camera": "locked"
+    },
+    {
+      "index": 81,
+      "start_sec": 328.8,
+      "duration_sec": 3.12,
+      "mean_flow": 1.95,
+      "flow_coherence": 0.85,
+      "camera": "camera_move"
+    },
+    {
+      "index": 82,
+      "start_sec": 331.92,
+      "duration_sec": 7.08,
+      "mean_flow": 0.03,
+      "flow_coherence": 0.6,
+      "camera": "locked"
+    },
+    {
+      "index": 83,
+      "start_sec": 339.0,
+      "duration_sec": 22.68,
+      "mean_flow": 0.15,
+      "flow_coherence": 0.39,
+      "camera": "locked"
+    },
+    {
+      "index": 84,
+      "start_sec": 361.68,
+      "duration_sec": 7.2,
+      "mean_flow": 0.09,
+      "flow_coherence": 0.52,
+      "camera": "locked"
+    },
+    {
+      "index": 85,
+      "start_sec": 368.88,
+      "duration_sec": 2.76,
+      "mean_flow": 0.02,
+      "flow_coherence": 0.84,
+      "camera": "locked"
+    },
+    {
+      "index": 86,
+      "start_sec": 371.64,
+      "duration_sec": 0.48,
+      "mean_flow": 0.11,
+      "flow_coherence": 0.2,
+      "camera": "locked"
+    },
+    {
+      "index": 87,
+      "start_sec": 372.12,
+      "duration_sec": 2.04,
+      "mean_flow": 0.04,
+      "flow_coherence": 0.29,
+      "camera": "locked"
+    },
+    {
+      "index": 88,
+      "start_sec": 374.16,
+      "duration_sec": 1.08,
+      "mean_flow": 0.02,
+      "flow_coherence": 0.18,
+      "camera": "locked"
+    },
+    {
+      "index": 89,
+      "start_sec": 375.24,
+      "duration_sec": 12.48,
+      "mean_flow": 0.06,
+      "flow_coherence": 0.74,
+      "camera": "locked"
+    },
+    {
+      "index": 90,
+      "start_sec": 387.72,
+      "duration_sec": 3.48,
+      "mean_flow": 0.28,
+      "flow_coherence": 0.74,
+      "camera": "locked"
+    },
+    {
+      "index": 91,
+      "start_sec": 391.2,
+      "duration_sec": 5.28,
+      "mean_flow": 1.37,
+      "flow_coherence": 0.97,
+      "camera": "camera_move"
+    },
+    {
+      "index": 92,
+      "start_sec": 396.48,
+      "duration_sec": 2.52,
+      "mean_flow": 0.01,
+      "flow_coherence": 0.27,
+      "camera": "locked"
+    },
+    {
+      "index": 93,
+      "start_sec": 399.0,
+      "duration_sec": 2.4,
+      "mean_flow": 0.02,
+      "flow_coherence": 0.14,
+      "camera": "locked"
+    },
+    {
+      "index": 94,
+      "start_sec": 401.4,
+      "duration_sec": 1.68,
+      "mean_flow": 0.04,
+      "flow_coherence": 0.25,
+      "camera": "locked"
+    },
+    {
+      "index": 95,
+      "start_sec": 403.08,
+      "duration_sec": 1.68,
+      "mean_flow": 1.38,
+      "flow_coherence": 0.97,
+      "camera": "camera_move"
+    },
+    {
+      "index": 96,
+      "start_sec": 404.76,
+      "duration_sec": 2.16,
+      "mean_flow": 0.15,
+      "flow_coherence": 0.63,
+      "camera": "locked"
+    },
+    {
+      "index": 97,
+      "start_sec": 406.92,
+      "duration_sec": 2.52,
+      "mean_flow": 0.01,
+      "flow_coherence": 0.21,
+      "camera": "locked"
+    },
+    {
+      "index": 98,
+      "start_sec": 409.44,
+      "duration_sec": 4.56,
+      "mean_flow": 0.03,
+      "flow_coherence": 0.08,
+      "camera": "locked"
+    },
+    {
+      "index": 99,
+      "start_sec": 414.0,
+      "duration_sec": 1.44,
+      "mean_flow": 0.03,
+      "flow_coherence": 0.69,
+      "camera": "locked"
+    },
+    {
+      "index": 100,
+      "start_sec": 415.44,
+      "duration_sec": 0.48,
+      "mean_flow": 1.14,
+      "flow_coherence": 0.88,
+      "camera": "camera_move"
+    },
+    {
+      "index": 101,
+      "start_sec": 415.92,
+      "duration_sec": 0.96,
+      "mean_flow": 0.52,
+      "flow_coherence": 0.75,
+      "camera": "camera_move"
+    },
+    {
+      "index": 102,
+      "start_sec": 416.88,
+      "duration_sec": 1.8,
+      "mean_flow": 0.93,
+      "flow_coherence": 0.9,
+      "camera": "camera_move"
+    },
+    {
+      "index": 103,
+      "start_sec": 418.68,
+      "duration_sec": 1.32,
+      "mean_flow": 2.21,
+      "flow_coherence": 0.76,
+      "camera": "camera_move"
+    },
+    {
+      "index": 104,
+      "start_sec": 420.0,
+      "duration_sec": 6.6,
+      "mean_flow": 0.24,
+      "flow_coherence": 0.72,
+      "camera": "locked"
+    },
+    {
+      "index": 105,
+      "start_sec": 426.6,
+      "duration_sec": 2.28,
+      "mean_flow": 1.36,
+      "flow_coherence": 0.49,
+      "camera": "drift"
+    },
+    {
+      "index": 106,
+      "start_sec": 428.88,
+      "duration_sec": 1.8,
+      "mean_flow": 2.6,
+      "flow_coherence": 0.97,
+      "camera": "camera_move"
+    },
+    {
+      "index": 107,
+      "start_sec": 430.68,
+      "duration_sec": 3.6,
+      "mean_flow": 1.22,
+      "flow_coherence": 0.99,
+      "camera": "camera_move"
+    },
+    {
+      "index": 108,
+      "start_sec": 434.28,
+      "duration_sec": 3.36,
+      "mean_flow": 0.02,
+      "flow_coherence": 0.62,
+      "camera": "locked"
+    },
+    {
+      "index": 109,
+      "start_sec": 437.64,
+      "duration_sec": 1.08,
+      "mean_flow": 0.41,
+      "flow_coherence": 0.92,
+      "camera": "camera_move"
+    },
+    {
+      "index": 110,
+      "start_sec": 438.72,
+      "duration_sec": 23.28,
+      "mean_flow": 0.4,
+      "flow_coherence": 0.89,
+      "camera": "camera_move"
+    },
+    {
+      "index": 111,
+      "start_sec": 462.0,
+      "duration_sec": 4.56,
+      "mean_flow": 1.75,
+      "flow_coherence": 0.94,
+      "camera": "camera_move"
+    },
+    {
+      "index": 112,
+      "start_sec": 466.56,
+      "duration_sec": 8.04,
+      "mean_flow": 0.02,
+      "flow_coherence": 0.09,
+      "camera": "locked"
+    },
+    {
+      "index": 113,
+      "start_sec": 474.6,
+      "duration_sec": 5.64,
+      "mean_flow": 1.08,
+      "flow_coherence": 0.97,
+      "camera": "camera_move"
+    },
+    {
+      "index": 114,
+      "start_sec": 480.24,
+      "duration_sec": 10.68,
+      "mean_flow": 0.81,
+      "flow_coherence": 0.98,
+      "camera": "camera_move"
+    },
+    {
+      "index": 115,
+      "start_sec": 490.92,
+      "duration_sec": 1.56,
+      "mean_flow": 0.06,
+      "flow_coherence": 0.64,
+      "camera": "locked"
+    },
+    {
+      "index": 116,
+      "start_sec": 492.48,
+      "duration_sec": 21.36,
+      "mean_flow": 0.18,
+      "flow_coherence": 0.57,
+      "camera": "locked"
+    },
+    {
+      "index": 117,
+      "start_sec": 513.84,
+      "duration_sec": 8.16,
+      "mean_flow": 0.13,
+      "flow_coherence": 0.74,
+      "camera": "locked"
+    },
+    {
+      "index": 118,
+      "start_sec": 522.0,
+      "duration_sec": 2.76,
+      "mean_flow": 0.14,
+      "flow_coherence": 0.74,
+      "camera": "locked"
+    },
+    {
+      "index": 119,
+      "start_sec": 524.76,
+      "duration_sec": 14.52,
+      "mean_flow": 0.41,
+      "flow_coherence": 0.37,
+      "camera": "drift"
+    },
+    {
+      "index": 120,
+      "start_sec": 539.28,
+      "duration_sec": 1.44,
+      "mean_flow": 0.62,
+      "flow_coherence": 0.95,
+      "camera": "camera_move"
+    },
+    {
+      "index": 121,
+      "start_sec": 540.72,
+      "duration_sec": 7.44,
+      "mean_flow": 0.05,
+      "flow_coherence": 0.21,
+      "camera": "locked"
+    },
+    {
+      "index": 122,
+      "start_sec": 548.16,
+      "duration_sec": 2.52,
+      "mean_flow": 0.03,
+      "flow_coherence": 0.48,
+      "camera": "locked"
+    },
+    {
+      "index": 123,
+      "start_sec": 550.68,
+      "duration_sec": 2.52,
+      "mean_flow": 0.26,
+      "flow_coherence": 0.81,
+      "camera": "locked"
+    },
+    {
+      "index": 124,
+      "start_sec": 553.2,
+      "duration_sec": 3.0,
+      "mean_flow": 0.28,
+      "flow_coherence": 0.78,
+      "camera": "locked"
+    },
+    {
+      "index": 125,
+      "start_sec": 556.2,
+      "duration_sec": 1.92,
+      "mean_flow": 0.22,
+      "flow_coherence": 0.14,
+      "camera": "locked"
+    },
+    {
+      "index": 126,
+      "start_sec": 558.12,
+      "duration_sec": 2.88,
+      "mean_flow": 0.02,
+      "flow_coherence": 0.84,
+      "camera": "locked"
+    },
+    {
+      "index": 127,
+      "start_sec": 561.0,
+      "duration_sec": 2.28,
+      "mean_flow": 0.52,
+      "flow_coherence": 0.83,
+      "camera": "camera_move"
+    },
+    {
+      "index": 128,
+      "start_sec": 563.28,
+      "duration_sec": 2.52,
+      "mean_flow": 0.58,
+      "flow_coherence": 0.1,
+      "camera": "drift"
+    },
+    {
+      "index": 129,
+      "start_sec": 565.8,
+      "duration_sec": 8.52,
+      "mean_flow": 0.04,
+      "flow_coherence": 0.21,
+      "camera": "locked"
+    },
+    {
+      "index": 130,
+      "start_sec": 574.32,
+      "duration_sec": 5.88,
+      "mean_flow": 0.02,
+      "flow_coherence": 0.74,
+      "camera": "locked"
+    },
+    {
+      "index": 131,
+      "start_sec": 580.2,
+      "duration_sec": 9.84,
+      "mean_flow": 0.4,
+      "flow_coherence": 0.91,
+      "camera": "camera_move"
+    },
+    {
+      "index": 132,
+      "start_sec": 590.04,
+      "duration_sec": 11.76,
+      "mean_flow": 0.29,
+      "flow_coherence": 0.66,
+      "camera": "locked"
+    },
+    {
+      "index": 133,
+      "start_sec": 601.8,
+      "duration_sec": 31.68,
+      "mean_flow": 0.05,
+      "flow_coherence": 0.55,
+      "camera": "locked"
+    },
+    {
+      "index": 134,
+      "start_sec": 633.48,
+      "duration_sec": 13.44,
+      "mean_flow": 0.0,
+      "flow_coherence": 0.19,
+      "camera": "locked"
+    },
+    {
+      "index": 135,
+      "start_sec": 646.92,
+      "duration_sec": 12.12,
+      "mean_flow": 0.01,
+      "flow_coherence": 0.31,
+      "camera": "locked"
+    },
+    {
+      "index": 136,
+      "start_sec": 659.04,
+      "duration_sec": 33.72,
+      "mean_flow": 0.0,
+      "flow_coherence": 0.32,
+      "camera": "locked"
+    },
+    {
+      "index": 137,
+      "start_sec": 692.76,
+      "duration_sec": 44.04,
+      "mean_flow": 0.03,
+      "flow_coherence": 0.18,
+      "camera": "locked"
+    },
+    {
+      "index": 138,
+      "start_sec": 736.8,
+      "duration_sec": 3.6,
+      "mean_flow": 0.01,
+      "flow_coherence": 0.24,
+      "camera": "locked"
+    },
+    {
+      "index": 139,
+      "start_sec": 740.4,
+      "duration_sec": 4.92,
+      "mean_flow": 0.04,
+      "flow_coherence": 0.7,
+      "camera": "locked"
+    },
+    {
+      "index": 140,
+      "start_sec": 745.32,
+      "duration_sec": 18.0,
+      "mean_flow": 0.05,
+      "flow_coherence": 0.67,
+      "camera": "locked"
+    },
+    {
+      "index": 141,
+      "start_sec": 763.32,
+      "duration_sec": 20.04,
+      "mean_flow": 0.07,
+      "flow_coherence": 0.63,
+      "camera": "locked"
+    },
+    {
+      "index": 142,
+      "start_sec": 783.36,
+      "duration_sec": 4.08,
+      "mean_flow": 0.0,
+      "flow_coherence": 0.52,
+      "camera": "locked"
+    },
+    {
+      "index": 143,
+      "start_sec": 787.44,
+      "duration_sec": 0.48,
+      "mean_flow": 0.09,
+      "flow_coherence": 0.52,
+      "camera": "locked"
+    },
+    {
+      "index": 144,
+      "start_sec": 787.92,
+      "duration_sec": 4.44,
+      "mean_flow": 0.2,
+      "flow_coherence": 0.51,
+      "camera": "locked"
+    },
+    {
+      "index": 145,
+      "start_sec": 792.36,
+      "duration_sec": 2.88,
+      "mean_flow": 0.02,
+      "flow_coherence": 0.35,
+      "camera": "locked"
+    },
+    {
+      "index": 146,
+      "start_sec": 795.24,
+      "duration_sec": 12.72,
+      "mean_flow": 0.63,
+      "flow_coherence": 0.71,
+      "camera": "camera_move"
+    },
+    {
+      "index": 147,
+      "start_sec": 807.96,
+      "duration_sec": 84.6,
+      "mean_flow": 0.01,
+      "flow_coherence": 0.3,
+      "camera": "locked"
+    },
+    {
+      "index": 148,
+      "start_sec": 892.56,
+      "duration_sec": 3.72,
+      "mean_flow": 0.0,
+      "flow_coherence": 0.15,
+      "camera": "locked"
+    },
+    {
+      "index": 149,
+      "start_sec": 896.28,
+      "duration_sec": 5.88,
+      "mean_flow": 2.05,
+      "flow_coherence": 0.95,
+      "camera": "camera_move"
+    },
+    {
+      "index": 150,
+      "start_sec": 902.16,
+      "duration_sec": 0.48,
+      "mean_flow": 0.06,
+      "flow_coherence": 0.31,
+      "camera": "locked"
+    },
+    {
+      "index": 151,
+      "start_sec": 902.64,
+      "duration_sec": 3.96,
+      "mean_flow": 0.05,
+      "flow_coherence": 0.93,
+      "camera": "locked"
+    },
+    {
+      "index": 152,
+      "start_sec": 906.6,
+      "duration_sec": 20.16,
+      "mean_flow": 0.84,
+      "flow_coherence": 0.96,
+      "camera": "camera_move"
+    },
+    {
+      "index": 153,
+      "start_sec": 926.76,
+      "duration_sec": 9.36,
+      "mean_flow": 0.67,
+      "flow_coherence": 0.98,
+      "camera": "camera_move"
+    },
+    {
+      "index": 154,
+      "start_sec": 936.12,
+      "duration_sec": 13.32,
+      "mean_flow": 0.0,
+      "flow_coherence": 0.33,
+      "camera": "locked"
+    },
+    {
+      "index": 155,
+      "start_sec": 949.44,
+      "duration_sec": 12.84,
+      "mean_flow": 0.0,
+      "flow_coherence": 0.22,
+      "camera": "locked"
+    },
+    {
+      "index": 156,
+      "start_sec": 962.28,
+      "duration_sec": 11.64,
+      "mean_flow": 0.0,
+      "flow_coherence": 0.37,
+      "camera": "locked"
+    },
+    {
+      "index": 157,
+      "start_sec": 973.92,
+      "duration_sec": 16.8,
+      "mean_flow": 0.03,
+      "flow_coherence": 0.85,
+      "camera": "locked"
+    },
+    {
+      "index": 158,
+      "start_sec": 990.72,
+      "duration_sec": 14.88,
+      "mean_flow": 0.54,
+      "flow_coherence": 0.78,
+      "camera": "camera_move"
+    },
+    {
+      "index": 159,
+      "start_sec": 1005.6,
+      "duration_sec": 16.32,
+      "mean_flow": 0.01,
+      "flow_coherence": 0.19,
+      "camera": "locked"
+    },
+    {
+      "index": 160,
+      "start_sec": 1021.92,
+      "duration_sec": 68.88,
+      "mean_flow": 0.18,
+      "flow_coherence": 0.67,
+      "camera": "locked"
+    },
+    {
+      "index": 161,
+      "start_sec": 1090.8,
+      "duration_sec": 19.92,
+      "mean_flow": 0.04,
+      "flow_coherence": 0.04,
+      "camera": "locked"
+    },
+    {
+      "index": 162,
+      "start_sec": 1110.72,
+      "duration_sec": 53.28,
+      "mean_flow": 0.01,
+      "flow_coherence": 0.29,
+      "camera": "locked"
+    },
+    {
+      "index": 163,
+      "start_sec": 1164.0,
+      "duration_sec": 13.08,
+      "mean_flow": 0.04,
+      "flow_coherence": 0.36,
+      "camera": "locked"
+    },
+    {
+      "index": 164,
+      "start_sec": 1177.08,
+      "duration_sec": 8.52,
+      "mean_flow": 0.93,
+      "flow_coherence": 0.98,
+      "camera": "camera_move"
+    },
+    {
+      "index": 165,
+      "start_sec": 1185.6,
+      "duration_sec": 2.52,
+      "mean_flow": 0.1,
+      "flow_coherence": 0.9,
+      "camera": "locked"
+    },
+    {
+      "index": 166,
+      "start_sec": 1188.12,
+      "duration_sec": 1.8,
+      "mean_flow": 0.18,
+      "flow_coherence": 0.49,
+      "camera": "locked"
+    },
+    {
+      "index": 167,
+      "start_sec": 1189.92,
+      "duration_sec": 1.32,
+      "mean_flow": 5.99,
+      "flow_coherence": 0.85,
+      "camera": "camera_move"
+    },
+    {
+      "index": 168,
+      "start_sec": 1191.24,
+      "duration_sec": 7.68,
+      "mean_flow": 2.98,
+      "flow_coherence": 0.98,
+      "camera": "camera_move"
+    },
+    {
+      "index": 169,
+      "start_sec": 1198.92,
+      "duration_sec": 7.32,
+      "mean_flow": 4.6,
+      "flow_coherence": 0.32,
+      "camera": "dynamic_subject"
+    },
+    {
+      "index": 170,
+      "start_sec": 1206.24,
+      "duration_sec": 8.64,
+      "mean_flow": 0.63,
+      "flow_coherence": 0.83,
+      "camera": "camera_move"
+    },
+    {
+      "index": 171,
+      "start_sec": 1214.88,
+      "duration_sec": 1.8,
+      "mean_flow": 0.14,
+      "flow_coherence": 0.97,
+      "camera": "locked"
+    },
+    {
+      "index": 172,
+      "start_sec": 1216.68,
+      "duration_sec": 3.36,
+      "mean_flow": 0.05,
+      "flow_coherence": 0.32,
+      "camera": "locked"
+    },
+    {
+      "index": 173,
+      "start_sec": 1220.04,
+      "duration_sec": 3.6,
+      "mean_flow": 0.57,
+      "flow_coherence": 0.92,
+      "camera": "camera_move"
+    },
+    {
+      "index": 174,
+      "start_sec": 1223.64,
+      "duration_sec": 5.16,
+      "mean_flow": 0.23,
+      "flow_coherence": 0.82,
+      "camera": "locked"
+    },
+    {
+      "index": 175,
+      "start_sec": 1228.8,
+      "duration_sec": 1.8,
+      "mean_flow": 0.04,
+      "flow_coherence": 0.16,
+      "camera": "locked"
+    },
+    {
+      "index": 176,
+      "start_sec": 1230.6,
+      "duration_sec": 9.84,
+      "mean_flow": 0.01,
+      "flow_coherence": 0.27,
+      "camera": "locked"
+    },
+    {
+      "index": 177,
+      "start_sec": 1240.44,
+      "duration_sec": 0.6,
+      "mean_flow": 0.16,
+      "flow_coherence": 0.39,
+      "camera": "locked"
+    },
+    {
+      "index": 178,
+      "start_sec": 1241.04,
+      "duration_sec": 1.44,
+      "mean_flow": 0.01,
+      "flow_coherence": 0.18,
+      "camera": "locked"
+    },
+    {
+      "index": 179,
+      "start_sec": 1242.48,
+      "duration_sec": 1.32,
+      "mean_flow": 0.0,
+      "flow_coherence": 0.22,
+      "camera": "locked"
+    },
+    {
+      "index": 180,
+      "start_sec": 1243.8,
+      "duration_sec": 16.32,
+      "mean_flow": 0.01,
+      "flow_coherence": 0.59,
+      "camera": "locked"
+    },
+    {
+      "index": 181,
+      "start_sec": 1260.12,
+      "duration_sec": 5.16,
+      "mean_flow": 0.1,
+      "flow_coherence": 0.31,
+      "camera": "locked"
+    },
+    {
+      "index": 182,
+      "start_sec": 1265.28,
+      "duration_sec": 7.32,
+      "mean_flow": 0.06,
+      "flow_coherence": 0.54,
+      "camera": "locked"
+    },
+    {
+      "index": 183,
+      "start_sec": 1272.6,
+      "duration_sec": 20.76,
+      "mean_flow": 0.02,
+      "flow_coherence": 0.56,
+      "camera": "locked"
+    },
+    {
+      "index": 184,
+      "start_sec": 1293.36,
+      "duration_sec": 10.08,
+      "mean_flow": 0.0,
+      "flow_coherence": 0.34,
+      "camera": "locked"
+    },
+    {
+      "index": 185,
+      "start_sec": 1303.44,
+      "duration_sec": 37.2,
+      "mean_flow": 0.03,
+      "flow_coherence": 0.3,
+      "camera": "locked"
+    },
+    {
+      "index": 186,
+      "start_sec": 1340.64,
+      "duration_sec": 10.92,
+      "mean_flow": 0.17,
+      "flow_coherence": 0.14,
+      "camera": "locked"
+    },
+    {
+      "index": 187,
+      "start_sec": 1351.56,
+      "duration_sec": 2.52,
+      "mean_flow": 0.06,
+      "flow_coherence": 0.37,
+      "camera": "locked"
+    },
+    {
+      "index": 188,
+      "start_sec": 1354.08,
+      "duration_sec": 2.64,
+      "mean_flow": 0.03,
+      "flow_coherence": 0.29,
+      "camera": "locked"
+    },
+    {
+      "index": 189,
+      "start_sec": 1356.72,
+      "duration_sec": 13.92,
+      "mean_flow": 0.08,
+      "flow_coherence": 0.81,
+      "camera": "locked"
+    },
+    {
+      "index": 190,
+      "start_sec": 1370.64,
+      "duration_sec": 3.72,
+      "mean_flow": 0.02,
+      "flow_coherence": 0.55,
+      "camera": "locked"
+    },
+    {
+      "index": 191,
+      "start_sec": 1374.36,
+      "duration_sec": 33.24,
+      "mean_flow": 0.02,
+      "flow_coherence": 0.7,
+      "camera": "locked"
+    },
+    {
+      "index": 192,
+      "start_sec": 1407.6,
+      "duration_sec": 6.24,
+      "mean_flow": 0.0,
+      "flow_coherence": 0.3,
+      "camera": "locked"
+    },
+    {
+      "index": 193,
+      "start_sec": 1413.84,
+      "duration_sec": 2.76,
+      "mean_flow": 0.02,
+      "flow_coherence": 0.16,
+      "camera": "locked"
+    },
+    {
+      "index": 194,
+      "start_sec": 1416.6,
+      "duration_sec": 17.4,
+      "mean_flow": 0.11,
+      "flow_coherence": 0.46,
+      "camera": "locked"
+    },
+    {
+      "index": 195,
+      "start_sec": 1434.0,
+      "duration_sec": 4.2,
+      "mean_flow": 0.08,
+      "flow_coherence": 0.24,
+      "camera": "locked"
+    },
+    {
+      "index": 196,
+      "start_sec": 1438.2,
+      "duration_sec": 5.16,
+      "mean_flow": 0.97,
+      "flow_coherence": 0.98,
+      "camera": "camera_move"
+    },
+    {
+      "index": 197,
+      "start_sec": 1443.36,
+      "duration_sec": 10.44,
+      "mean_flow": 1.23,
+      "flow_coherence": 1.0,
+      "camera": "camera_move"
+    },
+    {
+      "index": 198,
+      "start_sec": 1453.8,
+      "duration_sec": 4.32,
+      "mean_flow": 0.06,
+      "flow_coherence": 0.73,
+      "camera": "locked"
+    },
+    {
+      "index": 199,
+      "start_sec": 1458.12,
+      "duration_sec": 3.6,
+      "mean_flow": 0.05,
+      "flow_coherence": 0.74,
+      "camera": "locked"
+    },
+    {
+      "index": 200,
+      "start_sec": 1461.72,
+      "duration_sec": 6.0,
+      "mean_flow": 0.94,
+      "flow_coherence": 0.98,
+      "camera": "camera_move"
+    },
+    {
+      "index": 201,
+      "start_sec": 1467.72,
+      "duration_sec": 8.04,
+      "mean_flow": 0.0,
+      "flow_coherence": 0.06,
+      "camera": "locked"
+    },
+    {
+      "index": 202,
+      "start_sec": 1475.76,
+      "duration_sec": 5.88,
+      "mean_flow": 0.05,
+      "flow_coherence": 0.2,
+      "camera": "locked"
+    },
+    {
+      "index": 203,
+      "start_sec": 1481.64,
+      "duration_sec": 1.44,
+      "mean_flow": 0.01,
+      "flow_coherence": 0.38,
+      "camera": "locked"
+    },
+    {
+      "index": 204,
+      "start_sec": 1483.08,
+      "duration_sec": 0.84,
+      "mean_flow": 2.75,
+      "flow_coherence": 0.42,
+      "camera": "dynamic_subject"
+    },
+    {
+      "index": 205,
+      "start_sec": 1483.92,
+      "duration_sec": 0.84,
+      "mean_flow": 0.17,
+      "flow_coherence": 0.26,
+      "camera": "locked"
+    },
+    {
+      "index": 206,
+      "start_sec": 1484.76,
+      "duration_sec": 1.8,
+      "mean_flow": 0.0,
+      "flow_coherence": 0.29,
+      "camera": "locked"
+    },
+    {
+      "index": 207,
+      "start_sec": 1486.56,
+      "duration_sec": 3.96,
+      "mean_flow": 0.03,
+      "flow_coherence": 0.11,
+      "camera": "locked"
+    },
+    {
+      "index": 208,
+      "start_sec": 1490.52,
+      "duration_sec": 3.12,
+      "mean_flow": 0.03,
+      "flow_coherence": 0.15,
+      "camera": "locked"
+    },
+    {
+      "index": 209,
+      "start_sec": 1493.64,
+      "duration_sec": 2.4,
+      "mean_flow": 0.09,
+      "flow_coherence": 0.67,
+      "camera": "locked"
+    },
+    {
+      "index": 210,
+      "start_sec": 1496.04,
+      "duration_sec": 3.84,
+      "mean_flow": 0.1,
+      "flow_coherence": 0.55,
+      "camera": "locked"
+    },
+    {
+      "index": 211,
+      "start_sec": 1499.88,
+      "duration_sec": 8.64,
+      "mean_flow": 0.34,
+      "flow_coherence": 0.88,
+      "camera": "locked"
+    },
+    {
+      "index": 212,
+      "start_sec": 1508.52,
+      "duration_sec": 1.92,
+      "mean_flow": 0.02,
+      "flow_coherence": 0.12,
+      "camera": "locked"
+    },
+    {
+      "index": 213,
+      "start_sec": 1510.44,
+      "duration_sec": 9.84,
+      "mean_flow": 0.29,
+      "flow_coherence": 0.78,
+      "camera": "locked"
+    },
+    {
+      "index": 214,
+      "start_sec": 1520.28,
+      "duration_sec": 10.32,
+      "mean_flow": 6.0,
+      "flow_coherence": 0.99,
+      "camera": "camera_move"
+    },
+    {
+      "index": 215,
+      "start_sec": 1530.6,
+      "duration_sec": 2.52,
+      "mean_flow": 0.35,
+      "flow_coherence": 0.89,
+      "camera": "camera_move"
+    },
+    {
+      "index": 216,
+      "start_sec": 1533.12,
+      "duration_sec": 0.72,
+      "mean_flow": 2.01,
+      "flow_coherence": 0.75,
+      "camera": "camera_move"
+    },
+    {
+      "index": 217,
+      "start_sec": 1533.84,
+      "duration_sec": 0.84,
+      "mean_flow": 0.97,
+      "flow_coherence": 0.69,
+      "camera": "drift"
+    },
+    {
+      "index": 218,
+      "start_sec": 1534.68,
+      "duration_sec": 3.48,
+      "mean_flow": 1.79,
+      "flow_coherence": 0.96,
+      "camera": "camera_move"
+    },
+    {
+      "index": 219,
+      "start_sec": 1538.16,
+      "duration_sec": 6.96,
+      "mean_flow": 0.06,
+      "flow_coherence": 0.5,
+      "camera": "locked"
+    },
+    {
+      "index": 220,
+      "start_sec": 1545.12,
+      "duration_sec": 1.56,
+      "mean_flow": 0.01,
+      "flow_coherence": 0.2,
+      "camera": "locked"
+    },
+    {
+      "index": 221,
+      "start_sec": 1546.68,
+      "duration_sec": 2.76,
+      "mean_flow": 0.0,
+      "flow_coherence": 0.24,
+      "camera": "locked"
+    },
+    {
+      "index": 222,
+      "start_sec": 1549.44,
+      "duration_sec": 3.36,
+      "mean_flow": 0.24,
+      "flow_coherence": 0.91,
+      "camera": "locked"
+    },
+    {
+      "index": 223,
+      "start_sec": 1552.8,
+      "duration_sec": 7.8,
+      "mean_flow": 0.02,
+      "flow_coherence": 0.08,
+      "camera": "locked"
+    },
+    {
+      "index": 224,
+      "start_sec": 1560.6,
+      "duration_sec": 4.52,
+      "mean_flow": 0.07,
+      "flow_coherence": 0.73,
+      "camera": "locked"
+    }
+  ],
+  "metadata": {
+    "video_id": "tebV3F9kTp4",
+    "title": "Husband Discovers His Wife Is A Mass Killer",
+    "channel": "Dr Insanity",
+    "channel_id": "UCjnYCUIym8wNRjLtZCc6gNg",
+    "views": 14196220,
+    "duration_sec": 1566,
+    "found_via": "unbelievable crime story explained",
+    "published_at": "2024-04-03"
+  }
+}
