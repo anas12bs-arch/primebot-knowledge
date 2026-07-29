@@ -8525,5 +8525,199 @@
   "9cdd71f01a6a8610": {
     "title": "Rithm Captial CEO on Real Estate Outlook",
     "reason": "irrelevant"
+  },
+  "b4ab5222363e4758": {
+    "title": "Open AI announces two new models- GPT-transcribe and GPT-live-transcribe",
+    "category": "ai_models",
+    "score": 2
+  },
+  "7aa79b47451e9fdc": {
+    "title": "Show HN: Bocazasgames \u2013 Four multiplayer browser games with AI moderation",
+    "reason": "irrelevant"
+  },
+  "d9de1e08360baf0d": {
+    "title": "Show HN: TrueDeck \u2013 open-source multi-agent terminal deck that abstracts memory",
+    "reason": "irrelevant"
+  },
+  "585db2668852c018": {
+    "title": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
+    "reason": "irrelevant"
+  },
+  "331c09b4cf18203c": {
+    "title": "$\u03c0\\mathbf{R}^2$: Reactive Real-time Flow Policies",
+    "reason": "irrelevant"
+  },
+  "61f1b35126e6e387": {
+    "title": "Spend Experts Where You Are Unsure: Confidence-Adaptive Routing for Mixture-of-Experts LoRA",
+    "reason": "irrelevant"
+  },
+  "870a2a65b424bd50": {
+    "title": "Re-thinking Mammography Transfer Learning: The Dataset-Informed Transfer Learning (DITL) Framework for Breast Cancer Screening and Lesion Diagnosis",
+    "reason": "irrelevant"
+  },
+  "916028430ba275ba": {
+    "title": "VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening",
+    "category": "automation",
+    "score": 2
+  },
+  "242f45f50140a5b6": {
+    "title": "Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?",
+    "category": "automation",
+    "score": 3
+  },
+  "fd83930692235387": {
+    "title": "Reinformed Dreamer: An Asymmetric World Model Efficiently Trained through Latent Guidance",
+    "category": "ai_models",
+    "score": 2
+  },
+  "3e5fbd287232e1d0": {
+    "title": "Wonder: Video World Model Done Better",
+    "category": "ai_models",
+    "score": 3
+  },
+  "46c5dc7436d51cee": {
+    "title": "Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment",
+    "reason": "irrelevant"
+  },
+  "8c4207d306394e55": {
+    "title": "CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer",
+    "category": "ai_models",
+    "score": 3
+  },
+  "c67530b8e6ed913e": {
+    "title": "UniMem: Complementary Episodic-to-Parametric Memory for Boundary-Agnostic Task Streams",
+    "category": "automation",
+    "score": 2
+  },
+  "21b5f489b6355364": {
+    "title": "MDTransformer: A Hardware-Software Co-Design of Mode-Division Photonic Transformer Accelerator with Inverse-Designed Coherent Crossbar",
+    "reason": "irrelevant"
+  },
+  "798cf71e5d145589": {
+    "title": "Instruction-Tuned Models Locally Reuse Human Syntax More Than Humans Do",
+    "category": "ai_models",
+    "score": 3
+  },
+  "cb02da3b52c34e82": {
+    "title": "Pictura: Perspective-View Self-Play at Scale for Driving",
+    "category": "automation",
+    "score": 3
+  },
+  "eaa4cc97f8278cae": {
+    "title": "Parallel Decoding Distillation for Fast Image and Video Generation",
+    "category": "ai_models",
+    "score": 8
+  },
+  "5ce14e2391a9e72b": {
+    "title": "Sharpness-Aware Minimization and Muon: Robustness under the Spectral Norm",
+    "reason": "irrelevant"
+  },
+  "45c48c3e2a25bdd5": {
+    "title": "Empirical Evaluation of Out-Of-Distribution Performance of Tabular Foundation Models",
+    "category": "ai_models",
+    "score": 3
+  },
+  "3c03baaddad48e0a": {
+    "title": "Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?",
+    "category": "ai_models",
+    "score": 2
+  },
+  "6c96d87bddf7df61": {
+    "title": "Beyond Zooming: Learning Multi-Tool Visual Reasoning for Ultra-High-Resolution Remote Sensing",
+    "category": "ai_models",
+    "score": 2
+  },
+  "bae2819f01b9fec5": {
+    "title": "MemLens: A Value-Aware Memory Management System with Interactive Analytics for LLM-based Agents",
+    "category": "automation",
+    "score": 2
+  },
+  "c501aa60b39ade70": {
+    "title": "Untangling Co-Drift: Proactive Multi-Intent Failure Prediction and Root-Cause Disambiguation for Self-Driving Networks",
+    "reason": "irrelevant"
+  },
+  "07cc3f8f6bcef5f4": {
+    "title": "Generator-Aligned Representation Interfaces for Diagnostic Soft Equivariance",
+    "reason": "irrelevant"
+  },
+  "aaf96b473ac3dcfd": {
+    "title": "Physics-Aware End-to-End Deep Reinforcement Learning for Quadcopter Control with Actuator Dynamics",
+    "reason": "irrelevant"
+  },
+  "384c01c60ef1198a": {
+    "title": "Schr\u00f6dinger's Cat: Probabilistic Representation and Prediction of Potential Scene Kinematics",
+    "category": "ai_models",
+    "score": 2
+  },
+  "11c31380dd7d875f": {
+    "title": "Reinforcement Learning for Code Optimization",
+    "category": "automation",
+    "score": 2
+  },
+  "5051ed860834634b": {
+    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+    "category": "automation",
+    "score": 6
+  },
+  "c7b543a58041bacb": {
+    "title": "Unilever India Gets Rating Upgrades After Worst Day in Six Years",
+    "reason": "irrelevant"
+  },
+  "4f5533ed8636d9b8": {
+    "title": "Korean Stocks Tumble a Second Day, Sparking Trading Suspension",
+    "reason": "irrelevant"
+  },
+  "beb48f8df1b051a4": {
+    "title": "Japan\u2019s GPIF Boosts JGB Expertise by Employing Active Bond Funds",
+    "reason": "irrelevant"
+  },
+  "916f46f1981afed3": {
+    "title": "Wheat Futures Climb for Second Day as Black Sea Exports Falter",
+    "reason": "irrelevant"
+  },
+  "5456123229c3dd3e": {
+    "title": "HK Finance Stocks Eye Best Month in Two Years as Tech Hopes Wane",
+    "reason": "irrelevant"
+  },
+  "c53beec6e94d3108": {
+    "title": "Gold Flows to Hong Kong Hit Decade-High Before Clearing Launch",
+    "reason": "irrelevant"
+  },
+  "1f8dfb366bc20458": {
+    "title": "Indian IT Stocks Stage a Comeback as Global AI Trade Falters",
+    "reason": "irrelevant"
+  },
+  "98d8fcb370ed1678": {
+    "title": "Hynix's Future Earnings to Pick Up, CLSA's Rana Says",
+    "reason": "irrelevant"
+  },
+  "1b6769f9e1ede857": {
+    "title": "Japan Earthquake Leaves 13 Dead",
+    "reason": "irrelevant"
+  },
+  "84a2218f1bffc4a3": {
+    "title": "One SK Hynix Stock Trade Blew Up $60 Million in Crypto Bets",
+    "reason": "irrelevant"
+  },
+  "8e56fb8dbdb42240": {
+    "title": "Korea-Hong Kong Correlation Shows Shorts Unwind: Equity Insight",
+    "reason": "irrelevant"
+  },
+  "9a1d68c77b73fb0d": {
+    "title": "FIA CEO on Prediction Market 'Disruption,' Regulation",
+    "reason": "irrelevant"
+  },
+  "5f49ff1a0aea0946": {
+    "title": "Brixmor Seeing Continued Consumer Traffic, Tenant Growth",
+    "reason": "irrelevant"
+  },
+  "6db71e3ea04ef45e": {
+    "title": "Singapore Stocks Head for Best Month Since 2020 as Banks Jump",
+    "reason": "irrelevant"
+  },
+  "17f2444d4c5d477d": {
+    "title": "Top 5 Branded Videos of the Week: A clean World Cup sweep",
+    "category": "ai_models",
+    "score": 2
   }
 }
