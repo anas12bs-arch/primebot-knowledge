@@ -72,12 +72,18 @@ def search(query: str, depth: int) -> list[dict]:
 
 
 def upload_dates(video_ids: list[str]) -> dict[str, str]:
-    """YYYYMMDD per id. One invocation for the whole batch, ~1.5s each."""
+    """YYYYMMDD per id. One invocation for the whole batch, ~1.5s each.
+
+    Passed as full URLs, not bare ids: the YouTube id alphabet includes "-", so
+    an id such as -BJcBa-Fa6g reaches yt-dlp looking like a command-line flag
+    and kills the whole batch before a single request goes out.
+    """
     if not video_ids:
         return {}
+    urls = [f"https://www.youtube.com/watch?v={v}" for v in video_ids]
     proc = subprocess.run(
         [yt_dlp_bin(), "--skip-download", "--no-warnings", "--ignore-errors",
-         "--print", "%(id)s|%(upload_date)s", *video_ids],
+         "--print", "%(id)s|%(upload_date)s", *urls],
         capture_output=True, text=True, timeout=DATE_PROBE_TIMEOUT,
     )
     dates = {}
@@ -85,6 +91,11 @@ def upload_dates(video_ids: list[str]) -> dict[str, str]:
         vid, _, date = line.strip().partition("|")
         if vid and date.isdigit():
             dates[vid] = date
+    # Losing the whole batch looks identical to "nothing was recent enough",
+    # which is how this failed silently the first time. Say which it was.
+    if not dates:
+        log.error("Date probe returned nothing for %d videos: %s",
+                  len(video_ids), proc.stderr.strip()[:300] or "no stderr")
     return dates
 
 
