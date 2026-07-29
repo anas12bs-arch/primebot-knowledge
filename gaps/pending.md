@@ -112,10 +112,10 @@ que falte para pedirlo. Se reengorda este bloque cada sesión que toque YouTube.
 - [x] conversion-rate-optimization | landing page checkout funnel friction CRO methodology frameworks  (done 2026-07-28)
 - [x] price-anchoring-empirical | price anchoring studies e-commerce psychology charm pricing prestige pricing  (done 2026-07-28)
 - [x] urgency-scarcity-conversion | scarcity countdown timers limited inventory conversion rate impact studies  (done 2026-07-28)
-- [ ] landing-page-copywriting | copywriting techniques persuasion framework value proposition benefit hierarchy
+- [x] landing-page-copywriting | copywriting techniques persuasion framework value proposition benefit hierarchy  (done 2026-07-29)
 
 ### META ADS & PAID
-- [ ] meta-ads-roas-2025 | Facebook Instagram ads ROAS optimization audience targeting creative testing 2025
+- [x] meta-ads-roas-2025 | Facebook Instagram ads ROAS optimization audience targeting creative testing 2025  (done 2026-07-29)
 - [ ] cpc-ctr-benchmarks-ecommerce | cost-per-click CTR benchmarks by industry e-commerce conversion benchmarks
 
 ### DONE (anterior)
