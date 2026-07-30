@@ -116,7 +116,7 @@ que falte para pedirlo. Se reengorda este bloque cada sesión que toque YouTube.
 
 ### META ADS & PAID
 - [x] meta-ads-roas-2025 | Facebook Instagram ads ROAS optimization audience targeting creative testing 2025  (done 2026-07-29)
-- [ ] cpc-ctr-benchmarks-ecommerce | cost-per-click CTR benchmarks by industry e-commerce conversion benchmarks
+- [x] cpc-ctr-benchmarks-ecommerce | cost-per-click CTR benchmarks by industry e-commerce conversion benchmarks  (done 2026-07-30)
 
 ### DONE (anterior)
 - [x] improve-sources-fiscal-legal | (done 2026-07-11)
