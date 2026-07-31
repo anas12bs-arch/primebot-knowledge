@@ -10260,5 +10260,215 @@
   "f7829228bfe22987": {
     "title": "Once-Troubled Nio Turns Into Hottest Chinese Carmaker This Year",
     "reason": "irrelevant"
+  },
+  "c743ca4da086ac51": {
+    "title": "Now Anthropic Is Saying Claude Escaped and Hacked Several Companies",
+    "reason": "irrelevant"
+  },
+  "0d5bcfaf8df2dc58": {
+    "title": "MiniMax H3: An Open Model Breaking the Boundaries Between Tasks and Modalities",
+    "reason": "irrelevant"
+  },
+  "9a3613df0f32c47f": {
+    "title": "Genesis-Science-1, an Open-Weight Model for Scientific Research",
+    "reason": "irrelevant"
+  },
+  "cd732c0d36e341c2": {
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "category": "ai_models",
+    "score": 2
+  },
+  "b6ed625eccd1fb7c": {
+    "title": "Anthropic's AI models hacked 3 organizations during testing",
+    "category": "ai_models",
+    "score": 2
+  },
+  "d7a7d3d8d857c2bd": {
+    "title": "Anthropic says Claude hacked three companies during tests",
+    "reason": "irrelevant"
+  },
+  "54dcd67ff1a89beb": {
+    "title": "Ask HN: After 8 Years of Failed Apps, Should I Give Up?",
+    "reason": "irrelevant"
+  },
+  "6302ddbd44356ded": {
+    "title": "Learning to Trace Seiberg Dualities",
+    "reason": "irrelevant"
+  },
+  "cd7447e6fab5d9e4": {
+    "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
+    "category": "ai_models",
+    "score": 3
+  },
+  "08dbcfd9c02f6538": {
+    "title": "ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine",
+    "category": "ai_models",
+    "score": 2
+  },
+  "2380fffa5d0a0169": {
+    "title": "PhiZero: A World Model Built Around Physical Language",
+    "category": "ai_models",
+    "score": 4
+  },
+  "5d41827fa30a6d06": {
+    "title": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball",
+    "reason": "irrelevant"
+  },
+  "767fb24d60cfa276": {
+    "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
+    "category": "automation",
+    "score": 5
+  },
+  "ff0e507e40976a78": {
+    "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+    "category": "ai_models",
+    "score": 2
+  },
+  "1d7332adb8b05207": {
+    "title": "Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers",
+    "category": "ai_models",
+    "score": 3
+  },
+  "9315071781dbde7c": {
+    "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+    "category": "ai_models",
+    "score": 3
+  },
+  "1d41ca329ea12a7f": {
+    "title": "KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models",
+    "category": "ai_models",
+    "score": 2
+  },
+  "602f6a750ce1c3fd": {
+    "title": "Inducing language models to assert their own consciousness restores human beliefs and values",
+    "category": "ai_models",
+    "score": 2
+  },
+  "784ff2cd9ce5a78f": {
+    "title": "Beacon: Knowing When and How to Perform Agentic Visual Reasoning",
+    "category": "ai_models",
+    "score": 2
+  },
+  "c40f6ebb64a017f9": {
+    "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments",
+    "category": "automation",
+    "score": 2
+  },
+  "30d1e24985678e84": {
+    "title": "VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
+    "reason": "irrelevant"
+  },
+  "a3a765df854f4d9b": {
+    "title": "MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers",
+    "reason": "irrelevant"
+  },
+  "eb81719b5fc17226": {
+    "title": "PAIChecker: Uncovering and Checking PR-Issue Misalignment in SWE-Bench-Like Benchmarks",
+    "reason": "irrelevant"
+  },
+  "b0c5ac62d65e6a5a": {
+    "title": "$\u03b2$-OPSD: Deriving with Policy Optimization, Training with Self-Distillation",
+    "category": "ai_models",
+    "score": 2
+  },
+  "edae909c2c3d0caa": {
+    "title": "ROAD: Reciprocal-Objective Alignment of Discriminative Semantics for 3D Shape Generation",
+    "category": "ai_models",
+    "score": 7
+  },
+  "6a1067cf7ca52717": {
+    "title": "DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation",
+    "category": "ai_models",
+    "score": 2
+  },
+  "4d9a04442f5f942c": {
+    "title": "Sample More, Reflect Less: Self-Refine and Reflexion Lose to Repeated Sampling at Equal Token Cost, from 1.5B to 7B",
+    "reason": "irrelevant"
+  },
+  "ab147c1334b58f4f": {
+    "title": "Algorithms for Structured Elections under Thiele Voting Rules",
+    "reason": "irrelevant"
+  },
+  "81e7762a08ce4cfd": {
+    "title": "Rethinking Inference-Time Scaling in Local Computer-Use Agents: Failure Modes and Compute Tradeoffs",
+    "category": "automation",
+    "score": 3
+  },
+  "29a886d8d4a9cf4a": {
+    "title": "Finding Change in Satellite Archives from Text: How to Combine Before-and-After Images Efficiently",
+    "reason": "irrelevant"
+  },
+  "fdf16d16397c7e1d": {
+    "title": "Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering",
+    "reason": "irrelevant"
+  },
+  "9314f5583ff413c4": {
+    "title": "Doubly Robust Functional Representation Learning for Longitudinal Causal Inference with Irregular Histories",
+    "reason": "irrelevant"
+  },
+  "da425c76a8c018d0": {
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "category": "automation",
+    "score": 3
+  },
+  "cbf630d728ea658a": {
+    "title": "Reddit reports a solid quarter but shows signs of AI\u2019s impact",
+    "reason": "irrelevant"
+  },
+  "a3237d5afd264f44": {
+    "title": "Swiggy, Eternal Stocks Surge as Zepto\u2019s India IPO Hits Roadblock",
+    "reason": "irrelevant"
+  },
+  "735c1ad75a5c6bee": {
+    "title": "BOJ Holds Rate Steady And Upgrades View on Economy",
+    "reason": "irrelevant"
+  },
+  "0864a319956633ca": {
+    "title": "PBOC\u2019s Weaker Daily Fixing to Temper Yuan Gains, Analysts Say",
+    "reason": "irrelevant"
+  },
+  "059868456201175e": {
+    "title": "Asian Stocks Post Biggest Gain in Four Months on AI Optimism",
+    "reason": "irrelevant"
+  },
+  "4a65fb4a53712d71": {
+    "title": "North Korea\u2019s Economy Expands on Russia Arms Deals, China Trade",
+    "reason": "irrelevant"
+  },
+  "3040e2941a0da7ae": {
+    "title": "Philippines to Revamp Bond Pricing Ahead of JPM Index Inclusion",
+    "reason": "irrelevant"
+  },
+  "bbde27dcf0d4c77a": {
+    "title": "Nikkei Weight Cut Shadow Looms Over Advantest After 18% Rally",
+    "reason": "irrelevant"
+  },
+  "1f56745f80afbb47": {
+    "title": "Japan Preempts Market With Yen Intervention",
+    "reason": "irrelevant"
+  },
+  "fe6ae2d0c99cd34a": {
+    "title": "Iron Ore Climbs as Traders Weigh Supply Risks From BHP Strike",
+    "reason": "irrelevant"
+  },
+  "2e49133e719beb42": {
+    "title": "Rising US Yields May Complicate RBI\u2019s Strategy on Rates and the Rupee",
+    "reason": "irrelevant"
+  },
+  "e2470452d7f38c6a": {
+    "title": "Korea Cites Close Ties With US, Japan After Overnight FX Surge",
+    "reason": "irrelevant"
+  },
+  "88ba8b84919ce124": {
+    "title": "Shionogi-Backed Biotech Apnimed Raises $192 Million in US IPO",
+    "reason": "irrelevant"
+  },
+  "b013a016d14c93d7": {
+    "title": "Wild Tech Stock Swings Spur Retail Traders to Cut Margin Loans",
+    "reason": "irrelevant"
+  },
+  "b87f73b0a9bc3468": {
+    "title": "HSBC, Singapore Banks to Show Strength on Wealth Performance",
+    "reason": "irrelevant"
   }
 }
