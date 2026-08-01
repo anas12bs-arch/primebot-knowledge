@@ -11247,5 +11247,23 @@
   "32c16ea15160de08": {
     "title": "This $9 key physically locks your most addictive apps",
     "reason": "irrelevant"
+  },
+  "3a18f987585813c3": {
+    "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models",
+    "category": "ai_models",
+    "score": 2
+  },
+  "4ee91fa0e6a721bb": {
+    "title": "Did you know about Dulus? The AI harness that is giving free agentic AI?",
+    "reason": "irrelevant"
+  },
+  "0fd7d700f38c978a": {
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "category": "automation",
+    "score": 2
+  },
+  "c49847296ce6eb23": {
+    "title": "Bloomberg This Weekend 08/01/2026",
+    "reason": "irrelevant"
   }
 }
