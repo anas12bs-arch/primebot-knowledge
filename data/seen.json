@@ -11521,5 +11521,205 @@
   "ffc09fca41fce344": {
     "title": "Rates, Housing Slump Threaten Australia\u2019s Upbeat Profit Outlook",
     "reason": "irrelevant"
+  },
+  "89163ba334e0ecca": {
+    "title": "Ask HN: What Is Stripe Today?",
+    "reason": "irrelevant"
+  },
+  "9df297802954c316": {
+    "title": "Aquila Voice Assistant Test Suite for Home Assistant",
+    "reason": "irrelevant"
+  },
+  "78e9d48e872db37a": {
+    "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+    "reason": "irrelevant"
+  },
+  "40601bddb2b0066c": {
+    "title": "Toward Robust and 3D-Aware RGB-NIR Imaging in the Dark",
+    "category": "ai_models",
+    "score": 3
+  },
+  "792ac976bd598a9d": {
+    "title": "Scaling Properties of Text Conditioning in Visual Generation",
+    "category": "ai_models",
+    "score": 5
+  },
+  "0b6f4583ad52e7cc": {
+    "title": "TokTier: Exact Stateful Tokenization for Agentic LLM Serving",
+    "category": "automation",
+    "score": 7
+  },
+  "96cad8fa6f664f8b": {
+    "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
+    "category": "automation",
+    "score": 5
+  },
+  "5b7b23009091f94b": {
+    "title": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering",
+    "category": "ai_models",
+    "score": 4
+  },
+  "36943deccf0ff909": {
+    "title": "Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback",
+    "reason": "irrelevant"
+  },
+  "0bf54b467f19be90": {
+    "title": "Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations",
+    "category": "ai_models",
+    "score": 3
+  },
+  "2df4520ab928b3b8": {
+    "title": "GQ-FSL: Green Quantized Federated Split Learning",
+    "category": "ai_models",
+    "score": 5
+  },
+  "822c643db4c68a18": {
+    "title": "Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics",
+    "category": "automation",
+    "score": 2
+  },
+  "dc24546d82af9b08": {
+    "title": "Evolving language compositionality in a frequency-structured meaning space",
+    "category": "ai_models",
+    "score": 5
+  },
+  "0cd85dfc5b684d10": {
+    "title": "HierDoc: Hierarchical Page-to-Region Evidence Routing for Long-Document Visual Question Answering",
+    "reason": "irrelevant"
+  },
+  "6496e5e5541f34cd": {
+    "title": "CodeShrink: Adaptive Visual Compression for Efficient Multimodal Code Understanding",
+    "category": "ai_models",
+    "score": 8
+  },
+  "a29e8b7a788ccafa": {
+    "title": "OASIS: Occlusion-aware Single-image Hand Avatar Reconstruction via 3D Gaussian Splatting",
+    "category": "ai_models",
+    "score": 2
+  },
+  "8cafc961f7acbfd5": {
+    "title": "FlexComposer: Unified Video Compositing from Images to Dynamic Footage with Flexible Trajectory Control",
+    "category": "ai_models",
+    "score": 3
+  },
+  "b8485e1abc62a0e5": {
+    "title": "AgentHPOBench: A Benchmark For Evaluating LLM Agents as Sequential Hyperparameter Optimizers",
+    "category": "automation",
+    "score": 3
+  },
+  "39962940a7d65076": {
+    "title": "The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations",
+    "category": "ai_models",
+    "score": 4
+  },
+  "8c921bd750a171fa": {
+    "title": "RayViT: Ray-Conditioned Visual Representations for Viewpoint-Robust Imitation Learning",
+    "category": "ai_models",
+    "score": 5
+  },
+  "37701fb8f95fc0f0": {
+    "title": "CENDRe: Concept Extraction with Natural Domain Representations",
+    "category": "ai_models",
+    "score": 4
+  },
+  "5020dc5bc2d34ddd": {
+    "title": "When Does On-Policy Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning",
+    "category": "ai_models",
+    "score": 5
+  },
+  "2041485693c4609d": {
+    "title": "A Human-Centered Validation of the Explainability-Performance Coefficient",
+    "category": "ai_models",
+    "score": 5
+  },
+  "ef534dec6304bd43": {
+    "title": "WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning",
+    "category": "ai_models",
+    "score": 7
+  },
+  "246dc06d8d748f5c": {
+    "title": "QASP: Query-Adaptive Robust Vector Search Policy",
+    "reason": "irrelevant"
+  },
+  "b3791c778a8d53d9": {
+    "title": "FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models",
+    "category": "ai_models",
+    "score": 7
+  },
+  "9741bc22d748897b": {
+    "title": "The Parts Are Greater Than the Sum: Automated Task Sequencing for Efficient Training of Multi-Policy LLMs",
+    "category": "ai_models",
+    "score": 5
+  },
+  "033f62d4dea809f5": {
+    "title": "FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling",
+    "category": "ai_models",
+    "score": 10
+  },
+  "53c3d2d9e213e90e": {
+    "title": "Where Does Oil Go Next After the Hormuz Crisis?",
+    "reason": "irrelevant"
+  },
+  "45ea8decc5cdc1dd": {
+    "title": "US-China AI Rivalry Grows With Alibaba's Anthropic Rival",
+    "category": "ai_models",
+    "score": 6
+  },
+  "fe090b1de21c42f6": {
+    "title": "Malaysia\u2019s Top Bank Is Said to Near Buying Ageas Stake in Etiqa",
+    "reason": "irrelevant"
+  },
+  "f0bc22d1dc5ea59a": {
+    "title": "Benchmark Firm: China AI Models Still Lag US Rivals",
+    "category": "ai_models",
+    "score": 6
+  },
+  "745ff6e89d5a9f39": {
+    "title": "Hang Lung's Chan on Hong Kong's Property Recovery",
+    "reason": "irrelevant"
+  },
+  "662ccab2f577a099": {
+    "title": "US Uses Euros to Buy Yen to Avoid Weaker Dollar, Strategists Say",
+    "reason": "irrelevant"
+  },
+  "759186e5940228fb": {
+    "title": "China Factory Slump Reinforces Signs of Economic Slowdown",
+    "reason": "irrelevant"
+  },
+  "6a298c3774128c30": {
+    "title": "Why Bonds Are at Center of US-Japan Intervention on Yen",
+    "reason": "irrelevant"
+  },
+  "6af7d9136a7fad42": {
+    "title": "Chinese Government Bond Futures Kick Off Trading in Hong Kong",
+    "reason": "irrelevant"
+  },
+  "3e8f2c899f374538": {
+    "title": "Iron Ore Hits One-Year Low on Trader Concerns and Demand Outlook",
+    "reason": "irrelevant"
+  },
+  "18629ddc474a217f": {
+    "title": "Zepto Delays IPO in Latest Sign India\u2019s Listing Boom Is Losing Momentum",
+    "reason": "irrelevant"
+  },
+  "33299b917d50bafe": {
+    "title": "CXMT Price Targets Are $1 Trillion Apart as Analysts Differ",
+    "reason": "irrelevant"
+  },
+  "9b8214ef03a287e8": {
+    "title": "Fanuc Shares Dive Most in 40 Years After Procurement Fears Hit",
+    "reason": "irrelevant"
+  },
+  "18db74b4953a091b": {
+    "title": "Yen Rises Sharply With Traders on Intervention Watch",
+    "reason": "irrelevant"
+  },
+  "2867021f2c417fd9": {
+    "title": "Japan\u2019s Use of Fed Repo May Ease Pressure on Treasury Market",
+    "reason": "irrelevant"
+  },
+  "b43290396cb95ec7": {
+    "title": "Korean Stocks Drop as Chipmakers Reverse Friday\u2019s Record Gains",
+    "reason": "irrelevant"
   }
 }
