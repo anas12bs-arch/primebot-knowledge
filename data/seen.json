@@ -11969,5 +11969,56 @@
   "d473c333764a8189": {
     "title": "Chile Peso Bonds Face Pressure if Strait of Hormuz Stays Closed",
     "reason": "irrelevant"
+  },
+  "2f9b3f158a9a82be": {
+    "title": "White House's new upcoming model-testing framework",
+    "category": "ai_models",
+    "score": 2
+  },
+  "35b70c332e07151b": {
+    "title": "Amazon Reportedly Plans to Consolidate Nova AI Models",
+    "category": "ai_models",
+    "score": 2
+  },
+  "6ff1ee150ad68b2b": {
+    "title": "Show HN: Popkorn \u2013 A CSS based alternative for Lottie animations",
+    "reason": "irrelevant"
+  },
+  "d15a7ac0225e3422": {
+    "title": "OpenRouter Ori Eval: Prove the Best Model for What You're Building",
+    "category": "automation",
+    "score": 2
+  },
+  "8030f5b8262c823b": {
+    "title": "Launch HN: Hoplite (YC S26) \u2013 Effortlessly deploy cloud coding agents",
+    "category": "automation",
+    "score": 3
+  },
+  "0437df700a297004": {
+    "title": "Show HN: TokenMaxxer \u2013 track every AI token you spend across your coding tools",
+    "category": "automation",
+    "score": 2
+  },
+  "b75f4a65695568dd": {
+    "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+    "reason": "irrelevant"
+  },
+  "8579afb6839151db": {
+    "title": "Show HN: ModelFuzz \u2013 Open-source runtime guardrails for AI agents",
+    "category": "automation",
+    "score": 7
+  },
+  "8ad27b7c6b8971bf": {
+    "title": "Show HN: Self-hosted pet diary built on Frigate and a local vision model",
+    "category": "automation",
+    "score": 2
+  },
+  "34ecdf6a2f2e4282": {
+    "title": "As AI reshapes brand visibility, IAB attempts to clean up measurement",
+    "reason": "irrelevant"
+  },
+  "60b0b1a035ad8462": {
+    "title": "Congress\u2019s favorite AI tool? ChatGPT",
+    "reason": "irrelevant"
   }
 }
