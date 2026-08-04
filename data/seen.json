@@ -12254,5 +12254,196 @@
     "title": "Top 50 Most Subscribed YouTube Channels Worldwide \u2022 Week Of 08/02/2026",
     "category": "ai_models",
     "score": 3
+  },
+  "f03d65cea7587b8b": {
+    "title": "AI Is Breaking the SaaS Deployment Model: 10 Commandments for BYOC",
+    "reason": "irrelevant"
+  },
+  "af914d18379811f8": {
+    "title": "Show CVBoosta:Resume Optimizer that tailors your resume to every job",
+    "reason": "irrelevant"
+  },
+  "25b68affc9bc7900": {
+    "title": "How are you operating AI infrastructure in production?",
+    "reason": "irrelevant"
+  },
+  "be73954e4d59e7bc": {
+    "title": "9router-Python \u2013 Python SDK for the 9Router AI gateway (35 models)",
+    "category": "ai_models",
+    "score": 2
+  },
+  "ffc310253b8ffe2d": {
+    "title": "AI's Manifesto War",
+    "reason": "irrelevant"
+  },
+  "6884cd9c49718c1e": {
+    "title": "Ask HN: Does AI research need \"world models\" more than bigger LLMs?",
+    "category": "ai_models",
+    "score": 3
+  },
+  "86d44eef5fa2d230": {
+    "title": "WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity",
+    "category": "ai_models",
+    "score": 10
+  },
+  "cd044b956d939a84": {
+    "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
+    "category": "ai_models",
+    "score": 9
+  },
+  "fa83da43a708887d": {
+    "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework",
+    "category": "ai_models",
+    "score": 7
+  },
+  "63f8387407c9123e": {
+    "title": "VR3D: View-Robust 3D Representation Learning for Aerial-Ground Person Re-Identification",
+    "category": "ai_models",
+    "score": 2
+  },
+  "2b5235c3a4e702a3": {
+    "title": "onepot-Bench 0: towards lab-aware in silico chemistry benchmarks",
+    "category": "ai_models",
+    "score": 4
+  },
+  "ffd188156452b921": {
+    "title": "CAPEval: A Decoupled Caption Evaluation across Understanding and Generation",
+    "category": "ai_models",
+    "score": 6
+  },
+  "b627d65a2e566803": {
+    "title": "The Condition-Number Barrier in Sparse Least Squares",
+    "reason": "irrelevant"
+  },
+  "de66ca4ad6463f5e": {
+    "title": "GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning",
+    "category": "ai_models",
+    "score": 5
+  },
+  "dcddc6378b222942": {
+    "title": "UEmbed: Unified Sparse and Dense Multimodal Embeddings",
+    "category": "ai_models",
+    "score": 3
+  },
+  "4bfb3b50171cf905": {
+    "title": "CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs",
+    "category": "ai_models",
+    "score": 3
+  },
+  "d942cf8463128335": {
+    "title": "Smooth Reparameterizations of Functions on Simplicial Product Spaces: Applications to Probabilistic Tensor Decomposition and Functional Data Registration",
+    "category": "ai_models",
+    "score": 3
+  },
+  "8db4c5492b1578b8": {
+    "title": "Pseudorandom Streams within Diffusion Models Act as Learnable Inputs That Affect Generation Quality",
+    "category": "ai_models",
+    "score": 5
+  },
+  "465fa7b54d486dcf": {
+    "title": "AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies",
+    "category": "ai_models",
+    "score": 4
+  },
+  "792337a83300c1af": {
+    "title": "ReMiX-MAE: Learning Missing-Channel Cross-Modal Representations from RGB-Only Clinical Facial Videos for Sympathetic-Mediated Pain Assessment",
+    "category": "ai_models",
+    "score": 4
+  },
+  "52549c1d1127e81d": {
+    "title": "Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection",
+    "category": "ai_models",
+    "score": 5
+  },
+  "d486570ca1ea7f52": {
+    "title": "Benchmarking Sheaf Neural Networks for Inductive Tasks",
+    "category": "ai_models",
+    "score": 3
+  },
+  "8522bcbdb35e6285": {
+    "title": "Romanized Arabic Across Dialects: Views, Usage Patterns, and Linguistic Variation",
+    "reason": "irrelevant"
+  },
+  "87a539db594ec04f": {
+    "title": "A Taxonomy of Cognitive Capability Gaps in Generative and Agentic AI",
+    "category": "ai_models",
+    "score": 5
+  },
+  "1b38ab84a7272745": {
+    "title": "Who Should Be Generated? Justifying Demographic Targets in Open-Ended Generation",
+    "category": "ai_models",
+    "score": 2
+  },
+  "612c48bfd99427a7": {
+    "title": "Estimating SSIM from MSE for DCT-Based Compressed Images",
+    "category": "ai_models",
+    "score": 4
+  },
+  "8dfeaa77eebf75bf": {
+    "title": "A Simple Approximation to the Distribution of the Ridge Regression Estimator",
+    "category": "ai_models",
+    "score": 2
+  },
+  "aab4a4db62cd1d51": {
+    "title": "Interaction Is Not Necessary for Order-Optimal 1-Bit Mean Estimation",
+    "reason": "irrelevant"
+  },
+  "daa19e736f370e8b": {
+    "title": "Optimal Unambiguous DNFs and Alon-Saks-Seymour",
+    "reason": "irrelevant"
+  },
+  "4f98c73b6c18f58d": {
+    "title": "Uncertainty Is Not Enough: Value-of-Information Routing for Mixtures of LoRA Experts",
+    "category": "ai_models",
+    "score": 3
+  },
+  "804f5e39dd25d681": {
+    "title": "MedPRESS: A Multi-turn Benchmark for Patient-Pressure-Induced Medical Sycophancy in LLMs",
+    "category": "ai_models",
+    "score": 4
+  },
+  "97e92714d577da88": {
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "reason": "irrelevant"
+  },
+  "293cd3b207747a13": {
+    "title": "Australia\u2019s Housing Market Worsens",
+    "reason": "irrelevant"
+  },
+  "fed94a14ff51c42d": {
+    "title": "India Seeks to Raise Up to $3.3 Billion in LIC Share Sale",
+    "reason": "irrelevant"
+  },
+  "1c82c0e1deff18e5": {
+    "title": "Confusion Over India NSE Closing Auction Turbocharges Nifty Rally",
+    "reason": "irrelevant"
+  },
+  "15b559de6fc6858b": {
+    "title": "South Korea\u2019s Leveraged ETF Trading Plummets Under New Curbs",
+    "reason": "irrelevant"
+  },
+  "073d47b690aa47bc": {
+    "title": "Iron Ore Dips to 13-Month Low in Threat to Higher-Cost Supply",
+    "reason": "irrelevant"
+  },
+  "105dcc1534289776": {
+    "title": "After Historic Intervention, 155 Emerges as Yen\u2019s Next Big Test",
+    "reason": "irrelevant"
+  },
+  "e25f5ac8885e9474": {
+    "title": "Race for Diaspora Dollars Pumps Up India\u2019s Bond, Loan Markets",
+    "reason": "irrelevant"
+  },
+  "fe9c501eba142eba": {
+    "title": "HSBC\u2019s Record-Breaking Stock Rally Faces Test From Earnings",
+    "reason": "irrelevant"
+  },
+  "1a8c6d5afeba7f00": {
+    "title": "Iran Believes It Has the 'Upper Hand': CSIS's Yacoubian",
+    "reason": "irrelevant"
+  },
+  "d8837127015a118a": {
+    "title": "Clorox Expects Full-Year Sales Boost From Purell Deal",
+    "reason": "irrelevant"
   }
 }
