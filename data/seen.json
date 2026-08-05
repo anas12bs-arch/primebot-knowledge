@@ -13158,5 +13158,196 @@
   "8100807eae095956": {
     "title": "SpaceX exceeds revenue estimates in first earnings report since IPO",
     "reason": "irrelevant"
+  },
+  "d1f9c881b9752472": {
+    "title": "White House AI Guidelines Exempt U.S. Open Models from Government Review",
+    "category": "ai_models",
+    "score": 2
+  },
+  "1c7234ddf26722ae": {
+    "title": "Do You Think OpenAI Is Apple Circa the 1980s?",
+    "reason": "irrelevant"
+  },
+  "a8af109175bd3e25": {
+    "title": "ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs",
+    "category": "ai_models",
+    "score": 5
+  },
+  "bd7d5244850ac2d4": {
+    "title": "SocietyBench: Forecasting Counterfactual Social-World Evolution",
+    "category": "automation",
+    "score": 7
+  },
+  "b6577e1fdd8cd40c": {
+    "title": "WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament",
+    "category": "ai_models",
+    "score": 6
+  },
+  "f74cc2bea5891548": {
+    "title": "TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning",
+    "category": "ai_models",
+    "score": 3
+  },
+  "3e5d5c05192cbacc": {
+    "title": "PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents",
+    "category": "automation",
+    "score": 6
+  },
+  "0a5a098d6f2d01ba": {
+    "title": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
+    "category": "ai_models",
+    "score": 5
+  },
+  "468ecbe01d0ea170": {
+    "title": "Agogic: Performance-Timed Music Tokens for LLM-Native Text-to-Symbolic-Music Generation",
+    "category": "ai_models",
+    "score": 6
+  },
+  "5ca69d0deaad23f5": {
+    "title": "When Attention Goes Blind: Numerical Failure in ALiBi Positional Encodings",
+    "category": "ai_models",
+    "score": 4
+  },
+  "4afe287f617b7fbf": {
+    "title": "Perceptual Anchoring: Prototype-Guided Text Calibration for Training-free Open-Vocabulary Semantic Segmentation",
+    "category": "ai_models",
+    "score": 4
+  },
+  "2142efb030ccc5f4": {
+    "title": "Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation",
+    "category": "ai_models",
+    "score": 6
+  },
+  "4b74be7e0a7abbc7": {
+    "title": "string2string Studio: An Interactive, In-Browser Platform for String-to-String Algorithms",
+    "category": "ai_models",
+    "score": 5
+  },
+  "af08829140d82398": {
+    "title": "Can Large Language Models Recover Semantic Optimization Opportunities That Compilers Miss?",
+    "category": "ai_models",
+    "score": 3
+  },
+  "aa9f3addc6b0fbb2": {
+    "title": "Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent",
+    "category": "ai_models",
+    "score": 7
+  },
+  "5c54817b4117851f": {
+    "title": "JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+    "category": "ai_models",
+    "score": 3
+  },
+  "f262dbb4dd3de681": {
+    "title": "ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning",
+    "category": "ai_models",
+    "score": 6
+  },
+  "2129483acf12adfd": {
+    "title": "UniWorld-Design: From Pixel Generation to Layer-Native Design",
+    "category": "ai_models",
+    "score": 7
+  },
+  "7e80d8dc40cd72a7": {
+    "title": "Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations",
+    "category": "ai_models",
+    "score": 5
+  },
+  "6203ea14eb18f811": {
+    "title": "Information-Geometric Forward Policy Training in GFlowNets",
+    "category": "ai_models",
+    "score": 2
+  },
+  "c3c637646f4d71c4": {
+    "title": "HalluTruthQA-4K: A Fine-Grained Corpus and Annotation Process for Arabic Hallucination Detection and Truth Verification",
+    "category": "ai_models",
+    "score": 3
+  },
+  "23e6aac6995ffc44": {
+    "title": "Separating quantum circuits from classical LLMs",
+    "category": "ai_models",
+    "score": 6
+  },
+  "acbc0e1e95e9dd96": {
+    "title": "Interpretable Adaptive Sampling for LLM Test-Time Scaling",
+    "category": "ai_models",
+    "score": 2
+  },
+  "4d486132485fae74": {
+    "title": "A game theory for foundation models shows new paths to rational cooperation through similarity inference",
+    "category": "automation",
+    "score": 12
+  },
+  "2cef17a870e41b92": {
+    "title": "TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring",
+    "category": "ai_models",
+    "score": 7
+  },
+  "689915b1c9f2a756": {
+    "title": "Muon Meets Mamba: Spectral Optimization for State Space Models",
+    "category": "ai_models",
+    "score": 3
+  },
+  "64e1e33d82fc5fe2": {
+    "title": "Progressive Learning of a Diffusion-based Inpainting Model for Separating Overlapped Fingerprints",
+    "category": "ai_models",
+    "score": 4
+  },
+  "9f08acd5906cd104": {
+    "title": "FTSE 100 Live: UK Stocks Set to Rise as Oil Dips on Iran",
+    "reason": "irrelevant"
+  },
+  "d37d62c8f5d8fc79": {
+    "title": "India's Inflation Cushion 'Thinner' Than It Seems",
+    "reason": "irrelevant"
+  },
+  "8ab9ef418d6c73ac": {
+    "title": "Key Options Trade Displays Abnormal Pattern With India Auction",
+    "reason": "irrelevant"
+  },
+  "02cdae6ced285850": {
+    "title": "Pakistan\u2019s Fintech Abhi Eyes Microfinance Bank IPO",
+    "reason": "irrelevant"
+  },
+  "187e0f7d68eede97": {
+    "title": "AllianzGI to Buy UOB Asset Management to Grow in Southeast Asia",
+    "reason": "irrelevant"
+  },
+  "469075b445a9b842": {
+    "title": "SoftBank-Backed OfBusiness Is Said to Explore Reviving India IPO",
+    "category": "dropshipping",
+    "score": 4
+  },
+  "7aebb7da0121cbb8": {
+    "title": "China Optical Stocks Drop on Reports of US Ban | The China Show | 8/5/2026",
+    "category": "ai_models",
+    "score": 2
+  },
+  "e2686c68ee2e7b55": {
+    "title": "US Copper Trades Near Record on Tariff Risks, Hormuz Speculation",
+    "reason": "irrelevant"
+  },
+  "0d9034ce2a67bec0": {
+    "title": "Goldman Sachs' Keung on Chinese AI Models",
+    "category": "ai_models",
+    "score": 4
+  },
+  "dc8ab690f8854ddc": {
+    "title": "Mitsubishi UBE Cement Is Said to Plan for December Tokyo Listing",
+    "category": "ai_models",
+    "score": 2
+  },
+  "047cc08f973686a5": {
+    "title": "Rhodium: China Leads US in Key Tech Stack Areas",
+    "reason": "irrelevant"
+  },
+  "f70155e189455714": {
+    "title": "US-Iran Deal Hope Grows; SpaceX Sinks After AI Splurge | The Asia Trade 8/5/2026",
+    "reason": "irrelevant"
+  },
+  "bac138965c53588b": {
+    "title": "Spotify says podcasts are having a \u201cfavorable\u201d impact on its revenue, and that it\u2019ll spend $230 million on marketing and AI this year",
+    "category": "ai_models",
+    "score": 2
   }
 }
