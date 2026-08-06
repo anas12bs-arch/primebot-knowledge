@@ -13991,5 +13991,175 @@
   "db3c45838cf368fe": {
     "title": "Mondo Metrics says its new trend tracker is \u201cwhat CrowdTangle would have become\u201d\u2013and it\u2019s launching with major sports leagues",
     "reason": "irrelevant"
+  },
+  "6270c32b6d703e9d": {
+    "title": "CoCo-IR: Contextual Composed Image Retrieval",
+    "category": "ai_models",
+    "score": 7
+  },
+  "4be793c8273d7d10": {
+    "title": "Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training",
+    "category": "ai_models",
+    "score": 4
+  },
+  "fc205e0a9d24244b": {
+    "title": "Objects as Audio-Visual Modal Sound Fields",
+    "category": "ai_models",
+    "score": 5
+  },
+  "410456543f831dcb": {
+    "title": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning",
+    "category": "ai_models",
+    "score": 4
+  },
+  "a0a859470205fccb": {
+    "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
+    "category": "ai_models",
+    "score": 7
+  },
+  "37f114baed55bfd6": {
+    "title": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning",
+    "category": "ai_models",
+    "score": 3
+  },
+  "ede451c2a3cb8a2f": {
+    "title": "Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains",
+    "category": "ai_models",
+    "score": 5
+  },
+  "d12af8c92b1e75c2": {
+    "title": "SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding",
+    "category": "ai_models",
+    "score": 6
+  },
+  "4fc8ca77fa04d58d": {
+    "title": "The Loss Does Not See the Basis, but Adam Does",
+    "reason": "irrelevant"
+  },
+  "3ee7fcb23e68a9f6": {
+    "title": "Predicting Brain Morphometry with MT-GNN: Mesh Evolution in Continuous Time with Graph-Based Metric Tensor Embeddings",
+    "reason": "irrelevant"
+  },
+  "2a0accec128f524f": {
+    "title": "OPD-V: Visual On-Policy Self-Distillation with Modality Balance",
+    "category": "ai_models",
+    "score": 8
+  },
+  "78c3ce0e59413bd2": {
+    "title": "SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant",
+    "reason": "irrelevant"
+  },
+  "5218456571e5fd64": {
+    "title": "Spoken Function Calling: A New Perspective on Spoken Language Understanding for Large Audio Language Models",
+    "category": "ai_models",
+    "score": 6
+  },
+  "e9e70f333ec0a44b": {
+    "title": "Chained Recursive Language Models for Multi-Iteration Reasoning",
+    "category": "ai_models",
+    "score": 5
+  },
+  "6a7930316b51a9a4": {
+    "title": "IRIS: A Visual Cortex-Inspired Framework for Analyzing Orientation Selectivity in Vision Transformers",
+    "category": "ai_models",
+    "score": 3
+  },
+  "b2dd5f6dd1d7ee42": {
+    "title": "DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery",
+    "category": "ai_models",
+    "score": 3
+  },
+  "a4de83643947ae0e": {
+    "title": "Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition",
+    "category": "ai_models",
+    "score": 4
+  },
+  "8f2459d54fb4cb61": {
+    "title": "Stable Density Ridges: Consistency and Convergence of Subspace Constrained Mean Shift",
+    "reason": "irrelevant"
+  },
+  "10c9d341f3a620f2": {
+    "title": "Reward Structure Shapes the Interaction Between Episodic Exploration and Neural Memory in Reinforcement Learning",
+    "category": "automation",
+    "score": 3
+  },
+  "babaffc8eb9448b7": {
+    "title": "Representational separation between unitary and channel quantum generative models via shared classical randomness at shallow depth",
+    "category": "ai_models",
+    "score": 2
+  },
+  "69faccd173691c72": {
+    "title": "CoPlan: A Trustworthy Co-Intelligence Interface for Care Planning through Role-Based Contestable Argument Graphs",
+    "category": "ai_models",
+    "score": 5
+  },
+  "5c8392b350925aa0": {
+    "title": "BnBERT-iPET: Sparse Few-Shot Language Modeling for Bengali via Lottery Ticket Pruning",
+    "category": "ai_models",
+    "score": 5
+  },
+  "f3565b3c5dd3ec9e": {
+    "title": "Multimodal Spatiotemporal Atmospheric Data Assimilation with Latent Flow-matching",
+    "category": "ai_models",
+    "score": 4
+  },
+  "e0c9385dbe44cd1e": {
+    "title": "ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assignment",
+    "category": "ai_models",
+    "score": 3
+  },
+  "6e33d1a4519fd6ca": {
+    "title": "HexMIL: Hierarchical Attention MIL for Ante-Hoc Explainable Detection of AI-Manipulated CT Volumes",
+    "category": "ai_models",
+    "score": 5
+  },
+  "5408439b797ffee6": {
+    "title": "Former Japan PM on Yen, Communication with BOJ and Markets",
+    "reason": "irrelevant"
+  },
+  "0dd1f3795c0eed13": {
+    "title": "Japan 30-Year Bond Sale Brings Relief Amid Fiscal Concerns",
+    "reason": "irrelevant"
+  },
+  "e71aa0614de77ab1": {
+    "title": "KRW/USD: Korean Won Rises to Highest Since October on Exporters Dollar Sales",
+    "reason": "irrelevant"
+  },
+  "26a516e12c003b28": {
+    "title": "Retailer Dien May Xanh Rises in Trading Debut as Market Rebounds",
+    "reason": "irrelevant"
+  },
+  "702e061b2958adab": {
+    "title": "Iran Says Agreement on Hormuz Shipping Reached With Oman",
+    "reason": "irrelevant"
+  },
+  "5a82a6178d311ce9": {
+    "title": "China Steel Group Says Push for Yuan-Pricing Would Help Iron Ore",
+    "reason": "irrelevant"
+  },
+  "9a27c03b73205cfe": {
+    "title": "Traders in India Dial Back October Rate-Hike Bets After Dovish RBI Speak",
+    "reason": "irrelevant"
+  },
+  "c914a85dbf09f3c7": {
+    "title": "SK Hynix Hit by Another 30% Pre-Market Flash Crash on Nextrade",
+    "reason": "irrelevant"
+  },
+  "08f0a17398b12b09": {
+    "title": "Expats Return to Hong Kong Seeking Lower Taxes, Jobs",
+    "reason": "irrelevant"
+  },
+  "25ad800fce0a6b66": {
+    "title": "Bankers Kept in Dark on LIC\u2019s Unusually Fast $3.3 Billion Deal",
+    "reason": "irrelevant"
+  },
+  "da09830d8618bdf8": {
+    "title": "Day Traders Hammered by Stock Market Slump Double Down in Taiwan",
+    "reason": "irrelevant"
+  },
+  "632688a36f64bf70": {
+    "title": "YouTube\u2019s new video ideation tool has two \u201cmassive\u201d features for creators",
+    "category": "ai_models",
+    "score": 3
   }
 }
