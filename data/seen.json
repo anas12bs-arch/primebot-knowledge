@@ -15530,5 +15530,19 @@
   "160fcddf27967bf8": {
     "title": "Have you heard? Addison Rae has a Fortnite skin and Erling Haaland has a secret weapon.",
     "reason": "irrelevant"
+  },
+  "10dc504dc9c870dc": {
+    "title": "Energy-Based Models Explained: The AI Beyond Next-Token [video]",
+    "category": "ai_models",
+    "score": 4
+  },
+  "f5e65390d809a0b4": {
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "category": "ai_models",
+    "score": 3
+  },
+  "77639e955d2f2dbc": {
+    "title": "SEC Drops Insider-Trading Suit Against Executive Trump Pardoned",
+    "reason": "irrelevant"
   }
 }
