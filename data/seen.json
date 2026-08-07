@@ -14734,5 +14734,195 @@
   "80ac98e1d0e80071": {
     "title": "Led by U.S. sales, TikTok Shop is on track to hit $100 billion of gross merchandise value in 2026",
     "reason": "irrelevant"
+  },
+  "8cf5a0b2904890ff": {
+    "title": "How to fine-tune open weights models",
+    "category": "ai_models",
+    "score": 2
+  },
+  "87501537c23da0a5": {
+    "title": "One of China's Most Powerful AI Models Has Also Broken Containment",
+    "category": "ai_models",
+    "score": 3
+  },
+  "5e838a44723bcede": {
+    "title": "Chinese Model Kimi K3 Breaks UK AI Safety Institute Benchmark Evaluations",
+    "category": "ai_models",
+    "score": 2
+  },
+  "9cbd57e54bf502d1": {
+    "title": "Learning When to Trust via Selective Context Preference Optimization",
+    "category": "ai_models",
+    "score": 7
+  },
+  "a3ca880b0fd8014b": {
+    "title": "The Bitter Lesson of Tool Calling",
+    "category": "ai_models",
+    "score": 6
+  },
+  "13c3fc26b72c4640": {
+    "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
+    "category": "ai_models",
+    "score": 3
+  },
+  "bab7b4b7c1d33878": {
+    "title": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria",
+    "category": "ai_models",
+    "score": 2
+  },
+  "648b17a45e8f404e": {
+    "title": "An Optimal Agnostic PAC Algorithm",
+    "reason": "irrelevant"
+  },
+  "d40e3db04b98d4ca": {
+    "title": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
+    "category": "automation",
+    "score": 3
+  },
+  "7b16ffe70ac1c096": {
+    "title": "The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping",
+    "category": "ai_models",
+    "score": 7
+  },
+  "b47a3fcae8e857e3": {
+    "title": "Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents",
+    "category": "automation",
+    "score": 7
+  },
+  "49c69fde678658d9": {
+    "title": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
+    "category": "ai_models",
+    "score": 4
+  },
+  "a2cb10d4ac7c2441": {
+    "title": "Challenges in Evaluating Explanation Methods for Static and Evolving Data",
+    "category": "ai_models",
+    "score": 5
+  },
+  "f178d166a2f6f4e0": {
+    "title": "RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer",
+    "category": "ai_models",
+    "score": 6
+  },
+  "f6ced634007517ce": {
+    "title": "TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories",
+    "category": "automation",
+    "score": 4
+  },
+  "7dfad36faa882de1": {
+    "title": "Scalable estimation of VARMA models",
+    "category": "ai_models",
+    "score": 2
+  },
+  "41fec6a2d6dace22": {
+    "title": "Optimal Rates for Learning with Monotone Adversaries",
+    "category": "ai_models",
+    "score": 2
+  },
+  "ecd4ed4d664400d2": {
+    "title": "Tytan: Interactive Neurosymbolic Construction of Analytic Semantic Schemas from Relational Data",
+    "category": "ai_models",
+    "score": 4
+  },
+  "4ceef3ef6ad464e0": {
+    "title": "Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents",
+    "category": "automation",
+    "score": 2
+  },
+  "86ff5c4e28a2f629": {
+    "title": "Benchmarking and Enhancing LLMs for Rule-Intensive Review of National Standard Documents",
+    "category": "ai_models",
+    "score": 5
+  },
+  "638bdaaa42b79297": {
+    "title": "Does FLAIR super-resolution erase or hallucinate small white-matter lesions?",
+    "category": "ai_models",
+    "score": 3
+  },
+  "f49fd78dab053558": {
+    "title": "RRC: Unlocking Generative Reward Models in LLM Reinforcement Learning via Ranking-Based Reward Construction",
+    "category": "ai_models",
+    "score": 4
+  },
+  "5e2853f77ed75763": {
+    "title": "UQ-Loc: Uncertainty-Aware LiDAR Scene Coordinate Regression",
+    "reason": "irrelevant"
+  },
+  "485722b0f4b82fc2": {
+    "title": "Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations",
+    "category": "ai_models",
+    "score": 2
+  },
+  "e60cdbadad6f5c64": {
+    "title": "HarnessOpt-Bench: Evaluating LLMs at Harness Optimization",
+    "category": "automation",
+    "score": 6
+  },
+  "fcff092bb6e108db": {
+    "title": "Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors",
+    "category": "ai_models",
+    "score": 6
+  },
+  "3fc9fe1bccf80c77": {
+    "title": "On-Policy Self-Distillation without Any Supervision",
+    "category": "ai_models",
+    "score": 5
+  },
+  "74bb4bb094091a58": {
+    "title": "QuanTiMedAI: Quantum-Enhanced Time-Series Model guided by Agentic AI for Cardiac Arrest Mortality Prediction",
+    "category": "ai_models",
+    "score": 4
+  },
+  "ac205b1c741053f0": {
+    "title": "Trading Strategies \u2018Buried Alive\u2019 by India\u2019s Rocky Stock Reform",
+    "category": "automation",
+    "score": 2
+  },
+  "7ef5128a93c1c097": {
+    "title": "Hong Kong's Iconic Diners Go Global",
+    "reason": "irrelevant"
+  },
+  "18fea396c6072665": {
+    "title": "Copper Heads for Record Close in London on Tighter Global Market",
+    "reason": "irrelevant"
+  },
+  "766588118b947a3f": {
+    "title": "Japan Confirms Three-Day Yen Intervention in Spring to Lift Yen",
+    "category": "ai_models",
+    "score": 2
+  },
+  "d8e4ba91849462a5": {
+    "title": "Taiwan Pension Fund Will Tap Third-Party Managers for Stock Bets",
+    "reason": "irrelevant"
+  },
+  "6b31cde9fbfc1da6": {
+    "title": "Why the Yen Is Surrendering Intervention Gains",
+    "reason": "irrelevant"
+  },
+  "71f96aa88bbb2094": {
+    "title": "Global Funds Pile Back Into India IT Stocks After Selling for Months",
+    "reason": "irrelevant"
+  },
+  "0b38ef1ef10fe9a0": {
+    "title": "China\u2019s Solar Stocks Whipsawed by Domestic Policies, US Tariffs",
+    "category": "ai_models",
+    "score": 2
+  },
+  "55ea24a99a36e839": {
+    "title": "Fujifilm Declines Most on Record on Profit Miss, Spinoff Plan",
+    "reason": "irrelevant"
+  },
+  "6ad58c3bc2a45beb": {
+    "title": "US Sale of Euros for Yen Intervention Blindsided Europe, FT Says",
+    "reason": "irrelevant"
+  },
+  "f881e00677759e8c": {
+    "title": "China Central Bank Adds Gold in Hong Kong to Support Trading Hub",
+    "category": "ai_models",
+    "score": 2
+  },
+  "3d6dddd2267e1a96": {
+    "title": "Anwar\u2019s Daughter Takes Leave from Party Leadership Amid Setbacks",
+    "reason": "irrelevant"
   }
 }
