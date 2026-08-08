@@ -15689,5 +15689,14 @@
   "f2c4dfeb4d0b813a": {
     "title": "Bloomberg This Weekend 8/08/2026",
     "reason": "irrelevant"
+  },
+  "fe5ca6d9e02c334f": {
+    "title": "OpenAI to pause some work on AI model Astra due to security concerns",
+    "category": "ai_models",
+    "score": 3
+  },
+  "aeb176124cfba0f7": {
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "reason": "irrelevant"
   }
 }
