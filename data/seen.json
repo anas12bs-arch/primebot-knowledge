@@ -15861,5 +15861,10 @@
   "2401e69059feee77": {
     "title": "Hungarian Central Banker Touts Benefits of Joining Euro Area",
     "reason": "irrelevant"
+  },
+  "79a8b9128fba52b9": {
+    "title": "Anthropic is turning Claude Code\u2019s auto mode on by default",
+    "category": "ai_models",
+    "score": 3
   }
 }
