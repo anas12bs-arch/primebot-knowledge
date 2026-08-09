@@ -15866,5 +15866,14 @@
     "title": "Anthropic is turning Claude Code\u2019s auto mode on by default",
     "category": "ai_models",
     "score": 3
+  },
+  "2916f40e3d7ea270": {
+    "title": "Ask HN: Should a coding client import another client's rules by default?",
+    "reason": "irrelevant"
+  },
+  "ffba219f0a05a0a3": {
+    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "category": "automation",
+    "score": 2
   }
 }
