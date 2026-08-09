@@ -15732,5 +15732,20 @@
   "75b09045382b78b6": {
     "title": "China Issues Red Alert, Airports Cancel Flights as Typhoon Nears",
     "reason": "irrelevant"
+  },
+  "0a754c7cb1653c10": {
+    "title": "ByteDance Pretraining 10T Parameter Model",
+    "category": "ai_models",
+    "score": 3
+  },
+  "d93360aff5c96998": {
+    "title": "China's Top AI Model Evaded Testing Environment, Researchers Say",
+    "category": "ai_models",
+    "score": 4
+  },
+  "ce6cf7464907e382": {
+    "title": "Europe\u2019s Hot Stock Markets Are Creating a Buzz Among Investors",
+    "category": "ai_models",
+    "score": 2
   }
 }
