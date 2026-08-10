@@ -15906,5 +15906,164 @@
   "583296415377eb67": {
     "title": "Latest Oil Market News and Analysis for Aug. 10",
     "reason": "irrelevant"
+  },
+  "66605056a7b0a564": {
+    "title": "Show HN: A local-first, modular replacement for your accounting software",
+    "category": "automation",
+    "score": 3
+  },
+  "eab0574ddab13754": {
+    "title": "SimWAM: A Simple World Action Model for End-to-End Autonomous Driving",
+    "category": "ai_models",
+    "score": 16
+  },
+  "a5e7f964d5de7388": {
+    "title": "MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation",
+    "category": "ai_models",
+    "score": 7
+  },
+  "31c4f15b7f2130ce": {
+    "title": "CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity",
+    "category": "ai_models",
+    "score": 9
+  },
+  "ac90d732aad851eb": {
+    "title": "CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG",
+    "category": "ai_models",
+    "score": 6
+  },
+  "9231142be3251400": {
+    "title": "Interaction Creates Dynamical AI Behavior Absent in Isolation",
+    "category": "automation",
+    "score": 6
+  },
+  "e4c119d0b5dd8c87": {
+    "title": "Strategy-first synthesis planning for complex natural products",
+    "category": "ai_models",
+    "score": 4
+  },
+  "5e0c187e01177da2": {
+    "title": "SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent",
+    "category": "ai_models",
+    "score": 5
+  },
+  "cb908ccea1c03928": {
+    "title": "Taxonomy-Driven Analysis of Open-Source AI Risk Mitigation Tools",
+    "category": "ai_models",
+    "score": 12
+  },
+  "c795feaf30f43021": {
+    "title": "RIS-Aided mmWave Localization Under Cross-Link Interference via Beam-Domain ML Fingerprinting",
+    "category": "ai_models",
+    "score": 5
+  },
+  "ac6667c20bd4caef": {
+    "title": "Blast Radius",
+    "category": "ai_models",
+    "score": 7
+  },
+  "1790ab3a5180e7b0": {
+    "title": "An Exploratory Evaluation of LLM-Assisted Rewriting of Moderate-Complexity Financial Sentences for DisCoCat-Based Sentiment Analysis",
+    "category": "ai_models",
+    "score": 7
+  },
+  "9661d4713bc53b5f": {
+    "title": "PsychoAgent: An Affect-Sensitive Cognitive Architecture for Conflict-Aware Memory in LLM Agents",
+    "category": "automation",
+    "score": 5
+  },
+  "30a11d5980a36e93": {
+    "title": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+    "category": "ai_models",
+    "score": 9
+  },
+  "0a446774affec696": {
+    "title": "Post-Grokking Collapse at the Representation-Readout Interface in Muon-Trained Transformers",
+    "category": "ai_models",
+    "score": 5
+  },
+  "f17a1ac4df62eb87": {
+    "title": "SABRE: Scalable and Automated Benchmarking of VLMs under Stress",
+    "category": "ai_models",
+    "score": 12
+  },
+  "415088ef041045e7": {
+    "title": "Conformal Coverage Guarantees for Any Video Temporal Grounder",
+    "category": "ai_models",
+    "score": 5
+  },
+  "84c122f4f5e1c5b7": {
+    "title": "Wasserstein Policy Gradient for Entropy-Regularized Linear-Quadratic Control",
+    "category": "ai_models",
+    "score": 4
+  },
+  "4dec0bbf561dfc27": {
+    "title": "Diffusion LLMs as Targets and Adversaries: Mechanistic Safety Exploits",
+    "category": "ai_models",
+    "score": 12
+  },
+  "5f034dc04429563f": {
+    "title": "TEPA: Revoking Stale Memories for Conflict-Robust Language Agents",
+    "category": "ai_models",
+    "score": 5
+  },
+  "73023f0c1f57251f": {
+    "title": "A Picture is Worth a Thousand Tokens: How Vision Language Models Cut AI Energy Costs While Improving Accuracy",
+    "category": "ai_models",
+    "score": 9
+  },
+  "c9d6881a2f0ee28a": {
+    "title": "CoBa: Cost-Effective Test-Time Scaling via Compute-Balanced Routing",
+    "category": "ai_models",
+    "score": 7
+  },
+  "2cc291e3bcac7f40": {
+    "title": "Cloud-Boosted Low-Compute Multi-Channel Speech Enhancement",
+    "category": "ai_models",
+    "score": 5
+  },
+  "40da1eaeb68ff717": {
+    "title": "Beyond Myopic World Models: Long-Horizon End-to-End Training for Direct Future Prediction",
+    "category": "ai_models",
+    "score": 11
+  },
+  "5bd2fe4cfd5e8493": {
+    "title": "Beyond Post-Hoc Temperature Scaling: Bilevel Optimization for LLM Calibration",
+    "category": "ai_models",
+    "score": 11
+  },
+  "f4991bd695c79717": {
+    "title": "ResidencyRL: Reinforcement Learning in Simulated Clinical Environments",
+    "category": "ai_models",
+    "score": 13
+  },
+  "a167ad028c963062": {
+    "title": "Australia Widens Orders on Chinese Investors in Rare Earths Firm",
+    "reason": "irrelevant"
+  },
+  "adca2b7d6c6f999d": {
+    "title": "Australian Scandium Miner Soars After $400 Million US Investment",
+    "reason": "irrelevant"
+  },
+  "d5297ab0ed0e79aa": {
+    "title": "HFTs Shun India Stock Closing Auction Over SEBI Short-Selling Hurdle",
+    "reason": "irrelevant"
+  },
+  "bee16e530e0e7778": {
+    "title": "Treasury Wine Shares Soar After Moves to Tackle Excess US Supply",
+    "category": "dropshipping",
+    "score": 4
+  },
+  "f38529ddd877a529": {
+    "title": "DatVietVAC Advances Vietnam IPO as It Looks to Korea Playbook",
+    "reason": "irrelevant"
+  },
+  "a3345072a6ec1d0a": {
+    "title": "Gold Holds Gain After Soft US Jobs Data Eases Rate-Hike Concerns",
+    "reason": "irrelevant"
+  },
+  "78e3bc1603e7587e": {
+    "title": "Jetstar, Qatar Air Near Miss at Sydney Triggers Safety Probe",
+    "reason": "irrelevant"
   }
 }
