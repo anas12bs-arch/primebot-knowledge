@@ -16225,5 +16225,61 @@
     "title": "Odd Lots: NYT\u2019s CEO on Media Brands in the Age of AI (Podcast)",
     "category": "ai_models",
     "score": 4
+  },
+  "97fe86f759da8800": {
+    "title": "Meta's new open-weight model targets local agentic AI",
+    "category": "automation",
+    "score": 4
+  },
+  "dd55b95417bb6c3e": {
+    "title": "Muse Glimmer: Meta's open model built for always-on local agents. 30B parameters",
+    "category": "automation",
+    "score": 5
+  },
+  "7c4c5b27f76a0362": {
+    "title": "Meta Muse Glimmer \u2013 open weights 30B local coding model",
+    "category": "automation",
+    "score": 3
+  },
+  "74bd05d0c3ce31b4": {
+    "title": "Secure Capability-Based Generative UI with WASM Components [video]",
+    "category": "ai_models",
+    "score": 2
+  },
+  "06f58881693daeab": {
+    "title": "Japan\u2019s Growth Minister on Proactive Fiscal Policy, Yen",
+    "category": "startup_strategy",
+    "score": 3
+  },
+  "68eff8df706573d8": {
+    "title": "Italy Fines Utility \u20ac5 Million on 2022 Power Market Manipulation",
+    "reason": "irrelevant"
+  },
+  "d6460135218befc6": {
+    "title": "Iran Security Shake-up; China Attempts to Close AI Gap with US | The Pulse 8/10/2026",
+    "category": "ai_models",
+    "score": 2
+  },
+  "c81559311c95daf0": {
+    "title": "Fed Rate Hike in December Is Possible, Macquarie's Wizman Says",
+    "category": "ai_models",
+    "score": 2
+  },
+  "2301b0ce39a80170": {
+    "title": "Gold Is Rallying Again Thanks to Some Deep-Pocketed Buyers",
+    "reason": "irrelevant"
+  },
+  "f12e634c698d39b6": {
+    "title": "Malaysia\u2019s Anwar Loses Third Lawmaker This Year in Party Exodus",
+    "reason": "irrelevant"
+  },
+  "ca88ab6c86d8de2a": {
+    "title": "Inside Businessweek's Screentime Issue",
+    "reason": "irrelevant"
+  },
+  "5d4435fcd5c46f3b": {
+    "title": "Record-Low Danube Strains Vital Route for Black Sea Grain",
+    "category": "ai_models",
+    "score": 2
   }
 }
