@@ -16770,5 +16770,146 @@
     "title": "Thinking about going to VidSummit 2026? Here are two full keynotes from 2025 as a taste of what you\u2019ll get.",
     "category": "ai_models",
     "score": 3
+  },
+  "ec1acd94c892465c": {
+    "title": "Teaching an Open Model to Do Science",
+    "reason": "irrelevant"
+  },
+  "49e603dff61a670a": {
+    "title": "Perception Before Supervision: Self-Contained Visual Distillation from Counterfactual Blind Spots",
+    "category": "ai_models",
+    "score": 12
+  },
+  "e4382cb602c9831c": {
+    "title": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions",
+    "category": "ai_models",
+    "score": 10
+  },
+  "ac20a2718acb54b9": {
+    "title": "Multimodal Model Diffing for Feature Discovery and Control",
+    "category": "ai_models",
+    "score": 14
+  },
+  "6e40112953b8893b": {
+    "title": "Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning",
+    "category": "ai_models",
+    "score": 12
+  },
+  "dda67c421406ed89": {
+    "title": "From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch",
+    "category": "ai_models",
+    "score": 10
+  },
+  "06f1b073f1a5ba56": {
+    "title": "GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis",
+    "category": "ai_models",
+    "score": 10
+  },
+  "8e8ca2919a0bea01": {
+    "title": "Overcoming Data Scarcity and Confidentiality in Hardware Assurance via Synthetic Generation",
+    "category": "ai_models",
+    "score": 7
+  },
+  "2a3199fcea6f5fe6": {
+    "title": "Beyond Hazard Resemblance: Contrastive Event Adjudication for Training-Free Video Anomaly Detection",
+    "category": "ai_models",
+    "score": 13
+  },
+  "08da768646e162c5": {
+    "title": "DistMoE: Private-data Rehearsal-free Routing in Mixture-of-Experts for Distributed Instruction Tuning",
+    "category": "ai_models",
+    "score": 9
+  },
+  "5ddac1f9b6de8052": {
+    "title": "DSLE: A Learning Environment for Dark Souls Boss Encounters",
+    "category": "ai_models",
+    "score": 8
+  },
+  "2f50f7a946324b4d": {
+    "title": "Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness",
+    "category": "ai_models",
+    "score": 12
+  },
+  "49c045008f824fc9": {
+    "title": "Fairness in Link Prediction Beyond Demographic Parity: A Reproducibility Study",
+    "category": "ai_models",
+    "score": 4
+  },
+  "05f987cc4923c700": {
+    "title": "Consilience for Verifier-Free Test-Time Scaling",
+    "category": "ai_models",
+    "score": 11
+  },
+  "4581fda34e9e180a": {
+    "title": "Fusion Training for Mathematical Generalization in Large Language Models",
+    "category": "ai_models",
+    "score": 11
+  },
+  "2dad4a09aed0b80c": {
+    "title": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
+    "category": "ai_models",
+    "score": 10
+  },
+  "fa275a1b666b3cb2": {
+    "title": "Space-Creating versus Dead Possession: An Off-Ball Possession-Quality Index for Broadcast Football",
+    "category": "ai_models",
+    "score": 3
+  },
+  "04e9018721db2118": {
+    "title": "SHE: Trajectory-driven Safety Harness Evolution for LLM Agents",
+    "category": "ai_models",
+    "score": 8
+  },
+  "52571a0140fc3e58": {
+    "title": "Financial Numerical Prediction and Allocation as Token Generation",
+    "category": "ai_models",
+    "score": 14
+  },
+  "2f0d13e81d73b147": {
+    "title": "Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning",
+    "category": "ai_models",
+    "score": 10
+  },
+  "2c3919282c36e78a": {
+    "title": "ArchAgent v2: A Case Study with the Data Prefetching Championship",
+    "category": "ai_models",
+    "score": 10
+  },
+  "530d98a561d7fb57": {
+    "title": "Sci-VBench: Evaluating Knowledge- and Reasoning-Intensive Video Generation in Science Domains",
+    "category": "ai_models",
+    "score": 17
+  },
+  "cc9171958235fc8e": {
+    "title": "Logarithmic-Free Moment and Generalization Bounds for Uniformly Stable Algorithms",
+    "category": "automation",
+    "score": 3
+  },
+  "18f7d98c7bac34d1": {
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "category": "ai_models",
+    "score": 7
+  },
+  "bd398dfeb72cc2d7": {
+    "title": "Towards Expert-level Medical AI for Real-time Video Consultations",
+    "category": "ai_models",
+    "score": 8
+  },
+  "83800404e3d47f40": {
+    "title": "Agentic Harnesses: LLM-Driven Verification Layers for Robot Autonomy",
+    "category": "ai_models",
+    "score": 10
+  },
+  "66aa3e6982794a07": {
+    "title": "Yuan\u2019s Recent Calm May End on Seasonal Factors, Analysts Say",
+    "reason": "irrelevant"
+  },
+  "bb55cd5e8131a066": {
+    "title": "Hong Kong May Expand Tax Breaks to Trading Firms, FT Says",
+    "reason": "irrelevant"
+  },
+  "778f2f56625f4487": {
+    "title": "Nifty 50 Inclusion Could Boost BSE as NSE Gears Up For Listing",
+    "reason": "irrelevant"
   }
 }
