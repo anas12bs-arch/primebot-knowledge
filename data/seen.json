@@ -17558,5 +17558,180 @@
     "title": "China Earnings to Test Rotation From AI to Internet Stocks",
     "category": "ai_models",
     "score": 2
+  },
+  "649e6b30de6ab08f": {
+    "title": "Ask HN: Could DNA be represented as \"an embedding\" in an AI model?",
+    "reason": "irrelevant"
+  },
+  "c1cbf37d4d3a4f35": {
+    "title": "AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss",
+    "category": "ai_models",
+    "score": 7
+  },
+  "dd81a324a8fb6fc6": {
+    "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+    "category": "ai_models",
+    "score": 8
+  },
+  "3feea85cacc584c5": {
+    "title": "Capturing Uncertainty in Human Motion for Representation Learning in Soccer",
+    "category": "ai_models",
+    "score": 10
+  },
+  "0b1e423993af9013": {
+    "title": "VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics",
+    "category": "ai_models",
+    "score": 12
+  },
+  "1d94a4564cd90c7e": {
+    "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
+    "category": "ai_models",
+    "score": 8
+  },
+  "d4ac60bae8fc3afe": {
+    "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
+    "category": "ai_models",
+    "score": 10
+  },
+  "a21542e60831a256": {
+    "title": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
+    "category": "automation",
+    "score": 9
+  },
+  "e3e36be2850867cd": {
+    "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
+    "category": "ai_models",
+    "score": 12
+  },
+  "5b0e2a7837a38067": {
+    "title": "How to Verify Consistency of Probabilistic Claims",
+    "category": "ai_models",
+    "score": 4
+  },
+  "85002db936f219e3": {
+    "title": "A Quantum Roadmap for Softmax Attention: Exact Born-Rule Analogs for Softmax Attention on the Probability Simplex",
+    "category": "ai_models",
+    "score": 6
+  },
+  "83a59a3bdce3f276": {
+    "title": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop",
+    "category": "ai_models",
+    "score": 9
+  },
+  "89935d4f3a028c24": {
+    "title": "MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment",
+    "category": "ai_models",
+    "score": 12
+  },
+  "b3d22f6c5e6890ea": {
+    "title": "Hierarchical Empirical-Bayes Naive Bayes: Minimax Smoothing and Calibration with AODE Extension",
+    "reason": "irrelevant"
+  },
+  "77d0b96042c71663": {
+    "title": "Conditional Independence Tests for Constraint-Based Causal Discovery: A Survey",
+    "category": "ai_models",
+    "score": 7
+  },
+  "8e835ebdbe8172dd": {
+    "title": "DACRI: Decision-Aware Causal Intervention Ranking for Critical Supply Chains",
+    "category": "dropshipping",
+    "score": 4
+  },
+  "a673a2f88db15c3e": {
+    "title": "Scheduling Mixed RL Rollouts Beyond Prefix Locality",
+    "category": "ai_models",
+    "score": 14
+  },
+  "32cdc8537ff8a1fb": {
+    "title": "CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting",
+    "category": "ai_models",
+    "score": 6
+  },
+  "f8164da1447b6d3c": {
+    "title": "PRMU: A Corpus-Free Benchmark for Person-Centric Knowledge Unlearning in Multimodal Large Language Models",
+    "category": "ai_models",
+    "score": 8
+  },
+  "aa884b1fddc4246e": {
+    "title": "The Illusion of Cross-Lingual Safety in Low-Resource Languages",
+    "category": "ai_models",
+    "score": 9
+  },
+  "74f06e0832887794": {
+    "title": "A Recommendation System Approach for Interference-Robust Sensor Subset Selection",
+    "category": "ai_models",
+    "score": 5
+  },
+  "4802fb9737a642f9": {
+    "title": "SAR2Agri: Learning SAR Intensity Representations for Agricultural Monitoring",
+    "category": "ai_models",
+    "score": 13
+  },
+  "533967c1caaa5882": {
+    "title": "Attention-Path Fragility as an Uncertainty Signal in Large Language Models",
+    "category": "ai_models",
+    "score": 11
+  },
+  "01f919d0725e2365": {
+    "title": "sLTN: Structural Logic Tensor Networks",
+    "category": "ai_models",
+    "score": 6
+  },
+  "b1450883a4c91c9f": {
+    "title": "Is There Really a Camouflaged Object? Towards Realistic Camouflaged Object Detection",
+    "category": "ai_models",
+    "score": 8
+  },
+  "8f6b15a4274a07ff": {
+    "title": "AlbumentationsX: One Augmentation Pipeline for Images and Related Annotations",
+    "category": "ai_models",
+    "score": 5
+  },
+  "b558b4247825bb75": {
+    "title": "Korea\u2019s 30-Year Bond Yield Hits Record on Oil, Rate Hike Bets",
+    "reason": "irrelevant"
+  },
+  "11e314f48eb6a61a": {
+    "title": "India\u2019s Small, Mid-cap Funds Stay Hot With Investors",
+    "category": "ai_models",
+    "score": 2
+  },
+  "b45bd07759a20586": {
+    "title": "Rakuten\u2019s Shares Plunge After Mobile Losses Fuel Investor Fears",
+    "reason": "irrelevant"
+  },
+  "feb9d5c5a8848e06": {
+    "title": "Yen Traders Use Options for \u2018Flexibility\u2019 Into US Inflation Data",
+    "reason": "irrelevant"
+  },
+  "dcd9fe4b11637c73": {
+    "title": "Sanrio Shares Plunge Most Since 2014 After 1Q Earnings Miss",
+    "reason": "irrelevant"
+  },
+  "a7ec8d4560d5c7f5": {
+    "title": "China Revives Free-Trade Zone Bond Market After 2023 Crackdown",
+    "category": "ai_models",
+    "score": 3
+  },
+  "62466b31f6f309dd": {
+    "title": "New Zealand Prime Minister Luxon Wins Party Confidence Vote",
+    "reason": "irrelevant"
+  },
+  "4d97660564b213fa": {
+    "title": "New Katsu Curry Index Rivals Big Mac Gauge to Show How Weak Yen Really Is",
+    "reason": "irrelevant"
+  },
+  "6daaaa679a7b9bd9": {
+    "title": "Jane Street Repaying $5.5 Billion Loan in Overhaul of Debt Load",
+    "reason": "irrelevant"
+  },
+  "94f00e62f5e72405": {
+    "title": "Indonesian Bonds May Have Seen Worst of Selling, Analysts Say",
+    "reason": "irrelevant"
+  },
+  "0e5c30fc252efcd0": {
+    "title": "Thanks to ReelShort and Arizona State University, you can now go to college for microdramas",
+    "category": "ai_models",
+    "score": 2
   }
 }
