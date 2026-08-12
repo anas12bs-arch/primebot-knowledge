@@ -18112,5 +18112,59 @@
   "2115eab5af855743": {
     "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You\u2019ve Found is Wrong",
     "reason": "irrelevant"
+  },
+  "2d07b26baf0255ed": {
+    "title": "We built a job board where the employers aren't human. Here's what broke",
+    "category": "ai_models",
+    "score": 2
+  },
+  "d04900b5cb86c0a1": {
+    "title": "LFM2.5-VL-3B: A Better and Faster Vision-Language Model for the Edge",
+    "category": "ai_models",
+    "score": 4
+  },
+  "b5ff693220718f5a": {
+    "title": "If the markets reject OpenAI and Anthropic, the US should nationalize them",
+    "category": "ai_models",
+    "score": 2
+  },
+  "a84cc81a0a4c11a6": {
+    "title": "GulliBench: Measuring Skepticism in Frontier Models",
+    "category": "ai_models",
+    "score": 3
+  },
+  "4fe63bc07afd08dd": {
+    "title": "Beware the \u201cMediocre Recycled.\u201d The Zombie Executives of B2B + AI.",
+    "reason": "irrelevant"
+  },
+  "2ea6610fdcbf3104": {
+    "title": "Dove\u2019s marketing mixes sports and style for US Open sponsorship return",
+    "category": "ai_models",
+    "score": 2
+  },
+  "da40c54dd81a5aad": {
+    "title": "Everything announced at Made by Google \u201926: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+    "reason": "irrelevant"
+  },
+  "7b2d6278b843d0c3": {
+    "title": "Bob Iger, Josh Kushner Are Buying the LA Lakers",
+    "reason": "irrelevant"
+  },
+  "ccd12b38208c9159": {
+    "title": "S&P 500 Earnings Are So Good Investors Are Starting to Worry",
+    "reason": "irrelevant"
+  },
+  "312e5241e809283f": {
+    "title": "Trump Says US Controls the Strait of Hormuz, But Talks Continue",
+    "category": "ai_models",
+    "score": 2
+  },
+  "eb91299e7b804da7": {
+    "title": "JPMorgan Sees Fed on Hold as \u2018Teflon Inflation\u2019 Eases Concerns",
+    "reason": "irrelevant"
+  },
+  "94e90658a796d6b9": {
+    "title": "JPMorgan, Goldman, Invesco Test Blockchain Across Wall Street",
+    "reason": "irrelevant"
   }
 }
