@@ -18492,5 +18492,183 @@
   "115a4532c1a78c01": {
     "title": "Gold Steadies After Tame US Inflation Data Eases Rate-Hike Bets",
     "reason": "irrelevant"
+  },
+  "6ff2a98565d807e0": {
+    "title": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
+    "category": "ai_models",
+    "score": 3
+  },
+  "e0b04b7cb30421b2": {
+    "title": "Ask HN: How important is document category recognition in data classification?",
+    "reason": "irrelevant"
+  },
+  "24c38250ddf98fdf": {
+    "title": "StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization",
+    "category": "ai_models",
+    "score": 14
+  },
+  "87c7d2f32e2d10d7": {
+    "title": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
+    "category": "ai_models",
+    "score": 13
+  },
+  "ba2a303f203b1ff5": {
+    "title": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
+    "category": "ai_models",
+    "score": 7
+  },
+  "ca76524f6edb9c56": {
+    "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
+    "category": "ai_models",
+    "score": 13
+  },
+  "d60d6d38fcee9c17": {
+    "title": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL",
+    "category": "ai_models",
+    "score": 7
+  },
+  "2a0ac2d8091ba59e": {
+    "title": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
+    "category": "ai_models",
+    "score": 14
+  },
+  "f6558a2a4f9a981f": {
+    "title": "A Framework for Designing Reward Functions: From Objectives to Features to Human-Aligned Reward Functions",
+    "category": "ai_models",
+    "score": 8
+  },
+  "43ec7fd4c18e1826": {
+    "title": "Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations",
+    "category": "ai_models",
+    "score": 10
+  },
+  "2e8c170a48772fb5": {
+    "title": "Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence",
+    "category": "ai_models",
+    "score": 9
+  },
+  "1f9f82f434226416": {
+    "title": "Large Language Model-Driven Small-Capitalization Trading: Integrating Financial News Sentiment, Macroeconomic Indicators, and Technical Signals",
+    "category": "ai_models",
+    "score": 6
+  },
+  "89abbce62db52680": {
+    "title": "VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies",
+    "category": "ai_models",
+    "score": 7
+  },
+  "c4b5cedc08399848": {
+    "title": "Curvature-Aware Zeroth-Order Optimization for Memory-Efficient Test-Time Adaptation",
+    "category": "ai_models",
+    "score": 7
+  },
+  "b50b081ef25565e4": {
+    "title": "Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages",
+    "category": "ai_models",
+    "score": 13
+  },
+  "ba28450fa10f7238": {
+    "title": "XYZFlow:Scaling Multi dimensional Shortcut Flows for Efficient Generative Modeling",
+    "category": "ai_models",
+    "score": 15
+  },
+  "ab01d333b0d6d5b7": {
+    "title": "A Neighborhood Attention Transformer Network for Enhanced 3D Segmentation of the Left Anterior Descending Artery",
+    "category": "ai_models",
+    "score": 3
+  },
+  "8f962a8e3f257387": {
+    "title": "Convergent Detour Hijacking: Task-Preserving Resource Amplification in Skill-Based LLM Agents",
+    "category": "ai_models",
+    "score": 4
+  },
+  "203dee46d1269325": {
+    "title": "Earth observation embeddings are effective sub-grid descriptors for probabilistic weather downscaling",
+    "category": "ai_models",
+    "score": 9
+  },
+  "a6120d5e335496f3": {
+    "title": "A Cascaded Unsupervised-Supervised NLP Pipeline for Detecting Accusatory Language in Public Procurement",
+    "category": "ai_models",
+    "score": 3
+  },
+  "cc9d36cd0018fce2": {
+    "title": "Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams",
+    "category": "ai_models",
+    "score": 12
+  },
+  "1f854786295d206d": {
+    "title": "Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting",
+    "category": "ai_models",
+    "score": 7
+  },
+  "7f78e568ba4c2b53": {
+    "title": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL",
+    "category": "ai_models",
+    "score": 8
+  },
+  "f841a07281d427d1": {
+    "title": "Automated Borehole Core Analysis with Report-Derived Weak Labels and Supervised Crack Segmentation",
+    "category": "ai_models",
+    "score": 6
+  },
+  "0d3bf204f2bb7493": {
+    "title": "Regime-Gated Residual Mixture-of-Experts for Cross-Sectional Volatility Forecasting",
+    "category": "ai_models",
+    "score": 9
+  },
+  "3b9cbd777edf9cb0": {
+    "title": "An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS",
+    "category": "automation",
+    "score": 6
+  },
+  "5f23a6655ce753a3": {
+    "title": "VICBench: A Multi-Language Benchmark for Code Vulnerability Detection",
+    "category": "automation",
+    "score": 9
+  },
+  "e0a41d5a739f1c6d": {
+    "title": "Korea Steps Up Home Supply Push as President Faces Discontent",
+    "reason": "irrelevant"
+  },
+  "98db808abcb06eb1": {
+    "title": "Australia Housing Price Drop Helps Slow Economy, RBA\u2019s Kent Says",
+    "reason": "irrelevant"
+  },
+  "aefe0f646504a83b": {
+    "title": "Tata Investors Turn Focus to Succession, Strategy as Chairman Set to Step Down",
+    "reason": "irrelevant"
+  },
+  "b086ad99607e046c": {
+    "title": "Prabowo Picks Insiders for Top Indonesia Central Bank Posts",
+    "category": "ai_models",
+    "score": 2
+  },
+  "ae89676bab4d62f8": {
+    "title": "Korean Stocks Rise 23% in 10 Days as Chip Rally Regains Steam",
+    "category": "ai_models",
+    "score": 3
+  },
+  "d9f474f480bb2b39": {
+    "title": "Housing Market Jitters Grip Australia Banks on Cautious Outlook",
+    "reason": "irrelevant"
+  },
+  "39416013a5289396": {
+    "title": "China\u2019s Coal-to-Chemicals Push Pays Off With Record Profits",
+    "reason": "irrelevant"
+  },
+  "1e04a423ccda2170": {
+    "title": "Japan\u2019s\u00a0Producer\u00a0Price Gains Stay High as BOJ Mulls Rate Path",
+    "reason": "irrelevant"
+  },
+  "eaa52cb38a996c87": {
+    "title": "Blue-Collar Workers Are Training AI To Take Their Jobs",
+    "category": "automation",
+    "score": 4
+  },
+  "f92cd7ec629bd114": {
+    "title": "\u201cIf it was opt-in, nobody would opt in\u201d: Twitch auto-enrolls all streamers in having their content scraped for Amazon LLM training",
+    "category": "ai_models",
+    "score": 4
   }
 }
