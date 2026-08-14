@@ -19809,5 +19809,56 @@
   "93042303ab952fde": {
     "title": "Dangote Sugar Raises $356 Million in Share Sale to Trim Debt",
     "reason": "irrelevant"
+  },
+  "ec6fb0c67dc19081": {
+    "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
+    "category": "ai_models",
+    "score": 3
+  },
+  "56fe7f1e2b6caca6": {
+    "title": "AI will converge towards intuition-guided symbolic world modeling",
+    "category": "ai_models",
+    "score": 4
+  },
+  "5ec9ca6e3f82e33a": {
+    "title": "Show HN: Artifex - Graph Based GPU Harness for AI Agents",
+    "category": "automation",
+    "score": 6
+  },
+  "aff098a02cf5ba3e": {
+    "title": "Databricks Just Crossed $7B ARR Growing 80% (!): A 30-Point Acceleration, a $190B Valuation, and the Margin Bill for Agents",
+    "category": "automation",
+    "score": 3
+  },
+  "87469dc5e041c547": {
+    "title": "EdgeConneX Seeks $2.5 Billion Bank Pledge for Data Center Power",
+    "reason": "irrelevant"
+  },
+  "59bb51f5ca96e434": {
+    "title": "Radiant World Said to Sell Aluminum Stockpile to STG Group",
+    "category": "ai_models",
+    "score": 2
+  },
+  "7256ab3a0586c560": {
+    "title": "White Sugar Rally Boosts Refining as Supply Outlook Tightens",
+    "reason": "irrelevant"
+  },
+  "44f405adc860142c": {
+    "title": "US Stock Futures Up as Strong Earnings, Benign Data Drive Gains",
+    "reason": "irrelevant"
+  },
+  "694276b44ebee058": {
+    "title": "Cyclospora Outbreak Puts Food Safety to the Test",
+    "category": "dropshipping",
+    "score": 4
+  },
+  "9955b20d3b6b97c5": {
+    "title": "Hunt for AI-Proof Trades Turns Convenience Shops Into Hot Stocks",
+    "category": "ai_models",
+    "score": 5
+  },
+  "7f5594ebed4239ce": {
+    "title": "\u2018FOMO Insurance\u2019 Drives Options Buying Spree as Stocks Rally On",
+    "reason": "irrelevant"
   }
 }
