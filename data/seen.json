@@ -19386,5 +19386,152 @@
   "37b9aaf80db8ffda": {
     "title": "Japan\u2019s Inflation Paradox Is Creating Winners and Losers",
     "reason": "irrelevant"
+  },
+  "f3bdbd4bba52ffe4": {
+    "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+    "category": "ai_models",
+    "score": 12
+  },
+  "0c0691567cb12b58": {
+    "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+    "category": "ai_models",
+    "score": 8
+  },
+  "bbbc7a095a8aa28e": {
+    "title": "V-RAE: Rethinking Video Latent Spaces for Generation",
+    "category": "ai_models",
+    "score": 17
+  },
+  "748f91bd2b6294bb": {
+    "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+    "category": "ai_models",
+    "score": 9
+  },
+  "ab72d3ced045da75": {
+    "title": "Defensive Boosting for Online Probabilistic Forecasting",
+    "category": "ai_models",
+    "score": 5
+  },
+  "ecc9d9113bfb8bb4": {
+    "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
+    "category": "ai_models",
+    "score": 13
+  },
+  "b951a5cb28dfe734": {
+    "title": "Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure",
+    "reason": "irrelevant"
+  },
+  "8114f6e20588b0dc": {
+    "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+    "category": "ai_models",
+    "score": 6
+  },
+  "e7aa08db01966b16": {
+    "title": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World",
+    "category": "ai_models",
+    "score": 11
+  },
+  "4c28be0ac8c1bb28": {
+    "title": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
+    "category": "ai_models",
+    "score": 8
+  },
+  "ed01353b193178ae": {
+    "title": "SCULPT: Subtractive Composition for 3D Part Generation",
+    "category": "ai_models",
+    "score": 6
+  },
+  "9ae78d04bb4201f4": {
+    "title": "SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization",
+    "category": "ai_models",
+    "score": 8
+  },
+  "78af53ab3a6b8103": {
+    "title": "DARTree: Speculative Diffusion Decoding with Autoregressive Draft Trees",
+    "category": "ai_models",
+    "score": 8
+  },
+  "24ca87822440d5d3": {
+    "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+    "category": "automation",
+    "score": 9
+  },
+  "0d711c6d8d49b209": {
+    "title": "Exponential quantum advantage for learning signals with a single qubit",
+    "category": "ai_models",
+    "score": 7
+  },
+  "3fbaecb92854496d": {
+    "title": "The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity",
+    "category": "ai_models",
+    "score": 4
+  },
+  "f648866148cb7cb2": {
+    "title": "Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology",
+    "category": "ai_models",
+    "score": 10
+  },
+  "d09037d0a09d8e64": {
+    "title": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data",
+    "category": "ai_models",
+    "score": 9
+  },
+  "8985d9006ab39115": {
+    "title": "Measuring Task-Agnostic Training Data Influence Across Language Model Pretraining",
+    "category": "ai_models",
+    "score": 6
+  },
+  "87d53f811245c693": {
+    "title": "Bagging Robustly Learns VC Classes with Linear Sample Complexity",
+    "category": "ai_models",
+    "score": 5
+  },
+  "7166290a5639a80f": {
+    "title": "TabSOM: A tabular-to-image encoding method based on self-organizing maps",
+    "category": "ai_models",
+    "score": 6
+  },
+  "b93cf9202ade0c6d": {
+    "title": "On the Structural Limits of Machine Learning Decision Systems: An Information-Theoretic, Interaction-Based, and Stochastic-Dynamical Perspective",
+    "category": "ai_models",
+    "score": 5
+  },
+  "3e7dc3580d4cba0d": {
+    "title": "Equivariant learning of a transferable three-dimensional classical density functional",
+    "category": "ai_models",
+    "score": 5
+  },
+  "b6b5fc94f8fe3d8f": {
+    "title": "Intern-S2-Preview: Scientific Agentic Foundation Model",
+    "category": "ai_models",
+    "score": 17
+  },
+  "85c4fb8a2a935a9e": {
+    "title": "Sparse Orthogonal Regression Technique: A Spectral Framework for Equation Discovery, Approximation, and Integration",
+    "category": "ai_models",
+    "score": 7
+  },
+  "cd6454033ef40a77": {
+    "title": "PBOC Conducts Mid-Month Overnight Reverse Repo for First Time",
+    "category": "ai_models",
+    "score": 2
+  },
+  "4a3d1b05ccc84af5": {
+    "title": "Carry Traders Exploit Intervention to Rebuild Yen Shorts",
+    "category": "ai_models",
+    "score": 2
+  },
+  "e81f0dc944708ff4": {
+    "title": "Uber and China\u2019s Pony AI to Deploy 2,000 Robotaxis in Europe",
+    "category": "ai_models",
+    "score": 2
+  },
+  "a5b70c8a4b312eba": {
+    "title": "India Bar Council Retreats After \u2018Cockroach\u2019 Protest Threat",
+    "reason": "irrelevant"
+  },
+  "015443fdd75ba9ff": {
+    "title": "New Zealand Immigration Edges to 17-Month High Yet Remains Weak",
+    "reason": "irrelevant"
   }
 }
