@@ -20710,5 +20710,165 @@
     "title": "De V\u00e1scolo a VAS",
     "category": "ai_models",
     "score": 2
+  },
+  "58b71f917904ceb0": {
+    "title": "CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing",
+    "category": "ai_models",
+    "score": 11
+  },
+  "60fabe23363f0241": {
+    "title": "MagnifiQ: Patch-aware Text Guided Progressive Upscaling for High-Resolution Image Restoration",
+    "category": "ai_models",
+    "score": 10
+  },
+  "a7a521734664ebca": {
+    "title": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils",
+    "category": "ai_models",
+    "score": 10
+  },
+  "58012f0f5d0bc040": {
+    "title": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance",
+    "category": "ai_models",
+    "score": 14
+  },
+  "09ed56aa21759c57": {
+    "title": "Handover of In-Context Learning State Across Session Boundaries",
+    "category": "ai_models",
+    "score": 14
+  },
+  "d4a9f8319ec95007": {
+    "title": "Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers",
+    "category": "ai_models",
+    "score": 13
+  },
+  "70b5ed527b81b9f1": {
+    "title": "Learning-to-Transition for Large-scale and High-Order MIMO Detection",
+    "category": "ai_models",
+    "score": 13
+  },
+  "64f023f2c2131cb7": {
+    "title": "Split the Labor: Separating Evidence Interpretation from Decision Aggregation",
+    "category": "ai_models",
+    "score": 11
+  },
+  "c117fa1b62387d8e": {
+    "title": "RecipeNet: A Hierarchical Transformer for Recipe Data",
+    "category": "ai_models",
+    "score": 7
+  },
+  "60bac921312b87bb": {
+    "title": "Universal Thermodynamic Interatomic Potentials for Crystalline Materials",
+    "category": "ai_models",
+    "score": 8
+  },
+  "c526209d097344d5": {
+    "title": "Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training",
+    "category": "ai_models",
+    "score": 21
+  },
+  "d59cf0a2699fec3b": {
+    "title": "Generating Benchmark Health Data Using a Tabular Diffusion Transformer",
+    "category": "ai_models",
+    "score": 11
+  },
+  "4ffa27616fdcf099": {
+    "title": "Approximate Muon with low-rank adapters",
+    "category": "ai_models",
+    "score": 8
+  },
+  "90a11773e99bb9b2": {
+    "title": "Optimal Scheduling of Road Maintenance Jobs Considering Impact on Traffic Flows",
+    "category": "ai_models",
+    "score": 9
+  },
+  "f9097a06885539ed": {
+    "title": "Twin: Playing an Unknown Game with a Test-Time Digital Twin",
+    "category": "ai_models",
+    "score": 14
+  },
+  "f5a5b326e6e0424f": {
+    "title": "Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes",
+    "category": "ai_models",
+    "score": 18
+  },
+  "eae06804ae5e7f8f": {
+    "title": "LP-NAS: Linear Programming-based Neural Architecture Search",
+    "category": "ai_models",
+    "score": 7
+  },
+  "13af0a14fbb0dc75": {
+    "title": "Expected Free Energy-based Informative Path Planning for Robotic Mars Exploration",
+    "category": "ai_models",
+    "score": 13
+  },
+  "a6604134552b3c1b": {
+    "title": "You Only Pass Once: Answering and Abstaining Together in a Single Forward Pass of a Frozen Language Model",
+    "category": "ai_models",
+    "score": 5
+  },
+  "e28ed74aa13f60fc": {
+    "title": "Information Satisfaction: A Reader-Centered Axis for Summarization Evaluation",
+    "category": "ai_models",
+    "score": 11
+  },
+  "c5578c8a484ec806": {
+    "title": "Shift Aware Transfer Learning with Adaptive Dual-Encoder Fusion for PM Forecasting in Data-Limited Environments",
+    "category": "ai_models",
+    "score": 17
+  },
+  "76f5952bf573d98a": {
+    "title": "SheetCompass: Hierarchical Relation Graphs for Agentic Spreadsheet Reasoning",
+    "category": "ai_models",
+    "score": 12
+  },
+  "0e035ee6716c2353": {
+    "title": "Wyvern: An Agentic Framework for Generating Grounded Multimodal Reports",
+    "category": "ai_models",
+    "score": 20
+  },
+  "9bfff527eed25559": {
+    "title": "Designing Compact Neural Architectures via Neuron Gating and Mixed Activation",
+    "category": "ai_models",
+    "score": 13
+  },
+  "bba318fe8f6d0da1": {
+    "title": "PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments",
+    "category": "ai_models",
+    "score": 12
+  },
+  "55310865dbffb4c7": {
+    "title": "India Rupee, Bonds in Focus as RBI to End FCNR Deposit Window Early",
+    "category": "ai_models",
+    "score": 4
+  },
+  "e538be329f44e86b": {
+    "title": "Xi Touts Party-Led Growth at Predecessor\u2019s Birth Centenary",
+    "category": "ai_models",
+    "score": 4
+  },
+  "3099877533b587d9": {
+    "title": "Hong Kong Court Orders Unit of SDIC Commodities to Liquidate",
+    "category": "ai_models",
+    "score": 5
+  },
+  "870a2f9f223cde07": {
+    "title": "Silver Traders Brave Red Tape to Capture Indian Premiums",
+    "category": "ai_models",
+    "score": 4
+  },
+  "2f11336caea2b689": {
+    "title": "Copper Heads Toward Record High on LME as Supply Tensions Build",
+    "category": "ai_models",
+    "score": 5
+  },
+  "2776307b2f39d2ca": {
+    "title": "Sri Lankan Inflation to Slow Toward Goal, Central Bank Head Says",
+    "category": "ai_models",
+    "score": 4
+  },
+  "f180c722edb0f4da": {
+    "title": "Creators rely on brand deals, but worry about the \u201ctension\u201d between sponsors and viewers\u2013and just 15% say they fully trust sponsored content from other creators",
+    "category": "ai_models",
+    "score": 9
   }
 }
