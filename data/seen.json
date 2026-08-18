@@ -21580,5 +21580,149 @@
     "title": "M&G Backs Korean Bonds, Sees Too Many Rate Hikes Priced In",
     "category": "ai_models",
     "score": 7
+  },
+  "c97dfca25c28a2c9": {
+    "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
+    "category": "ai_models",
+    "score": 18
+  },
+  "a4f0fe722d663a8d": {
+    "title": "Q-based Variational Inverse Reinforcement Learning",
+    "category": "ai_models",
+    "score": 7
+  },
+  "7bcb8f1c2a4542dd": {
+    "title": "An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models",
+    "category": "ai_models",
+    "score": 17
+  },
+  "bc4b22b3dbc1d98c": {
+    "title": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
+    "category": "ai_models",
+    "score": 6
+  },
+  "530a8740487d81ee": {
+    "title": "Spectral Gaps of Hit-and-Run and Coordinate Hit-and-Run",
+    "reason": "irrelevant"
+  },
+  "f99cc90635b9d2ab": {
+    "title": "AutoSR: Automatic Symbolic Regression by Searching Research States",
+    "category": "ai_models",
+    "score": 11
+  },
+  "d5abba4462d10eb4": {
+    "title": "An Analytical-Prior Framework for Data-Efficient Prediction of Sound-Reduction Frequencies in Rectangular Side-Branch Helmholtz Resonators",
+    "category": "ai_models",
+    "score": 9
+  },
+  "97f0aca8f696b781": {
+    "title": "Data-Efficient and Interpretable Classification of Circulating Tumor Cell Phenotypes in Microfluidic Devices via Deep Learning",
+    "category": "ai_models",
+    "score": 8
+  },
+  "64d6b35fe7cf98b0": {
+    "title": "Towards Computational Provenance: Carrying Causal-State Evidence in Generated Text",
+    "category": "ai_models",
+    "score": 15
+  },
+  "d22ff0146811741e": {
+    "title": "Non-Crossing Deep Quantile Regression for Distributional Survival Prediction",
+    "category": "ai_models",
+    "score": 7
+  },
+  "7ff2092e84a2572d": {
+    "title": "SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis",
+    "category": "ai_models",
+    "score": 15
+  },
+  "86f7b7b37b1e1643": {
+    "title": "The canonical facets of multi-separator polytopes",
+    "category": "ai_models",
+    "score": 4
+  },
+  "31e47a9603893bd3": {
+    "title": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
+    "category": "ai_models",
+    "score": 17
+  },
+  "c74f668445941015": {
+    "title": "zLend: A Dual-Scope Cash-Flow Reconstruction Framework for On-Chain Credit Underwriting",
+    "category": "ai_models",
+    "score": 9
+  },
+  "566e33b498560fec": {
+    "title": "Can Unsupervised Methods Outperform Supervised Deep Learning When Ground Truth Is Sparse? A Case Study of Bronchovascular Bundle Segmentation in Low-Dose CT",
+    "category": "ai_models",
+    "score": 8
+  },
+  "6dedf3d8688503e1": {
+    "title": "What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models",
+    "category": "ai_models",
+    "score": 12
+  },
+  "8196744f9ed1aa40": {
+    "title": "Proteus: Incremental Memory Activation for Long-Context Sequence Modeling",
+    "category": "ai_models",
+    "score": 13
+  },
+  "0b84d0fa9fed8456": {
+    "title": "HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL",
+    "category": "ai_models",
+    "score": 20
+  },
+  "1c1223381badbb98": {
+    "title": "Model Hypnosis: Strong control of AI via additive subliminal effects",
+    "category": "ai_models",
+    "score": 9
+  },
+  "59a7ea116887e054": {
+    "title": "Time-Aware Validation of Machine Learning Fuel Consumption Models: Evidence from 1\\,Hz Operational Data, CCGS \\textit{Sir Wilfrid Laurier}",
+    "category": "ai_models",
+    "score": 14
+  },
+  "adff11be3f73730f": {
+    "title": "Policy Iteration with Human Feedback: Bringing Post-Training RL to In-context Learning",
+    "category": "ai_models",
+    "score": 19
+  },
+  "0973233aae6428b4": {
+    "title": "CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?",
+    "category": "ai_models",
+    "score": 14
+  },
+  "adfbc8385f56e628": {
+    "title": "GEO-Flag: Detecting and Measuring GEO-Optimized Web Content",
+    "category": "ai_models",
+    "score": 8
+  },
+  "c616074910c03be3": {
+    "title": "Quipu: A Governed Bitemporal Knowledge Graph Store",
+    "category": "ai_models",
+    "score": 10
+  },
+  "cd991698850f6ecf": {
+    "title": "Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervision",
+    "category": "ai_models",
+    "score": 17
+  },
+  "b0029493c8e94e8c": {
+    "title": "Supply Crunch Grips Copper Market as Key Spread Flares Out",
+    "category": "ai_models",
+    "score": 3
+  },
+  "4c5ad0d4bb75940c": {
+    "title": "Indian IPOs Shine Bright Even as Nifty Loses Momentum",
+    "category": "ai_models",
+    "score": 3
+  },
+  "146ad9e19ca20c6b": {
+    "title": "Yardeni Warns Bond Vigilantes Stirring as US Yields Near 5%",
+    "category": "ai_models",
+    "score": 3
+  },
+  "dde34de39b276d87": {
+    "title": "Cargill\u2019s Annual Earnings Rise as Volatility Benefits Trading",
+    "category": "ai_models",
+    "score": 8
   }
 }
