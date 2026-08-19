@@ -23295,5 +23295,69 @@
     "title": "Bloomberg Surveillance 8/19/2026",
     "category": "ai_models",
     "score": 6
+  },
+  "11b983f17cab88a0": {
+    "title": "Show HN: CrewCode \u2013 Open-source Mission Control for AI coding agents",
+    "category": "automation",
+    "score": 6
+  },
+  "922de4cdae0bae80": {
+    "title": "Show HN: RelArena-\u03b1 \u2013 open-source releases for Relational Learning",
+    "category": "automation",
+    "score": 4
+  },
+  "f1e200b4b4b995c8": {
+    "title": "Offering Zero Data Retention for frontier models",
+    "category": "ai_models",
+    "score": 8
+  },
+  "47420612f6317fbc": {
+    "title": "Meet the startup helping Wall\u00a0Street put\u00a0a price on AI compute",
+    "category": "ai_models",
+    "score": 11
+  },
+  "cf6b679f0ad29607": {
+    "title": "Trump Says US Has \u2018Come to a Deal With Canada\u2019",
+    "category": "ai_models",
+    "score": 6
+  },
+  "47c438116f69adf9": {
+    "title": "CPPIB Is Said to See Several Departures Across Senior Ranks",
+    "category": "ai_models",
+    "score": 2
+  },
+  "d06e66c95d57beea": {
+    "title": "Goldman Sounds Out Investors for CoreWeave-Tied Data Center Bond",
+    "category": "ai_models",
+    "score": 6
+  },
+  "06dbf87f71fa094d": {
+    "title": "Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed",
+    "category": "ai_models",
+    "score": 6
+  },
+  "ffda54ad6169d8c0": {
+    "title": "\u2018The Treasury Is Watching\u2019: Bessent\u2019s Buybacks Jolt Bond Market",
+    "reason": "irrelevant"
+  },
+  "cd9cac3aecf198d2": {
+    "title": "Healthcare of Ontario Pension Plan\u2019s Private Equity Boss Departs",
+    "category": "ai_models",
+    "score": 4
+  },
+  "08b74e1dd8b68a6c": {
+    "title": "Stocks Climb as Treasury Steps In to Support Bonds",
+    "category": "ai_models",
+    "score": 14
+  },
+  "3d1260e28ba29f59": {
+    "title": "Goldman's McClure Says IPO Market 'Wide Open' for Business",
+    "category": "ai_models",
+    "score": 8
+  },
+  "ec4b289b811dc185": {
+    "title": "Moderna, Merck Revive mRNA Hopes With Melanoma Success",
+    "category": "ai_models",
+    "score": 5
   }
 }
