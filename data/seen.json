@@ -22555,5 +22555,155 @@
     "title": "Trump Takes Hard Line as Hormuz Tensions Mark New Normal",
     "category": "ai_models",
     "score": 7
+  },
+  "495fe45ae2d97f98": {
+    "title": "Sutton and Javed: Why AI Models Stop Learning, and How to Start It Again [video]",
+    "category": "automation",
+    "score": 5
+  },
+  "a8829c00bbbd7a3d": {
+    "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
+    "category": "ai_models",
+    "score": 15
+  },
+  "a5b6157384cd165d": {
+    "title": "Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation",
+    "category": "ai_models",
+    "score": 7
+  },
+  "564dcf01fc63d29c": {
+    "title": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
+    "category": "ai_models",
+    "score": 8
+  },
+  "2cb0a3749e2343ec": {
+    "title": "EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing",
+    "category": "ai_models",
+    "score": 17
+  },
+  "9eece0fbe0e43b44": {
+    "title": "TokEval: A Tokenizer Evaluation Suite",
+    "category": "ai_models",
+    "score": 12
+  },
+  "9e6dd34e3a1c13bc": {
+    "title": "The concentration game: Bayesian updating, regret, and information",
+    "category": "ai_models",
+    "score": 3
+  },
+  "c74978cb26649785": {
+    "title": "Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating",
+    "category": "ai_models",
+    "score": 15
+  },
+  "f982d0224b8a1ffb": {
+    "title": "HLSR: Hybrid Live Forecast Selective Dynamic Vehicle Rerouting for Real-Time Congestion Avoidance",
+    "category": "ai_models",
+    "score": 9
+  },
+  "c6efd1407eec1399": {
+    "title": "Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction",
+    "category": "ai_models",
+    "score": 13
+  },
+  "3ce6bcd612e98803": {
+    "title": "StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents",
+    "category": "ai_models",
+    "score": 12
+  },
+  "3bd90444be6687e3": {
+    "title": "Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation",
+    "category": "ai_models",
+    "score": 7
+  },
+  "f482ebe3cf4c2dc9": {
+    "title": "Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization",
+    "category": "ai_models",
+    "score": 13
+  },
+  "c8456cfcc0969b92": {
+    "title": "Harnessing Magnitude-Only and Complex Measurements for Improved Dynamic MRI Reconstruction with Learned Priors",
+    "category": "ai_models",
+    "score": 12
+  },
+  "3742511d0e2a04f8": {
+    "title": "Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving",
+    "category": "ai_models",
+    "score": 13
+  },
+  "d2c6319c47165706": {
+    "title": "Deep Academic Survey: Stateful Agentic Closed-Loop Paradigm for Academic Survey Automation",
+    "category": "ai_models",
+    "score": 18
+  },
+  "03323703c096ced6": {
+    "title": "Where A Small Language Model Helps in Invoice Categorisation, Understood Through Embedding Geometry",
+    "category": "ai_models",
+    "score": 13
+  },
+  "02f56cee98aaee2f": {
+    "title": "Initialization-Free Bundle Adjustment Revisited: A Controlled Experimental Study",
+    "category": "ai_models",
+    "score": 8
+  },
+  "569bbb1588558941": {
+    "title": "Chain-of-Experience for Continual LLM Improvement",
+    "category": "ai_models",
+    "score": 13
+  },
+  "ac825d2eb82a6eef": {
+    "title": "TabNSM: Neural Sparse Mixer for Tabular Regression",
+    "category": "ai_models",
+    "score": 16
+  },
+  "df3279ae8d19ad0e": {
+    "title": "Why GPT-Style Models Do Not Directly Transfer to Symbolic Music: Compression in the Wrong Coordinate System",
+    "category": "ai_models",
+    "score": 9
+  },
+  "fdd104bebfe93db0": {
+    "title": "Revisiting WEASEL 2.0: Reproduction, Sensitivity, and an Adaptive Ensemble-Size Rule",
+    "category": "ai_models",
+    "score": 6
+  },
+  "3a25cadbceb5b300": {
+    "title": "Can Large Language Models Explain Flight Safety Events? A Prior-Guided Semantic LLM-based Approach",
+    "category": "ai_models",
+    "score": 13
+  },
+  "9aa7d4c318da1fcd": {
+    "title": "Automated ACL Footprint Identification Using 3D Deep Learning",
+    "category": "ai_models",
+    "score": 5
+  },
+  "c800ef7ac306f275": {
+    "title": "The IOL-AI Challenge: An Open Challenge towards Advancing Linguistic Reasoning",
+    "category": "ai_models",
+    "score": 8
+  },
+  "ed197780bd42ae07": {
+    "title": "Memory Tree Guided Key Frame Querying for Efficient 3D Question Answering",
+    "category": "ai_models",
+    "score": 13
+  },
+  "278a030f9e92a73f": {
+    "title": "NSE Eyes $55 Billion Valuation in IPO While Rival BSE\u2019s Shares Lose Favor",
+    "category": "ai_models",
+    "score": 2
+  },
+  "b753da5aa0d6cc56": {
+    "title": "Humanoids Make Stock Market Debut in China\u2019s AI Push",
+    "category": "ai_models",
+    "score": 10
+  },
+  "1545c8b92acf7997": {
+    "title": "Oasis Urges Kakaku.com to Withdraw Support for EQT\u2019s Buyout Bid",
+    "category": "ai_models",
+    "score": 4
+  },
+  "36592a1d19f93679": {
+    "title": "PHP/USD: Philippine Peso Fell to New Record Low as Oil Prices Rise",
+    "category": "ai_models",
+    "score": 6
   }
 }
