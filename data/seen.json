@@ -25352,5 +25352,9 @@
     "title": "Resolved: CSS Class Prefix Selector",
     "category": "ai_models",
     "score": 2
+  },
+  "72f7e697f7090117": {
+    "title": "Why your infrastructure is more important than the next LLM release",
+    "reason": "irrelevant"
   }
 }
