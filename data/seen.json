@@ -24732,5 +24732,170 @@
     "title": "Gold Set for Third Weekly Gain on US Treasury Buyback Plans",
     "category": "ai_models",
     "score": 2
+  },
+  "cb3b611319c04f3c": {
+    "title": "Google Is Buying All of Spirit Airlines' Data to Feed Its AI Models",
+    "category": "ai_models",
+    "score": 3
+  },
+  "40f3d8e8adc293d5": {
+    "title": "Information on trajectories: martingales and random times",
+    "category": "ai_models",
+    "score": 5
+  },
+  "7ec2913efb04d77f": {
+    "title": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
+    "category": "ai_models",
+    "score": 13
+  },
+  "5afa56a0a8211e92": {
+    "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
+    "category": "ai_models",
+    "score": 13
+  },
+  "6983fc8d6afedf9e": {
+    "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
+    "category": "ai_models",
+    "score": 18
+  },
+  "a91a3d8d70a3e74d": {
+    "title": "Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models",
+    "category": "ai_models",
+    "score": 20
+  },
+  "b66967fb022b7a94": {
+    "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
+    "category": "ai_models",
+    "score": 13
+  },
+  "1f254e1380d22fea": {
+    "title": "$TCP_\u03b1$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval",
+    "category": "ai_models",
+    "score": 14
+  },
+  "4d15c105fcbe2bb4": {
+    "title": "A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection",
+    "category": "ai_models",
+    "score": 5
+  },
+  "8eaa80cbb5a93fba": {
+    "title": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
+    "category": "ai_models",
+    "score": 15
+  },
+  "dc94525dcacf636b": {
+    "title": "Inducing Task Models from Computer-Use Traces",
+    "category": "ai_models",
+    "score": 14
+  },
+  "e06c60c7b2e8744f": {
+    "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
+    "category": "ai_models",
+    "score": 14
+  },
+  "76b55bbd77e2540f": {
+    "title": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation",
+    "category": "ai_models",
+    "score": 11
+  },
+  "ddecc6ae59b8e898": {
+    "title": "Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records",
+    "category": "ai_models",
+    "score": 20
+  },
+  "56fa4ad922690ca8": {
+    "title": "MidTool: Mid-training Data Synthesis for Agentic Tool Use",
+    "category": "ai_models",
+    "score": 17
+  },
+  "6d1dcfdbc3531732": {
+    "title": "Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis",
+    "category": "ai_models",
+    "score": 18
+  },
+  "8227d857c44b664e": {
+    "title": "DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery",
+    "category": "ai_models",
+    "score": 11
+  },
+  "d7f18c101c8bdb73": {
+    "title": "CalcSeg: Confidence-aware 3D Latent Context Curriculum Learning For Myocardial Scar Segmentation From Single-Stack LGE-CMRs",
+    "category": "ai_models",
+    "score": 10
+  },
+  "0d473f03641046ed": {
+    "title": "Physical-Support Confidence Sets for Highly Coherent Dictionaries",
+    "category": "ai_models",
+    "score": 9
+  },
+  "6c6f3f1e5695e02e": {
+    "title": "Phantom Gains: Auditing Self-Improvement Against a Measured Null",
+    "category": "ai_models",
+    "score": 11
+  },
+  "118c66e0e12e9f36": {
+    "title": "Dynamic Structural Causal Modeling for Sleep",
+    "category": "ai_models",
+    "score": 11
+  },
+  "fc332e31bda89612": {
+    "title": "Towards Surgical World-Action Modeling: A Preliminary Joint Visual-Trajectory Forecasting for Surgical Motion Planning",
+    "category": "ai_models",
+    "score": 16
+  },
+  "c8b319a4e6300993": {
+    "title": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization",
+    "category": "ai_models",
+    "score": 18
+  },
+  "9aa78e8ae95cc766": {
+    "title": "Which Eviction Policy Should an LLM Cache Use? A Systematic Study Across Workloads, Capacities, and Encoders",
+    "category": "ai_models",
+    "score": 7
+  },
+  "477f749974d3677c": {
+    "title": "Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents",
+    "category": "ai_models",
+    "score": 11
+  },
+  "4a6f3bc763ebcf1b": {
+    "title": "Catching the Rug: Early Prediction of Fraudulent Memecoins on Solana via Machine Learning",
+    "category": "ai_models",
+    "score": 10
+  },
+  "8c8f392d91cf0972": {
+    "title": "What Are Kangaroo Bonds? Why Alphabet Is Borrowing Billions in Australia",
+    "category": "ai_models",
+    "score": 6
+  },
+  "8e1ba8cec68fecae": {
+    "title": "India Bond Traders Left Reeling After Surprisingly Hawkish RBI Minutes",
+    "category": "ai_models",
+    "score": 4
+  },
+  "1edfef1fecd8cdcc": {
+    "title": "Swift Indian Ban on JPMorgan Unit Seen as Warning to Traders",
+    "category": "ai_models",
+    "score": 8
+  },
+  "c47b5e58ca21a7c7": {
+    "title": "China Materials Stocks Emerge From Slump as New Market Leaders",
+    "category": "ai_models",
+    "score": 4
+  },
+  "ca0b398182f34f93": {
+    "title": "CME CEO Spars With CFTC Chair About Prediction Market Oversight",
+    "category": "ai_models",
+    "score": 7
+  },
+  "7d0f79f72d70ef4b": {
+    "title": "Japan Lintec\u2019s Stock Slides as Major Shareholder Sets Exit Plan",
+    "category": "ai_models",
+    "score": 6
+  },
+  "5be2d1222d759ca4": {
+    "title": "Inghams Shares Drop as Higher Feed and Fuel Costs Hit Outlook",
+    "category": "ai_models",
+    "score": 5
   }
 }
