@@ -26060,5 +26060,160 @@
     "title": "Australian Firms in Reset Mode Emerge as Earnings-Season Winners",
     "category": "ai_models",
     "score": 16
+  },
+  "d7a5f5b3ab7b96de": {
+    "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
+    "category": "ai_models",
+    "score": 24
+  },
+  "07f17d24eb0b344f": {
+    "title": "Primal Acceleration of Newton's Method",
+    "category": "ai_models",
+    "score": 11
+  },
+  "0259627c5d040074": {
+    "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
+    "category": "ai_models",
+    "score": 17
+  },
+  "3eaa8f3372ea2ab0": {
+    "title": "AI with Authority, from Application to Silicon",
+    "category": "ai_models",
+    "score": 16
+  },
+  "f429cb469b7c1926": {
+    "title": "PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction",
+    "category": "ai_models",
+    "score": 19
+  },
+  "0d88967656f1c4a2": {
+    "title": "Truthful Calibration Measures for Sequential Prediction",
+    "category": "ai_models",
+    "score": 9
+  },
+  "7d19ff1eece7ae16": {
+    "title": "Asymmetric Capacity Allocation in Self-Refinement Pipelines",
+    "category": "ai_models",
+    "score": 16
+  },
+  "96b3ac7e4116ec9b": {
+    "title": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
+    "category": "ai_models",
+    "score": 11
+  },
+  "34be8b0d0851ceed": {
+    "title": "Across-Design Uncertainty in Short Pricing Panels: Evidence from Simulated Price Trajectories",
+    "category": "ai_models",
+    "score": 16
+  },
+  "79c6cdc15bb2f030": {
+    "title": "Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation",
+    "category": "ai_models",
+    "score": 8
+  },
+  "94334b770af539d3": {
+    "title": "Move by Move: Measuring and Steering How LLMs Conduct Psychotherapy",
+    "category": "ai_models",
+    "score": 16
+  },
+  "534b681d7c215b5f": {
+    "title": "Time-Aware Tranformer-Based Prediction Model for AECOPD",
+    "category": "ai_models",
+    "score": 15
+  },
+  "5426911f80c05f07": {
+    "title": "Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets",
+    "category": "ai_models",
+    "score": 13
+  },
+  "75d4da83a7536006": {
+    "title": "From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in Industry",
+    "category": "ai_models",
+    "score": 16
+  },
+  "95732e3ade89dac8": {
+    "title": "Prompt-Model Interaction Reaches the Fixed Points: A deterministic, task-free structural readout -- and the factorizations of it that failed",
+    "category": "ai_models",
+    "score": 13
+  },
+  "a68dad8f7147a3ae": {
+    "title": "Rethinking Expressivity and Efficiency in Test-Time Training",
+    "category": "ai_models",
+    "score": 16
+  },
+  "69d2d2b63a24fe13": {
+    "title": "SPARCL: Spectral Partitioned Analytic Continual Learning",
+    "category": "ai_models",
+    "score": 20
+  },
+  "9e686f51afc4bf9b": {
+    "title": "Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning",
+    "category": "ai_models",
+    "score": 19
+  },
+  "77d62207919117e9": {
+    "title": "When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning",
+    "category": "ai_models",
+    "score": 15
+  },
+  "b9cff61068b80d10": {
+    "title": "AUSO: Action-Level Unified Skill Optimization from Internalization to Utilization",
+    "category": "ai_models",
+    "score": 23
+  },
+  "e5652b62e617102a": {
+    "title": "VT-MUSE: Multimodal Unified Sequential Visuotactile Representation Learning for Manipulation",
+    "category": "ai_models",
+    "score": 12
+  },
+  "e75effa02582acd6": {
+    "title": "Difficulty-Calibrated Interpolation Paths for Conditional Flow Matching",
+    "category": "ai_models",
+    "score": 8
+  },
+  "e1ca4c00eef83bdd": {
+    "title": "WildFin: An In-the-Wild Dataset for Fish Behavioral Recognition",
+    "category": "ai_models",
+    "score": 14
+  },
+  "86b30fddef0621a4": {
+    "title": "CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment",
+    "category": "ai_models",
+    "score": 18
+  },
+  "77d26be21059d01e": {
+    "title": "ConceptTS: LLM-Guided Concept Bottlenecks for Interpretable Multivariate Time-Series Forecasting",
+    "category": "ai_models",
+    "score": 18
+  },
+  "744024d54f79b3ab": {
+    "title": "Why the Fed's Warsh Has 'No Good Options'",
+    "category": "ai_models",
+    "score": 15
+  },
+  "ae1bba65efaf61b7": {
+    "title": "Citi and Axis Team Up on Leveraged India Dollar Deposit Boom",
+    "category": "ai_models",
+    "score": 12
+  },
+  "38b2f7f8c05487e2": {
+    "title": "India Equity Deals Hit Record While Secondary Market Struggles",
+    "category": "ai_models",
+    "score": 12
+  },
+  "73e510b76301f444": {
+    "title": "China\u2019s $119 Billion Answer to Sagging Investment Is Coming Late",
+    "category": "ai_models",
+    "score": 10
+  },
+  "daace2f8ae9d938b": {
+    "title": "Pimco Expects Elevated Term Premium, Says Bonds Are Attractive",
+    "category": "ai_models",
+    "score": 12
+  },
+  "5b9b38e942b6d23e": {
+    "title": "Hedge Funds Ramp Up Dollar Shorts Ahead of Bessent\u2019s Fiscal Plan",
+    "category": "ai_models",
+    "score": 12
   }
 }
