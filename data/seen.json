@@ -26996,5 +26996,155 @@
     "title": "Bessent Defends Buyback Plan, Stops Short of New Bond Measures",
     "category": "ai_models",
     "score": 14
+  },
+  "0f43f9497ffc0f4f": {
+    "title": "How to Train a Critic Stably and Efficiently",
+    "category": "ai_models",
+    "score": 23
+  },
+  "797dd20043c2000c": {
+    "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
+    "category": "ai_models",
+    "score": 25
+  },
+  "006d9e5e67998cc0": {
+    "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+    "category": "ai_models",
+    "score": 14
+  },
+  "8e88fe610ed1bbc2": {
+    "title": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
+    "category": "ai_models",
+    "score": 26
+  },
+  "6009e1f46b317ab5": {
+    "title": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography",
+    "category": "ai_models",
+    "score": 25
+  },
+  "0a54e0037b280ae7": {
+    "title": "Provably adaptive sampling with uniform and remasking discrete diffusion models",
+    "category": "ai_models",
+    "score": 15
+  },
+  "f4ff8bb0012d40d1": {
+    "title": "Prime Agent: A Self-Improving RLM Harness",
+    "category": "ai_models",
+    "score": 21
+  },
+  "18a2fcf5601caa8d": {
+    "title": "ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings",
+    "category": "ai_models",
+    "score": 13
+  },
+  "7daa020447dc759c": {
+    "title": "FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors",
+    "category": "ai_models",
+    "score": 16
+  },
+  "76cc0052f682c15b": {
+    "title": "Robustness of Anomaly Detection Models for Industrial Control Systems under Training-Time Data Contamination",
+    "category": "ai_models",
+    "score": 19
+  },
+  "bf2e3b83e5400d83": {
+    "title": "Inertial Manifold Neural Operator for Dissipative Time-Dependent Partial Differential Equations",
+    "category": "ai_models",
+    "score": 7
+  },
+  "eb7a1e262e7041e6": {
+    "title": "How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles",
+    "category": "ai_models",
+    "score": 14
+  },
+  "a820a6d6b2eb0c4c": {
+    "title": "The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams",
+    "category": "ai_models",
+    "score": 15
+  },
+  "e87248ed48bbf258": {
+    "title": "Interpretable AI with Local Distillation",
+    "category": "ai_models",
+    "score": 23
+  },
+  "281315cdb58ccd9a": {
+    "title": "Adapter-Based Few-Shot Continual Learning for Malicious Packet Recognition",
+    "category": "ai_models",
+    "score": 13
+  },
+  "669c81636d72aa89": {
+    "title": "Predicting Multiple Clinical Outcomes Related to Functional Recovery and Social Isolation Among Older Adults After Lower-Limb Fracture or Hip Replacement",
+    "category": "ai_models",
+    "score": 12
+  },
+  "a445a60057b606a7": {
+    "title": "Correcting a learned physical invariant improves world-model rollouts",
+    "category": "ai_models",
+    "score": 15
+  },
+  "deb3bbb800b55e30": {
+    "title": "EarthVerse: Benchmarking Scientific Agents Across Dynamic Earth Systems and Natural Hazards",
+    "category": "ai_models",
+    "score": 21
+  },
+  "9644cb58385d16f9": {
+    "title": "The Measurement Revolution? Credible Measurement and Inference in the Age of AI",
+    "category": "ai_models",
+    "score": 16
+  },
+  "c3e319327ddd41dc": {
+    "title": "Investigating Relational Reasoning in VLMs",
+    "category": "ai_models",
+    "score": 21
+  },
+  "854c3ad0be32929f": {
+    "title": "When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliation in the Mongol World",
+    "category": "ai_models",
+    "score": 14
+  },
+  "4dffeff2211199d7": {
+    "title": "Action-Aligned Retrieval with Pairwise Multimodal Reranking for Text-Based Person Anomaly Search",
+    "category": "ai_models",
+    "score": 14
+  },
+  "54d42a0c3afe516c": {
+    "title": "SVD-Based Typicality Maps for Out-of-Distribution Detection in Vision Transformers",
+    "category": "ai_models",
+    "score": 17
+  },
+  "7bd863068b561558": {
+    "title": "Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty",
+    "category": "ai_models",
+    "score": 12
+  },
+  "880df4f5e9cc92e9": {
+    "title": "SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning",
+    "category": "ai_models",
+    "score": 25
+  },
+  "d506e0f5759e5206": {
+    "title": "Bessent\u2019s Iran D-Day Threat Clouds Outlook for India\u2019s Rupee, Stocks",
+    "category": "ai_models",
+    "score": 13
+  },
+  "86a5f9f740ea5f53": {
+    "title": "Druckenmiller, Bessent\u2019s Early Mentor, Calls Bond Buys a Mistake",
+    "category": "ai_models",
+    "score": 12
+  },
+  "0f1461f6e563d0d1": {
+    "title": "Trump Devises New $100,000 H-1B Visa Fee",
+    "category": "ai_models",
+    "score": 7
+  },
+  "3be07bb66b756888": {
+    "title": "Australia\u2019s FireFly Metals Seeks $136 Million for Copper Project",
+    "category": "ai_models",
+    "score": 10
+  },
+  "cd8d65ff77511508": {
+    "title": "India\u2019s New Stock Auction System Faces First Monthly Expiry Test",
+    "category": "ai_models",
+    "score": 13
   }
 }
