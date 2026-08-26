@@ -27956,5 +27956,145 @@
     "title": "Microdramas have the highest ad density of any app category\u2013and user downloads have topped 1 billion",
     "category": "ai_models",
     "score": 17
+  },
+  "7a63dad6a59d099e": {
+    "title": "Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning",
+    "category": "ai_models",
+    "score": 23
+  },
+  "6de6e8cb15f3d2fd": {
+    "title": "What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation",
+    "category": "ai_models",
+    "score": 16
+  },
+  "564bd85e6babdce1": {
+    "title": "From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms",
+    "category": "ai_models",
+    "score": 22
+  },
+  "be521f206c52ffa2": {
+    "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+    "category": "ai_models",
+    "score": 19
+  },
+  "e545a3ec0e18ae1d": {
+    "title": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL",
+    "category": "ai_models",
+    "score": 17
+  },
+  "815db2ca991fe49e": {
+    "title": "Parameterized Complexity of $L_p$-Lipschitz Constants for Input Convex Neural Networks and $L_p$-Norm Maximization over Zonotopes",
+    "category": "ai_models",
+    "score": 10
+  },
+  "ae3e0a34814bafec": {
+    "title": "Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement",
+    "category": "ai_models",
+    "score": 21
+  },
+  "b9aab524ab79e73d": {
+    "title": "Bellman Calibration for Marginalized Importance Weighting in Offline Reinforcement Learning",
+    "category": "ai_models",
+    "score": 14
+  },
+  "5261a69bb7d678da": {
+    "title": "LeFlow: Generative Latent Flow Planning for World Models",
+    "category": "ai_models",
+    "score": 18
+  },
+  "8f66f708b182b36b": {
+    "title": "BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes",
+    "category": "ai_models",
+    "score": 18
+  },
+  "dcc43835725631d9": {
+    "title": "FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs",
+    "category": "ai_models",
+    "score": 18
+  },
+  "d9107308447aca77": {
+    "title": "LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training",
+    "category": "ai_models",
+    "score": 19
+  },
+  "ef379add50ec17a8": {
+    "title": "Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows",
+    "category": "ai_models",
+    "score": 21
+  },
+  "31306ee0ff96ccca": {
+    "title": "A Dual-Dimensional LLM Framework for Automated Item Incidental Content Similarity Analysis in Large-Scale Assessments",
+    "category": "ai_models",
+    "score": 16
+  },
+  "035f448b31b8e74e": {
+    "title": "Constrained Entity Selection under Partial Knowledge for LLM-Based Knowledge Graph QA",
+    "category": "ai_models",
+    "score": 18
+  },
+  "f0eafc18e5d1a0f1": {
+    "title": "BioKERN: Biological Kernel Regularization for Histology-to-Transcriptomics Neighborhood Retrieval",
+    "category": "ai_models",
+    "score": 17
+  },
+  "5577ce473cb1d622": {
+    "title": "A Geometric Theory of Robust Fairness Audits",
+    "category": "ai_models",
+    "score": 14
+  },
+  "8b6c48e2188ed45e": {
+    "title": "Effective Learning Rate Governs Loss Dynamics in Language Model Pretraining",
+    "category": "ai_models",
+    "score": 12
+  },
+  "046c7d6d13040682": {
+    "title": "MDTE: Minority-Aware Diffusion over Temporal Edge Events for Imbalanced Node Classification",
+    "category": "ai_models",
+    "score": 15
+  },
+  "c7a76c26b5c346cf": {
+    "title": "Strictly Causal Streaming Video Anomaly Detection with a Theoretically-Grounded State-Space Core",
+    "category": "ai_models",
+    "score": 18
+  },
+  "b5658d3dd1162994": {
+    "title": "Structurally-bounded Agentic Graph Exploration for Evidence-Grounded Scholarly DeepSearch",
+    "category": "ai_models",
+    "score": 15
+  },
+  "666f85efd473c338": {
+    "title": "Automatic Model Card Generation Using an LLM",
+    "category": "ai_models",
+    "score": 11
+  },
+  "abfc8ef06020217b": {
+    "title": "StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments",
+    "category": "ai_models",
+    "score": 19
+  },
+  "996225480de0c7a8": {
+    "title": "LION: A Clifford Neural Paradigm for Multimodal-Attributed Graph Learning",
+    "category": "ai_models",
+    "score": 14
+  },
+  "a3ce1639f113d7b9": {
+    "title": "CAFE: Self-Improving Search Agents Need Co-Evolving Feedback",
+    "category": "ai_models",
+    "score": 14
+  },
+  "e9d91fc2e09e6757": {
+    "title": "Government Emerges as a Force in India\u2019s Equity Fundraising Boom",
+    "category": "ai_models",
+    "score": 6
+  },
+  "00107cbb37ba0744": {
+    "title": "Domino\u2019s Pizza Enterprises Slides Most Since February on Sales",
+    "category": "ai_models",
+    "score": 16
+  },
+  "39d9df98fc0c8ae3": {
+    "title": "Takaichi Says Japan Will \u2018Protect\u2019 ICC From US Push to Dismantle",
+    "category": "ai_models",
+    "score": 6
   }
 }
