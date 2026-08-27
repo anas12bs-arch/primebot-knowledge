@@ -29222,5 +29222,272 @@
     "title": "The BBC says it\u2019ll pay \u00a350,000 for YouTube-first documentaries",
     "category": "ai_models",
     "score": 8
+  },
+  "9fc1fee6e4757f79": {
+    "title": "Unlocking the Power of AI in Visual Studio with Bring Your Own Model",
+    "category": "ai_models",
+    "score": 6
+  },
+  "9001954fa9b8a6e8": {
+    "title": "Sopro V2: SOTA voice cloning TTS model that runs on your CPU",
+    "category": "ai_models",
+    "score": 2
+  },
+  "c1a98df62112c0e2": {
+    "title": "Show HN: Telem \u2013 Route agent web search across providers and inspect the traces",
+    "category": "ai_models",
+    "score": 4
+  },
+  "330c8e8932e424e9": {
+    "title": "Show HN: Sparrow-2 \u2013 Solving the cocktail party problem",
+    "reason": "irrelevant"
+  },
+  "0006eef1de46582d": {
+    "title": "Walkthrough of a prompt injection attack on a modern office-work AI agent",
+    "category": "ai_models",
+    "score": 4
+  },
+  "1ae0757245ac0211": {
+    "title": "Chinese AI Models Overtake American Rivals in Popularity",
+    "category": "ai_models",
+    "score": 7
+  },
+  "b268e666f44b4d0b": {
+    "title": "Why Did Stripe Acquire an AI Model Routing Company?",
+    "category": "ai_models",
+    "score": 3
+  },
+  "f44fa4c5ba02f64f": {
+    "title": "Launch HN: Salem Robotics (YC S26) \u2013 Software for industrial inspection robots",
+    "category": "ai_models",
+    "score": 4
+  },
+  "895c7b4919b170b0": {
+    "title": "Ask HN: Should I leave web development to study medicine in my mid-30s?",
+    "category": "ai_models",
+    "score": 2
+  },
+  "2347c9781d5574cc": {
+    "title": "Show HN: Backprompter \u2013 create, test, and deploy agents without a back end",
+    "category": "ai_models",
+    "score": 3
+  },
+  "1c3d3df560adf569": {
+    "title": "Show HN: ThunderPhone v2 \u2013 a new architecture for voice AI",
+    "reason": "irrelevant"
+  },
+  "6eaaa7e95abb8da7": {
+    "title": "Show HN: Revenue Agents that monitor churn, upsell, and deal risk",
+    "category": "ai_models",
+    "score": 3
+  },
+  "b490896911e4e151": {
+    "title": "Show HN: Millnew AI \u2013 Explaining time-series models using local LLMs and Captum",
+    "category": "ai_models",
+    "score": 3
+  },
+  "9192364e45f2dc82": {
+    "title": "Show HN: Open Session, the open-source cloud agent-orchestrator",
+    "category": "ai_models",
+    "score": 3
+  },
+  "bfe69e6849ff881c": {
+    "title": "Ask HN: Should we disclose AI use in our work?",
+    "reason": "irrelevant"
+  },
+  "5c8d75ef9c12c059": {
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "category": "ai_models",
+    "score": 11
+  },
+  "2fae6436e2ead8e9": {
+    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+    "category": "ai_models",
+    "score": 17
+  },
+  "46214c108a235874": {
+    "title": "When agents act on their own, governance has to live in the data layer",
+    "category": "ai_models",
+    "score": 18
+  },
+  "ba3246102e30c471": {
+    "title": "20VC x SaaStr: Nvidia Pays $6B for Poolside\u2019s Model Factory, OpenAI Has to Go Public in 2027, and Why $9B No Longer Clears the Bar for Seed",
+    "category": "ai_models",
+    "score": 14
+  },
+  "76914aa9a056dfaf": {
+    "title": "Only 7 Public B2B Companies Are Growing Over 30%. In the AI-Native Cohort, That Would Be Last Place",
+    "category": "ai_models",
+    "score": 10
+  },
+  "5685cd21c91ed222": {
+    "title": "Dear SaaStr: What Are Some Signs That Your B2B Marketing Programs Won\u2019t Scale Well?",
+    "category": "ai_models",
+    "score": 10
+  },
+  "55aa129caa54ba66": {
+    "title": "Is Starbucks\u2019 Pumpkin Spice Latte \u2018basic\u2019? Martha Stewart answers in new ads",
+    "category": "ai_models",
+    "score": 2
+  },
+  "f54c73e43656b88d": {
+    "title": "Sociable: Meta removes option to exclude ad placements",
+    "category": "ai_models",
+    "score": 9
+  },
+  "c9d0c45d1b4ef133": {
+    "title": "How Dr Pepper\u2019s \u2018Fansville\u2019 campaign stays relevant and drives outcomes",
+    "category": "ai_models",
+    "score": 10
+  },
+  "c7bdd43312c9085d": {
+    "title": "Kohl\u2019s unites marketing, digital under new chief customer officer role",
+    "category": "ai_models",
+    "score": 10
+  },
+  "7da9ffebb222f210": {
+    "title": "How Behr\u2019s digital marketing helps DIYers overcome \u2018paint paralysis\u2019",
+    "category": "ai_models",
+    "score": 10
+  },
+  "6c7f943b1177f76d": {
+    "title": "AI doesn\u2019t reward scale. That changes everything for multicultural agencies.",
+    "category": "ai_models",
+    "score": 8
+  },
+  "d0b5a5cfadd98fe4": {
+    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+    "category": "ai_models",
+    "score": 6
+  },
+  "d8544dddaa7c28ef": {
+    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "category": "ai_models",
+    "score": 17
+  },
+  "44945c70744e4749": {
+    "title": "Google\u2019s AI Mode can now track flight prices, help book hotels, and more",
+    "category": "ai_models",
+    "score": 10
+  },
+  "f4380c9fafee5a6e": {
+    "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+    "category": "automation",
+    "score": 6
+  },
+  "61b131d55df07bc0": {
+    "title": "AI\u2019s memory crunch is coming for Android apps",
+    "category": "ai_models",
+    "score": 9
+  },
+  "4a929b2ed40a09f5": {
+    "title": "Here\u2019s all the times AI has gone rogue and hacked other companies",
+    "category": "ai_models",
+    "score": 7
+  },
+  "99cc84f9dfaddb48": {
+    "title": "Plaud\u2019s new earphones come with an eSIM-enabled case for talking to AI agents",
+    "category": "ai_models",
+    "score": 8
+  },
+  "8a45cb93a1efe517": {
+    "title": "OpenAI to start showing ads on ChatGPT\u2019s free and Go tiers in India",
+    "category": "ai_models",
+    "score": 8
+  },
+  "64523a1e5f6df9ef": {
+    "title": "LIV Golf: From Disruptor to Distressed Asset",
+    "category": "ai_models",
+    "score": 11
+  },
+  "c2e300e1cc5745e2": {
+    "title": "RevMed\u2019s Pancreatic Cancer Pill Priced Above $475K per Year",
+    "category": "ai_models",
+    "score": 17
+  },
+  "2d92ec8bd0c998e2": {
+    "title": "Investors Looking For Rate Clarity From Warsh Likely Disappointed, Says Jack Manley",
+    "category": "ai_models",
+    "score": 19
+  },
+  "009f2898824f5354": {
+    "title": "Grading Value of High Ed Real Estate: Kleinman",
+    "category": "ai_models",
+    "score": 12
+  },
+  "3b98fbd8eec757e8": {
+    "title": "Nvidia Adds $442 Billion in Second Biggest Ever Stock Surge",
+    "category": "ai_models",
+    "score": 10
+  },
+  "a933c3d4633e4159": {
+    "title": "S&P 500 Advances as Nvidia, Tech Outweigh Broad Weakness",
+    "category": "ai_models",
+    "score": 12
+  },
+  "ac16977d67a237e2": {
+    "title": "Nvidia Fuels a Tech-Led Rally as Market Breadth Narrows | Closing Bell",
+    "category": "ai_models",
+    "score": 13
+  },
+  "c4e8f4b34f7b1140": {
+    "title": "Private Credit Investors Prefer Being Trapped Than Take Loss",
+    "category": "ai_models",
+    "score": 18
+  },
+  "51e3386adb1201db": {
+    "title": "Radiant World Leaves Top Banks, Glencore Probing Fake Invoices",
+    "category": "ai_models",
+    "score": 7
+  },
+  "e55f0354344a510a": {
+    "title": "Thoma Bravo Concedes Deal Sweeteners Amid Debt Talks",
+    "category": "ai_models",
+    "score": 11
+  },
+  "727339ac21a8c166": {
+    "title": "US Treasuries Decline as Traders Turn Focus to Jackson Hole",
+    "category": "ai_models",
+    "score": 10
+  },
+  "7342dce11096db31": {
+    "title": "Rates At This Level Are Reasonably Priced: Wise",
+    "category": "ai_models",
+    "score": 11
+  },
+  "b15c6e636c0d27fe": {
+    "title": "Sheinbaum Plan to Ban Dual-Citizen Presidents Draws Salinas\u2019 Ire",
+    "category": "ai_models",
+    "score": 5
+  },
+  "cb01faf1d20ede90": {
+    "title": "'AI Has Been A Bust' For Fixed Income: Skiba",
+    "category": "ai_models",
+    "score": 5
+  },
+  "4a34cd3f7eb48a41": {
+    "title": "Market Will Be Disappointed By Warsh: Gerrity",
+    "category": "ai_models",
+    "score": 9
+  },
+  "57caa7516d733307": {
+    "title": "South Africa Set to Lift Sugar-Benchmark Price to Shield Growers",
+    "category": "ai_models",
+    "score": 11
+  },
+  "1840a06fcb7fa6c4": {
+    "title": "Goodgrowth: Boot Sequences, Spinning Discs, and the Art of the Portfolio",
+    "category": "ai_models",
+    "score": 5
+  },
+  "62c651d806323623": {
+    "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
+    "category": "ai_models",
+    "score": 3
+  },
+  "15fb48cb528068b6": {
+    "title": "Instagram wants you to turn on your TV and throw a Reels watch party",
+    "category": "ai_models",
+    "score": 7
   }
 }
