@@ -28939,5 +28939,288 @@
     "title": "As OnlyFans celebrates its tenth birthday, it counts more than 5,000 seven-figure earners",
     "category": "ai_models",
     "score": 12
+  },
+  "1d6661841b379093": {
+    "title": "OpenAI's rogue AI model incident was worse than we thought",
+    "category": "ai_models",
+    "score": 3
+  },
+  "107d2fdd029928da": {
+    "title": "Fixing Status Updates \u2013 Our Manifesto",
+    "reason": "irrelevant"
+  },
+  "cdc1baea0b717bc3": {
+    "title": "Automating WhatsApp/telegram chats or personal chats with complete privacy",
+    "category": "ai_models",
+    "score": 2
+  },
+  "0ab9540155b934ec": {
+    "title": "Qwen3.8-Flash-Next Intelligence, Performance and Price Analysis",
+    "category": "ai_models",
+    "score": 4
+  },
+  "1a3b748392b24f7d": {
+    "title": "Show HN: I built one interface for generating video with multiple AI models",
+    "category": "ai_models",
+    "score": 6
+  },
+  "2bf32f55b745174f": {
+    "title": "I don't worry about cost of AI models and you shouldn't too",
+    "category": "ai_models",
+    "score": 2
+  },
+  "ad777f75bb5fee30": {
+    "title": "GitHub \u2013 rajnandan1/ken: Thompson-mode systems discipline for AI agents",
+    "category": "automation",
+    "score": 6
+  },
+  "49e0373d9c3d7a09": {
+    "title": "Where this hype is going?",
+    "reason": "irrelevant"
+  },
+  "a1a6cf7b4ff9635a": {
+    "title": "Ask HN: Would you pay for an AI API that guarantees zero prompt retention?",
+    "category": "ai_models",
+    "score": 2
+  },
+  "2f87eebd2c1f09ef": {
+    "title": "Getting video models to learn better, faster",
+    "category": "ai_models",
+    "score": 6
+  },
+  "92bfca077ba8e2f7": {
+    "title": "PaaS IaaS GaaS all in one. And 2 AI <compound> models",
+    "category": "ai_models",
+    "score": 2
+  },
+  "f34f46bac350670b": {
+    "title": "Ring camera founder says company will \"lock\" video",
+    "category": "ai_models",
+    "score": 3
+  },
+  "820f2715599fcaee": {
+    "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
+    "category": "ai_models",
+    "score": 26
+  },
+  "733a0330c909474c": {
+    "title": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
+    "category": "ai_models",
+    "score": 26
+  },
+  "0d10133f85a925d1": {
+    "title": "RefVideo-6M: A Reliable Reference-Based Dataset for Instructional Video Editing",
+    "category": "ai_models",
+    "score": 22
+  },
+  "04af57d8b90fe8f0": {
+    "title": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training",
+    "category": "ai_models",
+    "score": 14
+  },
+  "399d62b731d111e9": {
+    "title": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
+    "category": "ai_models",
+    "score": 18
+  },
+  "3a8ae06384c9ef21": {
+    "title": "Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role",
+    "category": "ai_models",
+    "score": 16
+  },
+  "6e4edec05b95dc1e": {
+    "title": "PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans",
+    "category": "ai_models",
+    "score": 17
+  },
+  "f67542c70451c8c2": {
+    "title": "Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders",
+    "category": "ai_models",
+    "score": 22
+  },
+  "d1b32b09b218e507": {
+    "title": "Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings",
+    "category": "ai_models",
+    "score": 25
+  },
+  "035f8106ba365b51": {
+    "title": "TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development",
+    "category": "ai_models",
+    "score": 20
+  },
+  "7b8d766481a2a863": {
+    "title": "ICON Decomposition: Multivariate Concept-Level Explanations of Deep Representations for Model Auditing",
+    "category": "ai_models",
+    "score": 16
+  },
+  "ab9aed2e621a0f0b": {
+    "title": "SwarmWorld: Stigmergic technological evolution in societies of language-model agents",
+    "category": "ai_models",
+    "score": 24
+  },
+  "b9f580bad740eb8d": {
+    "title": "Gating Before Commitment: Anticipating Intent Divergence to Prevent Post-Interaction Decision Failures in Autonomous Driving",
+    "category": "ai_models",
+    "score": 16
+  },
+  "f4646b9142325ca8": {
+    "title": "Prefix Sliding for efficient test-time scaling",
+    "category": "ai_models",
+    "score": 19
+  },
+  "f15d2adf115064aa": {
+    "title": "Group-Shared Low-Rank Approximation for Mobile-Efficient Pointwise Convolutions in Large-Kernel CNNs",
+    "category": "ai_models",
+    "score": 16
+  },
+  "ac44277abf7b3e44": {
+    "title": "StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models",
+    "category": "ai_models",
+    "score": 19
+  },
+  "fd7196d97f8c8ca2": {
+    "title": "Fine-Tuning Whisper for Automatic Speech Recognition in Baniwa: A Preliminary Study",
+    "category": "ai_models",
+    "score": 12
+  },
+  "f98faf91cc11eb82": {
+    "title": "$R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning",
+    "category": "ai_models",
+    "score": 30
+  },
+  "9a8d6e15f01ab5a2": {
+    "title": "How Much Rank Does LoRA Need? Rank-Error Bounds for Transformer Attention",
+    "category": "ai_models",
+    "score": 9
+  },
+  "27d9adbf016548fb": {
+    "title": "The Value of Human Expertise",
+    "category": "ai_models",
+    "score": 16
+  },
+  "d1f97df7e563ddf6": {
+    "title": "Robust CurveMoE: Multi-Norm Adversarial Defense for Mixture-of-Experts Models via Mode Connectivity",
+    "category": "ai_models",
+    "score": 19
+  },
+  "74f0fb40a0bd4261": {
+    "title": "Trace Integrity for LLM Data Agents: A Vision for Auditable Structured Reasoning in Real-World Systems",
+    "category": "ai_models",
+    "score": 15
+  },
+  "53750974b9c49364": {
+    "title": "Beyond Local Surprise: Grounded Dialogue as Selective Belief Revision under Referential Uncertainty",
+    "category": "ai_models",
+    "score": 18
+  },
+  "9fd6ba328932cc50": {
+    "title": "UltraPIPS: Improving model perception in B-mode ultrasound with foundation models",
+    "category": "ai_models",
+    "score": 13
+  },
+  "9ad02871f26fe9d8": {
+    "title": "DualOPSD: Adaptive Privileged Teachers for On-Policy Self-Distillation",
+    "category": "ai_models",
+    "score": 23
+  },
+  "fe23f369e01db08d": {
+    "title": "Expanding OpenAI\u2019s presence in Brazil",
+    "category": "ai_models",
+    "score": 6
+  },
+  "48f9521226b49ebc": {
+    "title": "Nvidia closes in on Hugging Face acquisition",
+    "category": "ai_models",
+    "score": 9
+  },
+  "afbdd51427d4b395": {
+    "title": "Why Southeast Asia Is Bulldozing Its Historic Buildings (Video)",
+    "category": "ai_models",
+    "score": 4
+  },
+  "c0670e9a5c732e63": {
+    "title": "Los influencers que moldean la elecci\u00f3n presidencial de Brasil ahora son IA",
+    "category": "ai_models",
+    "score": 4
+  },
+  "4dc8232f984b9fa4": {
+    "title": "Shein Set to Raise $1.7 Billion in Hong Kong IPO",
+    "category": "ai_models",
+    "score": 20
+  },
+  "19628c40629e2eb0": {
+    "title": "Indonesia\u2019s Rupiah, Bonds Edge Lower as Investors Eye Protest in Jakarta",
+    "category": "ai_models",
+    "score": 8
+  },
+  "6e9c318d803d624d": {
+    "title": "Credit Markets Shrug Off Climate Risk After Brutal Summer",
+    "category": "ai_models",
+    "score": 10
+  },
+  "4f6e86f078e7c4bf": {
+    "title": "Zinc Rally Eases While Spreads Point to Tighter Supply on LME",
+    "category": "ai_models",
+    "score": 15
+  },
+  "54e370508e7328f3": {
+    "title": "Tech Stocks Gain on AI Optimism as Nvidia Jumps | The Pulse 8/27/2026",
+    "category": "ai_models",
+    "score": 16
+  },
+  "c97baf6cc0bec674": {
+    "title": "Traders Hedge for Bigger Dollar Rebound on Warsh\u2019s Speech",
+    "category": "ai_models",
+    "score": 11
+  },
+  "e7d5777a261fa747": {
+    "title": "Lockheed Martin Europe CEO on Rheinmetall & Transatlantic Deterrence",
+    "category": "ai_models",
+    "score": 8
+  },
+  "ced625b61d838992": {
+    "title": "UBS Is Nudging Swiss Capital Debate Toward a Cheaper Compromise",
+    "category": "ai_models",
+    "score": 9
+  },
+  "231e97e597109fb5": {
+    "title": "Nvidia\u2019s $100 Billion Shows Why AI Is Still the Trade",
+    "category": "ai_models",
+    "score": 9
+  },
+  "9d4089e6a96a848d": {
+    "title": "French Bank Stocks Hit Again by Country\u2019s Political Uncertainty",
+    "category": "ai_models",
+    "score": 6
+  },
+  "21af929e7edb7448": {
+    "title": "Braidwell's Karnal on How AI Can Impact Bioscience",
+    "category": "ai_models",
+    "score": 10
+  },
+  "c6df82e2707e33dd": {
+    "title": "Shale Drillers Are Boosting US Oil Production With Better Soap",
+    "category": "ai_models",
+    "score": 7
+  },
+  "be37325a38ea0591": {
+    "title": "How Much Hyperscaler Debt Can the Markets Absorb? Top JPMorgan Bond Banker Responds.",
+    "category": "ai_models",
+    "score": 15
+  },
+  "c6d364a0ec775b49": {
+    "title": "Emerging-Market \u2018Fear Gauge\u2019 Drops as Korea\u2019s Tech Fever Breaks",
+    "category": "ai_models",
+    "score": 15
+  },
+  "6881412b70dea2dd": {
+    "title": "EQT Lengthens Bidding War Over Kakaku With Minimal Bid Increase",
+    "category": "ai_models",
+    "score": 5
+  },
+  "744ca5dccd32143f": {
+    "title": "The BBC says it\u2019ll pay \u00a350,000 for YouTube-first documentaries",
+    "category": "ai_models",
+    "score": 8
   }
 }
