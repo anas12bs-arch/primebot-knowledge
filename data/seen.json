@@ -29489,5 +29489,263 @@
     "title": "Instagram wants you to turn on your TV and throw a Reels watch party",
     "category": "ai_models",
     "score": 7
+  },
+  "12612f543d867a0e": {
+    "title": "Ask HN: Which class of business model is most resilient to build in the AI era?",
+    "category": "ai_models",
+    "score": 3
+  },
+  "54690f877d7ef667": {
+    "title": "Ask HN: How does your preferred AI handle questions we are not allowed to ask?",
+    "reason": "irrelevant"
+  },
+  "18e4a5c2d17436dc": {
+    "title": "Show HN: Alphie \u2013 see who's on your website and chat with them from Slack",
+    "reason": "irrelevant"
+  },
+  "f914952c8d10d0a6": {
+    "title": "UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City",
+    "category": "ai_models",
+    "score": 20
+  },
+  "a58a92543f8b5af0": {
+    "title": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
+    "category": "ai_models",
+    "score": 18
+  },
+  "e0cf5db5b3ddeef5": {
+    "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+    "category": "ai_models",
+    "score": 14
+  },
+  "fcb96f3b51dcc8f9": {
+    "title": "SWE-Prime: Fewer Trajectories, Better Performance",
+    "category": "ai_models",
+    "score": 15
+  },
+  "e75c5a0a3dd1b715": {
+    "title": "TTPO: Test-Time Policy Optimization",
+    "category": "ai_models",
+    "score": 23
+  },
+  "20c8e133433cf06f": {
+    "title": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
+    "category": "ai_models",
+    "score": 21
+  },
+  "df495fa3f9675b07": {
+    "title": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution",
+    "category": "ai_models",
+    "score": 21
+  },
+  "f07850cedd9030cd": {
+    "title": "Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation",
+    "category": "ai_models",
+    "score": 15
+  },
+  "ab487f3a78801db8": {
+    "title": "Stochastic Estimation of Transduced Language Models",
+    "category": "ai_models",
+    "score": 14
+  },
+  "2819d6ebb9dd317f": {
+    "title": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit",
+    "category": "ai_models",
+    "score": 13
+  },
+  "d34e393a32a2726b": {
+    "title": "Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners",
+    "category": "ai_models",
+    "score": 22
+  },
+  "e819c12ea3fb1cbd": {
+    "title": "Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study",
+    "category": "ai_models",
+    "score": 11
+  },
+  "c3121617e0f59ff5": {
+    "title": "Boosting LLM Exploration via Weak-Model Guidance in RLVR",
+    "category": "ai_models",
+    "score": 17
+  },
+  "850dd188aa6c0fc2": {
+    "title": "Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information",
+    "category": "ai_models",
+    "score": 18
+  },
+  "665be143d0b90c95": {
+    "title": "Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling",
+    "category": "ai_models",
+    "score": 23
+  },
+  "58f61578cfe11472": {
+    "title": "Consolidating RLVR Capabilities Across Domains: A Deep Dive into Fusion Paradigms",
+    "category": "ai_models",
+    "score": 17
+  },
+  "2befc6d0cb8b62c6": {
+    "title": "Reconstructing Humans and Objects in Interaction using Large Reconstruction Models",
+    "category": "ai_models",
+    "score": 19
+  },
+  "eb7745b52639baf0": {
+    "title": "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators",
+    "category": "ai_models",
+    "score": 32
+  },
+  "217f4ddf85de41db": {
+    "title": "How Language Models Organize and Structure Moral Knowledge",
+    "category": "ai_models",
+    "score": 17
+  },
+  "c501b5e3586d385b": {
+    "title": "Making Clinical Language Models Auditable: Concept-Guided Fine-Tuning for Robust Prediction",
+    "category": "ai_models",
+    "score": 22
+  },
+  "b4cff4c52b50c757": {
+    "title": "LeVJEPA: Efficient & Scalable Video Pretraining without the Heuristics",
+    "category": "ai_models",
+    "score": 21
+  },
+  "38ac2ac5fdb29ce6": {
+    "title": "RATIO: A Benchmark for Retrieval Across Typed Ideation Operations in Scientific Literature",
+    "category": "ai_models",
+    "score": 11
+  },
+  "160633c73f26db68": {
+    "title": "Property-Specific Recoverability from Contact PPG to Camera rPPG under Heterogeneous Observation Conditions",
+    "category": "ai_models",
+    "score": 8
+  },
+  "8641d1dbdf8f8079": {
+    "title": "CorporateBench: Large-Scale Q&A Benchmarking with Temporal Knowledge Bases",
+    "category": "ai_models",
+    "score": 18
+  },
+  "a3276ebd6182ad49": {
+    "title": "Token-Level Advertising",
+    "category": "ai_models",
+    "score": 21
+  },
+  "edabaffd84062cd2": {
+    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+    "category": "ai_models",
+    "score": 7
+  },
+  "f07ccfce13575ae0": {
+    "title": "Wolf: Currency Weakness, Intervention Lift Gold Flows",
+    "category": "ai_models",
+    "score": 11
+  },
+  "a80ef059f32dfd12": {
+    "title": "Nepal Billionaire: Rebuilding After Flood to Cost $5B",
+    "category": "ai_models",
+    "score": 16
+  },
+  "cf16bebf8b9e1eea": {
+    "title": "Nepal Billionaire Says Rebuilding After Flood to Cost $5 Billion",
+    "category": "ai_models",
+    "score": 5
+  },
+  "c3987315b78575e9": {
+    "title": "Asian Shares Rise, Treasuries Steady Before Warsh: Markets Wrap",
+    "category": "ai_models",
+    "score": 17
+  },
+  "3f04117e730cadca": {
+    "title": "India\u2019s Cheap Weight-Loss Drugs Get A Reality Check",
+    "category": "ai_models",
+    "score": 9
+  },
+  "0031aafd328748a7": {
+    "title": "CanSino CEO Xuefeng Yu on Earnings, Pipeline",
+    "category": "ai_models",
+    "score": 11
+  },
+  "21082ed01a804770": {
+    "title": "Inside India's AI Ambitions",
+    "category": "ai_models",
+    "score": 13
+  },
+  "e72f35d782ea1c50": {
+    "title": "Top Sydney Builder\u2019s $2.3 Billion Debt Woes Hit Private Credit",
+    "category": "ai_models",
+    "score": 14
+  },
+  "19cc67d9135289fb": {
+    "title": "Billionare and Philantropist Chaudhary on the Scale of Nepal's Flood Disaster",
+    "category": "ai_models",
+    "score": 7
+  },
+  "f5b1b8f1aea056d8": {
+    "title": "4,000% Options Surge in 15 Minutes Shows Wild India Auction",
+    "category": "ai_models",
+    "score": 12
+  },
+  "8921444339df753f": {
+    "title": "Ex-RBI Chief Rajan Says Fed Should Raise Rates",
+    "category": "ai_models",
+    "score": 15
+  },
+  "a40a486c8bdada55": {
+    "title": "Japan Two-Year Bond Sale Sees Weak Demand on Rate Hike Risk",
+    "category": "ai_models",
+    "score": 9
+  },
+  "54acc7bf50ca5edf": {
+    "title": "PHP/USD: Philippine Peso Falls Past 62 Per Dollar on Elevated Oil Prices",
+    "category": "ai_models",
+    "score": 13
+  },
+  "65c28b8dc68af76c": {
+    "title": "Tempsens Jumps 110% in Debut After $68 Million India IPO",
+    "category": "ai_models",
+    "score": 12
+  },
+  "a3cb4a0b85d04b88": {
+    "title": "Traders Focus on Jackson Hole, Fed Outlook | The Asia Trade 8/28/2026",
+    "category": "ai_models",
+    "score": 22
+  },
+  "1ed6961ac7af5ed1": {
+    "title": "Inside India's AI Ambitions | Bloomberg Tech: Asia 8/28/2026",
+    "category": "ai_models",
+    "score": 22
+  },
+  "232bc9a0d3f7c131": {
+    "title": "Chinese Carmakers Grow Market Share in Europe With Hybrid Surge",
+    "category": "ai_models",
+    "score": 11
+  },
+  "def85ac228553fb1": {
+    "title": "BYD\u2019s $20 Billion Stock Comeback May Extend on Export Success",
+    "category": "ai_models",
+    "score": 10
+  },
+  "28e9bbce4acab733": {
+    "title": "Gold Miners Are Having a Better Month Than Chips Did in Years",
+    "category": "ai_models",
+    "score": 7
+  },
+  "83bea29861ea1fe8": {
+    "title": "Fast-Swelling Lakes Spur New Flood Warnings in Nepal, China",
+    "category": "ai_models",
+    "score": 4
+  },
+  "194ff23447ed07b3": {
+    "title": "Korean exports will become a $30 billion industry on TikTok by 2030. Welcome to \u201cK-culture 4.0.\u201d",
+    "category": "ai_models",
+    "score": 12
+  },
+  "a9e940bd7b7d55d3": {
+    "title": "Answer engine optimization adds value to chatbot responses. Its catching on with creator marketers.",
+    "category": "ai_models",
+    "score": 16
+  },
+  "8dff314d7a4ed65f": {
+    "title": "YouTube and Amazon partner to let creators sell a \u201ccurated catalog of highly requested and trending products\u201d",
+    "category": "ai_models",
+    "score": 11
   }
 }
