@@ -125,5 +125,9 @@ que falte para pedirlo. Se reengorda este bloque cada sesión que toque YouTube.
 - [ ] ai-video-generation-landscape |
 - [ ] b2b-pricing-anchoring |
 - [ ] eu-vat-digital-freelancer |
+- [ ] vinted-pro-integrations-api | Vinted Pro Integrations API allowlist access business sellers bulk listing
+- [ ] eu-ai-act-article-50-image-editing | EU AI Act Article 50 transparency obligation AI-edited product photos assistive editing exception
+- [ ] marketplace-ai-photo-policy-secondhand | Vinted Depop eBay policy AI-generated or AI-enhanced product photos secondhand marketplace
+- [ ] gemini-image-quota-multiday-lockout | Gemini Antigravity image generation quota multi-day lockout Pro accounts treated as free
 
 ## Completados
