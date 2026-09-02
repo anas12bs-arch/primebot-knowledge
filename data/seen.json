@@ -31978,5 +31978,235 @@
     "title": "Here\u2019s how Collab used licensed clips and human voiceovers to turn Rufus Goodboy into YouTube\u2019s best-in-show animal compilation channel",
     "category": "ai_models",
     "score": 12
+  },
+  "99df6d079caff4d1": {
+    "title": "Show HN: Image3d AI-One interface for multiple image to 3D models",
+    "category": "ai_models",
+    "score": 7
+  },
+  "e25dc681b6df6fc7": {
+    "title": "Show HN: Terraplane: webhook-based Terraform PRs with runners in your network",
+    "category": "ai_models",
+    "score": 3
+  },
+  "68e5f74414a8d587": {
+    "title": "Uncovering Understanding-Generation Synergy in Native Unified Multimodal Models: From Representation, Task to System",
+    "category": "ai_models",
+    "score": 28
+  },
+  "c63a7484f9aac779": {
+    "title": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation",
+    "category": "ai_models",
+    "score": 27
+  },
+  "2a91d0d40065366a": {
+    "title": "Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation",
+    "category": "ai_models",
+    "score": 20
+  },
+  "7ddec4f68fb67273": {
+    "title": "Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation",
+    "category": "ai_models",
+    "score": 19
+  },
+  "17414959dbae312c": {
+    "title": "CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?",
+    "category": "ai_models",
+    "score": 24
+  },
+  "aad1b58ab31d7004": {
+    "title": "UI-VISA: U-Net Initialized Vascular Image Segmentation Architecture",
+    "category": "ai_models",
+    "score": 21
+  },
+  "d54d32279355b64d": {
+    "title": "The Rise of Verbal Reinforcement Learning",
+    "category": "ai_models",
+    "score": 25
+  },
+  "2c307a90c621eeef": {
+    "title": "Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation",
+    "category": "ai_models",
+    "score": 34
+  },
+  "3408ddccbb7866bb": {
+    "title": "Mechanism Design for Alignment and Control",
+    "category": "ai_models",
+    "score": 16
+  },
+  "211105a10dba1723": {
+    "title": "StudentSim: Training LLM-based Student Simulators",
+    "category": "ai_models",
+    "score": 18
+  },
+  "ca6593f2e8ee07a9": {
+    "title": "Designing Proactive Thought Partners for Writing",
+    "category": "ai_models",
+    "score": 21
+  },
+  "59a7366812883be7": {
+    "title": "The Structure of Quantization Damage in LLMs: Why the Next Bit Should Be Spent Globally",
+    "category": "ai_models",
+    "score": 21
+  },
+  "8c9c8a523d999c32": {
+    "title": "A Benchmark for Vehicle Attribute Classification in Cross-Domain Surveillance Scenarios",
+    "category": "ai_models",
+    "score": 25
+  },
+  "65fd72357edb6479": {
+    "title": "SpatialGuard: Harness-Guided Verifiable Spatial Reasoning for Text-to-Image Generation",
+    "category": "ai_models",
+    "score": 25
+  },
+  "4f2f3669a539ea59": {
+    "title": "Closing Cost-Quality Gap in Document VLMs: Difficulty-Aware Data Curation and Quality-Adjusted Deployment Economics",
+    "category": "ai_models",
+    "score": 30
+  },
+  "10c311e167f50ca6": {
+    "title": "Scaling Near-Optimal SFT-RL Annotation Budget Allocation from Small to Large LLMs",
+    "category": "ai_models",
+    "score": 24
+  },
+  "deede2b3c9cc0023": {
+    "title": "From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix",
+    "category": "ai_models",
+    "score": 31
+  },
+  "a181b8283066cdd0": {
+    "title": "Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers",
+    "category": "ai_models",
+    "score": 28
+  },
+  "8e6ddb96609bba38": {
+    "title": "From Confusion to Clarity: Confusion-Aware Retrieval and Knowledge Injection for Text Classification",
+    "category": "ai_models",
+    "score": 17
+  },
+  "ef96c3e5728d3fee": {
+    "title": "A systematic Approach to constructing a Chance-and-Risk Matrix for Semiconductor Supply Chains",
+    "category": "ai_models",
+    "score": 23
+  },
+  "a256192011715e9f": {
+    "title": "H3-World: Turning Language Understanding into World Control",
+    "category": "ai_models",
+    "score": 28
+  },
+  "248155ba2c8798a3": {
+    "title": "Gradient-Update Mismatch: Rethinking Conflict-Free Training of Physics-Informed Neural Networks",
+    "category": "ai_models",
+    "score": 11
+  },
+  "1d231eccfe3d9c3d": {
+    "title": "Retrieved but not ranked: surface-form bias in structural retrieval, from mathematics to agent trajectories",
+    "category": "ai_models",
+    "score": 12
+  },
+  "71739faefee5eb29": {
+    "title": "BS: Take the Hint - Interactive Multitracer PET/CT Lesion Segmentation with a Scribble-Conditioned ResEnc U-Net",
+    "category": "ai_models",
+    "score": 11
+  },
+  "7ab82b973de6a573": {
+    "title": "Can LLMs Discover Scientific Laws in Real and Parallel Worlds?",
+    "category": "ai_models",
+    "score": 19
+  },
+  "452420ee1fd7a2ea": {
+    "title": "Woolworths\u2019 New CEO Bets More on Food in Retailer\u2019s Overhaul",
+    "category": "ai_models",
+    "score": 21
+  },
+  "18ff48fdf1451ad0": {
+    "title": "Sale of TAP Airline Moves on With Bids by Lufthansa, Air France",
+    "category": "ai_models",
+    "score": 9
+  },
+  "e33960f12bdca73d": {
+    "title": "Slovenia Strips Ex-Premier of Immunity for Police Purge Probe",
+    "category": "ai_models",
+    "score": 7
+  },
+  "436e70e197bd18c4": {
+    "title": "US-Iran Conflict Intensifies, Rattling Markets",
+    "category": "ai_models",
+    "score": 10
+  },
+  "aa23e80a32772f0b": {
+    "title": "India\u2019s ONGC Reviews Assets in Venezuela After US Green Light",
+    "category": "ai_models",
+    "score": 14
+  },
+  "aaa373c7eb3e781e": {
+    "title": "BlackRock: $2.1T in GCC Capex By End of Decade",
+    "category": "ai_models",
+    "score": 27
+  },
+  "da4659ebfca61e2b": {
+    "title": "Major: Treasury Market Is Functioning Normally",
+    "category": "ai_models",
+    "score": 32
+  },
+  "1359f1333133dfa4": {
+    "title": "Bond Yields at 5% to 5.25% Pose Risk to Stocks: JPMorgan Private Bank",
+    "category": "ai_models",
+    "score": 21
+  },
+  "a95b6525690e1269": {
+    "title": "Energy Angst to Keep Pushing Yields Higher: 3-Minutes MLIV",
+    "category": "ai_models",
+    "score": 13
+  },
+  "4ddc158773a08731": {
+    "title": "Shadow Lenders in India Line Up Over $1 Billion in Rupee Bonds",
+    "category": "ai_models",
+    "score": 16
+  },
+  "edcad7c430f1d207": {
+    "title": "Turkey\u2019s $75 Billion Hot-Money Boom Creates Policymaker Dilemma",
+    "category": "ai_models",
+    "score": 16
+  },
+  "02568e808af24b42": {
+    "title": "US-China Tensions Simmer at G20 Meeting | The China Show | 9/2/2026",
+    "category": "ai_models",
+    "score": 17
+  },
+  "d67b925e753f3053": {
+    "title": "Yen Gains After BOJ Hawk Leaves Door Open for Outsized Hike",
+    "category": "ai_models",
+    "score": 11
+  },
+  "4df463b7f5e435e1": {
+    "title": "Global Bonds Are Slumping But It\u2019s Nothing Like the 2022 Wipeout",
+    "category": "ai_models",
+    "score": 14
+  },
+  "43c7aad18e906d71": {
+    "title": "Vietnam\u2019s Vingroup Plans Debut Won Bond After Shares Hit Record",
+    "category": "ai_models",
+    "score": 18
+  },
+  "f23a233a4896ff9b": {
+    "title": "European Gas Rises Again on Mideast Supply Risks",
+    "category": "ai_models",
+    "score": 24
+  },
+  "0794ef4533a635f5": {
+    "title": "Scientech CEO On AI Buildout Demand",
+    "category": "ai_models",
+    "score": 7
+  },
+  "3f408eacc8ee7a60": {
+    "title": "DeepZero Chairwoman on Earnings Outlook",
+    "category": "ai_models",
+    "score": 10
+  },
+  "1d980592e807c69a": {
+    "title": "MrBeast\u2019s literary debut comes with a chance to win $1 million. Is that enough to make it a bestseller?",
+    "category": "ai_models",
+    "score": 13
   }
 }
