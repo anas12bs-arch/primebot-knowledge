@@ -33553,5 +33553,225 @@
     "title": "After spending decades in Hollywood, UTA\u2019s Co-Founder has a new gig: A call-in show on Twitch.",
     "category": "ai_models",
     "score": 14
+  },
+  "32eabe10981f24f5": {
+    "title": "One-person startup: a Cornell postdoc wants to put AI in everyone's hands",
+    "category": "ai_models",
+    "score": 8
+  },
+  "eb8079d699345f4a": {
+    "title": "Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision",
+    "category": "ai_models",
+    "score": 33
+  },
+  "53e7c551a8d8ac07": {
+    "title": "TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation",
+    "category": "ai_models",
+    "score": 25
+  },
+  "3437b807cd7f13f6": {
+    "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+    "category": "ai_models",
+    "score": 30
+  },
+  "2e5f88d4ec0672f4": {
+    "title": "Principia: Relational Physics Tests for Video Models",
+    "category": "ai_models",
+    "score": 20
+  },
+  "c75997e7ff46c271": {
+    "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+    "category": "ai_models",
+    "score": 19
+  },
+  "c3be40277b538deb": {
+    "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+    "category": "ai_models",
+    "score": 25
+  },
+  "a7749aa922c53487": {
+    "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
+    "category": "ai_models",
+    "score": 17
+  },
+  "516bb1c71d4dd720": {
+    "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
+    "category": "ai_models",
+    "score": 30
+  },
+  "2c3ec1de1fa736a3": {
+    "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
+    "category": "ai_models",
+    "score": 23
+  },
+  "010050f0915caae7": {
+    "title": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing",
+    "category": "ai_models",
+    "score": 23
+  },
+  "ed02b66f270fce4d": {
+    "title": "Robust PAC Learning of Concurrent Stochastic Games",
+    "category": "ai_models",
+    "score": 18
+  },
+  "ad3de4c6598c2c85": {
+    "title": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning",
+    "category": "ai_models",
+    "score": 23
+  },
+  "6a316d099478401d": {
+    "title": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
+    "category": "ai_models",
+    "score": 26
+  },
+  "46534d6bf2393b44": {
+    "title": "A Computationally Feasible Framework for Causal Probabilistic Explanation",
+    "category": "ai_models",
+    "score": 19
+  },
+  "fe6019cd1102a8a0": {
+    "title": "Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations",
+    "category": "ai_models",
+    "score": 21
+  },
+  "c9357f9850f9c0d4": {
+    "title": "Last Translation Benchmark",
+    "category": "ai_models",
+    "score": 25
+  },
+  "7f38133251937f76": {
+    "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+    "category": "ai_models",
+    "score": 29
+  },
+  "0a2998d4cfb3c17e": {
+    "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
+    "category": "ai_models",
+    "score": 18
+  },
+  "fc2e12dea8bff5c6": {
+    "title": "Para-Pipe: Exploiting Hierarchical Operator Parallelism of ML Computational Graphs on SoCs",
+    "category": "ai_models",
+    "score": 23
+  },
+  "471011faee1ba2b2": {
+    "title": "SWE-Gate: Passing Functional Tests Is Not Enough for Software Engineering Agents",
+    "category": "ai_models",
+    "score": 22
+  },
+  "eca76c6ff685b4a3": {
+    "title": "From Deceptive Outputs to Deceptive Mechanisms: A Causal Framework for Language-Model Deception Research",
+    "category": "ai_models",
+    "score": 18
+  },
+  "b2d88573a8b91684": {
+    "title": "Parameterised graph theory for tensor networks: entanglement rerouting, structural simplification, and agnostic tomography",
+    "category": "ai_models",
+    "score": 12
+  },
+  "760ce6318239c5dd": {
+    "title": "SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center",
+    "category": "ai_models",
+    "score": 27
+  },
+  "be70148b186dcfcc": {
+    "title": "Persistent Identity Preservation in Generative Image Models: A Benchmark and Evaluation System",
+    "category": "ai_models",
+    "score": 26
+  },
+  "ae0001a61b370685": {
+    "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+    "category": "ai_models",
+    "score": 19
+  },
+  "920440924028e140": {
+    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+    "category": "ai_models",
+    "score": 9
+  },
+  "609012dccf3dc2c0": {
+    "title": "Emerging Market Stocks, Currencies Rise as Fed Hike Bets Ease",
+    "category": "ai_models",
+    "score": 11
+  },
+  "7a7b7c70bd163c62": {
+    "title": "Philippines Keeps Eye on Iran War as Inflation Barely Eases",
+    "category": "ai_models",
+    "score": 11
+  },
+  "c46c5a4234138967": {
+    "title": "Saudi Firm Humain Eyes $2.5 Billion Fund to Build Data Centers",
+    "category": "ai_models",
+    "score": 14
+  },
+  "85487cb566745bbd": {
+    "title": "Is the Chip Supercycle Here to Stay?",
+    "category": "ai_models",
+    "score": 8
+  },
+  "26ac8f604c43cf54": {
+    "title": "PNJ Taps Chairwoman\u2019s Family for Loan After Diamond Scandal",
+    "category": "ai_models",
+    "score": 6
+  },
+  "36e7ccf58b69a445": {
+    "title": "India\u2019s SEBI to Review Options Settlement Pricing After Closing Auction Chaos",
+    "category": "ai_models",
+    "score": 17
+  },
+  "61c18cd3fee7ec4e": {
+    "title": "Sharp Price Swings Prompt SEBI Review of India\u2019s Closing Auction",
+    "category": "ai_models",
+    "score": 14
+  },
+  "1363f69a12478bcb": {
+    "title": "Pacific Leaders Criticize China\u2019s Recent Missile Test",
+    "category": "ai_models",
+    "score": 3
+  },
+  "18c6cbbb8dc39609": {
+    "title": "Bathla Crisis Puts Focus on $94 Million of Unsecured Debts",
+    "category": "ai_models",
+    "score": 11
+  },
+  "0766eb8cae8d3d69": {
+    "title": "Congo Ebola Outbreak: Roche to Expand Testing Capacity in Ituri",
+    "category": "ai_models",
+    "score": 11
+  },
+  "d52e7499b9048f59": {
+    "title": "Chinese University of Hong Kong Seeks Loan to Fund Its Hospital",
+    "category": "ai_models",
+    "score": 16
+  },
+  "c3ad342841067650": {
+    "title": "Nomura Says Three Straight BOJ Hikes Possible in Extreme Case",
+    "category": "ai_models",
+    "score": 10
+  },
+  "c223d40c4666be54": {
+    "title": "Fading Cobalt Rally Is Testing Congo\u2019s Efforts to Control Prices",
+    "category": "ai_models",
+    "score": 10
+  },
+  "2eaafaafd97811a1": {
+    "title": "RBNZ More Likely To Wait Until December to Hike, Silk Says",
+    "category": "ai_models",
+    "score": 6
+  },
+  "d2a89eb1d490b487": {
+    "title": "Carry Trade Exodus Fuels Yen Surge Ahead of BOJ Rate Decision",
+    "category": "ai_models",
+    "score": 17
+  },
+  "c5359019249c24ca": {
+    "title": "Toyota's Sato: AI Can Advance Autonomous Driving",
+    "category": "ai_models",
+    "score": 10
+  },
+  "78053bcaf7e080e8": {
+    "title": "Roblox paid creators $1.5 billion in 2025",
+    "category": "ai_models",
+    "score": 17
   }
 }
