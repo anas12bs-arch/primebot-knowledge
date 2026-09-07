@@ -34718,5 +34718,225 @@
     "title": "Latest Oil Market News and Analysis for September 7",
     "category": "ai_models",
     "score": 17
+  },
+  "3f3f2ed545eb5694": {
+    "title": "Don't build your organization around a model provider",
+    "category": "ai_models",
+    "score": 6
+  },
+  "2140ed4630917aaa": {
+    "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
+    "category": "ai_models",
+    "score": 29
+  },
+  "9961264907ef95a1": {
+    "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
+    "category": "ai_models",
+    "score": 25
+  },
+  "106110d2a15e5976": {
+    "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+    "category": "ai_models",
+    "score": 26
+  },
+  "efa249640977c0a6": {
+    "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
+    "category": "ai_models",
+    "score": 28
+  },
+  "7510047a79123414": {
+    "title": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments",
+    "category": "ai_models",
+    "score": 33
+  },
+  "d72b739583135294": {
+    "title": "Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models",
+    "category": "ai_models",
+    "score": 23
+  },
+  "e905e2d434b86585": {
+    "title": "A Generalizable Feature Extractor for Alzheimer's-Related Brain MRI Tasks",
+    "category": "ai_models",
+    "score": 23
+  },
+  "c29d57e6fc51fbd0": {
+    "title": "From Interpretability Methods to Interpretable Models",
+    "category": "ai_models",
+    "score": 25
+  },
+  "405451dbc63597dd": {
+    "title": "CrossDepth: Geometry-Constrained Attention for Generalizable Multi-View Surround Depth Estimation",
+    "category": "ai_models",
+    "score": 24
+  },
+  "906edd63a5dfee3f": {
+    "title": "A Deep Generative Model for Synthesizing Labeled Wireless Signals",
+    "category": "ai_models",
+    "score": 23
+  },
+  "b0fbd7a01f414175": {
+    "title": "Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe",
+    "category": "ai_models",
+    "score": 29
+  },
+  "f40ae7e9e7c198ee": {
+    "title": "Think-Verify-Revise: Neuro-Symbolic Visual Reasoning with Vision-Language Models and Dynamic Logic Tensor Networks",
+    "category": "ai_models",
+    "score": 32
+  },
+  "fe17618c10c7e4d1": {
+    "title": "Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence",
+    "category": "ai_models",
+    "score": 20
+  },
+  "9248544ccc5d422f": {
+    "title": "Reflection-aware Generative Novel View Synthesis",
+    "category": "ai_models",
+    "score": 21
+  },
+  "363e0ac80e3ddc5a": {
+    "title": "Molecular D\u00e9j\u00e0 Vu: Digit-Level Retrieval of Published Values in Frontier Language Models",
+    "category": "ai_models",
+    "score": 19
+  },
+  "2fb6e379a5ccc0ec": {
+    "title": "What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies",
+    "category": "ai_models",
+    "score": 32
+  },
+  "dcae22b9edf11569": {
+    "title": "CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents",
+    "category": "ai_models",
+    "score": 29
+  },
+  "0983a0e7e0003641": {
+    "title": "When LLM Decompilers Recompile More and Preserve Less",
+    "category": "ai_models",
+    "score": 17
+  },
+  "50e756d4831473a5": {
+    "title": "Towards Neuro-Symbolic Procedural Reasoning for Long-Horizon Vision-Language-Action Manipulation",
+    "category": "ai_models",
+    "score": 35
+  },
+  "e49e3a87ffbeba7a": {
+    "title": "Design Docs Are All You Need: An AI-native Machine-Learning Performance Tool",
+    "category": "ai_models",
+    "score": 28
+  },
+  "3e568515dee8f038": {
+    "title": "Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation",
+    "category": "ai_models",
+    "score": 40
+  },
+  "1e8721aa6206d623": {
+    "title": "MEOX: Compact Multimodal Mixture-of-Experts for Earth Observation",
+    "category": "ai_models",
+    "score": 24
+  },
+  "fbf236ada5c82754": {
+    "title": "Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education",
+    "category": "ai_models",
+    "score": 24
+  },
+  "68963cee1fd4dfc2": {
+    "title": "Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability",
+    "category": "ai_models",
+    "score": 22
+  },
+  "4515a5ea0400dfaa": {
+    "title": "Variational Continuation for Double Pendulum Periodic Orbits",
+    "category": "ai_models",
+    "score": 16
+  },
+  "e78ec879c9c4aad6": {
+    "title": "Bond Market: Gilts, BTPs, OATs Hit by Fears of Energy Shock, Political Risk",
+    "category": "ai_models",
+    "score": 15
+  },
+  "bb9807f027d11e88": {
+    "title": "Iron Ore Tops $100 on Position Unwinds and China Buying Hopes",
+    "category": "ai_models",
+    "score": 14
+  },
+  "0766ed7d8242f425": {
+    "title": "Iran, US Trade Tanker Attacks, Strong US Payrolls Fuel Fed Hike Bets | The Asia Trade 9/7/2026",
+    "category": "ai_models",
+    "score": 23
+  },
+  "47c2e37038ee0ccb": {
+    "title": "EM Stocks Jump to 2-Month High as Tech Rally Offsets Higher Oil",
+    "category": "ai_models",
+    "score": 18
+  },
+  "1272b21e4f2d51d2": {
+    "title": "Multiple Dead in New Delhi Building Collapse",
+    "category": "ai_models",
+    "score": 10
+  },
+  "b405f643bd1a1226": {
+    "title": "Peso Left Behind in Asia as Oil Shock Erodes Dollar Reserves",
+    "category": "ai_models",
+    "score": 7
+  },
+  "8a6e0c4ad9e76c03": {
+    "title": "Indonesia Extends Volcano Airport Closures",
+    "category": "ai_models",
+    "score": 9
+  },
+  "9a78ee2aa7fa65a6": {
+    "title": "First-Day Gains in India Swell as Investors Pile Into Newly Listed Stocks",
+    "category": "ai_models",
+    "score": 12
+  },
+  "cb65466d13873548": {
+    "title": "KRW/USD: Malaysia Bonds Draw Record $3.9 Billion Inflows in August on AI Boom",
+    "category": "ai_models",
+    "score": 14
+  },
+  "6e63f9afaf96d4d2": {
+    "title": "Gold Extends Drop as Jobs Data, Hormuz Clashes Up Rate-Hike Bets",
+    "category": "ai_models",
+    "score": 15
+  },
+  "23bb475acfd45355": {
+    "title": "Bathla Group Faces Funding Talks as $2.5 Billion Debt Crisis Deepens",
+    "category": "ai_models",
+    "score": 19
+  },
+  "83ac6a175b46a774": {
+    "title": "China Property Moves to Fuel 30% Hit to Land Sales, Goldman Says",
+    "category": "ai_models",
+    "score": 14
+  },
+  "5bfb8bced8a3d0d2": {
+    "title": "Japan Likely Sold Treasuries to Fund Record Yen Intervention",
+    "category": "ai_models",
+    "score": 18
+  },
+  "8dbfa4b80635a65a": {
+    "title": "Won Climbs to Two-Year High With Rally Momentum at Extremes",
+    "category": "ai_models",
+    "score": 23
+  },
+  "d875272a94fab0f9": {
+    "title": "Indonesia Extends Airport Closures as Volcano Disruptions Linger",
+    "category": "ai_models",
+    "score": 7
+  },
+  "3da23596b758ca4b": {
+    "title": "War-Tested Oil Traders Descend on Singapore as Fresh Risks Loom",
+    "category": "ai_models",
+    "score": 19
+  },
+  "01d993681684b80c": {
+    "title": "Morgan Stanley Banker in Australia Says Bathla Is \u2018Hammer Blow\u2019",
+    "category": "ai_models",
+    "score": 14
+  },
+  "e61935feb8da25eb": {
+    "title": "Japan's Go President Eyes Expansion in Asia, Robotaxis",
+    "category": "ai_models",
+    "score": 17
   }
 }
