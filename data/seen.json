@@ -35913,5 +35913,230 @@
     "title": "Across comparable deals, YouTube Gaming creators are commanding 23% higher rates than Twitch streamers",
     "category": "ai_models",
     "score": 24
+  },
+  "78a99a17ad80118d": {
+    "title": "The Math Under Every AI Model: James Wilkinson and Backward Error",
+    "category": "ai_models",
+    "score": 5
+  },
+  "6b269f1ac6aaaace": {
+    "title": "Anthropic withheld latest AI model from UK testing agency",
+    "category": "ai_models",
+    "score": 7
+  },
+  "6952e3ef9bd9f293": {
+    "title": "Show HN: Making an app to organize all basic aspects of modern life",
+    "category": "ai_models",
+    "score": 4
+  },
+  "7181e5400e197e88": {
+    "title": "Phoenix V2: persistent memory, emotional state, self-model for AI (MIT)",
+    "category": "ai_models",
+    "score": 7
+  },
+  "9101277b50a3a3a3": {
+    "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
+    "category": "ai_models",
+    "score": 24
+  },
+  "42b8bba958c2d4e7": {
+    "title": "Learning Length-Extrapolatable Recurrent Models",
+    "category": "ai_models",
+    "score": 33
+  },
+  "198288b7a20da810": {
+    "title": "ReCite: Agentic Reasoning for Faithful Citation",
+    "category": "ai_models",
+    "score": 23
+  },
+  "6f0300bacdc26140": {
+    "title": "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators",
+    "category": "ai_models",
+    "score": 32
+  },
+  "1d61f75ab626668e": {
+    "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+    "category": "ai_models",
+    "score": 26
+  },
+  "de45a18f9034d167": {
+    "title": "Silver Rate Is (Almost) Optimal for Gradient Descent Acceleration",
+    "category": "ai_models",
+    "score": 14
+  },
+  "0988755e16526c1b": {
+    "title": "Copying explains the collective behavior of AI agents in the wild",
+    "category": "ai_models",
+    "score": 15
+  },
+  "0dced0d36940eef4": {
+    "title": "Point4D: Long-range 4D Motion Reconstruction",
+    "category": "ai_models",
+    "score": 23
+  },
+  "8387860be474368e": {
+    "title": "Studying Image Tokenizers as Visual Languages in Unified Multimodal Models",
+    "category": "ai_models",
+    "score": 34
+  },
+  "aaeaca7179160039": {
+    "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
+    "category": "ai_models",
+    "score": 33
+  },
+  "d9c28933415612b1": {
+    "title": "A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes",
+    "category": "ai_models",
+    "score": 20
+  },
+  "27cbaa54287f249d": {
+    "title": "Entropy-Regularized Rank-Masked Policy Optimization for Test-Time Reinforcement Learning in Code Generation",
+    "category": "ai_models",
+    "score": 27
+  },
+  "62b48e0ca0aeca99": {
+    "title": "Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails",
+    "category": "ai_models",
+    "score": 38
+  },
+  "c7fdd7cb839b78f1": {
+    "title": "ExecCritic: Learn to Test, Test to Improve for Coding Agents",
+    "category": "ai_models",
+    "score": 20
+  },
+  "40bcea6810be65fb": {
+    "title": "Nearly Tight Rademacher Bounds for Sparsely Activated Neural Networks",
+    "category": "ai_models",
+    "score": 20
+  },
+  "1b29a0fdc9d8d4cd": {
+    "title": "A Generalization of Amari's Bayesian Duality",
+    "category": "ai_models",
+    "score": 13
+  },
+  "b5acd84a1ca49531": {
+    "title": "Canonical Color as a Lens into Concept Decodability in Vision Encoders and VLMs",
+    "category": "ai_models",
+    "score": 23
+  },
+  "5b8af920e5a3f217": {
+    "title": "Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout",
+    "category": "ai_models",
+    "score": 34
+  },
+  "d3f28d315d14a4b0": {
+    "title": "DeCAL: Towards Physically-Grounded Dexterous Vision-Language-Action Models via Contact-Aware Latent Co-Imagination",
+    "category": "ai_models",
+    "score": 34
+  },
+  "20767c4c3cf30b9a": {
+    "title": "When Does Scale-Invariant Optimization Become Unstable? An Exact Schedule Law with Weight Decay",
+    "category": "ai_models",
+    "score": 26
+  },
+  "994f47abb39403b3": {
+    "title": "MeClear: Cooperative Game-Theoretic Attribution and Risk-Aware Memory Clearance for Long-Horizon LLM Agents",
+    "category": "ai_models",
+    "score": 27
+  },
+  "b4582b3ac164e763": {
+    "title": "SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?",
+    "category": "ai_models",
+    "score": 34
+  },
+  "b8a8da62da2ac9b0": {
+    "title": "Curriculum Learning as Transport: Understanding Curricula with Wasserstein Geodesics",
+    "category": "ai_models",
+    "score": 26
+  },
+  "54ee961ad179fafa": {
+    "title": "The Surprising Effectiveness of Approximate Value Iteration in Self-Play",
+    "category": "ai_models",
+    "score": 21
+  },
+  "3e0b5afd47eeaca4": {
+    "title": "Measuring LLM Sycophancy under Sustained Multi-Turn Pressure",
+    "category": "ai_models",
+    "score": 29
+  },
+  "78065b07e626bb20": {
+    "title": "Tikehau's Flamarion Says Transaction Are Becoming 'Smaller'",
+    "category": "ai_models",
+    "score": 17
+  },
+  "132df10af8f761dc": {
+    "title": "BSE's New Closing Auction Sees Pricing Stabilize",
+    "category": "ai_models",
+    "score": 13
+  },
+  "4cb019bcd1340b73": {
+    "title": "Morgan Stanley Says War-Weary Oil Traders Shun Long-Term Bets",
+    "category": "ai_models",
+    "score": 11
+  },
+  "1318b85b641bc7a3": {
+    "title": "China Lithium Producers Call for Better Data After Price Impact",
+    "category": "ai_models",
+    "score": 13
+  },
+  "762236e0b5b9614a": {
+    "title": "Horizons Middle East & Africa 9/9/2026",
+    "category": "ai_models",
+    "score": 22
+  },
+  "1257a63a2c460ed3": {
+    "title": "FTSE 100 Live: UK Stock Futures Slide as Oil Keeps $100 in Sight",
+    "category": "ai_models",
+    "score": 5
+  },
+  "f6c410bd293b9718": {
+    "title": "Ex-BOK Governor Rhee\u00a0on Won Volatility",
+    "category": "ai_models",
+    "score": 12
+  },
+  "2338f8497e931d65": {
+    "title": "Diesel Crunch Threatens Lasting Price Pain, Consumption Cutbacks",
+    "category": "ai_models",
+    "score": 21
+  },
+  "75f12e105e943054": {
+    "title": "Bessent Dares Traders On Yen, Rhee Says Don't Panic Over Won Moves | The Asia Trade 9/9/2026",
+    "category": "ai_models",
+    "score": 24
+  },
+  "27c1600a3dc59ff0": {
+    "title": "Gavekal CEO on Market Outlook, Strategy",
+    "category": "ai_models",
+    "score": 11
+  },
+  "133010809d4a46e3": {
+    "title": "DigitalBridge CEO on Investment Strategy",
+    "category": "ai_models",
+    "score": 18
+  },
+  "7a8b44d6e9ae8303": {
+    "title": "Visa India\u2019s Next Bet Beyond UPI Dominance",
+    "category": "ai_models",
+    "score": 27
+  },
+  "212b3fb69fd2638c": {
+    "title": "China Inflation Picks Up as Energy Costs Rise",
+    "category": "ai_models",
+    "score": 22
+  },
+  "552996885985a7ad": {
+    "title": "Iraq Seeks Significant Output Quota Increase During OPEC+ Audit",
+    "category": "ai_models",
+    "score": 13
+  },
+  "67f1e83a397e4b8a": {
+    "title": "Spanish Defense Tycoon Plots Family IPO After Shock Indra Exit",
+    "category": "ai_models",
+    "score": 8
+  },
+  "02c2c7e5138e0fc9": {
+    "title": "Top 5 Branded Videos of the Week: The big dogs",
+    "category": "ai_models",
+    "score": 19
   }
 }
