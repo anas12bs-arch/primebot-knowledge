@@ -36452,5 +36452,135 @@
   "6c106c379cd4ca79": {
     "title": "Birdie | Ribbit.",
     "reason": "irrelevant"
+  },
+  "f01ecf190031489c": {
+    "title": "A small GitHub API change could make AI-slop moderation much easier",
+    "category": "ai_models",
+    "score": 4
+  },
+  "da64721081cae3a8": {
+    "title": "A new deep learning model maps global methane emissions from space",
+    "category": "ai_models",
+    "score": 7
+  },
+  "59e2b530b02f014d": {
+    "title": "A $37 GLM 5.3 red team: the Alloy-modeled auth layer held, but two bugs outside",
+    "category": "ai_models",
+    "score": 4
+  },
+  "8331015ac0d6702c": {
+    "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+    "category": "ai_models",
+    "score": 7
+  },
+  "49a055dac76f165f": {
+    "title": "My Mental Model of AI Broke on September 8",
+    "category": "ai_models",
+    "score": 4
+  },
+  "3eb3e9557eb7038e": {
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "category": "ai_models",
+    "score": 11
+  },
+  "83eb216e279a90b0": {
+    "title": "ElevenLabs Went From $0 to $600M+ ARR in 41 Months. When the AI Agent Closes the Deal, They Still Pay the Human. With Carles Reina, First VP of Revenue",
+    "category": "ai_models",
+    "score": 19
+  },
+  "0502e68d1aca1aeb": {
+    "title": "The hinge for Apple\u2019s new foldable phone was built with AI",
+    "category": "ai_models",
+    "score": 5
+  },
+  "3a59a66149e43ce4": {
+    "title": "Apple\u2019s revamped Health app will calculate your \u2018health age\u2019 and readiness score",
+    "category": "ai_models",
+    "score": 5
+  },
+  "ebf88cd57f03a10c": {
+    "title": "Apple has a new way prove your iPhone photos aren\u2019t AI slop",
+    "category": "ai_models",
+    "score": 4
+  },
+  "cbea4f900ee4302f": {
+    "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+    "category": "ai_models",
+    "score": 11
+  },
+  "362eb5759c9dd177": {
+    "title": "Canada\u2019s Enbridge Said to Near Deal for Major US Oil Pipeline",
+    "category": "ai_models",
+    "score": 16
+  },
+  "572e14789fe89d33": {
+    "title": "Xerox Shareholder Pushes for Activist Changes at Company",
+    "category": "ai_models",
+    "score": 16
+  },
+  "7ffa4ed2ee8f7b72": {
+    "title": "GE to Buy Consolidated Precision Products for $11.75B",
+    "category": "ai_models",
+    "score": 14
+  },
+  "bd92e57a0f4c55e2": {
+    "title": "Texas Aims to Boost School Choice Program by $150 Million a Year",
+    "category": "ai_models",
+    "score": 7
+  },
+  "b0e5d1e7097df48f": {
+    "title": "Copper Hits Fresh All-Time Highs in New York and London",
+    "category": "ai_models",
+    "score": 22
+  },
+  "3e597145efccecac": {
+    "title": "Comcast Slides After CFO Says Broadband User Losses to Persist",
+    "category": "ai_models",
+    "score": 20
+  },
+  "a7e8a7b1f851afc0": {
+    "title": "US Sees Diesel Stocks Falling to 2003 Low Ahead of Peak Demand",
+    "category": "ai_models",
+    "score": 17
+  },
+  "4f124af7f0a48c8c": {
+    "title": "Oil Tops $100 on Supply Fears,\u00a0 Apple Faces a Big Test",
+    "category": "ai_models",
+    "score": 34
+  },
+  "3e0e5efce7faf141": {
+    "title": "NFL Streaming Costs Near Breaking Point",
+    "category": "ai_models",
+    "score": 23
+  },
+  "b821e65c168cfc76": {
+    "title": "Porsche Raises \u20ac1 Billion With Completion of Bugatti Stake Sale",
+    "category": "ai_models",
+    "score": 6
+  },
+  "723cc3170e05d108": {
+    "title": "Mexican Government Slashes Pemex Aid by 70% in New Budget",
+    "category": "ai_models",
+    "score": 12
+  },
+  "4ec3933d5cf40cb2": {
+    "title": "Crude Hits $100 as US-Iran War Escalates With Tankers Targeted",
+    "category": "ai_models",
+    "score": 22
+  },
+  "d0e1ff3dc724149e": {
+    "title": "Vale Eyes China Bond Debut as Soon as This Year, CFO Says",
+    "category": "ai_models",
+    "score": 12
+  },
+  "5755b7ab6037a68e": {
+    "title": "VFXShow 309: The End of Oak Street",
+    "category": "ai_models",
+    "score": 6
+  },
+  "9e6aaf32455e54a1": {
+    "title": "From the cozy games to the horror hits, Twitch breaks down the \u201cState of Gaming\u201d in 2026",
+    "category": "ai_models",
+    "score": 18
   }
 }
