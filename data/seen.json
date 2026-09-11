@@ -37564,5 +37564,225 @@
     "title": "IMDb\u2019s \u201cdigital creator\u201d label lets artists \u201crepresent the full scope of their work in one place\u201d",
     "category": "ai_models",
     "score": 17
+  },
+  "5e25fb2378f8b6a2": {
+    "title": "Ask HN: Those running agents 24/7, what's your workflow and what are they doing?",
+    "category": "ai_models",
+    "score": 6
+  },
+  "5bd1fe76cbc3a780": {
+    "title": "SenseNova-U1.5: Towards Native Unified Visual Intelligence",
+    "category": "ai_models",
+    "score": 30
+  },
+  "f937d56848b967d6": {
+    "title": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay",
+    "category": "ai_models",
+    "score": 22
+  },
+  "828467afc3b320b1": {
+    "title": "General Quantification of Covariate and Concept Shifts",
+    "category": "ai_models",
+    "score": 26
+  },
+  "46007b2b12da0261": {
+    "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
+    "category": "ai_models",
+    "score": 28
+  },
+  "32e3d7d067382752": {
+    "title": "Can Edge-Deployable Vision-Language Models Identify Species?",
+    "category": "ai_models",
+    "score": 27
+  },
+  "99488de23b520d05": {
+    "title": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact",
+    "category": "ai_models",
+    "score": 35
+  },
+  "ea1f56aa944e46ac": {
+    "title": "Distance generalization in transformers: why bother with positional encoding?",
+    "category": "ai_models",
+    "score": 29
+  },
+  "56f15e314458bc45": {
+    "title": "Artificial Id: Drive and Persistent Alignment in Agentic AI",
+    "category": "ai_models",
+    "score": 28
+  },
+  "8b22a281cb80fac6": {
+    "title": "From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good",
+    "category": "ai_models",
+    "score": 17
+  },
+  "3a359c7680271001": {
+    "title": "TART: A Modular Tool for Technique-Aware Audio-to-Tablature Guitar Transcription",
+    "category": "ai_models",
+    "score": 23
+  },
+  "7d949bcf52ff2bfa": {
+    "title": "MindTopo: Can Foundation Models Reason in Topological Space?",
+    "category": "ai_models",
+    "score": 25
+  },
+  "84c665a7e2768afb": {
+    "title": "Caption-once, Frames-on-Demand: Visual-Need Routing for Budget-Aware Agentic Long Video Understanding",
+    "category": "ai_models",
+    "score": 33
+  },
+  "139a19d926777391": {
+    "title": "CausalArena: Benchmarking Causal Discovery in the Foundation Model Era",
+    "category": "ai_models",
+    "score": 24
+  },
+  "a7c1e5fcf9af0502": {
+    "title": "3D Point Splatting for mmWave Radar Novel View Synthesis",
+    "category": "ai_models",
+    "score": 24
+  },
+  "4abd8beb7e3242c5": {
+    "title": "Nuha-Speech: Building General-Purpose Arabic Speech-LLMs",
+    "category": "ai_models",
+    "score": 27
+  },
+  "883d35cbb45f3ad8": {
+    "title": "Guided Super-Resolution of Digital Elevation Models with Diffusion-Based Image Generators",
+    "category": "ai_models",
+    "score": 29
+  },
+  "93cc766ac5a2d06a": {
+    "title": "CoRA-NAS: Coarse Ranking and Anchor-Residual Refinement for Neural Architecture Search",
+    "category": "ai_models",
+    "score": 20
+  },
+  "1ea38661430a59c4": {
+    "title": "Domain-Specific Hallucination Detection in Large Language Models",
+    "category": "ai_models",
+    "score": 21
+  },
+  "94a4407f11b90697": {
+    "title": "Biology-in-the-loop: Amortized Adaptive Hit Discovery in CRISPR Screens",
+    "category": "ai_models",
+    "score": 21
+  },
+  "8b01cb213e6d6c96": {
+    "title": "On the Regularization Landscape for the Linear Recommendation Models",
+    "category": "ai_models",
+    "score": 21
+  },
+  "531dc8a03507dc0d": {
+    "title": "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
+    "category": "ai_models",
+    "score": 29
+  },
+  "4106eab25477045e": {
+    "title": "Evaluating Time-Series Foundation Models and Multimodal Dietary Context for CGM Forecasting",
+    "category": "ai_models",
+    "score": 31
+  },
+  "68957cf258c7b842": {
+    "title": "Augustinian BabyLM: What Ostensive Definition Can and Cannot Teach a Small Language Model",
+    "category": "ai_models",
+    "score": 23
+  },
+  "7e69e3f79c4b341d": {
+    "title": "AdamX: Cosine similarity meets gradient descent",
+    "category": "ai_models",
+    "score": 24
+  },
+  "1c39c03897fff3a6": {
+    "title": "Epistemic orientation predicts legislative effectiveness among members of the US Congress",
+    "category": "ai_models",
+    "score": 27
+  },
+  "451eddc5d54975fc": {
+    "title": "Copper Heads for Weekly Loss as Doubts on US Tariffs Intensify",
+    "category": "ai_models",
+    "score": 10
+  },
+  "abc1fd8774029ec6": {
+    "title": "Few Places to Hide as Bond Selloffs Continue",
+    "category": "ai_models",
+    "score": 27
+  },
+  "1442b891c488ebe1": {
+    "title": "The Dutch Village in the Path of Europe\u2019s Energy Transition",
+    "category": "ai_models",
+    "score": 12
+  },
+  "f7245525f695738b": {
+    "title": "Global Bond Selloff Sends 10-Year Treasury Yields to Cusp of 5%",
+    "category": "ai_models",
+    "score": 17
+  },
+  "246abfd8c4575e59": {
+    "title": "China Halts New Battery Factories on Capacity Concerns",
+    "category": "ai_models",
+    "score": 14
+  },
+  "6cf32f49193fdddb": {
+    "title": "Iron Ore Heads For Weekly Loss With Margins Under Pressure",
+    "category": "ai_models",
+    "score": 9
+  },
+  "e984900af2e34bd5": {
+    "title": "DeepSeek Hands Memory Stock Investors Fresh Reason for Caution",
+    "category": "ai_models",
+    "score": 24
+  },
+  "9c751cd53a53ad95": {
+    "title": "Japan\u2019s Bond Yields Rise as Oil Concerns Fuel Global Selloff",
+    "category": "ai_models",
+    "score": 17
+  },
+  "5cb269b182e62cd1": {
+    "title": "India Small-Cap Rally Draws Record Fund Inflows",
+    "category": "ai_models",
+    "score": 14
+  },
+  "65f5f4a784d5fb6e": {
+    "title": "Hitachi, Platinum Are Said to Be Among Bidders for Swarco Unit",
+    "category": "ai_models",
+    "score": 7
+  },
+  "6e3cb7cd4f2be1fd": {
+    "title": "Hong Kong Court Sentences Three Tiananmen Vigil Activists",
+    "category": "ai_models",
+    "score": 5
+  },
+  "e632a1e24ef01f0e": {
+    "title": "Vietnam Grab Drivers Plan Weekend Boycott Over Commission",
+    "category": "ai_models",
+    "score": 7
+  },
+  "8e0f0022bed50487": {
+    "title": "China Solar Wrap: Wafer Prices Steady After Falling Last Week",
+    "category": "ai_models",
+    "score": 10
+  },
+  "07e63d1787db0ed4": {
+    "title": "RBC BlueBay Japan Stock Fund Manager Funaki Is Leaving Firm",
+    "category": "ai_models",
+    "score": 11
+  },
+  "3cb31f659f59b95e": {
+    "title": "Bearish Bets Build in Short India Bonds as Cash Drain Looms",
+    "category": "ai_models",
+    "score": 18
+  },
+  "1ca44434abc2b2bb": {
+    "title": "Japan\u2019s\u00a0Producer\u00a0Price Gains Stay Elevated, Backing BOJ Hikes",
+    "category": "ai_models",
+    "score": 13
+  },
+  "ab672ac64ccaab4b": {
+    "title": "Instagram would be very sad if users could choose what content they see",
+    "category": "ai_models",
+    "score": 19
+  },
+  "a054b6021f1e15b6": {
+    "title": "Night just launched its own Roblox studio",
+    "category": "ai_models",
+    "score": 19
   }
 }
