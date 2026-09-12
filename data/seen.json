@@ -38639,5 +38639,25 @@
     "title": "Bloomberg This Weekend 09/12/2026",
     "category": "ai_models",
     "score": 25
+  },
+  "bedb2ad2efdc3bef": {
+    "title": "When AI Safety become market capture",
+    "category": "ai_models",
+    "score": 5
+  },
+  "9c531c254f4ca75a": {
+    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+    "category": "ai_models",
+    "score": 11
+  },
+  "a71a91a6e763d017": {
+    "title": "Show HN: Open-sourced solution to AI manage Playwright automations",
+    "category": "ai_models",
+    "score": 6
+  },
+  "adaebe0c9002dee8": {
+    "title": "OpenAI\u2019s Sam Altman says it would be \u2018ill-advised\u2019 to go public in 2026",
+    "category": "ai_models",
+    "score": 5
   }
 }
