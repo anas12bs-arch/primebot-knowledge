@@ -39744,5 +39744,305 @@
     "title": "Brazil\u2019s Depressed Valuations Drive Wave of Stock Delistings",
     "category": "ai_models",
     "score": 16
+  },
+  "850203855328faa9": {
+    "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "category": "ai_models",
+    "score": 5
+  },
+  "d3ba80e42da93222": {
+    "title": "Gemini 3.8 Live Extended Thinking audio-to-audio",
+    "category": "ai_models",
+    "score": 6
+  },
+  "30be52957fe3cd99": {
+    "title": "We asked creative experts to rank AI image / video models. Here's what happened",
+    "category": "ai_models",
+    "score": 7
+  },
+  "164b63ac419be85f": {
+    "title": "Show HN: TabPFN-3.5, a Tabular Foundation Model for messy real-world tables",
+    "category": "ai_models",
+    "score": 7
+  },
+  "d30a8d3d663aecf4": {
+    "title": "Ask HN: Where is all of the AI coded software?",
+    "category": "ai_models",
+    "score": 3
+  },
+  "4998c65be1d8bfdb": {
+    "title": "China spy chief points at US AI models in cyber threat warning",
+    "category": "ai_models",
+    "score": 9
+  },
+  "d9b31d4f0fef5cb6": {
+    "title": "Musk urges top AI labs, Chinese companies to test each other's models",
+    "category": "ai_models",
+    "score": 8
+  },
+  "5c633bd545c39c41": {
+    "title": "Cartesian \u2013 AI 3D Modeling for Design",
+    "category": "ai_models",
+    "score": 5
+  },
+  "17de01e9c2b4e169": {
+    "title": "Working on Plug and Play personal AI Memory that works across AI agents",
+    "category": "ai_models",
+    "score": 9
+  },
+  "95d70a22b479cd69": {
+    "title": "Show HN: LoongForge-Train LLMs, VLMs, diffusion and embodied models, faster",
+    "category": "ai_models",
+    "score": 9
+  },
+  "933890672a5921bb": {
+    "title": "German companies rely almost exclusively on AI models and services from the USA",
+    "category": "ai_models",
+    "score": 8
+  },
+  "0157005b9d1f296a": {
+    "title": "Show HN: Capsule \u2013 Single-file web apps that save their data into SQLite",
+    "category": "ai_models",
+    "score": 3
+  },
+  "ba4d695ac600c928": {
+    "title": "Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection",
+    "category": "ai_models",
+    "score": 29
+  },
+  "1fae5d4c5060572c": {
+    "title": "Bellman Policy Optimization",
+    "category": "ai_models",
+    "score": 30
+  },
+  "e358e6d70eff7781": {
+    "title": "Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science",
+    "category": "ai_models",
+    "score": 25
+  },
+  "f4ac40dd64af35aa": {
+    "title": "The Router Within: Eliciting Native Skill Routing from a Frozen LLM",
+    "category": "ai_models",
+    "score": 27
+  },
+  "6cbb96b86e49a798": {
+    "title": "A Chosen Future Can Still Be Rewritten: Causal Writability in Video Models",
+    "category": "ai_models",
+    "score": 18
+  },
+  "166c90922ca978c5": {
+    "title": "Disentangling Representation Evolution in Transformers through Directional Decomposition",
+    "category": "ai_models",
+    "score": 28
+  },
+  "80e4f13447fd1248": {
+    "title": "Discovery Foundation Models: Toward Open-Ended Discovery Intelligence",
+    "category": "ai_models",
+    "score": 29
+  },
+  "b0d54237a2e58b9c": {
+    "title": "Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States",
+    "category": "ai_models",
+    "score": 35
+  },
+  "0024bbe286272eef": {
+    "title": "Verifiable by Construction: Claim-Level Evaluation of Verbatim Citation in Clinical Question Answering",
+    "category": "ai_models",
+    "score": 31
+  },
+  "047a720a9717af86": {
+    "title": "Privacy-Aligned Personalized Federated Learning with Compact Adaptation and Variable-Length Gaussian Communication",
+    "category": "ai_models",
+    "score": 28
+  },
+  "abd193360a74dffd": {
+    "title": "Vulnerability Localization Benchmark: Measuring Agentic Security Analysis at Repository Scale",
+    "category": "ai_models",
+    "score": 23
+  },
+  "cc3e263d45d2ad57": {
+    "title": "HypoEvolve: Genetic Algorithms Enable Multi-Agent LLMs to Discover Scientific Hypotheses",
+    "category": "ai_models",
+    "score": 29
+  },
+  "43b99d18c31ad18a": {
+    "title": "Recurrent GraphNeural NetworkswithSet-BasedAggregation",
+    "category": "ai_models",
+    "score": 14
+  },
+  "b237196acad85c7b": {
+    "title": "Pilot Early, Commit Late: A Real-Options Model of Enterprise AI Adoption under Rapid Technological Progress",
+    "category": "ai_models",
+    "score": 26
+  },
+  "f0d9170e0823e6f5": {
+    "title": "Safe Meta-Reinforcement Learning via Information Space Reachability",
+    "category": "ai_models",
+    "score": 25
+  },
+  "12fa5a1d902258af": {
+    "title": "SlipSense: Multimodal Tactile Learning for Low-Latency and Generalized Slip Detection",
+    "category": "ai_models",
+    "score": 19
+  },
+  "dc1abb64b48c9869": {
+    "title": "Discrete Beckmann Transport Models for One-Step Language Modeling and Reasoning",
+    "category": "ai_models",
+    "score": 26
+  },
+  "300af7adea5131de": {
+    "title": "Bridging Control, Inference, Transport, and Thermodynamics: From Theory to Applications in Learning",
+    "category": "ai_models",
+    "score": 27
+  },
+  "8be136188f47f4ba": {
+    "title": "Quenched Ensemble Sampling",
+    "category": "ai_models",
+    "score": 18
+  },
+  "e719f18abee2a998": {
+    "title": "Anatomical Grounding and Leakage-Aware Multimodal Contrastive Learning for Alzheimer's Disease Classification from Structural MRI",
+    "category": "ai_models",
+    "score": 29
+  },
+  "a6a5453868d43142": {
+    "title": "Inoculation Midtraining with Learned Neologisms",
+    "category": "ai_models",
+    "score": 18
+  },
+  "d1fe6c33e6f5345f": {
+    "title": "Privacy-enhanced federated learning via asynchronous aggregation and local differential perturbation",
+    "category": "ai_models",
+    "score": 23
+  },
+  "e44e9ebf97396e02": {
+    "title": "Thin-shell stability of Gaussian cooling: logconcave sampling with sesteric complexity from a cold start",
+    "category": "ai_models",
+    "score": 17
+  },
+  "a3433732c2e3b84a": {
+    "title": "Learning Multimodal One-step Flow Policy via Value-weighted Optimal Transport",
+    "category": "ai_models",
+    "score": 27
+  },
+  "c9f777e8e903328d": {
+    "title": "LLM-Based Schema-Aware Split Learning for Privacy-Preserving Mental Distress Prediction Across Heterogeneous Surveys",
+    "category": "ai_models",
+    "score": 36
+  },
+  "a2612078ce69e764": {
+    "title": "What Would an Independent Slack Look Like If It Hadn\u2019t Sold to Salesforce?  And Would It Still Be Worth $27 Billion?",
+    "category": "ai_models",
+    "score": 15
+  },
+  "752d485c77cce0d4": {
+    "title": "Why Lowe\u2019s CMO Jen Wilson added digital commerce to her portfolio",
+    "category": "ai_models",
+    "score": 10
+  },
+  "59972d1f0a66e781": {
+    "title": "AI Agents now have a place to snitch",
+    "category": "automation",
+    "score": 5
+  },
+  "9ee562cffc21d651": {
+    "title": "Meta expands subscription push with new AI-focused plans",
+    "category": "ai_models",
+    "score": 12
+  },
+  "cb56e164a4da143b": {
+    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+    "category": "ai_models",
+    "score": 13
+  },
+  "51c3719f455bd77b": {
+    "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+    "category": "ai_models",
+    "score": 10
+  },
+  "2ad00fed45619228": {
+    "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+    "category": "ai_models",
+    "score": 6
+  },
+  "bbd5c8ed9218efd3": {
+    "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+    "category": "ai_models",
+    "score": 17
+  },
+  "4c476703f70e0531": {
+    "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+    "category": "ai_models",
+    "score": 10
+  },
+  "cfb6bbad75b5c2df": {
+    "title": "History Won\u2019t Help Us Understand Kevin Warsh",
+    "category": "ai_models",
+    "score": 6
+  },
+  "8b77d04fd3408573": {
+    "title": "Susquehanna Insider Trading Case Called Into Doubt by Judge",
+    "category": "ai_models",
+    "score": 16
+  },
+  "ed8d36c1acc9272b": {
+    "title": "Glencore Faces $2 Billion Suit as It Alleges Radiant World Fraud",
+    "category": "ai_models",
+    "score": 17
+  },
+  "7ec24065edebd3fd": {
+    "title": "AI Will Be Biggest 'Misallocation' of Capital, Says Noble",
+    "category": "ai_models",
+    "score": 27
+  },
+  "49d188670eeda152": {
+    "title": "Bessent Defends Treasury's Bond Market Intervention",
+    "category": "ai_models",
+    "score": 12
+  },
+  "fda5656ed570a980": {
+    "title": "Venezuela Squeezes Banks as Higher Spending Tests Bolivar",
+    "category": "ai_models",
+    "score": 15
+  },
+  "bb16a103add54a6c": {
+    "title": "Emerging Assets Extend Four-Day Slide as Oil, 5% US Yield Bite",
+    "category": "ai_models",
+    "score": 16
+  },
+  "faa9d62b68c12d67": {
+    "title": "Dutch to Propose Capital Gains Tax to Break Reform Deadlock",
+    "category": "ai_models",
+    "score": 10
+  },
+  "9c1e5039af2999ca": {
+    "title": "Maduro Fixer Saab Pleads Guilty in US Money-Laundering Case",
+    "category": "ai_models",
+    "score": 12
+  },
+  "5f912ac3c3b6e69b": {
+    "title": "Radiant World Group Sues Glencore For $2 Billion, Executive Says",
+    "category": "ai_models",
+    "score": 14
+  },
+  "2d370a98eee27b6d": {
+    "title": "US 10-Year Yield Rises to Highest Since 2007 Ahead of Fed Decision",
+    "category": "ai_models",
+    "score": 22
+  },
+  "df14f12f1813a394": {
+    "title": "Brookfield Agrees Recapitalization of Center Parcs at $6 Billion Valuation",
+    "category": "ai_models",
+    "score": 7
+  },
+  "636ef2899bc3ea76": {
+    "title": "Agility Unveils Humanoid Built to Work With People",
+    "category": "ai_models",
+    "score": 30
+  },
+  "247dbe342522e921": {
+    "title": "UK Energy Bills Set to Jump 25%: Bloomberg Economics",
+    "category": "ai_models",
+    "score": 11
   }
 }
