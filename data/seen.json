@@ -40728,5 +40728,175 @@
   "c87d385020ab6145": {
     "title": "Manifesto | SAGA",
     "reason": "irrelevant"
+  },
+  "de44be78fb795728": {
+    "title": "Ask HN: What is the best local model that runs on your Mac at decent speed?",
+    "category": "ai_models",
+    "score": 5
+  },
+  "e124ba212a367e1e": {
+    "title": "Where's My Alien Mind?",
+    "category": "ai_models",
+    "score": 2
+  },
+  "342fbca7f9c3fba2": {
+    "title": "We Trained a Model on Office Work. It Also Got Better at Coding",
+    "category": "ai_models",
+    "score": 8
+  },
+  "2c17c7874c17dc1e": {
+    "title": "Fourteen AI models against a customer edge. Divert blocked first",
+    "category": "ai_models",
+    "score": 10
+  },
+  "7c7efccc491b7738": {
+    "title": "Fault tolerance in low-bandwidth model parallelism",
+    "category": "ai_models",
+    "score": 4
+  },
+  "d12734b4fa0f4647": {
+    "title": "The first (public) System One Model; Jev gives AI the properties of code",
+    "category": "ai_models",
+    "score": 7
+  },
+  "b3d4f607ad20605e": {
+    "title": "Training Text-to-Image Models 3.6\u00d7 Faster",
+    "category": "ai_models",
+    "score": 8
+  },
+  "784acd8cd0f65a67": {
+    "title": "Show HN: OpenDocBot \u2013 bring your own model to Word, Excel and PowerPoint",
+    "category": "ai_models",
+    "score": 5
+  },
+  "1980a97111566044": {
+    "title": "Show HN: A Coding Agent from Scratch",
+    "category": "ai_models",
+    "score": 4
+  },
+  "d91c18200eeed630": {
+    "title": "Show HN: Stopping AI agent swarms from hacking our systems",
+    "category": "ai_models",
+    "score": 5
+  },
+  "97ea7b250e9d8255": {
+    "title": "GLM 5.3 is live on Mistral",
+    "category": "ai_models",
+    "score": 2
+  },
+  "444dfcb9780d431a": {
+    "title": "New stealth model: Union Alpha",
+    "category": "ai_models",
+    "score": 5
+  },
+  "b0366f9850a9d166": {
+    "title": "Helping older adults use AI in everyday life",
+    "category": "ai_models",
+    "score": 11
+  },
+  "7d2872733a614740": {
+    "title": "How workers are unlocking new ways of working",
+    "category": "ai_models",
+    "score": 10
+  },
+  "009d34cef06b19e2": {
+    "title": "Coach channels music into fall campaign with Spotify integration, bus tour",
+    "category": "ai_models",
+    "score": 13
+  },
+  "2aee4c2d587d9af5": {
+    "title": "AI labs want in-house auditors \u2014 but maybe they should shut the front door first",
+    "category": "ai_models",
+    "score": 8
+  },
+  "3f0c679ced8d8862": {
+    "title": "Your AI agents can now control your Google Home devices",
+    "category": "ai_models",
+    "score": 18
+  },
+  "6e2c10698576e8b7": {
+    "title": "Anthropic merges Claude chat and Cowork in one interface",
+    "category": "ai_models",
+    "score": 6
+  },
+  "720bed5a556c3b47": {
+    "title": "Robots are waiting for a ChatGPT moment: Nvidia\u2019s Les Karpas explains why at TechCrunch\u00a0Disrupt 2026",
+    "category": "ai_models",
+    "score": 15
+  },
+  "03bd5b270043fcc6": {
+    "title": "Fed Raises Rates as Warsh Bucks Trump to Contain Inflation",
+    "category": "ai_models",
+    "score": 12
+  },
+  "836f5e67f50236bf": {
+    "title": "Fed May Not Be 'One and Done,' Richard Clarida Says",
+    "category": "ai_models",
+    "score": 14
+  },
+  "dbea7cfa63bb1cf4": {
+    "title": "Dollar Jumps After Fed Raises Rates, Sends Hawkish Signal",
+    "category": "ai_models",
+    "score": 17
+  },
+  "e58b437a6832ccfd": {
+    "title": "Treasuries Hold Gains After Fed Boosts Rates, Forecasts More",
+    "category": "ai_models",
+    "score": 14
+  },
+  "a85b9cb1b2b32fb8": {
+    "title": "Fed Has Started a Rate-Hiking Cycle, Swonk Says",
+    "category": "ai_models",
+    "score": 9
+  },
+  "c2b38d35a45bded9": {
+    "title": "Turkish Funds With $7.5 Billion Assets Default on Redemptions",
+    "category": "ai_models",
+    "score": 10
+  },
+  "395a5542caa9a33b": {
+    "title": "US Indictment Exposes Russian Global Assassination Network",
+    "category": "ai_models",
+    "score": 13
+  },
+  "98590ac7843c15b3": {
+    "title": "Fed Unanimously Raises Rates by a Quarter Point",
+    "category": "ai_models",
+    "score": 19
+  },
+  "38fca92d07b9fec5": {
+    "title": "JPMorgan's Michele on Bonds: 'The Dominoes Are Starting to Fall'",
+    "category": "ai_models",
+    "score": 16
+  },
+  "05858b35a7984fa4": {
+    "title": "France Extends Fuel Aid for Sectors Impacted by Mideast Conflict",
+    "category": "ai_models",
+    "score": 11
+  },
+  "69018048144b879d": {
+    "title": "Bank of Canada Troubled by High Gas Prices, Warns of Hike Risk",
+    "category": "ai_models",
+    "score": 12
+  },
+  "24cc54472d946ee6": {
+    "title": "The Short Term Has Never Been More Interesting",
+    "category": "ai_models",
+    "score": 5
+  },
+  "cf923ad87cd08356": {
+    "title": "Sazerac In Talks to Buy German Schnapps Maker Berentzen",
+    "category": "ai_models",
+    "score": 8
+  },
+  "d352b6079101868a": {
+    "title": "United, American Say Fuel Cost Surge May Mean Capacity Cuts",
+    "category": "ai_models",
+    "score": 11
+  },
+  "5c9d13f97faabce4": {
+    "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+    "category": "ai_models",
+    "score": 12
   }
 }
