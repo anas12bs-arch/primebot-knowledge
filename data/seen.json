@@ -40219,5 +40219,230 @@
     "title": "Not feeling confident on your stream? Twitch\u2019s AI assistant will coach you up.",
     "category": "ai_models",
     "score": 18
+  },
+  "393511f0fbbe10da": {
+    "title": "Effectively Does a Model Use Its Memory (2025)",
+    "category": "ai_models",
+    "score": 5
+  },
+  "04c98c33c88352f5": {
+    "title": "Gemini 3.8 Live",
+    "category": "ai_models",
+    "score": 3
+  },
+  "8fe0c1078e4a71e5": {
+    "title": "Nvidia and CrowdStrike Develop New Cybersecurity AI Models",
+    "category": "ai_models",
+    "score": 7
+  },
+  "c8fad93528391bed": {
+    "title": "Show HN: Plurnk (Yet *Another* AI Harness)",
+    "category": "ai_models",
+    "score": 5
+  },
+  "638cbdf04999eb8c": {
+    "title": "Agentic Societies Need a Social Harness",
+    "category": "ai_models",
+    "score": 16
+  },
+  "f063606a8e01518a": {
+    "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+    "category": "ai_models",
+    "score": 40
+  },
+  "9f14ffca3e9c2a6f": {
+    "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
+    "category": "ai_models",
+    "score": 38
+  },
+  "4d38d80fdf145561": {
+    "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
+    "category": "ai_models",
+    "score": 32
+  },
+  "6770e7d5655acd47": {
+    "title": "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity",
+    "category": "ai_models",
+    "score": 32
+  },
+  "6778e3bb3d0c7990": {
+    "title": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs",
+    "category": "ai_models",
+    "score": 16
+  },
+  "50b4f4f194a14190": {
+    "title": "ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation",
+    "category": "ai_models",
+    "score": 25
+  },
+  "48319a0cb9d438c0": {
+    "title": "Verifiable Social Reasoning for LLM Assistants",
+    "category": "ai_models",
+    "score": 24
+  },
+  "6ae104b359962243": {
+    "title": "FreqSpaNet: Frequency and Spatial Learning of SFPF for Physical Layer Hardware Integrity Detection",
+    "category": "ai_models",
+    "score": 23
+  },
+  "c5bc231537fad8b2": {
+    "title": "LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence",
+    "category": "ai_models",
+    "score": 28
+  },
+  "b3f45238d8b37ec3": {
+    "title": "Bridging the Gap Between Homogeneous and Heterogeneous Asynchronous Optimization Is Surprisingly Difficult",
+    "category": "ai_models",
+    "score": 29
+  },
+  "940882e000780abc": {
+    "title": "Det-LIME: Detector-Aware, Multi-Instance Local Interpretable Model-Agnostic Explanations for Automated Marine Mammal Detection",
+    "category": "ai_models",
+    "score": 32
+  },
+  "13e567c4dcaf0040": {
+    "title": "Bias-Induced Crossover in Absolute Capacity of Dense Associative Memory",
+    "category": "ai_models",
+    "score": 14
+  },
+  "0ea8d75638880298": {
+    "title": "JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management",
+    "category": "ai_models",
+    "score": 28
+  },
+  "2d3920ecb8f5a948": {
+    "title": "Coupled Calibration and Learning: Mitigating Teacher Bias in LLM Distillation without Target-Domain Reward Feedback",
+    "category": "ai_models",
+    "score": 26
+  },
+  "6e00027626a0bd8a": {
+    "title": "Decomposition Buys Integrity, Not Yield",
+    "category": "ai_models",
+    "score": 21
+  },
+  "77775709794bb22a": {
+    "title": "Tables Decoded: DELTA for Structure, TARQA for Understanding",
+    "category": "ai_models",
+    "score": 33
+  },
+  "4a8aa3e39aaae301": {
+    "title": "ORCA: Occlusion-Aware Refinement and Completion for Novel View Synthesis",
+    "category": "ai_models",
+    "score": 25
+  },
+  "9fd39b365fd7a541": {
+    "title": "BrainFocus: EEG-Guided ROI Selection for Efficient Vision-Language Models",
+    "category": "ai_models",
+    "score": 40
+  },
+  "bd5f0c96df7360a7": {
+    "title": "Reduced-Space Multi-Fidelity Bayesian Optimization of Process Simulation Models",
+    "category": "ai_models",
+    "score": 24
+  },
+  "36e5813d1de0322c": {
+    "title": "Evaluating Verified Autonomy in Quantum Engineering",
+    "category": "ai_models",
+    "score": 23
+  },
+  "a74830ad44a2f00b": {
+    "title": "Right Tool, Right Job: Native-Language Evaluation, Tokenizer Sensitivity, and Methodological Findings from a French-Only BabyLM",
+    "category": "ai_models",
+    "score": 28
+  },
+  "3d0f28652c2ae3e0": {
+    "title": "CareMirror: Bringing Caregiver Wellbeing into the Dementia Care Ecosystem",
+    "category": "ai_models",
+    "score": 26
+  },
+  "105f08597c0cdd7f": {
+    "title": "Learning-Guided Planning in Large Dynamic Action Spaces: Budgeted Tree Search for One-to-Many Mobile Charging",
+    "category": "ai_models",
+    "score": 29
+  },
+  "cc64b92816f2f71f": {
+    "title": "Tracking the Unseen: An Occlusion-Robust Framework for Target Tracking Under Full and Long-Term Occlusion",
+    "category": "ai_models",
+    "score": 24
+  },
+  "049ed956b8239821": {
+    "title": "We don\u2019t need AI regulation \u2014 leave safety to us, Nvidia\u2019s Jensen Huang says",
+    "category": "ai_models",
+    "score": 8
+  },
+  "c85586e76d2ac8b5": {
+    "title": "Gold Rises as Traders Weigh Oil Decline Before Key Fed Decision",
+    "category": "ai_models",
+    "score": 17
+  },
+  "58f6fc44747f9f64": {
+    "title": "UniCredit Banker Sees Bigger Rally in Soaring Polish Equities",
+    "category": "ai_models",
+    "score": 16
+  },
+  "ce77e8ff770751fb": {
+    "title": "Vietnam Warns of Blackouts From 2027 as Power Projects Stutter",
+    "category": "ai_models",
+    "score": 15
+  },
+  "f73af8bc9c864901": {
+    "title": "Europe\u2019s New Stocks Tape Needs to Go Deeper, Industry Groups Say",
+    "category": "ai_models",
+    "score": 16
+  },
+  "6f651ae4df2b3dc5": {
+    "title": "Inflation Data Points to Rate Hike: JPMorgan's Rasid",
+    "category": "ai_models",
+    "score": 23
+  },
+  "d0a8a82b32a85cb8": {
+    "title": "CATL Shares Drop 10% in Two Days as Outlook Worries Mount",
+    "category": "ai_models",
+    "score": 14
+  },
+  "84e8b3fe86acc9e8": {
+    "title": "Bessent to Meet He Lifeng Ahead of Trump-Xi Summit",
+    "category": "ai_models",
+    "score": 9
+  },
+  "1593e213bae49e86": {
+    "title": "Shrinking China Fuel Stockpiles Raise Chance of Export Curbs",
+    "category": "ai_models",
+    "score": 14
+  },
+  "d9b11f1721ebc334": {
+    "title": "Indian Bonds Feel the Heat From Global Yield Surge",
+    "category": "ai_models",
+    "score": 10
+  },
+  "be079fc77e3aba08": {
+    "title": "Copper Steadies Ahead of Fed Decision as Supply Concerns Ease",
+    "category": "ai_models",
+    "score": 16
+  },
+  "6228f55a50b0c729": {
+    "title": "HSBC, ICICI Propel India Finance Hub With FX Loans for Diaspora",
+    "category": "ai_models",
+    "score": 15
+  },
+  "942ec4b9d3769ebc": {
+    "title": "Traders Brace for Fed Hike With Equities Under Pressure",
+    "category": "ai_models",
+    "score": 15
+  },
+  "1e2864c646f067dd": {
+    "title": "New Zealand\u2019s World-Beating Sovereign Wealth Fund Returns 14.2%",
+    "category": "ai_models",
+    "score": 19
+  },
+  "260a2f09189c996b": {
+    "title": "Apollo Gives $585 Million of Financing to The Executive Centre",
+    "category": "ai_models",
+    "score": 18
+  },
+  "50a006d1c1c68cab": {
+    "title": "Top 5 Branded Videos of the Week: Goth, jock, nerd",
+    "category": "ai_models",
+    "score": 20
   }
 }
