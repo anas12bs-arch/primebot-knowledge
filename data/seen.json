@@ -41088,5 +41088,250 @@
     "title": "The EU doesn\u2019t just want to ban kids from social media. It\u2019s blocking chatbots and gaming, too.",
     "category": "ai_models",
     "score": 17
+  },
+  "6c6914a8b35d2d39": {
+    "title": "Show HN: I built a Mac app to make technical PDF textbooks easier to study",
+    "category": "ai_models",
+    "score": 5
+  },
+  "f2f887112cf08ef5": {
+    "title": "Evaluating S2S Model Quality with Human Preference Data",
+    "category": "ai_models",
+    "score": 6
+  },
+  "14eee426da8d20f0": {
+    "title": "Show HN: FastRecall, ultra-cheap memory across AI models",
+    "category": "ai_models",
+    "score": 6
+  },
+  "3c5e23a31db2f01d": {
+    "title": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
+    "category": "ai_models",
+    "score": 13
+  },
+  "e2f8ea0ffcf3f479": {
+    "title": "A Zeroth-Order Paradigm for LLM Preference Alignment",
+    "category": "ai_models",
+    "score": 20
+  },
+  "8fce811718702327": {
+    "title": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection",
+    "category": "ai_models",
+    "score": 28
+  },
+  "21c37d83281f235e": {
+    "title": "PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics",
+    "category": "ai_models",
+    "score": 27
+  },
+  "9c50eaf4cb7d1bd3": {
+    "title": "In-Context Robot Learning with VLM Agents",
+    "category": "ai_models",
+    "score": 36
+  },
+  "80d0a7323f9b7a4a": {
+    "title": "Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation",
+    "category": "ai_models",
+    "score": 30
+  },
+  "059eb276e9062ab1": {
+    "title": "Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging",
+    "category": "ai_models",
+    "score": 20
+  },
+  "d3497a5fb456be2e": {
+    "title": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
+    "category": "ai_models",
+    "score": 25
+  },
+  "ce6e406ead38d86e": {
+    "title": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments",
+    "category": "ai_models",
+    "score": 25
+  },
+  "c14f2dbc9e82ede5": {
+    "title": "Affora: A Design System for Agent-Friendly Interfaces",
+    "category": "ai_models",
+    "score": 28
+  },
+  "6e8ab12c00a47add": {
+    "title": "Flag Game: A Toy Model for Mechanistic Swarm Interpretability",
+    "category": "ai_models",
+    "score": 20
+  },
+  "3500c19d5bbfb8af": {
+    "title": "Adaptive Convolutional Sparse Coding via Information Bottleneck for Robust Visual Signal Representation",
+    "category": "ai_models",
+    "score": 19
+  },
+  "4e08e525b379d2d3": {
+    "title": "Track, Articulate, Act: Generating Articulation from Casual Human Videos",
+    "category": "ai_models",
+    "score": 25
+  },
+  "60fb76daad1a865a": {
+    "title": "Playing log(N)-Questions over Wikipedia Abstracts: Communication Efficiency Between Paired Frontier Models",
+    "category": "ai_models",
+    "score": 22
+  },
+  "77222f19ef3ac0e1": {
+    "title": "How Model Growth, Recursion, and Boundary Operators Influence Scaling Exponents",
+    "category": "ai_models",
+    "score": 21
+  },
+  "7d10df98c39ed0df": {
+    "title": "rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference",
+    "category": "ai_models",
+    "score": 30
+  },
+  "801f8c55a36b305f": {
+    "title": "Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations",
+    "category": "ai_models",
+    "score": 19
+  },
+  "0e7e584d2f9237ca": {
+    "title": "Evidence-Grounded Agentic Formulation Development in an Autonomous Laboratory",
+    "category": "ai_models",
+    "score": 27
+  },
+  "ccc8cd6cab621466": {
+    "title": "Prepared Or Unprepared? Evaluating Healthcare Workforce Readiness for Clinical Adoption of Artificial Intelligence in Nigeria",
+    "category": "ai_models",
+    "score": 24
+  },
+  "62979b3d74ec49ab": {
+    "title": "Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation",
+    "category": "ai_models",
+    "score": 23
+  },
+  "176cc26bf8496740": {
+    "title": "Securing quantum error correction against misleading advice from AI agents",
+    "category": "ai_models",
+    "score": 23
+  },
+  "802c3c3efe8b0e16": {
+    "title": "MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education",
+    "category": "ai_models",
+    "score": 32
+  },
+  "738d2f1fa140e2cd": {
+    "title": "A General Kernel Framework for Non-CND Distance Measures Using |D|-Dimensional Sparse Landmark Embeddings",
+    "category": "ai_models",
+    "score": 17
+  },
+  "1274e0333fc51f84": {
+    "title": "Probabilistic Linear Explanations",
+    "category": "ai_models",
+    "score": 27
+  },
+  "1c930b05657a3a77": {
+    "title": "Double descent is the principle of least action",
+    "category": "ai_models",
+    "score": 17
+  },
+  "a3827026bd29cb86": {
+    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+    "category": "ai_models",
+    "score": 13
+  },
+  "91e8548e920fc960": {
+    "title": "Your startup\u2019s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+    "category": "ai_models",
+    "score": 27
+  },
+  "517b9f7844ff896d": {
+    "title": "Snap tries to make the case again for its $2,200 smart glasses",
+    "category": "ai_models",
+    "score": 7
+  },
+  "4cadffb16cee314e": {
+    "title": "Al Gore says the real AI risk isn\u2019t data centers",
+    "category": "ai_models",
+    "score": 10
+  },
+  "f8ffbf593fc9e4ae": {
+    "title": "Indonesia Steps Up E20 Bioethanol Push in Bid to Cut Oil Imports",
+    "category": "ai_models",
+    "score": 6
+  },
+  "6458f9d6f48bbdd0": {
+    "title": "NSE\u2019s $2.4 Billion India IPO Opens With Valuation in Focus",
+    "category": "ai_models",
+    "score": 24
+  },
+  "2aea6eab82e32e80": {
+    "title": "FTSE 100 Live: UK Stocks Futures Gain, Pound Steady Ahead of BOE",
+    "category": "ai_models",
+    "score": 6
+  },
+  "aaaa80645f0db091": {
+    "title": "BOE Expected to Keep Rates Unchanged",
+    "category": "ai_models",
+    "score": 22
+  },
+  "6b22fbde000a2fa1": {
+    "title": "AirAsia Plunges To Four-Year Low on Route Absorption Report",
+    "category": "ai_models",
+    "score": 17
+  },
+  "cad02d0752da8a1f": {
+    "title": "Key Takeaways After the Fed's Rate Hike",
+    "category": "ai_models",
+    "score": 7
+  },
+  "2af6add1a9192028": {
+    "title": "Global Bonds Recover as Warsh\u2019s Inflation Fight Calms Market",
+    "category": "ai_models",
+    "score": 18
+  },
+  "826620998fe710cc": {
+    "title": "CATL Bulls Reject \u2018De\u2011CATLization\u2019 Fear After $100 Billion Rout",
+    "category": "ai_models",
+    "score": 13
+  },
+  "88eb171aa4d9664d": {
+    "title": "Saudis Seek to Resume Half of Key Oil Pipeline",
+    "category": "ai_models",
+    "score": 14
+  },
+  "e796bf9195501847": {
+    "title": "BNP Paribas' Davis on Hiring Plans, Market Flows",
+    "category": "ai_models",
+    "score": 11
+  },
+  "776cf52b12126751": {
+    "title": "Harker on Federal Reserve Rate Hike",
+    "category": "ai_models",
+    "score": 11
+  },
+  "39ad077958435edb": {
+    "title": "Hong Kong Leader Unveils Five-Year Plan",
+    "category": "ai_models",
+    "score": 27
+  },
+  "de5c890922abd211": {
+    "title": "Hong Kong Property Stocks Fall as Rate Hike Threatens Recovery",
+    "category": "ai_models",
+    "score": 23
+  },
+  "4824aab68695b958": {
+    "title": "Elham Taps Ex-BlackRock\u2019s Allan for Australia Private Credit",
+    "category": "ai_models",
+    "score": 11
+  },
+  "cd5b263682760767": {
+    "title": "Ethiopia Bourse Approves 11 New Listings, With One Next Week",
+    "category": "ai_models",
+    "score": 10
+  },
+  "476a98cc910cf0e5": {
+    "title": "Singapore\u2019s Gold Hub Plan Gets Lift With DBS Vault Expansion",
+    "category": "ai_models",
+    "score": 11
+  },
+  "e33f58a9084060c5": {
+    "title": "Russian Oil Uncertainty Hangs Over India\u2019s Largest Buyers",
+    "category": "ai_models",
+    "score": 21
   }
 }
