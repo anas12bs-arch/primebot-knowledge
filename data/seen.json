@@ -41848,5 +41848,190 @@
     "title": "Like Nastya is in the (mouse) house thanks to Disney development deal",
     "category": "ai_models",
     "score": 19
+  },
+  "5615ea32b664ad9e": {
+    "title": "Anthropic says Claude now leads a quarter of work building its next AI models",
+    "category": "ai_models",
+    "score": 8
+  },
+  "b42da4f29ee957ba": {
+    "title": "MM-Future: Multi-Mode Joint World-Action Modeling for Autonomous Driving",
+    "category": "ai_models",
+    "score": 30
+  },
+  "149c031b7328a4f7": {
+    "title": "Accelerating Sharded Data Parallelism at Scale with Federated Learning",
+    "category": "ai_models",
+    "score": 27
+  },
+  "1675a620d679b16f": {
+    "title": "Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model",
+    "category": "ai_models",
+    "score": 31
+  },
+  "c123efe3bbe2bc65": {
+    "title": "Minimax-Optimal Online Contract Design with Unrestricted Bounded Contracts",
+    "category": "ai_models",
+    "score": 18
+  },
+  "7b1bf4f68a288ef3": {
+    "title": "COMPASS: Ordered Clustered Routing at 100K Scale",
+    "category": "ai_models",
+    "score": 20
+  },
+  "587bf9c56748b468": {
+    "title": "A Qualitative Model for Reasoning about Path and Support",
+    "category": "ai_models",
+    "score": 27
+  },
+  "f34650e83678b7a4": {
+    "title": "EliGSiR: Continual RGB-D Mapping with Gaussian Splatting under Bounded Compute",
+    "category": "ai_models",
+    "score": 19
+  },
+  "02f3499d98decd18": {
+    "title": "STR-Agent: An LLM-Driven Agent for QoS-Aware Routing in LEO Satellite Networks",
+    "category": "ai_models",
+    "score": 25
+  },
+  "c719bd75314e894a": {
+    "title": "Fast Cross-Strength Multi-Contrast Brain MRI Translation using Latent Bridge Matching",
+    "category": "ai_models",
+    "score": 25
+  },
+  "9f9f1494eeafe649": {
+    "title": "FreqDINO++: A Frequency-Guided Multi-Task Routing Vision Foundation Model for Universal Ultrasound Analysis",
+    "category": "ai_models",
+    "score": 25
+  },
+  "c76d80a4319bc0b8": {
+    "title": "Detecting Deceptive Recruitment: A Signal-theoretic Machine Learning Framework for Early Identification of Labour Exploitation",
+    "category": "ai_models",
+    "score": 27
+  },
+  "e90ef04c13943c3a": {
+    "title": "Structured Four-Stage Legal Translation: From Natural-Language Traffic Rules to PROLOG",
+    "category": "ai_models",
+    "score": 27
+  },
+  "f14f7ad5da642eb5": {
+    "title": "Sharp Reconstruction Bounds for Autoencoders Using the Same Forward Map",
+    "category": "ai_models",
+    "score": 15
+  },
+  "546c638cd66abf4d": {
+    "title": "Near-Optimal Pure Single-Loop Extragradient Method for Strongly Convex--Strongly Concave Minimax Optimization",
+    "category": "ai_models",
+    "score": 19
+  },
+  "bf12fbf47b3a366c": {
+    "title": "AgriScope: Pixel-Grounded Multimodal Understanding for Agricultural Images",
+    "category": "ai_models",
+    "score": 35
+  },
+  "0fef9f8fc2e3331a": {
+    "title": "NeuSOGA3D: A Neuro-Symbolic Framework for Explainable 3D Geometric Reconstruction",
+    "category": "ai_models",
+    "score": 37
+  },
+  "ffa71ced15e80843": {
+    "title": "To Copy or Not to Copy: Controlling Speculative Decoding via Intrinsic Model Signals",
+    "category": "ai_models",
+    "score": 25
+  },
+  "78f7eb937e3fe13b": {
+    "title": "Needles in a Raystack: Ultra-Sparse LiDAR Occupancy Detection for Bat Tracks",
+    "category": "ai_models",
+    "score": 23
+  },
+  "fded1cb53d72b2a6": {
+    "title": "Special Lagrangian cones in Deep Learning",
+    "category": "ai_models",
+    "score": 10
+  },
+  "f798852db64825ed": {
+    "title": "QUALS: Corpus Equilibrium for Universal Forecasting via Pattern Quantization and Learnability Synchronization",
+    "category": "ai_models",
+    "score": 32
+  },
+  "b4e5a5a7824df7ee": {
+    "title": "MTVA-Bench: Evaluating the Language Model Inside Cascaded Voice Agents",
+    "category": "ai_models",
+    "score": 28
+  },
+  "aec0fa8b37445b25": {
+    "title": "Ischemic Stroke Segmentation and Net Water Uptake Quantification on Multicenter Non-Contrast CT Using Supervised Target-Domain Adaptation",
+    "category": "ai_models",
+    "score": 24
+  },
+  "092966e0b10fb334": {
+    "title": "Task-Oriented Semantic Feature Transmission for Multi-Task Satellite Remote Sensing over Low-SNR Channels",
+    "category": "ai_models",
+    "score": 25
+  },
+  "66d3046b2a7dd5a6": {
+    "title": "Bridging Modalities on the Cortex: Surface-based MRI to PET Translation with a Diffusion Bridge",
+    "category": "ai_models",
+    "score": 22
+  },
+  "4f3cc4101a231fb0": {
+    "title": "Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants",
+    "category": "ai_models",
+    "score": 25
+  },
+  "d22acfa5d0cc1d09": {
+    "title": "How Cooley is accelerating IPO work with ChatGPT",
+    "category": "ai_models",
+    "score": 11
+  },
+  "8981793a8aaf98b7": {
+    "title": "Crusoe raises $3.9B to build massive data centers and small modular \u2018AI factories\u2019",
+    "category": "ai_models",
+    "score": 10
+  },
+  "10eee90727fdae7e": {
+    "title": "Google DeepMind launches institute to widen the AGI debate",
+    "category": "ai_models",
+    "score": 16
+  },
+  "d5c07e847e09ea25": {
+    "title": "Jailed Ex-Malaysian PM Najib\u2019s Bid for Royal Pardon Said to Be Reviewed Friday",
+    "category": "ai_models",
+    "score": 14
+  },
+  "6cdb5b7d78082e60": {
+    "title": "RBA Must Judge If Rates High Enough to Cool Prices, Bullock Says",
+    "category": "ai_models",
+    "score": 18
+  },
+  "a8c7b6af330f62fd": {
+    "title": "El Ni\u00f1o Puts India on Track for Its Driest Monsoon Since 2009",
+    "category": "ai_models",
+    "score": 10
+  },
+  "68a1d3c3de3f3da6": {
+    "title": "Vietnam Stocks See Early Foreign Inflows as FTSE Upgrade Nears",
+    "category": "ai_models",
+    "score": 16
+  },
+  "d4dbc12cb2d3153f": {
+    "title": "Gold Holds Gain as Lower Oil and Fed Hike Temper Inflation Fears",
+    "category": "ai_models",
+    "score": 13
+  },
+  "dd82228d83b2f4d9": {
+    "title": "Citi\u2019s Korea Trading Head Says Buy Won Near 1,400 Per Dollar",
+    "category": "ai_models",
+    "score": 15
+  },
+  "57c5c0330d0ae9b3": {
+    "title": "China's Gree Eyes Europe Winters for Growth",
+    "category": "ai_models",
+    "score": 19
+  },
+  "973ecffca9fc4c29": {
+    "title": "UK Lawmakers Say Thames Creditors Have Been Joyriding Family Car",
+    "category": "ai_models",
+    "score": 12
   }
 }
