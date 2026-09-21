@@ -43757,5 +43757,175 @@
     "title": "BofA's Cabana: Front-End Yields Face Repricing Risk",
     "category": "ai_models",
     "score": 15
+  },
+  "87e203117f92fcc7": {
+    "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+    "category": "ai_models",
+    "score": 8
+  },
+  "43ad5d392adf9bf6": {
+    "title": "Humans& with Alexis Ross, Manya Bansal, and Niloofar Mireshghallah",
+    "category": "ai_models",
+    "score": 4
+  },
+  "b8e78f8197e37a8d": {
+    "title": "Step 5 Preview: StepFun's frontier model with 1M context and video input",
+    "category": "ai_models",
+    "score": 9
+  },
+  "4874b09e7d2300a1": {
+    "title": "Show HN: Jev-CLI \u2013 CLI wrapper for JEV typesafe AI model",
+    "category": "ai_models",
+    "score": 3
+  },
+  "a7898bafb10d1ac4": {
+    "title": "AI-controlled robot arms attempted harmful tasks 97% of the time",
+    "category": "ai_models",
+    "score": 6
+  },
+  "00505efaaa7b3433": {
+    "title": "AI is reaching new highs with AROM Labs",
+    "category": "ai_models",
+    "score": 4
+  },
+  "30da591a9e4c6bca": {
+    "title": "Jev 1.13 Jaggedness",
+    "category": "ai_models",
+    "score": 2
+  },
+  "cd1a3d627c4ba82a": {
+    "title": "Thomson-1.0-Small LLM Developed by Thomson Reuters",
+    "category": "ai_models",
+    "score": 3
+  },
+  "ebbcf8f7223e43ee": {
+    "title": "Show HN: Mini-AGI \u2013 Dynamic continual learning model trained on 8GB VRAM",
+    "category": "ai_models",
+    "score": 9
+  },
+  "18cc78704c601b2c": {
+    "title": "Show HN: I built an instant business video generator using Jev",
+    "category": "ai_models",
+    "score": 6
+  },
+  "765cd9ad1d43779f": {
+    "title": "Show HN: M0saic \u2013 deterministic video compiler (CLI, web, desktop)",
+    "category": "ai_models",
+    "score": 4
+  },
+  "d2871d486c61275a": {
+    "title": "How V7 gives AI agents institutional memory",
+    "category": "ai_models",
+    "score": 12
+  },
+  "2b5b96701c9c1682": {
+    "title": "The New Career Path: Joining a 0% Grower. Maybe For Many, It\u2019s Better.",
+    "category": "ai_models",
+    "score": 15
+  },
+  "3dbc2296c40da3be": {
+    "title": "Why Campari updated a classic ad with Alan Cumming to serve Negronis",
+    "category": "ai_models",
+    "score": 10
+  },
+  "0238f5e75e7eb8c1": {
+    "title": "What 25M+ assets taught us about creative production at scale",
+    "category": "ai_models",
+    "score": 11
+  },
+  "3e1fe1418e061ed7": {
+    "title": "The psychology behind why AI shows it's working",
+    "category": "ai_models",
+    "score": 19
+  },
+  "7da8f4465409d65e": {
+    "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+    "category": "ai_models",
+    "score": 9
+  },
+  "943a5f3464c20632": {
+    "title": "US-China Have Time to Discuss Trade Truce Extension, Greer Says",
+    "category": "ai_models",
+    "score": 14
+  },
+  "0aabc69849faac28": {
+    "title": "US Stocks Climb Ahead of Trump-Xi Meeting as Oil Slips",
+    "category": "ai_models",
+    "score": 20
+  },
+  "e98231b8e1503105": {
+    "title": "Russia Set to Extend Diesel Export Ban Beyond End of September",
+    "category": "ai_models",
+    "score": 14
+  },
+  "ef4cc3df66a05223": {
+    "title": "USTR Greer on China Trade, Diesel Exports, Canada",
+    "category": "ai_models",
+    "score": 12
+  },
+  "6a05c3dc25a8e4bc": {
+    "title": "Odd Lots Is Coming Back to Chicago",
+    "category": "ai_models",
+    "score": 2
+  },
+  "41d17f956b7a22b2": {
+    "title": "Mexico REIT Fibra Educa Eyes $200 Million Debt Raise, More Deals",
+    "category": "ai_models",
+    "score": 14
+  },
+  "807e6fc129364a1a": {
+    "title": "Trump y Venezuela: Acuerdo petrolero enfrenta campos deteriorados",
+    "category": "ai_models",
+    "score": 2
+  },
+  "d79a05ed45fd77cd": {
+    "title": "Saylor\u2019s Strategy Makes First Purchase of Bitcoin Since August",
+    "category": "ai_models",
+    "score": 21
+  },
+  "a60095cda481780c": {
+    "title": "AMC Is Overhauling Billions in Debt After Box Office Successes",
+    "category": "ai_models",
+    "score": 16
+  },
+  "bda9e07d8ab76555": {
+    "title": "Turkey to Consider Pooling Fund Assets to Repay Investors",
+    "category": "ai_models",
+    "score": 17
+  },
+  "319762671b3404db": {
+    "title": "UBS AM\u2019s Zhao Is Ready to Sell Yen If Japan Intervenes Again",
+    "category": "ai_models",
+    "score": 16
+  },
+  "51416839119d559c": {
+    "title": "Satellite Snapshot Points to Increase in Saudis\u2019 Gulf Oil Flows",
+    "category": "ai_models",
+    "score": 21
+  },
+  "8e49461fab318c8d": {
+    "title": "Brazil\u2019s Patria Sells Colombia Solar Park to Isagen",
+    "category": "ai_models",
+    "score": 24
+  },
+  "61a8b9eea70b6b10": {
+    "title": "FX\u2019s Biggest Market Takes Another Run at Ditching Phone Trading",
+    "category": "ai_models",
+    "score": 15
+  },
+  "753fcf672520a41e": {
+    "title": "How a US Diesel Export Ban Can Impact Prices, Oil Market",
+    "category": "ai_models",
+    "score": 23
+  },
+  "bb5eacc52f9d3d5e": {
+    "title": "Motion Plus Design New York",
+    "category": "ai_models",
+    "score": 9
+  },
+  "0751cab71f450696": {
+    "title": "U.S. Against the World | Good Secrets",
+    "category": "ai_models",
+    "score": 4
   }
 }
