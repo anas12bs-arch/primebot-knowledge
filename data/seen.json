@@ -44242,5 +44242,175 @@
     "title": "Top 50 Most Viewed YouTube Channels Worldwide \u2022 Week Of 09/20/2026",
     "category": "ai_models",
     "score": 25
+  },
+  "5ba3bdcdb616afec": {
+    "title": "Show HN: Jevopt: Making intelligent compiler optimisation decisions with Jev",
+    "category": "ai_models",
+    "score": 6
+  },
+  "ab2f922a48aa71c1": {
+    "title": "Two Strangers, One Machine: A security model for a CDN on residential hardware",
+    "category": "ai_models",
+    "score": 6
+  },
+  "e86bc1479c532fa1": {
+    "title": "Blind Thermodynamic Ontology Discovery from Anonymous Experiments",
+    "category": "ai_models",
+    "score": 26
+  },
+  "267caf9e43edf8fb": {
+    "title": "ProxyBuild: Text-Guided Structured 3D Building Generation with Mesh-Anchored Procedural Proxies",
+    "category": "ai_models",
+    "score": 33
+  },
+  "c49659d0eb0b8f36": {
+    "title": "Leveraging Industrial Foundation Models at the Edge of Particle Physics Detectors via Distillation Learning and Hardware Co-design",
+    "category": "ai_models",
+    "score": 44
+  },
+  "4a0a8f660b7585aa": {
+    "title": "Bayesian Filtering in Physical Systems via Test-time Trained Flow Matching",
+    "category": "ai_models",
+    "score": 33
+  },
+  "591117d2747a122b": {
+    "title": "Discovering Physical Representation Languages",
+    "category": "ai_models",
+    "score": 21
+  },
+  "4c08c162dae06635": {
+    "title": "LiteTex-GS: Fast and Lightweight Texturing for Gaussian Splatting",
+    "category": "ai_models",
+    "score": 28
+  },
+  "7d23b5426c3d0371": {
+    "title": "Leaky-integrator reconstruction: taming error accumulation in recursive differenced time-series forecasting",
+    "category": "ai_models",
+    "score": 25
+  },
+  "6c76a02c15534e89": {
+    "title": "One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents",
+    "category": "ai_models",
+    "score": 34
+  },
+  "e1e63f26d063cf4b": {
+    "title": "If You Hear It, Help Find It: Orthogonal Knowledge Distillation for Open-Vocabulary Audio-Visual Event Localization",
+    "category": "ai_models",
+    "score": 31
+  },
+  "d78c75ae77f19cc1": {
+    "title": "The Evidence Ladder for Reinforcement Learning in Healthcare: From Retrospective Policies to Trusted Interventions",
+    "category": "ai_models",
+    "score": 34
+  },
+  "61f4f1381b111b10": {
+    "title": "Vision-Wireless Fusion for Multi-User Localization: A Cross-Modal Transformer Approach",
+    "category": "ai_models",
+    "score": 32
+  },
+  "50faed3ba9c562a0": {
+    "title": "Machine-Interpretable Information: Compiling Documents into Searchable and Readable Protocol States",
+    "category": "ai_models",
+    "score": 39
+  },
+  "6188b56eb40f4868": {
+    "title": "The Right Future for Action: Learning Action-Relevant Predictive States in World Action Models",
+    "category": "ai_models",
+    "score": 39
+  },
+  "7d976998a35796ea": {
+    "title": "LLM-Based FORM Code Generation with Verification-Driven Fine-Tuning",
+    "category": "ai_models",
+    "score": 27
+  },
+  "05d4ce1acfeff784": {
+    "title": "What Can a Recurrent State Safely Forget?",
+    "category": "ai_models",
+    "score": 31
+  },
+  "24556dcf3b4e828b": {
+    "title": "TicTacBench: Benchmarking Timing Closure Capabilities of Coding Agents",
+    "category": "ai_models",
+    "score": 30
+  },
+  "a8e3b7466300c3b4": {
+    "title": "Human-guided physics-constrained AI agents construct an auditable model of soil-plug evolution",
+    "category": "ai_models",
+    "score": 38
+  },
+  "2ca72bfda9bf8bf4": {
+    "title": "BiView-Touch: Learning Bimanual Tactile Representations by Cross-Hand Completion",
+    "category": "ai_models",
+    "score": 30
+  },
+  "05d7b80049bd4c3d": {
+    "title": "AniPrO: Interpretable Anime Image Provenance Detection via Multi-Dimensional Semantic Reasoning",
+    "category": "ai_models",
+    "score": 31
+  },
+  "35396d9bfb8c0219": {
+    "title": "Low-Rank Frequency Convolution and Noise-Range Augmentation for Real-Time Pitch Estimation on Edge Devices",
+    "category": "ai_models",
+    "score": 21
+  },
+  "d0a8b3374e1a8ec3": {
+    "title": "MinCU: A Fine-Grained Benchmark for Grounded Minimal-Change Understanding in Image Pairs",
+    "category": "ai_models",
+    "score": 32
+  },
+  "f3043b8f37e87da3": {
+    "title": "Stochastic Reconfiguration as Statistical Filtering for Overparameterized Neural Quantum States",
+    "category": "ai_models",
+    "score": 24
+  },
+  "7f31c10a1bd266d9": {
+    "title": "A Patient World Model for Early Forecasting of Digital Health Campaign Outcomes: Capabilities and Limits",
+    "category": "ai_models",
+    "score": 41
+  },
+  "4ffe6bd041964cf1": {
+    "title": "Rethinking Class Imbalance for Single-Cell Foundation Models: A Systematic Benchmark Across Architectures and Long-Tail Loss Functions",
+    "category": "ai_models",
+    "score": 27
+  },
+  "a285925148e38d7d": {
+    "title": "Co-occurrence Patterns of LoRA Adapters in Production Diffusion Model Inference Services",
+    "category": "ai_models",
+    "score": 33
+  },
+  "48beea3950d566fb": {
+    "title": "The man who built Apple\u2019s stores doesn\u2019t buy Silicon Valley\u2019s bet on AI shopping",
+    "category": "ai_models",
+    "score": 8
+  },
+  "297d6ea4de9a860f": {
+    "title": "Rich Heirs of India\u2019s Family Businesses Cash Out Inheritance, Manage Wealth",
+    "category": "ai_models",
+    "score": 9
+  },
+  "316d4a8e23baca27": {
+    "title": "Prop Shops Pull Back From NSE\u2019s $2 Trillion Derivatives Market",
+    "category": "ai_models",
+    "score": 24
+  },
+  "5b15de08c1e9d870": {
+    "title": "Low Expectations for US-China AI Talks",
+    "category": "ai_models",
+    "score": 20
+  },
+  "6bfa018ecf7af234": {
+    "title": "NSE\u2019s $2.4 Billion IPO Gets Subdued Demand From Retail Crowd",
+    "category": "ai_models",
+    "score": 25
+  },
+  "ecc5a021a69c0467": {
+    "title": "Gold Edges Higher as Lower Oil Prices Damp Chance of Rate Hikes",
+    "category": "ai_models",
+    "score": 15
+  },
+  "f7dcd98c3e8626d4": {
+    "title": "Macron and Trump Discuss Kyiv and Moscow Halting Energy Strikes",
+    "category": "ai_models",
+    "score": 14
   }
 }
