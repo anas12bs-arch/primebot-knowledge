@@ -44782,5 +44782,200 @@
     "title": "Indonesia to Form New Body to Oversee Land Conflicts, Reform",
     "category": "ai_models",
     "score": 6
+  },
+  "a0149a24853a4bb0": {
+    "title": "Claude Opus 5.5 for code review: More catches, different misses",
+    "category": "ai_models",
+    "score": 6
+  },
+  "308053ac246a0171": {
+    "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis",
+    "category": "ai_models",
+    "score": 7
+  },
+  "f8a0feca46b50161": {
+    "title": "We Rebuilt Jev's API on an Open Model and Used It to Play Doom",
+    "category": "ai_models",
+    "score": 4
+  },
+  "0d0cd83ecbb50a40": {
+    "title": "CaptainCode: Agents. One Captain. Pick the right model for the task",
+    "category": "ai_models",
+    "score": 6
+  },
+  "ae66baacc0cd771d": {
+    "title": "Show HN: AI\u00b7rete\u00b7RAG \u2013 a Rete rule engine decides, RAG explains why",
+    "category": "ai_models",
+    "score": 5
+  },
+  "c120b5174cd612f1": {
+    "title": "I built a linter/skill that ensures requests to jev are structured correctly",
+    "category": "ai_models",
+    "score": 7
+  },
+  "97f41b49265c63fd": {
+    "title": "Continual learning on a 28B Learner 1.0 model, new architecture",
+    "category": "ai_models",
+    "score": 7
+  },
+  "907b8f7f49432bae": {
+    "title": "Grok 4.7 from xAI, added to Personality Bench",
+    "category": "ai_models",
+    "score": 4
+  },
+  "f0798986480dde8b": {
+    "title": "Show HN: Brig \u2013 A MicroVM sandbox for AI coding agents on Mac and Linux",
+    "category": "ai_models",
+    "score": 6
+  },
+  "3842fb34cce18254": {
+    "title": "Show HN: SwarmSay \u2013 a public message board and post office for AI agents",
+    "category": "ai_models",
+    "score": 8
+  },
+  "cedf32e74b948455": {
+    "title": "Husky: A model-specific inference engine up to 4.5x faster than Apple's MLX",
+    "category": "ai_models",
+    "score": 7
+  },
+  "523089a2424365fa": {
+    "title": "Show HN: IntelliChat minimalist, open-source UI for local and cloud AI",
+    "category": "ai_models",
+    "score": 6
+  },
+  "0fc71ead9e60d33d": {
+    "title": "Launch HN: Coverage Cat (YC S22) \u2013 Umbrella insurance via your personal agent",
+    "category": "ai_models",
+    "score": 7
+  },
+  "60efaf744a4d6c2c": {
+    "title": "Priorities and principles for effective third party assessments",
+    "category": "ai_models",
+    "score": 13
+  },
+  "81f132475cabd81f": {
+    "title": "Being a System of Record Helps With Retention. But Alone, It Won\u2019t Equal Growth",
+    "category": "ai_models",
+    "score": 26
+  },
+  "c6d081cee94d6244": {
+    "title": "Gap rolls out Fashiontainment strategy with boy band collaboration",
+    "category": "ai_models",
+    "score": 12
+  },
+  "ed2d6b719fe64be7": {
+    "title": "Beats taps multiple Kendall Jenners to promote customizable headphones",
+    "category": "ai_models",
+    "score": 14
+  },
+  "3021783d758a203c": {
+    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+    "category": "ai_models",
+    "score": 14
+  },
+  "caaf4b1f8cd66a72": {
+    "title": "AstroForge is putting AI in command of its next spacecraft",
+    "category": "ai_models",
+    "score": 10
+  },
+  "0c623a8be44336c4": {
+    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+    "category": "ai_models",
+    "score": 16
+  },
+  "b8bddbd3ccbe8f67": {
+    "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot\u2019s Stretch 4 to life onstage",
+    "category": "ai_models",
+    "score": 13
+  },
+  "f482079c632ee710": {
+    "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+    "category": "ai_models",
+    "score": 16
+  },
+  "b7a81a5feade5416": {
+    "title": "4 days to save up to $200: Reason 2 of 5\u00a0to be at TechCrunch Disrupt 2026",
+    "category": "ai_models",
+    "score": 9
+  },
+  "92c880234dcc043e": {
+    "title": "Copper Rises Toward Record on Signs of Tight Supplies in China",
+    "category": "ai_models",
+    "score": 17
+  },
+  "9b05eb9f47285d31": {
+    "title": "Private Credit's Default Disconnect",
+    "category": "ai_models",
+    "score": 17
+  },
+  "45d7eb0030c097eb": {
+    "title": "Broader Growth Can Drive Stocks Higher: UBS's Hoffmann",
+    "category": "ai_models",
+    "score": 29
+  },
+  "36008576b1c22eab": {
+    "title": "Fed\u2019s Barkin Warns Inflation Pressures Will Take Time to Pass",
+    "category": "ai_models",
+    "score": 10
+  },
+  "c065bdc9587859bb": {
+    "title": "S&P Trades Near Record Highs as Oil Prices Ease",
+    "category": "ai_models",
+    "score": 27
+  },
+  "2ffe4178dbb5fde5": {
+    "title": "BlackRock, Vanguard Muni ETFs See Record Inflows After Bond Rout",
+    "category": "ai_models",
+    "score": 17
+  },
+  "9f578500f086a107": {
+    "title": "Corn Eases With China in Focus as US Harvest Set to Accelerate",
+    "category": "ai_models",
+    "score": 14
+  },
+  "338579304d338bf1": {
+    "title": "Port of Long Beach CEO: Seeing Less Activity With China",
+    "category": "ai_models",
+    "score": 13
+  },
+  "2102ca2e4f769690": {
+    "title": "StanChart CEO Says Bank Shut Down Accounts of Russian \u2018Bad Guys\u2019",
+    "category": "ai_models",
+    "score": 14
+  },
+  "7db38058673ae093": {
+    "title": "Paramount\u2019s $49 Billion Debt Sale to Kick Off After Lawsuits End",
+    "category": "ai_models",
+    "score": 17
+  },
+  "8ecb78a7e526a966": {
+    "title": "Short-End Treasuries Become Popular Bet on Fed Inflation Win",
+    "category": "ai_models",
+    "score": 30
+  },
+  "5bda0a41a925ff67": {
+    "title": "Abu Dhabi\u2019s XRG Is Said to Eye Stake in Shell-Backed LNG Canada",
+    "category": "ai_models",
+    "score": 16
+  },
+  "1f7698f25b10dfd1": {
+    "title": "Fed's Williams Says Shift to Central Clearing Ahead of Schedule",
+    "category": "ai_models",
+    "score": 14
+  },
+  "118a23654c5babc8": {
+    "title": "Russian Oil Flows Dip as US Sanctions, Saudi Supplies Loom",
+    "category": "ai_models",
+    "score": 15
+  },
+  "290746a54ca06625": {
+    "title": "Oaktree\u2019s Marks Says US Displays Total Lack of Fiscal Discipline",
+    "category": "ai_models",
+    "score": 17
+  },
+  "c4764cad95e4d854": {
+    "title": "Refining-Stocks Slump as Talk of Diesel Export Ban Swirls",
+    "category": "ai_models",
+    "score": 17
   }
 }
