@@ -44412,5 +44412,235 @@
     "title": "Macron and Trump Discuss Kyiv and Moscow Halting Energy Strikes",
     "category": "ai_models",
     "score": 14
+  },
+  "d5a42daf267a1258": {
+    "title": "Ask HN: Is Astra's writing starting to bother anyone else?",
+    "category": "ai_models",
+    "score": 7
+  },
+  "528e853b9c7a4d66": {
+    "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+    "category": "ai_models",
+    "score": 6
+  },
+  "095c37e85b7359a6": {
+    "title": "How we use dopamine to get you to spend less time on your phone",
+    "category": "ai_models",
+    "score": 4
+  },
+  "324d8f090ad7b76c": {
+    "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+    "category": "ai_models",
+    "score": 33
+  },
+  "c57c644b537f2fd9": {
+    "title": "VideoGen-Agent: Reinforcing Video Generation Agents",
+    "category": "ai_models",
+    "score": 36
+  },
+  "0b3472bdd66b97d2": {
+    "title": "Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use",
+    "category": "ai_models",
+    "score": 22
+  },
+  "bd7078fa44d88cd9": {
+    "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+    "category": "ai_models",
+    "score": 29
+  },
+  "6d3f1dc163b2e609": {
+    "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
+    "category": "ai_models",
+    "score": 29
+  },
+  "2b8e7f8215ee07cb": {
+    "title": "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation",
+    "category": "ai_models",
+    "score": 32
+  },
+  "73b39589881c6e20": {
+    "title": "LoRA-generating hypernetworks for efficient on-device LLM generative personalization",
+    "category": "ai_models",
+    "score": 34
+  },
+  "6e606843ae0fe272": {
+    "title": "DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation",
+    "category": "ai_models",
+    "score": 25
+  },
+  "bac1f4fe8d07079d": {
+    "title": "Harness-Zero: Harness Distillation via Agent-as-Harness",
+    "category": "ai_models",
+    "score": 34
+  },
+  "131a88781c369acf": {
+    "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+    "category": "ai_models",
+    "score": 31
+  },
+  "75763d68e4eebf1c": {
+    "title": "DolphinBench: Mapping the Pareto Frontier of Agent Memory",
+    "category": "ai_models",
+    "score": 28
+  },
+  "d3015fff9b504596": {
+    "title": "Rare Event Estimation via Iterative Unalignment",
+    "category": "ai_models",
+    "score": 24
+  },
+  "6fc17dcc8999a83d": {
+    "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
+    "category": "ai_models",
+    "score": 22
+  },
+  "45a2c702297d172a": {
+    "title": "Jev for Scientific Decisions: Evaluating Semantic Choices and Their Consequences",
+    "category": "ai_models",
+    "score": 31
+  },
+  "bf4ad5a2b6637135": {
+    "title": "Generative Tutorial: Towards Live Contextualized Visual Instructions for Physical Tasks",
+    "category": "ai_models",
+    "score": 38
+  },
+  "281b195347789274": {
+    "title": "JAREX: An Acquisition Function for Multi-Objective Algorithmic Process Characterization",
+    "category": "ai_models",
+    "score": 26
+  },
+  "b62508fa752519e9": {
+    "title": "Learning Physics from an Imperfect Ancestor",
+    "category": "ai_models",
+    "score": 31
+  },
+  "1eede1006cf0effd": {
+    "title": "Exactness at Inference: A Representational Criterion for Out-of-Distribution Generalization",
+    "category": "ai_models",
+    "score": 23
+  },
+  "bf32bb976acc2973": {
+    "title": "Anatomy-Decomposed Chest Computed Tomography (CT) Projections as Scalable Supervision for Bone Suppression in Chest Radiographs",
+    "category": "ai_models",
+    "score": 28
+  },
+  "448a9453506dad45": {
+    "title": "Linguistic Features for Interpretable Textual Entailment",
+    "category": "ai_models",
+    "score": 32
+  },
+  "ce8aa47581c130c6": {
+    "title": "Conformalized Quantile Regression and Minimax Limits of Fixed-Score Calibration under Known Covariate Shift",
+    "category": "ai_models",
+    "score": 25
+  },
+  "a8028f69b63bac1e": {
+    "title": "Et Tu, Brute? Economic Misalignment in Personal AI Agents",
+    "category": "ai_models",
+    "score": 30
+  },
+  "fcc2cc3f1fadbb26": {
+    "title": "BackTrend: Evaluating Scientific Weak-Signal Prediction via Backward Reconstruction",
+    "category": "ai_models",
+    "score": 37
+  },
+  "57ad778e52594cea": {
+    "title": "PixelDiT2: Representation-Grounded Pixel Diffusion Transformers",
+    "category": "ai_models",
+    "score": 29
+  },
+  "eeb500f5d6466ab7": {
+    "title": "SocioVerse2: A Longitudinal Dynamic Social Simulation Framework under a Human-AI Co-evolutionary Paradigm",
+    "category": "ai_models",
+    "score": 35
+  },
+  "0aa7c93519a1fff8": {
+    "title": "Singapore Vs Hong Kong: Which City Is Better For Expats? (Video)",
+    "category": "ai_models",
+    "score": 3
+  },
+  "d64d6e1a2fa85978": {
+    "title": "Novo Still Has Work to Do to Build Investor Confidence, CEO Says",
+    "category": "ai_models",
+    "score": 19
+  },
+  "e2a85b09ae7a472a": {
+    "title": "Oil Dictating All Assets Over Short-Term: Market Analysis",
+    "category": "ai_models",
+    "score": 14
+  },
+  "a38c2e8fe145c63c": {
+    "title": "Pakistan, Iran Discuss Regional Peace as US Talks Remain Stalled",
+    "category": "ai_models",
+    "score": 13
+  },
+  "a8a9d388311b2dfd": {
+    "title": "BlackRock Said to Buy Into GCash Owner IPO Priced Below Maximum",
+    "category": "ai_models",
+    "score": 23
+  },
+  "2e4448a42912e7c0": {
+    "title": "Saudi Boosts Hormuz Oil Exports; AI Trade Roars Back, $12B Maldives Property Deal",
+    "category": "ai_models",
+    "score": 33
+  },
+  "472cc7944fbf2f57": {
+    "title": "Volkswagen Warning Fails to Derail Optimism About Auto Stocks",
+    "category": "ai_models",
+    "score": 14
+  },
+  "1c7a95effc374541": {
+    "title": "Tycoon Buys Mumbai Tower for $74 Million in Record Home Deal",
+    "category": "ai_models",
+    "score": 16
+  },
+  "d707ad4138c2944e": {
+    "title": "Saudis Tell Asian Refiners They Can Soon Pick Up Oil From Yanbu",
+    "category": "ai_models",
+    "score": 8
+  },
+  "d83fc49b69d14d50": {
+    "title": "Canada Eyes Asia Amid US Trade Frictions",
+    "category": "ai_models",
+    "score": 23
+  },
+  "44e46be891118b23": {
+    "title": "Stock at Heart of Turkish Fund Crisis Ejected From Top Indexes",
+    "category": "ai_models",
+    "score": 12
+  },
+  "0f9337ee7328d02f": {
+    "title": "Bonds Sink as Oil Extends Further Above $100",
+    "category": "ai_models",
+    "score": 5
+  },
+  "109ab78d1fff8973": {
+    "title": "Silicon Data CEO Li on AI Race and Tokenomics",
+    "category": "ai_models",
+    "score": 19
+  },
+  "b5a4f376b4b0d6a0": {
+    "title": "Alibaba Says It Will Roll Out China's Top AI Chip",
+    "category": "ai_models",
+    "score": 22
+  },
+  "030be8e12ad015f3": {
+    "title": "Goldman's Drayton: APAC Deals Boom May Last to '27",
+    "category": "ai_models",
+    "score": 17
+  },
+  "b71f3738fe7db3a2": {
+    "title": "Sinology\u2019s Rothman: China, US Seek Stability in Ties",
+    "category": "ai_models",
+    "score": 17
+  },
+  "6fb45ee32202b0c4": {
+    "title": "CITIC CLSA's Cochran: AI Keeps Risk Appetite Alive",
+    "category": "ai_models",
+    "score": 14
+  },
+  "a95d6f547c97d2f4": {
+    "title": "JPMorgan's Neukirchen on India Payments Business",
+    "category": "ai_models",
+    "score": 10
   }
 }
