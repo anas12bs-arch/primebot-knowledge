@@ -45217,5 +45217,245 @@
     "title": "Comscore says ChatGPT\u2019s LLM market share is shrinking as Google Gemini advances",
     "category": "ai_models",
     "score": 31
+  },
+  "28ff5331519addf7": {
+    "title": "Specs cut defects in AI-generated code from 148 to 23 across five models",
+    "category": "ai_models",
+    "score": 7
+  },
+  "2002c43a98902a39": {
+    "title": "Show HN: Making agent decisions better and traceable",
+    "category": "ai_models",
+    "score": 7
+  },
+  "8ce449fd0881e5c0": {
+    "title": "Wiki Foundation Model for Complex Agentic Reasoning",
+    "category": "ai_models",
+    "score": 10
+  },
+  "dc3a21d98278f6bd": {
+    "title": "Weak models write tool calls as prose. We started executing them",
+    "category": "ai_models",
+    "score": 8
+  },
+  "3cce389477d1dd3c": {
+    "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
+    "category": "ai_models",
+    "score": 35
+  },
+  "0b8230863c675eed": {
+    "title": "\u03c6-RIE: From Photorealistic Reconstruction to Interactive Environments",
+    "category": "ai_models",
+    "score": 33
+  },
+  "725004aaf805d80e": {
+    "title": "HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis",
+    "category": "ai_models",
+    "score": 35
+  },
+  "b46c3e269d76caae": {
+    "title": "DreamStream: Towards Policy-Oriented Generative Simulation for End-to-End Driving",
+    "category": "ai_models",
+    "score": 35
+  },
+  "11815b1966c7e8e3": {
+    "title": "A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing",
+    "category": "ai_models",
+    "score": 35
+  },
+  "8370f15cad9b252d": {
+    "title": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
+    "category": "ai_models",
+    "score": 26
+  },
+  "849d1c74e3ee1c32": {
+    "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+    "category": "ai_models",
+    "score": 27
+  },
+  "a9d177c2bf36d4e5": {
+    "title": "CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents",
+    "category": "ai_models",
+    "score": 32
+  },
+  "bad8453607614e33": {
+    "title": "SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving",
+    "category": "ai_models",
+    "score": 30
+  },
+  "28ff1d714bf4d4d6": {
+    "title": "StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training",
+    "category": "ai_models",
+    "score": 36
+  },
+  "ce6b87bf0c100a7d": {
+    "title": "A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem",
+    "category": "ai_models",
+    "score": 38
+  },
+  "aa97e1c7c451cb85": {
+    "title": "Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents",
+    "category": "ai_models",
+    "score": 33
+  },
+  "9415b1daa2769fb9": {
+    "title": "Type-Safe Is Not Error-Free: A Constrained Decision Head Follows the Option Name, Not the Rubric Bound to It",
+    "category": "ai_models",
+    "score": 25
+  },
+  "c321be2784246709": {
+    "title": "FleXray: Universal Clinical X-ray Segmentation",
+    "category": "ai_models",
+    "score": 28
+  },
+  "0a81ae4be51e8f9d": {
+    "title": "EquivSVA: A Formally Verified Dataset of Behavioral Assertions Across Equivalent RTL Implementations",
+    "category": "ai_models",
+    "score": 28
+  },
+  "e9fc54b0505e3dd8": {
+    "title": "Metrics Failure in LLM-Based Code Vulnerability Repair: An Empirical Study and a Change-Aware Screen",
+    "category": "ai_models",
+    "score": 32
+  },
+  "d715d759e7e7bc56": {
+    "title": "Automatic depth-based local center clustering via $\u03b2$-integrated local depth and adaptive grouping",
+    "category": "ai_models",
+    "score": 26
+  },
+  "9bb3ba5e1fa11514": {
+    "title": "Diffusion-Induced Spatial Attention Overlapping Community Detection",
+    "category": "ai_models",
+    "score": 31
+  },
+  "1379942905af4068": {
+    "title": "Evaluating the Semantic-to-Geometric Gap in Adversarial Defenses Against Vision-Language Model-Based Plagiarism",
+    "category": "ai_models",
+    "score": 40
+  },
+  "dfa15340a03c42dc": {
+    "title": "ASTRA-SR: Atmospheric Seeing and Turbulence Restoration for Astronomical Image Super-Resolution",
+    "category": "ai_models",
+    "score": 40
+  },
+  "77c09b5277a02119": {
+    "title": "GAD-MambaUNet: Direction-Group Mamba with Gradient-Adaptive DINOv3 Distillation for Lightweight Medical Image Segmentation",
+    "category": "ai_models",
+    "score": 45
+  },
+  "ec0e588edf8062ba": {
+    "title": "Does AI Save Time on Product Design? A Randomized Controlled Experiment of AI Prompt-to-Design Workflows",
+    "category": "ai_models",
+    "score": 36
+  },
+  "1c12f01724c8483d": {
+    "title": "The Sirens' Song: When Proximal Background Context Overshadows Distant Evidence",
+    "category": "ai_models",
+    "score": 20
+  },
+  "ef741a249a85dde0": {
+    "title": "TraceVIC: Causal Reasoning over Code Evolution for Identifying Vulnerability-Inducing Commits",
+    "category": "ai_models",
+    "score": 18
+  },
+  "817ee0a5a7a26b85": {
+    "title": "Train Where the Quantized Model Goes: On-Policy Distillation for Low-Bit Reasoning",
+    "category": "ai_models",
+    "score": 31
+  },
+  "37817961079d868d": {
+    "title": "Ayala Corp. CEO Consing on Strategic Deal With Mitsubishi",
+    "category": "ai_models",
+    "score": 11
+  },
+  "8d76cef52903a409": {
+    "title": "Palm Oil Drops to Seven-Week Low on Worries Over Ample Reserves",
+    "category": "ai_models",
+    "score": 18
+  },
+  "8575a12faa7babb5": {
+    "title": "EnerVenue Signs Order with Chinese Oil Producer",
+    "category": "ai_models",
+    "score": 12
+  },
+  "35308a1a9a31743f": {
+    "title": "Chinese Car Brands Hit Record European Share on Hybrid Demand",
+    "category": "ai_models",
+    "score": 20
+  },
+  "e08d8047b7f51504": {
+    "title": "Copper Retreats From Near Record as Traders Weigh Fed Outlook",
+    "category": "ai_models",
+    "score": 22
+  },
+  "a4c058bc5af498f0": {
+    "title": "Paul Chan: HK Sees Need to Enrich Yuan Products",
+    "category": "ai_models",
+    "score": 18
+  },
+  "1ac783ac439d5d1b": {
+    "title": "Qantas CEO Vanessa Hudson on Long-Haul Demand",
+    "category": "ai_models",
+    "score": 18
+  },
+  "951a29f39eaf2d7a": {
+    "title": "Gold Edges Lower as Traders Weigh Fedspeak and US-Iran Talks",
+    "category": "ai_models",
+    "score": 19
+  },
+  "95ce7b9408cdb1fb": {
+    "title": "China\u2019s Coking Coal Supply Squeeze Seen Lingering Into 2027",
+    "category": "ai_models",
+    "score": 16
+  },
+  "ad1606829d68085b": {
+    "title": "South Africa Taps Gulf Know-How for $9.5 Billion Property Plan",
+    "category": "ai_models",
+    "score": 20
+  },
+  "d793d54c6cb49934": {
+    "title": "India Consumer Stocks Draw Bullish Bets on Festive Spending",
+    "category": "ai_models",
+    "score": 9
+  },
+  "7c128228dbd9c145": {
+    "title": "Goldman Sees China Oil Imports Staying Subdued in Fourth Quarter",
+    "category": "ai_models",
+    "score": 21
+  },
+  "54f67b34d4c1e68f": {
+    "title": "Burnham Warns UN About Russian Disinformation",
+    "category": "ai_models",
+    "score": 11
+  },
+  "abcaacb7b2ba52ca": {
+    "title": "India\u2019s NSE IPO: How the National Stock Exchange Listing Will Work",
+    "category": "ai_models",
+    "score": 20
+  },
+  "2567d37517536c7f": {
+    "title": "Option Traders Bet Won\u2019s Asia-Leading Rally Has Further to Run",
+    "category": "ai_models",
+    "score": 12
+  },
+  "ffd210627079844b": {
+    "title": "BNP\u2019s Asset Unit Shorts China Rate Swaps to Hedge EM Bond Bets",
+    "category": "ai_models",
+    "score": 22
+  },
+  "6ebeb6a35031007a": {
+    "title": "Asia to Face Sustained Inflation Pressure Into 2027, ADB Warns",
+    "category": "ai_models",
+    "score": 16
+  },
+  "8bcf49373284d678": {
+    "title": "Meet the top editors behind MrBeast, MKBHD, and Quenlin Blackwell\u2013here and onstage at VidSummit",
+    "category": "ai_models",
+    "score": 21
+  },
+  "d222137798bdb666": {
+    "title": "Top 5 Branded Videos of the Week: MrBeast boss crush (with extra pistachio)",
+    "category": "ai_models",
+    "score": 21
   }
 }
