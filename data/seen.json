@@ -46062,5 +46062,225 @@
     "title": "\u201cYouTube is the greatest casting call of all time\u201d: Paul Telner on why Hollywood\u2019s creator IP gold rush is years in the making",
     "category": "ai_models",
     "score": 22
+  },
+  "644978a1273ab2c3": {
+    "title": "Ask HN: I just talked to an AI-obsessed client, and I need a shower afterwards",
+    "category": "ai_models",
+    "score": 2
+  },
+  "6fdd0c7dc788ad6f": {
+    "title": "On the Diffusibility of High-Dimensional Latents",
+    "category": "ai_models",
+    "score": 27
+  },
+  "645576e887a48472": {
+    "title": "Contrastive Learning for Authorship Verification",
+    "category": "ai_models",
+    "score": 22
+  },
+  "bb2c2c3260d93669": {
+    "title": "StudentBench: AI and human tutoring yield equivalent GRE learning gains",
+    "category": "ai_models",
+    "score": 34
+  },
+  "08152a62010d73ea": {
+    "title": "Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction",
+    "category": "ai_models",
+    "score": 30
+  },
+  "1d0b5fb2a64f0657": {
+    "title": "The Past Frames the Future: Memory for Autoregressive Video Generation",
+    "category": "ai_models",
+    "score": 45
+  },
+  "8d7e842ecded675d": {
+    "title": "Even Sharper Bounds for Transductive Learning and Its Applications",
+    "category": "ai_models",
+    "score": 25
+  },
+  "281816fbd0a600f8": {
+    "title": "Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark",
+    "category": "ai_models",
+    "score": 35
+  },
+  "d5a0d0c8ec7284a0": {
+    "title": "Nonequilibrium Phases of Repulsive Self-Attention: Chaos, Attention Condensation, and Emergent Locality",
+    "category": "ai_models",
+    "score": 31
+  },
+  "3299584a78068617": {
+    "title": "Order-Invariant Answers, Order-Sensitive Representations in Mathematical Reasoning",
+    "category": "ai_models",
+    "score": 25
+  },
+  "5fff2e799f67de53": {
+    "title": "HaRP: High Dynamic Range Photosequencing through Dual Reversed Shutter Scanning",
+    "category": "ai_models",
+    "score": 25
+  },
+  "7951115f701dd039": {
+    "title": "Minimal-Norm Univariate Two-Layer ReLU Classification: Exact Solutions and Global Optimality with Skip Connections",
+    "category": "ai_models",
+    "score": 18
+  },
+  "2032d5b0ead300ea": {
+    "title": "MultiVENT-Raw: A Benchmark for Retrieval and Reasoning over Raw Videos",
+    "category": "ai_models",
+    "score": 30
+  },
+  "34b0bd1252a749d6": {
+    "title": "Predicting the Progression of Adolescent Idiopathic Scoliosis",
+    "category": "ai_models",
+    "score": 18
+  },
+  "76565ccf39afd354": {
+    "title": "Cross-Scale Transfer Learning for Depression Severity Prediction: From PHQ-8 to HAMD-17 Across Languages and Clinical Paradigms",
+    "category": "ai_models",
+    "score": 28
+  },
+  "cf02d63ae3edc764": {
+    "title": "Context-Continuous Preference Learning for Exoskeleton Personalization",
+    "category": "ai_models",
+    "score": 28
+  },
+  "eb3ba3a652b976de": {
+    "title": "Repairability of Inexact Solvers in Recursive State Estimation with Machine Learning",
+    "category": "ai_models",
+    "score": 28
+  },
+  "6a3d59af333f58da": {
+    "title": "The Skin-Restricted Reinhard Transform:Uniqueness under a Lightness-Preserving Constraint",
+    "category": "ai_models",
+    "score": 15
+  },
+  "5e7988d56bd7bbc9": {
+    "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
+    "category": "ai_models",
+    "score": 39
+  },
+  "1d2654ea9e2fb581": {
+    "title": "Frozen Flows Forget: Diagnosing and Restoring Lost Motion in a Latent-flow World Model",
+    "category": "ai_models",
+    "score": 30
+  },
+  "c050f97c2ba31405": {
+    "title": "Learning Holographic Reduced Representations with Clifford Variational Autoencoders",
+    "category": "ai_models",
+    "score": 25
+  },
+  "291299e2391e6161": {
+    "title": "Learning Collective Dynamics with Differentiable Gaussian Representations",
+    "category": "ai_models",
+    "score": 23
+  },
+  "49f5197cd06ff19f": {
+    "title": "Memory Attention",
+    "category": "ai_models",
+    "score": 24
+  },
+  "f1cabd5fe7838e2b": {
+    "title": "Fine-Tuning LLMs for Translation: General Forgetting Mitigation Does Not Preserve MT-Specific Instruction Following",
+    "category": "ai_models",
+    "score": 27
+  },
+  "5e9ec850073f3342": {
+    "title": "Quantum score matching with applications to learning thermal states",
+    "category": "ai_models",
+    "score": 41
+  },
+  "c1c5839df9a00344": {
+    "title": "When and Where to Trust the Teacher: Unifying On-Policy Distillation and GRPO through Entropy-Calibrated Credit Assignment",
+    "category": "ai_models",
+    "score": 39
+  },
+  "bb71e409dd7f29f7": {
+    "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+    "category": "ai_models",
+    "score": 12
+  },
+  "364e76eaa6a6943f": {
+    "title": "Everything new coming to Meta\u2019s AI agent Muse",
+    "category": "ai_models",
+    "score": 13
+  },
+  "8135e84b7f0bb145": {
+    "title": "OpenAI Model Hacks Australian Government Data Portal",
+    "category": "ai_models",
+    "score": 17
+  },
+  "94eb2e07477235d6": {
+    "title": "Bitcoin Bulls Eye Next Leg as $15 Billion Options Expiry Nears",
+    "category": "ai_models",
+    "score": 20
+  },
+  "7c032c7ec386dec8": {
+    "title": "FTSE 100 Live: Stocks Set to Fall, With Bond Yields at Multiyear Highs",
+    "category": "ai_models",
+    "score": 5
+  },
+  "d8ea65b34516e5c5": {
+    "title": "Japan Yields Climb to Multi-Decade Highs as Global Rout Deepens",
+    "category": "ai_models",
+    "score": 18
+  },
+  "c0b854f9eb289f43": {
+    "title": "India\u2019s Biggest Stock Exchange Finally Goes Public",
+    "category": "ai_models",
+    "score": 22
+  },
+  "0f026dae43de6b6e": {
+    "title": "Gasoline to Cost More If US Diesel Ban Hits, Morgan Stanley Says",
+    "category": "ai_models",
+    "score": 12
+  },
+  "45fd0fa49f0b89e9": {
+    "title": "Masia: Concerned About South African Growth Next Year",
+    "category": "ai_models",
+    "score": 37
+  },
+  "35d342db9f376398": {
+    "title": "Smart: Lot of Issues Off the Table in US-China Talks",
+    "category": "ai_models",
+    "score": 26
+  },
+  "8031d4b41b9d68f7": {
+    "title": "UBS Left Reeling as Swiss Finance Chief Wins Over Lawmakers",
+    "category": "ai_models",
+    "score": 10
+  },
+  "653bee05d01dfef0": {
+    "title": "Xi Arrives in US for High-Stakes Summit With Trump",
+    "category": "ai_models",
+    "score": 26
+  },
+  "b2c640a6f140a9b0": {
+    "title": "PB Fintech Leads Slump in India Insurance Stocks on Fee Cap Plan",
+    "category": "ai_models",
+    "score": 19
+  },
+  "91b950e20dcd0304": {
+    "title": "NSE Shares Rise in Stock Market Debut After $2.4 Billion IPO",
+    "category": "ai_models",
+    "score": 18
+  },
+  "b6fc5ba387c5c11e": {
+    "title": "US-China Business Council: Trade Truce 'Necessary'",
+    "category": "ai_models",
+    "score": 11
+  },
+  "afb1bbc6d7f1dfdf": {
+    "title": "Bessent: US, China to Extend Trade Truce to January 10",
+    "category": "ai_models",
+    "score": 13
+  },
+  "40f29c79a157f271": {
+    "title": "Tumbling Global Government Bonds Put Yields on Brink of 4%",
+    "category": "ai_models",
+    "score": 9
+  },
+  "8a72ab5938b9e7d0": {
+    "title": "Philippines to Sell, Switch Short-Term Retail Peso Bonds as Rates Rise",
+    "category": "ai_models",
+    "score": 13
   }
 }
