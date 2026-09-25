@@ -46762,5 +46762,200 @@
     "title": "Sam and Colby are bringing their annual Halloween spectacle to Netflix",
     "category": "ai_models",
     "score": 14
+  },
+  "b6a9759aa87a64a7": {
+    "title": "LLM Agents Can Easily Tamper With Their Own Traces",
+    "category": "ai_models",
+    "score": 24
+  },
+  "84d70d1a397801ea": {
+    "title": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
+    "category": "ai_models",
+    "score": 26
+  },
+  "ebeed60cd78f137b": {
+    "title": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
+    "category": "ai_models",
+    "score": 32
+  },
+  "a65a24a79b82ece2": {
+    "title": "Agentic Detection of Online Conspiracies",
+    "category": "ai_models",
+    "score": 21
+  },
+  "285fa6896cf49ce8": {
+    "title": "RAPID: Robot Agentic Programming from Demonstrations",
+    "category": "ai_models",
+    "score": 25
+  },
+  "bfc277aa92df0d46": {
+    "title": "Rolling-WAM: World Action Models with Rolling Imagination",
+    "category": "ai_models",
+    "score": 24
+  },
+  "0618b5c56a2701b0": {
+    "title": "Towards Practical Compression of 3D Gaussian Splatting",
+    "category": "ai_models",
+    "score": 40
+  },
+  "5729fa15de93ee20": {
+    "title": "JevOut: Natural Context Can Flip Decision Models",
+    "category": "ai_models",
+    "score": 34
+  },
+  "12ab46c52203d7d8": {
+    "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
+    "category": "ai_models",
+    "score": 36
+  },
+  "8b62c4eec2a449a1": {
+    "title": "OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction",
+    "category": "ai_models",
+    "score": 42
+  },
+  "f35bce507de93d81": {
+    "title": "Coding Agents for Generalized Task and Motion Planning Problems",
+    "category": "ai_models",
+    "score": 29
+  },
+  "82fefc1956928c46": {
+    "title": "To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech",
+    "category": "ai_models",
+    "score": 37
+  },
+  "14b37bf4e9dc77dc": {
+    "title": "PoEM: Predicting RL Outcomes from Existing Policies",
+    "category": "ai_models",
+    "score": 37
+  },
+  "f29f9b4774d42e9b": {
+    "title": "BiCC: Bidirectional Connected-Component Loss for Instance-Aware Segmentation",
+    "category": "ai_models",
+    "score": 23
+  },
+  "8466cd4fce09f373": {
+    "title": "TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations",
+    "category": "ai_models",
+    "score": 33
+  },
+  "815874ac2d5246c5": {
+    "title": "WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation",
+    "category": "ai_models",
+    "score": 40
+  },
+  "45fc1e60f7b5cae5": {
+    "title": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority",
+    "category": "ai_models",
+    "score": 20
+  },
+  "cdccdd8800f8ed91": {
+    "title": "Minimally Invasive Steering of Language Models",
+    "category": "ai_models",
+    "score": 23
+  },
+  "d219f34abe5396a7": {
+    "title": "Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure",
+    "category": "ai_models",
+    "score": 23
+  },
+  "e6faa09ff84b4ca2": {
+    "title": "A Nearly Quadratic Lower Bound for Linear Optimization over Convex Bodies in the Membership Oracle Model",
+    "category": "ai_models",
+    "score": 15
+  },
+  "93b4db72b54c4b21": {
+    "title": "Underwater C3-JEPA: An Object-Centric Cross-View World Model for ROV Salvage",
+    "category": "ai_models",
+    "score": 23
+  },
+  "87be59c249effd7a": {
+    "title": "Anchored Extra-Proximal Methods: Optimal Higher-Order Methods for Monotone Inclusion Problems",
+    "category": "ai_models",
+    "score": 20
+  },
+  "b7b2d8a2fc03699e": {
+    "title": "The Alignment Illusion in Multimodal Large Language Models",
+    "category": "ai_models",
+    "score": 31
+  },
+  "a1b133a0fef0b871": {
+    "title": "A Living Benchmark for Information Retrieval from Electronic Health Records",
+    "category": "ai_models",
+    "score": 32
+  },
+  "ced29081147f51ef": {
+    "title": "ExplorationBench: Measuring AI Systems' Exploration in Verifiable Alien Worlds",
+    "category": "ai_models",
+    "score": 27
+  },
+  "d8d56664ef6a73ae": {
+    "title": "Goldman Sees Yen Advancing to 150 in Reversal of Bearish Stance",
+    "category": "ai_models",
+    "score": 19
+  },
+  "25566aee7f36707b": {
+    "title": "Romania Blood Bonds Target Retail Investors",
+    "category": "ai_models",
+    "score": 11
+  },
+  "68063474774a9c2d": {
+    "title": "Grains Slump as Trump-Xi Summit Lacks Broader Trade Details",
+    "category": "ai_models",
+    "score": 19
+  },
+  "59a64da2731bbd2a": {
+    "title": "Gold Tilts Lower as Iran Impasse Continues to Fan Rate-Hike Bets",
+    "category": "ai_models",
+    "score": 22
+  },
+  "ddef053810e2cb90": {
+    "title": "Indonesia\u2019s New Economic Chiefs Vow Unity After Policy Rift",
+    "category": "ai_models",
+    "score": 16
+  },
+  "5cbb173c4600b212": {
+    "title": "SEBI Allows Portfolio Managers to Invest Overseas, Short Equity Options",
+    "category": "ai_models",
+    "score": 13
+  },
+  "c7d218ee983862a2": {
+    "title": "South Africa\u2019s Newest Lender Seeks to Take On Banks and Insurers",
+    "category": "ai_models",
+    "score": 14
+  },
+  "abf717c2f77698cb": {
+    "title": "Qatar Boosts LNG Traffic Via Hormuz as Global Shortage Bites",
+    "category": "ai_models",
+    "score": 17
+  },
+  "e9d0b512952ac1cc": {
+    "title": "AI Boom Can Withstand Higher Rates: Goldman's Moe",
+    "category": "ai_models",
+    "score": 32
+  },
+  "c98b7d6982cdcd29": {
+    "title": "Surging US Yields Push Spreads With Asia Toward Extremes",
+    "category": "ai_models",
+    "score": 18
+  },
+  "56574aa623f06244": {
+    "title": "Kobayashi in $3.2 Billion Buyout Talks After Red-Yeast Case",
+    "category": "ai_models",
+    "score": 19
+  },
+  "592ba13f9040caca": {
+    "title": "Lula to Ban Online Betting, Offer Debt Relief Before Election",
+    "category": "ai_models",
+    "score": 14
+  },
+  "8280cce77764b6d5": {
+    "title": "Adarx Pharmaceuticals Raises $446.3 Million in Upsized US IPO",
+    "category": "ai_models",
+    "score": 11
+  },
+  "47c751b0bcfa72c3": {
+    "title": "Motionographer\u2019s 20th celebrations continue this Saturday. There\u2019s still time to join us.",
+    "category": "ai_models",
+    "score": 13
   }
 }
