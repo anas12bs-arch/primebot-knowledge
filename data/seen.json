@@ -48317,5 +48317,244 @@
     "title": "Derral Eves believes anyone can find an audience on YouTube. He wrote a step-by-step creator field guide to prove it.",
     "category": "ai_models",
     "score": 18
+  },
+  "8836aed38d3385d8": {
+    "title": "Claude Sonnet 5.5 (Max Effort) Intelligence, Performance and Price Analysis",
+    "category": "ai_models",
+    "score": 8
+  },
+  "0b4916776c7787b2": {
+    "title": "Show HN: Nibia Fabric \u2013 Turn everyday computers into a shared AI compute cluster",
+    "category": "ai_models",
+    "score": 7
+  },
+  "9480bf3ba69c779f": {
+    "title": "Launch HN: Vespper (YC F24) \u2013 SOTA Docx MCP",
+    "category": "ai_models",
+    "score": 3
+  },
+  "1eca05844c1b9bef": {
+    "title": "Extrinsic World Modeling with Opus, Astra and Grok",
+    "category": "ai_models",
+    "score": 6
+  },
+  "149f28fc3b524606": {
+    "title": "Model Release: Naive-N0.5-Flash",
+    "category": "ai_models",
+    "score": 5
+  },
+  "ada595d9173f1c55": {
+    "title": "Show HN: KnowNote-A local desktop workspace for questioning your own sources",
+    "category": "ai_models",
+    "score": 10
+  },
+  "7bd1471e0ccae534": {
+    "title": "Show HN: HN.watch \u2013 Videos of all Hacker News posts",
+    "category": "ai_models",
+    "score": 6
+  },
+  "01d4c3002f8dee58": {
+    "title": "UK government tells staff to stop thanking AI chatbots",
+    "category": "ai_models",
+    "score": 5
+  },
+  "6d876ad4883deb69": {
+    "title": "Show HN: OpenAPPA \u2013 open-source deterministic guardrails that don't break agents",
+    "category": "ai_models",
+    "score": 10
+  },
+  "81b93bc97ef1cb56": {
+    "title": "SlopTotal, a Self-hosted AI text detector that runs 23 open models",
+    "category": "ai_models",
+    "score": 7
+  },
+  "4b3acef7737feaf1": {
+    "title": "Autopilot: Engineering an agentic quality loop for support automation",
+    "category": "ai_models",
+    "score": 9
+  },
+  "0adf5bb2a473897d": {
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "category": "ai_models",
+    "score": 14
+  },
+  "42c1429e708d10aa": {
+    "title": "Almost Every Pre-AI Vendor We Use Is Raising Prices for Agent Access. They May Be Building an Agentic Death Spiral",
+    "category": "ai_models",
+    "score": 32
+  },
+  "3c02ccc95611fe38": {
+    "title": "DoorDash doubles down on WPP, naming agency global media partner",
+    "category": "ai_models",
+    "score": 14
+  },
+  "f69b9107a4991ab5": {
+    "title": "Twisted Tea dons camo for collab campaign as brand faces headwinds",
+    "category": "ai_models",
+    "score": 16
+  },
+  "3651cbab640caeed": {
+    "title": "Dave & Buster\u2019s shakes up agencies amid bid to rebuild brand relevance",
+    "category": "ai_models",
+    "score": 14
+  },
+  "336986da2c096dc4": {
+    "title": "E.l.f. jams to second music album under entertainment marketing arm",
+    "category": "ai_models",
+    "score": 20
+  },
+  "8dfae19f11de23ec": {
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "category": "ai_models",
+    "score": 13
+  },
+  "5a99ebb20294d429": {
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "category": "ai_models",
+    "score": 26
+  },
+  "f80268bcd9fb5617": {
+    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+    "category": "ai_models",
+    "score": 17
+  },
+  "ab95dff2b094b51a": {
+    "title": "Google is killing off Gemini\u2019s Gems in favor of \u2018skills\u2019",
+    "category": "ai_models",
+    "score": 9
+  },
+  "db3dfcf2b649bdd0": {
+    "title": "OpenAI still doesn\u2019t seem to have a handle on all of its rogue AI activity",
+    "category": "ai_models",
+    "score": 13
+  },
+  "d211ef06bee55e3a": {
+    "title": "Meta launches enterprise\u00a0AI platform, hires\u00a0MongoDB CEO to\u00a0lead new initiative",
+    "category": "ai_models",
+    "score": 15
+  },
+  "9867440d537aa7da": {
+    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+    "category": "ai_models",
+    "score": 18
+  },
+  "e1400b549771e5f5": {
+    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+    "category": "ai_models",
+    "score": 26
+  },
+  "8ed245fbc67fd8fc": {
+    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+    "category": "ai_models",
+    "score": 21
+  },
+  "6ec519350686cbda": {
+    "title": "Modulate raises $25M for its voice models and analysis suite",
+    "category": "ai_models",
+    "score": 9
+  },
+  "651e659be31fd032": {
+    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+    "category": "ai_models",
+    "score": 12
+  },
+  "98bfa4e79c6845c5": {
+    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
+    "category": "ai_models",
+    "score": 18
+  },
+  "560cbbccadfe271d": {
+    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+    "category": "ai_models",
+    "score": 14
+  },
+  "b7eefced0b1ac85e": {
+    "title": "An Inversion of the US Yield Curve Becomes New Risk As Fed Hikes",
+    "category": "ai_models",
+    "score": 21
+  },
+  "34b15cd5347129f3": {
+    "title": "Nuclear Reactor Project in Tennessee Set to Win US Approval",
+    "category": "ai_models",
+    "score": 11
+  },
+  "bc1678fefbfba18d": {
+    "title": "Goldman Says High-Yield Debt Deluge Overwhelming Investors",
+    "category": "ai_models",
+    "score": 21
+  },
+  "777d62903191f00b": {
+    "title": "Outspoken AI Bear Jain Capitulates After $36 Billion Exodus",
+    "category": "ai_models",
+    "score": 6
+  },
+  "1ac53654428097fd": {
+    "title": "Kenyan Court Pauses Construction of $16 Billion Dangote Refinery",
+    "category": "ai_models",
+    "score": 13
+  },
+  "0b06054a4b3abf8b": {
+    "title": "Cliffs\u2019 Stelco Set to Idle Some Steel Operations on Tariffs",
+    "category": "ai_models",
+    "score": 16
+  },
+  "7911e39c9da861e1": {
+    "title": "It's A Good Time To Buy Bonds: Kerschner",
+    "category": "ai_models",
+    "score": 23
+  },
+  "b4806855e06898c0": {
+    "title": "Johnson to Stump With Republicans in 22 States Before Midterms",
+    "category": "ai_models",
+    "score": 13
+  },
+  "f15e90f144b58739": {
+    "title": "Japan\u2019s Fresh Warning Against Weak Yen Fuels Intervention Worry",
+    "category": "ai_models",
+    "score": 18
+  },
+  "74498796f65bfa3e": {
+    "title": "Burkina Faso Opens Gold Refinery in Push to Retain More Value",
+    "category": "ai_models",
+    "score": 15
+  },
+  "084db7eb5ad5fa16": {
+    "title": "Strapped Consumers Quit Bowling, Dave & Busters in Blow to Debt",
+    "category": "ai_models",
+    "score": 12
+  },
+  "e1f30a78d222e310": {
+    "title": "Zambia Firm Accuses Abu Dhabi\u2019s IRH of Breaching Mine Deal",
+    "category": "ai_models",
+    "score": 17
+  },
+  "f6adebfbaaa2debc": {
+    "title": "Putin Imposes Sweeping New Reporting Limits on Russian Energy",
+    "category": "ai_models",
+    "score": 14
+  },
+  "83a44eb55aa348ef": {
+    "title": "Gold Slumps to Seven-Week Low in \u2018Extremely Tough\u2019 Market",
+    "category": "ai_models",
+    "score": 20
+  },
+  "8af614616407cf8f": {
+    "title": "Florida\u2019s AG Joins the Pause Cause",
+    "category": "ai_models",
+    "score": 4
+  },
+  "75486139c960c41e": {
+    "title": "2025: One Motion Sequence | Nikita Didenko",
+    "reason": "irrelevant"
+  },
+  "56092eeb466c594b": {
+    "title": "Dear Upstairs Neighbors: How Connie He Taught a Machine to See the Way She Draws.",
+    "category": "ai_models",
+    "score": 23
+  },
+  "022e53023b3531ab": {
+    "title": "CNN dives into Texas Senate race alongside media partner Jubilee",
+    "category": "ai_models",
+    "score": 18
   }
 }
