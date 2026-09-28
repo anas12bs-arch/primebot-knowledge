@@ -47952,5 +47952,235 @@
     "title": "Trump Says He\u2019s \u2018Very Seriously\u2019 Looking at Diesel Export Ban",
     "category": "ai_models",
     "score": 16
+  },
+  "5d329020062e4655": {
+    "title": "Ask HN: Do you think AI agents can escape human control?",
+    "category": "ai_models",
+    "score": 7
+  },
+  "4253475c187e7a46": {
+    "title": "OpenAI pauses top-model work after AI bypasses internet safeguards [video]",
+    "category": "ai_models",
+    "score": 11
+  },
+  "43d48208816c4ab8": {
+    "title": "I killed every subscription business model in the market",
+    "category": "ai_models",
+    "score": 6
+  },
+  "11bf854801dbab73": {
+    "title": "FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders",
+    "category": "ai_models",
+    "score": 35
+  },
+  "bbef182b08723e32": {
+    "title": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
+    "category": "ai_models",
+    "score": 35
+  },
+  "2e32125b3be20a39": {
+    "title": "Gap-free Differentially Private PCA for Gaussian Data",
+    "category": "ai_models",
+    "score": 8
+  },
+  "69c1ea61fb5481f5": {
+    "title": "First-Order Stationarity of Reverse Diffusions",
+    "category": "ai_models",
+    "score": 22
+  },
+  "d6bebf931df8af24": {
+    "title": "Statistical attribute alignment for black-box generative AI via output post-processing",
+    "category": "ai_models",
+    "score": 22
+  },
+  "da6328efa389deb9": {
+    "title": "User Model Extraction via Belief Self-Distillation",
+    "category": "ai_models",
+    "score": 32
+  },
+  "a995d8551ac7268d": {
+    "title": "New LoRA Skills Should Read but Never Write",
+    "category": "ai_models",
+    "score": 32
+  },
+  "9e21ad4a96f320af": {
+    "title": "GraphWrit3R: End-to-End 3D Scene Graph Writing",
+    "category": "ai_models",
+    "score": 44
+  },
+  "9a8e57991dae23be": {
+    "title": "Common-Mode Collapse and Recovery in Direct Feedback Alignment",
+    "category": "ai_models",
+    "score": 34
+  },
+  "f0825c363f776763": {
+    "title": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
+    "category": "ai_models",
+    "score": 32
+  },
+  "84ad213c6f3ccfa9": {
+    "title": "Trust Guided Decision Transformer",
+    "category": "ai_models",
+    "score": 32
+  },
+  "4c20fedfc2b75eca": {
+    "title": "How Far Can INRs Go? Cross-Domain Parameter-efficient INR-Based Semantic Segmentation for Brain MRI",
+    "category": "ai_models",
+    "score": 40
+  },
+  "a1ddbb785dd898ae": {
+    "title": "OC-GS: Gaussian Splatting for Irregular Turntable Capture",
+    "category": "ai_models",
+    "score": 26
+  },
+  "ce31edb7941d31ca": {
+    "title": "Strategically Diverse Sampling for Self-Training",
+    "category": "ai_models",
+    "score": 28
+  },
+  "9ed5c75ca4e2ef23": {
+    "title": "Uncertainty and Explainability in Deep Rough Volatility: A Neural Information-Theoretic Posterior Approach",
+    "category": "ai_models",
+    "score": 32
+  },
+  "580cbf320d873d27": {
+    "title": "Adapting for AI: How elementary teachers adjust their practices for an AI-integrated curriculum",
+    "category": "ai_models",
+    "score": 22
+  },
+  "487b648279fd2422": {
+    "title": "DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education",
+    "category": "ai_models",
+    "score": 35
+  },
+  "fd900ba83eb651fd": {
+    "title": "Weight Pair Encoding: Inducing a Smaller Grammar in Neural Network Weights",
+    "category": "ai_models",
+    "score": 21
+  },
+  "5e742672a9cad354": {
+    "title": "Multi-agent Scaling Across Disjunctive and Compensatory Tasks",
+    "category": "ai_models",
+    "score": 31
+  },
+  "7483fcbde075240f": {
+    "title": "Generalization behavior of OPTQ and the role of regularization",
+    "category": "ai_models",
+    "score": 32
+  },
+  "275b771f9330c391": {
+    "title": "Online Learning via Learned Latent Bayesian Tracking",
+    "category": "ai_models",
+    "score": 30
+  },
+  "51950371a74c9c15": {
+    "title": "Region-Level Black-Box Defense Against Stealthy Embedding-Space Backdoors in CLIP",
+    "category": "ai_models",
+    "score": 38
+  },
+  "7e6c1199fc22f559": {
+    "title": "MexHat: A Dataset for Hate Speech Detection in Mexican Spanish Videos",
+    "category": "ai_models",
+    "score": 38
+  },
+  "382b4edefb75d94d": {
+    "title": "EAServe: Encode-Aware Disaggregated Serving for Multimodal Large Language Models",
+    "category": "ai_models",
+    "score": 39
+  },
+  "21a4e79a7b35c76f": {
+    "title": "Two Conformal Constructions for Adaptive Within-Document AI-Text Screening",
+    "category": "ai_models",
+    "score": 31
+  },
+  "a174c2fa53a44c73": {
+    "title": "Allied Blenders and Distillers Extends Rally Amid Possible Sale",
+    "category": "ai_models",
+    "score": 11
+  },
+  "5fd15c284aea5bbc": {
+    "title": "Iran Says Won\u2019t Soften Demands as Trump Rejects Hormuz Offer",
+    "category": "ai_models",
+    "score": 19
+  },
+  "6b186e77e522972a": {
+    "title": "Chinese Stocks Hit One-Year Low as Chip, Optical Firms Slide",
+    "category": "ai_models",
+    "score": 19
+  },
+  "ece82cd58c401f15": {
+    "title": "Grains Fall as Traders Seek China Buying Signs After Tariff Cuts",
+    "category": "ai_models",
+    "score": 20
+  },
+  "fcd7fbc3ca740ab6": {
+    "title": "PIMCO's Bowe on Australian Bonds Outlook",
+    "category": "ai_models",
+    "score": 29
+  },
+  "f1cdf7290e07196c": {
+    "title": "Ruchir Sharma on How India Scores On the \"10 Rules\"--Macro Criteria That Matter",
+    "category": "ai_models",
+    "score": 18
+  },
+  "e7f592d06c3cab9a": {
+    "title": "Pimco Sees Value in Australian Bonds as Rate Hikes Overpriced",
+    "category": "ai_models",
+    "score": 23
+  },
+  "3fcb90e60821e4a0": {
+    "title": "Aida: Japan\u2019s Defense Buildup Won\u2019t Rattle Markets",
+    "category": "ai_models",
+    "score": 24
+  },
+  "3daaeac6f9012a33": {
+    "title": "Japan\u2019s Two-Year Bond Yield Nears 2% as BOJ Rate Hike Bets Mount",
+    "category": "ai_models",
+    "score": 13
+  },
+  "2a327925047a5457": {
+    "title": "Emerging Stocks Slide as Oil Gains on Renewed Mideast Tensions",
+    "category": "ai_models",
+    "score": 27
+  },
+  "1b63a2f3a166e2f3": {
+    "title": "Financial Stress Spreads in Europe as Leverage Mounts, BCG Says",
+    "category": "ai_models",
+    "score": 18
+  },
+  "cdc1c6bd3b77696b": {
+    "title": "Cuba Warns US Sanctions Are Blocking Reform",
+    "category": "ai_models",
+    "score": 25
+  },
+  "4a77994a28160724": {
+    "title": "Bond Selloff Resumes as Oil Rises After Trump Spurns Iran Offer",
+    "category": "ai_models",
+    "score": 17
+  },
+  "90e49f81ef59eef3": {
+    "title": "Fund Veteran Chris Iggo Retires, Predicting Bonds Will Rebound",
+    "category": "ai_models",
+    "score": 12
+  },
+  "8a273e3396aa20d3": {
+    "title": "Copper Slides as China Industrial Data Weighs on Demand Outlook",
+    "category": "ai_models",
+    "score": 26
+  },
+  "5478bbadbc8194b1": {
+    "title": "SK Hynix Shares Fall as Solidigm\u2019s Potential US IPO Sours Mood",
+    "category": "ai_models",
+    "score": 18
+  },
+  "b52ca1fc207aac0b": {
+    "title": "GoTo Shares Plunge After Stock Exchange Removes Price Floor",
+    "category": "ai_models",
+    "score": 17
+  },
+  "2b17795ae02abb3a": {
+    "title": "Nifty Nears Oversold Zone After Longest Weekly Losing Streak in Over Six Years",
+    "category": "ai_models",
+    "score": 11
   }
 }
