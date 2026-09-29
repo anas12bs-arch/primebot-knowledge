@@ -48701,5 +48701,260 @@
     "title": "YouTube is letting creators make reaction content on-platform, using everyone else\u2019s long-form videos",
     "category": "ai_models",
     "score": 23
+  },
+  "b262f000fd8f8d41": {
+    "title": "OpenAI scraps release of new AI model over safety concerns",
+    "category": "ai_models",
+    "score": 8
+  },
+  "bd43ed37073c9e9b": {
+    "title": "Run Decision Models on vLLM and Red Hat AI Using DiffusionGemma",
+    "category": "ai_models",
+    "score": 7
+  },
+  "908c7020467509d7": {
+    "title": "Show HN: Talktome - let your AI Agent call you",
+    "category": "automation",
+    "score": 4
+  },
+  "78eb1a805a279082": {
+    "title": "Show HN: Interactive Diesel Price Forecaster",
+    "category": "ai_models",
+    "score": 6
+  },
+  "827a5d0a1cdcb02b": {
+    "title": "OpenAI shelves new AI model after internal safety tests: Report",
+    "category": "ai_models",
+    "score": 8
+  },
+  "3bb8412607429856": {
+    "title": "Show HN: Corral kill every command your agent starts",
+    "category": "ai_models",
+    "score": 7
+  },
+  "2a8f7ba8a50bb01e": {
+    "title": "OpenAI Halts Model Release Amid Safety Escalation",
+    "category": "ai_models",
+    "score": 7
+  },
+  "7033ec2c6ca8629e": {
+    "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
+    "category": "ai_models",
+    "score": 19
+  },
+  "47fe2d58a1256e40": {
+    "title": "Telescopic Language Models",
+    "category": "ai_models",
+    "score": 30
+  },
+  "fee020edf4d927c9": {
+    "title": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
+    "category": "ai_models",
+    "score": 33
+  },
+  "b89bedca66a1171a": {
+    "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
+    "category": "ai_models",
+    "score": 32
+  },
+  "27e5229028b99b88": {
+    "title": "Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales",
+    "category": "ai_models",
+    "score": 21
+  },
+  "f219cc1298df6c62": {
+    "title": "Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose",
+    "category": "ai_models",
+    "score": 34
+  },
+  "7c2abf35b9d3cb4f": {
+    "title": "Unifying Distributional Training for One-Step Visual Generation",
+    "category": "ai_models",
+    "score": 37
+  },
+  "b1e22ded586bab08": {
+    "title": "Scaling Long-Form Story Generation via Narrative State Tracking",
+    "category": "ai_models",
+    "score": 38
+  },
+  "75a1ed18e15f05e5": {
+    "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
+    "category": "ai_models",
+    "score": 25
+  },
+  "6e04badc63a09944": {
+    "title": "Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control",
+    "category": "ai_models",
+    "score": 24
+  },
+  "cb2cd10221a6f478": {
+    "title": "Neural Harmonic Measure Operator",
+    "category": "ai_models",
+    "score": 28
+  },
+  "b23d1d173d7833c9": {
+    "title": "How to Loop MoE: Flatten the Experts, Untie the Attention",
+    "category": "ai_models",
+    "score": 35
+  },
+  "b5fa8641807d857a": {
+    "title": "KV-streams for Efficient Compaction in Agentic Reinforcement Learning",
+    "category": "ai_models",
+    "score": 27
+  },
+  "6c9548fd3a999e45": {
+    "title": "Towards Communication-Efficient Social Intelligence in Language Agents",
+    "category": "ai_models",
+    "score": 34
+  },
+  "6b13d653d33e7111": {
+    "title": "Improving Test-Time Scaling with Adaptive Looped Transformers",
+    "category": "ai_models",
+    "score": 34
+  },
+  "aa77fe9aa2cc3af9": {
+    "title": "Copy the Same, Distill the Difference: Initializing Linear Vision Transformers",
+    "category": "ai_models",
+    "score": 33
+  },
+  "a536183538e65dd8": {
+    "title": "FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents",
+    "category": "ai_models",
+    "score": 37
+  },
+  "70196d4b67c61316": {
+    "title": "InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video",
+    "category": "ai_models",
+    "score": 34
+  },
+  "9b38ff44260f10e4": {
+    "title": "Shockingly Simple Self-retrospection Improves Agentic Models Without RL",
+    "category": "ai_models",
+    "score": 36
+  },
+  "af7acdb54aff1c3e": {
+    "title": "Harness Learning Enables Generalizable Test-Time Adaptation",
+    "category": "ai_models",
+    "score": 28
+  },
+  "c1b768997943c5ac": {
+    "title": "GeoVerse: World-Consistent Novel View Synthesis in Geometric Latent Space",
+    "category": "ai_models",
+    "score": 38
+  },
+  "84511407b45eb8dc": {
+    "title": "Failure-Transparent Agents: Benchmarking Post-Failure Reporting in Tool-Using Language Models",
+    "category": "ai_models",
+    "score": 41
+  },
+  "3477565411fa94c9": {
+    "title": "FlowAct-R2: Beyond Talking Avatar via Streaming Multimodal References and Proactive Agent Planning",
+    "category": "ai_models",
+    "score": 42
+  },
+  "70c8cd45fdc1bc59": {
+    "title": "Impact of Patient Orientation in Single- and Multi-View Camera Environments for AI-based Rehabilitation Monitoring",
+    "category": "ai_models",
+    "score": 33
+  },
+  "d4e3b4b6bf2c9bf2": {
+    "title": "Superquadric Primitive Decomposition of 3D point clouds via Geometric-Aware Inlier Refinement",
+    "category": "ai_models",
+    "score": 36
+  },
+  "50d71cd52400f551": {
+    "title": "How we will do better for Australia",
+    "category": "ai_models",
+    "score": 15
+  },
+  "d22fa48862e8ee76": {
+    "title": "Anthropic\u2019s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+    "category": "ai_models",
+    "score": 15
+  },
+  "e7fe06876df391e4": {
+    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "category": "ai_models",
+    "score": 17
+  },
+  "53f952cbb4d7e74c": {
+    "title": "The AI boom took over Climate Week and not everyone is happy about it",
+    "category": "ai_models",
+    "score": 13
+  },
+  "2b39ebe4ecc0fd35": {
+    "title": "FTSE 100 Live: Pound Sinks as Dollar Rises With Oil",
+    "category": "ai_models",
+    "score": 4
+  },
+  "18b453b641a88370": {
+    "title": "Philippines Retail Bond Auction Draws Billions as Rates Rise",
+    "category": "ai_models",
+    "score": 19
+  },
+  "3823179ca3ed8b08": {
+    "title": "Traditionally Terrible October Looms for Beleaguered Treasuries",
+    "category": "ai_models",
+    "score": 12
+  },
+  "c4b0587142ebb356": {
+    "title": "Japan 40-Year Bond Sale Sees Strongest Demand Since 2020",
+    "category": "ai_models",
+    "score": 19
+  },
+  "0a25cfed14da89c8": {
+    "title": "Dongshan Precision Is Said to Target Up to $3 Billion HK Listing",
+    "category": "ai_models",
+    "score": 11
+  },
+  "adb36f81e6e38cc5": {
+    "title": "Threat of Berlin Property Grab Is Spooking Real Estate Stocks",
+    "category": "ai_models",
+    "score": 15
+  },
+  "e22ea339927949e8": {
+    "title": "Ebola Disrupts Congo\u2019s Childhood Vaccinations, Maternity and Health Services",
+    "category": "ai_models",
+    "score": 15
+  },
+  "b02a8febc560da23": {
+    "title": "Ayub: Long-Term Inflation Unlikely to Sustain Yields",
+    "category": "ai_models",
+    "score": 29
+  },
+  "7ea700f6d230ea60": {
+    "title": "China Tightens Travel Rules for Families of AI Talent",
+    "category": "ai_models",
+    "score": 27
+  },
+  "e3536867d0712cb9": {
+    "title": "Copper Edges Higher as Chile Mine Dispute Raises Supply Concerns",
+    "category": "ai_models",
+    "score": 14
+  },
+  "43064a4602aa82af": {
+    "title": "RoboTechnik Drops in Debut After Leading $1.8 Billion HK Lineup",
+    "category": "ai_models",
+    "score": 13
+  },
+  "7438bf2583a084f2": {
+    "title": "China Expands Travel Curbs to Top AI Talent and Families",
+    "category": "ai_models",
+    "score": 15
+  },
+  "b2273a53b524f403": {
+    "title": "China to Launch New Pro-Growth Policies",
+    "category": "ai_models",
+    "score": 25
+  },
+  "ffaad485d4d62b1e": {
+    "title": "China\u2019s LNG Imports to Fall for Second Month Due to High Prices",
+    "category": "ai_models",
+    "score": 15
+  },
+  "e378efbc783c8347": {
+    "title": "Shein Shares Sink 12% to Record Low After Profit Plunge",
+    "category": "ai_models",
+    "score": 20
   }
 }
