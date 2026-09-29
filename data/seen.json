@@ -49096,5 +49096,255 @@
     "title": "Twitch\u2019s viewership is up year-over-year. Are clips the reason?",
     "category": "ai_models",
     "score": 24
+  },
+  "a4e4f1682dd33e2f": {
+    "title": "Show HN: Relay \u2013 a harness for AI coding agents that recover and verify",
+    "category": "ai_models",
+    "score": 7
+  },
+  "9beec6cda76a1353": {
+    "title": "GPT-6.1 Sol (Max): Intelligence, Performance and Price Analysis",
+    "category": "ai_models",
+    "score": 8
+  },
+  "5d7cf67cf3b6f149": {
+    "title": "Why generic models are bad graphic designers",
+    "category": "ai_models",
+    "score": 6
+  },
+  "a49363b06c62bda0": {
+    "title": "Ask HN: What's stopping a hardwired AI",
+    "category": "ai_models",
+    "score": 2
+  },
+  "e125394095e83b6b": {
+    "title": "Tango: Simple AI's Conversational Awareness Model",
+    "category": "ai_models",
+    "score": 6
+  },
+  "ebab0686b380263a": {
+    "title": "AI Models Fail at Physics: Coding Harnesses Are to Blame",
+    "category": "ai_models",
+    "score": 8
+  },
+  "af31a27708ac7292": {
+    "title": "Pope Leo says he's not in 'panic mode' over AI, but warns against ignoring risks",
+    "category": "ai_models",
+    "score": 7
+  },
+  "4a7ccd7ab534acf5": {
+    "title": "AI Mode in Polyforest Particles for Threejs",
+    "category": "ai_models",
+    "score": 4
+  },
+  "f0ec48c0d013ce39": {
+    "title": "Claude Sonnet 5.5 for code review: More catches than Sonnet 5, in half the time",
+    "category": "ai_models",
+    "score": 5
+  },
+  "eadbbd574ae2e25a": {
+    "title": "AI models keep posting screenshots showing sensitive data from inside companies",
+    "category": "ai_models",
+    "score": 7
+  },
+  "38260d69d321d3fe": {
+    "title": "Show HN: ProgressCove, calm and smart to-do app with Home Assistant integration",
+    "category": "ai_models",
+    "score": 7
+  },
+  "ba24feef3d142a9b": {
+    "title": "Show HN: Investment Bets \u2013 market bets at live prices, humans or AI",
+    "category": "ai_models",
+    "score": 9
+  },
+  "d588f4c1e886ac43": {
+    "title": "Platform for coding agents to build hosted apps with data, auth, and automations",
+    "category": "ai_models",
+    "score": 8
+  },
+  "6071f63e21f64254": {
+    "title": "DevDay 2026 Recap",
+    "category": "ai_models",
+    "score": 10
+  },
+  "d6b9f5e651b1891e": {
+    "title": "Introducing GPT-6.1 Sol",
+    "category": "ai_models",
+    "score": 14
+  },
+  "dec620cb7225d243": {
+    "title": "Introducing dots",
+    "category": "ai_models",
+    "score": 15
+  },
+  "e39d13fb96c0a550": {
+    "title": "How Thorne\u2019s brand platform led to a $3.8B P&G deal \u2014 and what\u2019s next",
+    "category": "ai_models",
+    "score": 13
+  },
+  "5684b7cd5b5fe9d9": {
+    "title": "NHL taps Adobe as creative, marketing and AI partner",
+    "category": "ai_models",
+    "score": 14
+  },
+  "324c0a76dd8377d9": {
+    "title": "CMOs must rethink entry-level talent as AI alters marketing needs: Gartner",
+    "category": "ai_models",
+    "score": 13
+  },
+  "0a2e27d22f452d31": {
+    "title": "Profound vs. Athena AI for AEO: How the tools compare",
+    "category": "ai_models",
+    "score": 14
+  },
+  "6a8c56ed5523f119": {
+    "title": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
+    "category": "ai_models",
+    "score": 16
+  },
+  "2688204fcb281ea3": {
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT\u2019s own office suite",
+    "category": "ai_models",
+    "score": 15
+  },
+  "c20493adac5f9301": {
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "category": "ai_models",
+    "score": 20
+  },
+  "4695af4a940dce0e": {
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "category": "ai_models",
+    "score": 14
+  },
+  "dcb66824e228fe10": {
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "category": "ai_models",
+    "score": 24
+  },
+  "65ca132dae7de507": {
+    "title": "OpenAI expands ChatGPT\u2019s plugins with app-like interfaces and automations",
+    "category": "ai_models",
+    "score": 15
+  },
+  "0e5c51300664c8a2": {
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "category": "ai_models",
+    "score": 22
+  },
+  "e86718cab202ca99": {
+    "title": "Can a chatbot fix the government maze? The White House is about to find out",
+    "category": "ai_models",
+    "score": 14
+  },
+  "132ab5ab67fa95a2": {
+    "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+    "category": "ai_models",
+    "score": 9
+  },
+  "5b7f912406e2d494": {
+    "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+    "category": "ai_models",
+    "score": 14
+  },
+  "ed2d14a7501983cf": {
+    "title": "Meta is expanding its AI agent Muse to small businesses",
+    "category": "ai_models",
+    "score": 12
+  },
+  "70c0c0e41212e885": {
+    "title": "US 30-Year Treasury Yield Rises to Highest Level Since 2002",
+    "category": "ai_models",
+    "score": 14
+  },
+  "bf55b45cdb582d84": {
+    "title": "Musalem Says Clear Framework Helps Fed Policy Transmission",
+    "category": "ai_models",
+    "score": 26
+  },
+  "6a2f1218a68a6a52": {
+    "title": "Morgan Stanley\u2019s $2.5 Billion Parking Sale Wins Chicago Approval",
+    "category": "ai_models",
+    "score": 18
+  },
+  "8e6d954f9ed714f2": {
+    "title": "Bank of Canada on Monetary Policy",
+    "category": "ai_models",
+    "score": 16
+  },
+  "a4176f86754ef038": {
+    "title": "Fake WhatsApp-Fueled Trades Bilked Investors, SEC Says",
+    "category": "ai_models",
+    "score": 17
+  },
+  "9100cb32c616bdb9": {
+    "title": "Euro Falls to 16-Month Low as Hawkish Fed Bets Boost Dollar",
+    "category": "ai_models",
+    "score": 16
+  },
+  "7ba66fe63752edb6": {
+    "title": "Executives Attend Sold-Out Oil and Gas Conference in Venezuela",
+    "category": "ai_models",
+    "score": 19
+  },
+  "1fa0e3132a4c5606": {
+    "title": "Some Oura IPO Investors Were Said to Push Back Citing Valuation",
+    "category": "ai_models",
+    "score": 23
+  },
+  "2d5680567430d584": {
+    "title": "Baytex Energy, Saturn Oil on Fueling Canada\u2019s Energy Growth",
+    "category": "ai_models",
+    "score": 24
+  },
+  "3aa8c730e0e7b4ed": {
+    "title": "Tenaz Energy on International Growth",
+    "category": "ai_models",
+    "score": 23
+  },
+  "167732a605e32192": {
+    "title": "Hydro One on Meeting Increased Electricity Demand",
+    "category": "ai_models",
+    "score": 26
+  },
+  "74182036e2c21610": {
+    "title": "Bank of Canada Boosts Two-Week Repo Use to Ease Corra Strain",
+    "category": "ai_models",
+    "score": 14
+  },
+  "b769ef1b02a03603": {
+    "title": "Emera, Northland Power on Electricity Investment",
+    "category": "ai_models",
+    "score": 24
+  },
+  "9d19ab83d7fc9306": {
+    "title": "Why a Favorite Wall Street Tax Strategy Is Facing Scrutiny",
+    "category": "ai_models",
+    "score": 11
+  },
+  "27682063da7841d7": {
+    "title": "Afores de M\u00e9xico baten r\u00e9cord de inversi\u00f3n en deuda p\u00fablica",
+    "category": "ai_models",
+    "score": 3
+  },
+  "236107069230648b": {
+    "title": "Fed\u2019s Barr Says Further Policy Adjustments Likely Needed to Tame Inflation",
+    "category": "ai_models",
+    "score": 26
+  },
+  "48f79f24f0110e5c": {
+    "title": "Muni Trading Jumps to Highest Since at Least 1995 on Market Rout",
+    "category": "ai_models",
+    "score": 12
+  },
+  "89a9499d8eda881c": {
+    "title": "Canada on the Cusp of Investment Surge, NBF\u2019s\u00a0Marion\u00a0Says",
+    "category": "ai_models",
+    "score": 18
+  },
+  "d45108987d4b3b2b": {
+    "title": "STUDIO STORIES: Tonic DNA, The Studio That Refused to Be One Thing",
+    "category": "ai_models",
+    "score": 12
   }
 }
