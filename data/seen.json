@@ -49761,5 +49761,215 @@
     "title": "Facebook goes back to the Forum age with its new app",
     "category": "ai_models",
     "score": 22
+  },
+  "d5a07432e866db54": {
+    "title": "The open-source AI platforms vying to become China's Hugging Face",
+    "category": "ai_models",
+    "score": 10
+  },
+  "052f545362bc7e20": {
+    "title": "Point2Part: Unified 3D Partitioning from Point Prompts",
+    "category": "ai_models",
+    "score": 21
+  },
+  "20fe8bd76cc91480": {
+    "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
+    "category": "ai_models",
+    "score": 42
+  },
+  "b6ad1dd62c741e23": {
+    "title": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
+    "category": "ai_models",
+    "score": 48
+  },
+  "1e44fc7d5e97286f": {
+    "title": "Breakdown of Local Denoising as Semantic Speciation",
+    "category": "ai_models",
+    "score": 24
+  },
+  "29d75a74550bb859": {
+    "title": "Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation",
+    "category": "ai_models",
+    "score": 43
+  },
+  "03567b65d7a119fe": {
+    "title": "Adversarial Training for Pixel Diffusion",
+    "category": "ai_models",
+    "score": 36
+  },
+  "506ecfd1901eebb4": {
+    "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+    "category": "ai_models",
+    "score": 34
+  },
+  "1759558f459c1a04": {
+    "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
+    "category": "ai_models",
+    "score": 31
+  },
+  "e43c710ac62383c9": {
+    "title": "Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data",
+    "category": "ai_models",
+    "score": 35
+  },
+  "3e4d82850eff0d88": {
+    "title": "Rethinking Representations for World-Action Modeling",
+    "category": "ai_models",
+    "score": 46
+  },
+  "e8df655edf2f9165": {
+    "title": "A Spectral Theory of Distortion in LLM Graph Reconstruction: Sharp Bounds and Empirical Characterization",
+    "category": "ai_models",
+    "score": 25
+  },
+  "6bf066c89870a230": {
+    "title": "EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation",
+    "category": "ai_models",
+    "score": 27
+  },
+  "6418bac1e3bc4f0f": {
+    "title": "DMA$^2$: Pixel-space Distribution Matching with Adversarial and Anchor Losses",
+    "category": "ai_models",
+    "score": 36
+  },
+  "1ce0c396d24b24cf": {
+    "title": "Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies",
+    "category": "ai_models",
+    "score": 35
+  },
+  "632e81790960f826": {
+    "title": "LongLive-Plug: Once-for-All Distillation for Video Generation",
+    "category": "ai_models",
+    "score": 33
+  },
+  "1c537dc70977e04c": {
+    "title": "PowerSim: Differentiable Physics Simulation and Rendering with Power Diagrams",
+    "category": "ai_models",
+    "score": 33
+  },
+  "b73b1a85899d1956": {
+    "title": "FracGen: Learning How Objects Stretch and Tear with Physics-Informed Video Generation",
+    "category": "ai_models",
+    "score": 37
+  },
+  "79c3a32134606598": {
+    "title": "Pretraining Latent Information Feedback Transformers with Teacher Supervision",
+    "category": "ai_models",
+    "score": 42
+  },
+  "7b3569de6706b7a4": {
+    "title": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning",
+    "category": "ai_models",
+    "score": 38
+  },
+  "c023ac1033ab9ecc": {
+    "title": "LIFT: Layout-In-Future Video Generation under Large Viewpoint Change via On-Policy Self-Distillation",
+    "category": "ai_models",
+    "score": 30
+  },
+  "1afe69dfed86f9a6": {
+    "title": "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI",
+    "category": "ai_models",
+    "score": 36
+  },
+  "9c2205994171a578": {
+    "title": "AdviSD: Learning to Advise Frontier LLMs via Targeted Multi-Turn Self-Distillation",
+    "category": "ai_models",
+    "score": 32
+  },
+  "310ecadfee307250": {
+    "title": "Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE",
+    "category": "ai_models",
+    "score": 34
+  },
+  "152f8dea5cc2585e": {
+    "title": "LongHarness Bench: Stress-Testing Language Model Harnesses for Long-Context Reasoning",
+    "category": "ai_models",
+    "score": 29
+  },
+  "d3f1a422ad6f48b7": {
+    "title": "CLeaR: A Unified Framework for Resolving the Leakage-Degradation Dilemma in Style Transfer",
+    "category": "ai_models",
+    "score": 25
+  },
+  "99a109c15e0e4dbe": {
+    "title": "French Inflation Accelerates to Highest in Two Years",
+    "category": "ai_models",
+    "score": 30
+  },
+  "f5e6f6c8e1401fd8": {
+    "title": "Airbnb\u2019s Bet on Experience-Driven Marketing",
+    "category": "ai_models",
+    "score": 20
+  },
+  "5914841194b1ae2a": {
+    "title": "Tullow Oil Shares Slump After Loss of Crucial Ghana Tax Dispute",
+    "category": "ai_models",
+    "score": 10
+  },
+  "0087b03defcac89e": {
+    "title": "Singapore\u2019s Temasek to Ramp Up Middle East Push, New Offices",
+    "category": "ai_models",
+    "score": 21
+  },
+  "d6d7a1e9017c4277": {
+    "title": "US Dollar to Gain From Capital Flows: Market Analysis",
+    "category": "ai_models",
+    "score": 15
+  },
+  "9e8beb48f9557152": {
+    "title": "Eruption of Indonesia's Krakatau Volcano Creates Islands",
+    "category": "ai_models",
+    "score": 7
+  },
+  "b68d21fa2bfc2557": {
+    "title": "US Fund Accuses Trader Radiant World of Fraud in Swiss Complaint",
+    "category": "ai_models",
+    "score": 13
+  },
+  "6ca3a3520e15d194": {
+    "title": "Turkish Stocks Set to Enter Bear Market on Fund Turmoil",
+    "category": "ai_models",
+    "score": 13
+  },
+  "a125e495a2ebeeff": {
+    "title": "RBC Says 30-Year Treasury Yield at 6% Is Possible",
+    "category": "ai_models",
+    "score": 26
+  },
+  "ffae338ce758cab0": {
+    "title": "France\u2019s 10-Year Bond Risk Premium Rises to 120 Basis Points",
+    "category": "ai_models",
+    "score": 17
+  },
+  "6176e5a7259e1dc0": {
+    "title": "Erdogan Hands Turkey Investment Fund Cleanup to Vice President",
+    "category": "ai_models",
+    "score": 16
+  },
+  "6cb35887c64dcf62": {
+    "title": "Clearlake Wraps Up $1 Billion CFO Trade After Rejigging Deal",
+    "category": "ai_models",
+    "score": 20
+  },
+  "17a949e9ee1ff4d2": {
+    "title": "Yen Strengthens Past 157 Per Dollar, Outperforming G-10 Peers",
+    "category": "ai_models",
+    "score": 12
+  },
+  "a16d0c4e06ea9bbe": {
+    "title": "China Crude Comeback Loses Steam as Iran War Enters Eighth Month",
+    "category": "ai_models",
+    "score": 29
+  },
+  "4a50a92187d8fe30": {
+    "title": "Kenyan Inflation Accelerates to 32-Month High in September",
+    "category": "ai_models",
+    "score": 14
+  },
+  "28f56336ad918e07": {
+    "title": "Real Estate Stocks Are a Bold Bet on Monetary Policy Reversal",
+    "category": "ai_models",
+    "score": 15
   }
 }
