@@ -49521,5 +49521,245 @@
     "title": "The Academy is all-in on YouTube\u2019s Oscars broadcast: \u201cIt almost feels risky not to do it\u201d",
     "category": "ai_models",
     "score": 18
+  },
+  "395a716aebfdfb67": {
+    "title": "The Model Is the Easy Half",
+    "category": "ai_models",
+    "score": 3
+  },
+  "5b5e3632f97dc139": {
+    "title": "Quail: Speed up AI-SQL by jointly optimizing query planner and inference engine",
+    "category": "ai_models",
+    "score": 6
+  },
+  "028b20a4e08ce376": {
+    "title": "Eleven v4: Our most expressive text-to-speech AI model yet",
+    "category": "ai_models",
+    "score": 4
+  },
+  "97c94e6a1e7a4b84": {
+    "title": "Show HN: Alter Zero \u2013 RAM-efficient agent for coding, security and automation",
+    "category": "ai_models",
+    "score": 7
+  },
+  "8f11676f5c7c2af1": {
+    "title": "TaskBridge: Bridging Unsupervised Tabular Anomaly Detection and In-Context Learning via Virtual Tasks",
+    "category": "ai_models",
+    "score": 39
+  },
+  "3d2e7041a137c3f6": {
+    "title": "JudgeCast: Time Series Forecasting with Experience-Informed Covariate Judgements",
+    "category": "ai_models",
+    "score": 22
+  },
+  "fb64cde4f1d1da98": {
+    "title": "Chinese-Jev: Bringing System One Model to Chinese-Language Tasks",
+    "category": "ai_models",
+    "score": 29
+  },
+  "d2ebdb560f5c3184": {
+    "title": "VStress: Correlation-Aware Auditing and Adaptive Budget Allocation for Repeated Verifiers",
+    "category": "ai_models",
+    "score": 27
+  },
+  "f96ff87c1b92977e": {
+    "title": "Beyond Readability: Evaluating Task Information Recoverability",
+    "category": "ai_models",
+    "score": 32
+  },
+  "4784d57d81928a43": {
+    "title": "Controlled Decoding Attacks on Black-Box LLMs",
+    "category": "ai_models",
+    "score": 40
+  },
+  "f28a266e4d96ee4f": {
+    "title": "Purlin: Separating Orchestration from the Datapath of Collectives",
+    "category": "ai_models",
+    "score": 24
+  },
+  "27893c638bcf173b": {
+    "title": "Cool the Sampler, Not the Learner: Sampling Temperature Moves the Staleness Cliff of Importance-Corrected GRPO",
+    "category": "ai_models",
+    "score": 23
+  },
+  "a4d9a5a6fb314d37": {
+    "title": "ER-JEPA: Experience Replay Improves Joint-Embedding Predictive Learning in Language Models",
+    "category": "ai_models",
+    "score": 34
+  },
+  "cd5e39f3f9fd87fa": {
+    "title": "Scalable Diffusion SBI for Compositional Inference under Simulator Misspecification",
+    "category": "ai_models",
+    "score": 37
+  },
+  "dcea8c59c44a632f": {
+    "title": "Fine-Tuning on Self-Generated and Reward-Weighted Data: Learning Dynamics, Convergence Rates, and Benefits of Off-Policyness",
+    "category": "ai_models",
+    "score": 33
+  },
+  "f7d6256483ef5bd1": {
+    "title": "Dual-Channel Robust Group-Relative Policy Optimization via Advantage and Sequence-Weight Estimation",
+    "category": "ai_models",
+    "score": 27
+  },
+  "b8a464749d898e7a": {
+    "title": "Safe-by-Design Learning via Energy-based Neural Networks",
+    "category": "ai_models",
+    "score": 34
+  },
+  "df2ad402a5ce0d1e": {
+    "title": "DispFlow-GS: Displacement Flow Supervision with Motion Disentangling for Monocular Deformable 3D Gaussian Splatting",
+    "category": "ai_models",
+    "score": 38
+  },
+  "ac572081268c8715": {
+    "title": "SCA: Spatial Credit Assignment for Reinforcement Learning of GUI Agents",
+    "category": "ai_models",
+    "score": 39
+  },
+  "d9764cab89e0fe1d": {
+    "title": "WeLike2Party! In-Context Motion Transfer for Multi-Human Image Animation",
+    "category": "ai_models",
+    "score": 33
+  },
+  "c11192640992829a": {
+    "title": "CoEM: Empowering Long-Context Reasoning with Commit-on-Evidence Memory",
+    "category": "ai_models",
+    "score": 34
+  },
+  "a6ec4e9fbc9825f5": {
+    "title": "VLALight: A Vision-Language-Action Model for Traffic Signal Control",
+    "category": "ai_models",
+    "score": 29
+  },
+  "17254caa57ada4ae": {
+    "title": "Learn from the Gap: Differential-Aware Advantage Pruning with Adaptive Rollout Sampling for GRPO",
+    "category": "ai_models",
+    "score": 31
+  },
+  "cb05debd0a45694f": {
+    "title": "Dating the Model: Hidden Dates in System Prompts Affect LLM Evaluation",
+    "category": "ai_models",
+    "score": 33
+  },
+  "f5c6503dba00c191": {
+    "title": "SFE-VGGT: Source-Free VGGT Distillation for Event-Based Monocular Depth Estimation",
+    "category": "ai_models",
+    "score": 37
+  },
+  "d2d00d7406e71adf": {
+    "title": "Neuro-Symbolic Computer Use: Learning Reusable Policies for Reliable and Efficient Execution",
+    "category": "ai_models",
+    "score": 34
+  },
+  "fec72a1841a56966": {
+    "title": "State Transport Routing for Short-horizon Adaptation in Multi-horizon Photovoltaic Forecasting",
+    "category": "ai_models",
+    "score": 32
+  },
+  "8ff4607aeef53345": {
+    "title": "Track-and-Complete: Learning Humanoid Skills from a Single Failed Human Video",
+    "category": "ai_models",
+    "score": 32
+  },
+  "b8256deaec64287f": {
+    "title": "PrecogUI: Proactive GUI Agents via Pre-cognitive Simulation and Experience Retrieval",
+    "category": "ai_models",
+    "score": 33
+  },
+  "71e6ed4c5cc0f344": {
+    "title": "America.gov gets really weird when you ask it about Minecraft, but it\u2019s not a glitch",
+    "category": "ai_models",
+    "score": 7
+  },
+  "22cdc3a1949b274c": {
+    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+    "category": "ai_models",
+    "score": 11
+  },
+  "77f5816f01c1ac72": {
+    "title": "Tata Heir Sees Listing Limit Group\u2019s Ability to Backstop Units",
+    "category": "ai_models",
+    "score": 18
+  },
+  "5dd353c0aa1cb6a4": {
+    "title": "China Factory Activity Returns to Expansion as Outlook Brightens",
+    "category": "ai_models",
+    "score": 22
+  },
+  "2e565b6d3cca635c": {
+    "title": "Record Quarter Primes India IPO Market for Blockbuster Year",
+    "category": "ai_models",
+    "score": 16
+  },
+  "6ee898107ca6f5a6": {
+    "title": "China\u2019s Launches \u2018Mini Stimulus\u2019 to Counter Slowdown",
+    "category": "ai_models",
+    "score": 21
+  },
+  "de7c0b420d51cd5f": {
+    "title": "Stock Analyst Hiring Boom in India Defies Wall Street\u2019s Pullback",
+    "category": "ai_models",
+    "score": 17
+  },
+  "018c2173d1812860": {
+    "title": "Funds Buy Australian Bonds on Signal Rate Hikes Are Nearing End",
+    "category": "ai_models",
+    "score": 19
+  },
+  "dd9255b248416c9a": {
+    "title": "BlackRock's Hambro Sees New Commodity Cycle",
+    "category": "ai_models",
+    "score": 16
+  },
+  "edba5702c067a3b3": {
+    "title": "Gold Fields Said to Mull Sweeter Northern Star Bid With Cash",
+    "category": "ai_models",
+    "score": 17
+  },
+  "ca33d8bcd66cd1b8": {
+    "title": "Can Treasury Yields Hit 6%?",
+    "category": "ai_models",
+    "score": 19
+  },
+  "af8bc56a9ed2b21c": {
+    "title": "Dollar Powers to Best Month Since June on Fed\u2019s Inflation Fight",
+    "category": "ai_models",
+    "score": 16
+  },
+  "93a8566c4865c260": {
+    "title": "Mongolia\u2019s Stocks Beat Everybody This Quarter on Commodity Boom",
+    "category": "ai_models",
+    "score": 9
+  },
+  "43c26d09723ea32a": {
+    "title": "Samsung, SK Hynix Almost Done With Buybacks That Boosted Kospi",
+    "category": "ai_models",
+    "score": 19
+  },
+  "13257fe5b7c0463a": {
+    "title": "Gold Steady as Traders Weigh Lower Oil Against Higher Yields",
+    "category": "ai_models",
+    "score": 22
+  },
+  "750d211c991363fe": {
+    "title": "Morgan Stanley Bank Analyst Graseck to Retire After 40 Years",
+    "category": "ai_models",
+    "score": 9
+  },
+  "28063f25ffced017": {
+    "title": "Twitch is using AI to figure out which streamers shouldn\u2019t get ad dollars",
+    "category": "ai_models",
+    "score": 15
+  },
+  "e0b5505564da8738": {
+    "title": "TikTok wants creators to see green: Its latest fintech feature will pay them for brand deals within 30 days",
+    "category": "ai_models",
+    "score": 25
+  },
+  "2505ca94f4597d9e": {
+    "title": "Facebook goes back to the Forum age with its new app",
+    "category": "ai_models",
+    "score": 22
   }
 }
