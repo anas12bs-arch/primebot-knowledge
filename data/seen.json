@@ -50450,5 +50450,260 @@
     "title": "Creator content is becoming paid media thanks to ShopMy\u2019s new product",
     "category": "ai_models",
     "score": 32
+  },
+  "23efb9007a88cb6b": {
+    "title": "Language models will hide 'bad news' in reports by default",
+    "category": "ai_models",
+    "score": 9
+  },
+  "2ff8c8ecc34d871f": {
+    "title": "PSSA: A non-transformer language model written from scratch in Rust",
+    "category": "ai_models",
+    "score": 8
+  },
+  "c3240b14f8605241": {
+    "title": "Google Grapples with Employee Skepticism About New Gemini Model",
+    "category": "ai_models",
+    "score": 7
+  },
+  "658d39719835c8f3": {
+    "title": "Ask HN: My agent went haywire, does this output mean anything?",
+    "category": "ai_models",
+    "score": 4
+  },
+  "8451e6726f367367": {
+    "title": "Automating coherent long-form video generation",
+    "category": "ai_models",
+    "score": 10
+  },
+  "876a2bcc3c06c722": {
+    "title": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
+    "category": "ai_models",
+    "score": 39
+  },
+  "8cc4efb9171560be": {
+    "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
+    "category": "ai_models",
+    "score": 30
+  },
+  "e35f0319f694b4f0": {
+    "title": "Semifactual Credit-Augmented Policy Optimization",
+    "category": "ai_models",
+    "score": 45
+  },
+  "820cd11f3823227b": {
+    "title": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
+    "category": "ai_models",
+    "score": 30
+  },
+  "90ccc92d9b8b86b2": {
+    "title": "Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
+    "category": "ai_models",
+    "score": 32
+  },
+  "c3fa9b8d1c2c94f7": {
+    "title": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
+    "category": "ai_models",
+    "score": 39
+  },
+  "31bbfa50d7324a9b": {
+    "title": "AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents",
+    "category": "ai_models",
+    "score": 35
+  },
+  "bb5b8e81c2fde865": {
+    "title": "Image Classifiers are Efficient Self-Supervised Video Representation Learners",
+    "category": "ai_models",
+    "score": 34
+  },
+  "91aa1bcbfcfce5f8": {
+    "title": "Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning?",
+    "category": "ai_models",
+    "score": 37
+  },
+  "dd0b9a20aa0e1524": {
+    "title": "EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery",
+    "category": "ai_models",
+    "score": 29
+  },
+  "b5628636b6c18740": {
+    "title": "Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?",
+    "category": "ai_models",
+    "score": 36
+  },
+  "3a51c3a14d61a9fd": {
+    "title": "I Have a Stream: Making Self-Supervised Learning Work on Continuous Video",
+    "category": "ai_models",
+    "score": 32
+  },
+  "256a0500c567609c": {
+    "title": "Turbo Harness: Instance-Adaptive Harness Optimization",
+    "category": "ai_models",
+    "score": 29
+  },
+  "85a724a6a988f80c": {
+    "title": "WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents",
+    "category": "ai_models",
+    "score": 42
+  },
+  "35ddd0979c5c3319": {
+    "title": "Cogentic: Multi-Agent Orchestration for Automated Proof Discovery",
+    "category": "ai_models",
+    "score": 37
+  },
+  "562185d7d34c31da": {
+    "title": "MatLoom: Layered Text-to-Material Generation in a Compact Program Space",
+    "category": "ai_models",
+    "score": 28
+  },
+  "2b1416be4be3ebc3": {
+    "title": "Atomizer-IO: Beyond Pixels, Patches and Grids",
+    "category": "ai_models",
+    "score": 27
+  },
+  "86306a3fa5ee44b1": {
+    "title": "GLARE: Generating Listening Heads with Appropriate Reactions",
+    "category": "ai_models",
+    "score": 35
+  },
+  "f126dd7cc80f85ff": {
+    "title": "Scaling Laws for Looped Mixture of Experts",
+    "category": "ai_models",
+    "score": 31
+  },
+  "9cf889e5877cf0b2": {
+    "title": "Compression Footprints as Security Signals for Model-Poisoning Defense in Federated Learning",
+    "category": "ai_models",
+    "score": 25
+  },
+  "237b7afc798c2ea8": {
+    "title": "DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents",
+    "category": "ai_models",
+    "score": 38
+  },
+  "17f88ef66d700431": {
+    "title": "Looped Diffusion Transformer",
+    "category": "ai_models",
+    "score": 39
+  },
+  "203f86468b7918d8": {
+    "title": "How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?",
+    "category": "ai_models",
+    "score": 36
+  },
+  "b08e93be1898623f": {
+    "title": "How Much Is an AI Token Worth? Scaling Laws for Wild AI-Generated Web Text",
+    "category": "ai_models",
+    "score": 26
+  },
+  "8485e19d00b759de": {
+    "title": "Disentangling Computation in Multi-Task Neural Networks with the Green's Operator",
+    "category": "ai_models",
+    "score": 32
+  },
+  "130458f6f191a3de": {
+    "title": "Global Bond Funds Are Rewarding the Early Movers on Inflation",
+    "category": "ai_models",
+    "score": 18
+  },
+  "be1bedb47f075e1f": {
+    "title": "FlyDubai Incident: What We Know",
+    "category": "ai_models",
+    "score": 14
+  },
+  "1519d773d973ab08": {
+    "title": "Ten Reasons Investors Are Driving Government Bond Yields Higher",
+    "category": "ai_models",
+    "score": 18
+  },
+  "bf3ed8374ebedd7c": {
+    "title": "Copper Steadies With Focus on Supplies During China\u2019s Holiday",
+    "category": "ai_models",
+    "score": 17
+  },
+  "bd54742f479cc4b6": {
+    "title": "Ben Affleck on AI and Hollywood Economics",
+    "category": "ai_models",
+    "score": 14
+  },
+  "f6fb3ea3076847f7": {
+    "title": "FTSE 100 Live: UK Stocks Set to Fall to Kick Off Fourth Quarter",
+    "category": "ai_models",
+    "score": 4
+  },
+  "56a20e01c6f3a557": {
+    "title": "First Abu Dhabi Bank Seen Syndicating $5 Billion Nigeria Swap",
+    "category": "ai_models",
+    "score": 12
+  },
+  "00336f85ff2eecb6": {
+    "title": "Conan O'Brien on Podcast Empire and Reaching Audiences",
+    "category": "ai_models",
+    "score": 14
+  },
+  "bf6a55854b94727a": {
+    "title": "Mitchell: Hormuz Oil Exports Up With Shuttle Tankers Use",
+    "category": "ai_models",
+    "score": 30
+  },
+  "f242a4337808e748": {
+    "title": "India Brushes Off Stock Struggles to Set IPO Record in September",
+    "category": "ai_models",
+    "score": 13
+  },
+  "575c0f5d649c236d": {
+    "title": "Ares Leads Phoenix Tower Debt Package With $2 Billion Facility",
+    "category": "ai_models",
+    "score": 14
+  },
+  "b5c7a52a760448b7": {
+    "title": "Balfour Beatty Surge Puts Nuclear Plant Builder Back in FTSE 100",
+    "category": "ai_models",
+    "score": 21
+  },
+  "1fddfbdc06ee5504": {
+    "title": "Billionaire Leader Brings Debt-Driven Spending to Frugal Czechs",
+    "category": "ai_models",
+    "score": 16
+  },
+  "f7fcbcaa1d8a64a7": {
+    "title": "India Oil Refiners Change Tactics and Hire Ships to Cross Hormuz",
+    "category": "ai_models",
+    "score": 16
+  },
+  "fb14939e707bfb8f": {
+    "title": "The Biggest Jump in Global Crop Prices Since 2022 Threatens to Boost Inflation",
+    "category": "ai_models",
+    "score": 23
+  },
+  "4e6423701a0c4623": {
+    "title": "India\u2019s $133 Billion Cash Deluge Puts RBI on Hawkish Path",
+    "category": "ai_models",
+    "score": 23
+  },
+  "1b5013c3422c6064": {
+    "title": "Russia Summons Danish Ambassador Over Helicopter Dispute",
+    "category": "ai_models",
+    "score": 8
+  },
+  "631a5b8e51e0c23e": {
+    "title": "AI Boom Powers Micron Earnings, OpenAI Blames Moonshoot for Data Extraction",
+    "category": "ai_models",
+    "score": 26
+  },
+  "434caa4c3f7079db": {
+    "title": "Laos Eyes Second Junk Dollar Bond Since 2025 Market Return",
+    "category": "ai_models",
+    "score": 20
+  },
+  "5bf932f324b096fc": {
+    "title": "Surprise: Neon is also making an SCP Foundation film, but correctly",
+    "category": "ai_models",
+    "score": 18
+  },
+  "02fa6c653638a650": {
+    "title": "Noel Miller on why TMG Studios is breaking into fictional podcasts\u2013and why it won\u2019t touch gen AI",
+    "category": "ai_models",
+    "score": 25
   }
 }
