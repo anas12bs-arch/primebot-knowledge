@@ -51189,5 +51189,225 @@
     "title": "AI Animation, IP and the Next Phase of Creative Production",
     "category": "ai_models",
     "score": 30
+  },
+  "f66dfe8c16b6ec05": {
+    "title": "Show HN: QLCodePreview, syntax highlighting in Finder's Quick Look",
+    "category": "ai_models",
+    "score": 5
+  },
+  "8fc038c2bf575413": {
+    "title": "Google's Project Suncatcher prototype satellite is in orbit",
+    "category": "ai_models",
+    "score": 6
+  },
+  "f3f131fa57a3b682": {
+    "title": "Show HN: Grist, open source coding harness",
+    "category": "ai_models",
+    "score": 5
+  },
+  "a6c2d84eb3fe5215": {
+    "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
+    "category": "ai_models",
+    "score": 26
+  },
+  "91b627bc7b0de7f0": {
+    "title": "Sphere Encoder 2",
+    "category": "ai_models",
+    "score": 25
+  },
+  "ac9ba7b5f44cb662": {
+    "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+    "category": "ai_models",
+    "score": 37
+  },
+  "cc61231f7447ce7b": {
+    "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+    "category": "ai_models",
+    "score": 50
+  },
+  "9a07fe4b4d471034": {
+    "title": "ROWBench: Do Video Models Render What the Program Specifies?",
+    "category": "ai_models",
+    "score": 35
+  },
+  "eb1511cd5cd61258": {
+    "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+    "category": "ai_models",
+    "score": 39
+  },
+  "6f1d33e8c36ce509": {
+    "title": "Embedding Prediction Helps Image Generation",
+    "category": "ai_models",
+    "score": 29
+  },
+  "837d05800cba81d0": {
+    "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+    "category": "ai_models",
+    "score": 35
+  },
+  "5cb69f2d8484a839": {
+    "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+    "category": "ai_models",
+    "score": 34
+  },
+  "53715849b3832352": {
+    "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
+    "category": "ai_models",
+    "score": 31
+  },
+  "6c17783debcb843e": {
+    "title": "TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning",
+    "category": "ai_models",
+    "score": 27
+  },
+  "26fdf0d0b1d98738": {
+    "title": "FERPO: Forward Entropy-Regularized Policy Optimization",
+    "category": "ai_models",
+    "score": 38
+  },
+  "5a0f75dd80d9a732": {
+    "title": "HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation",
+    "category": "ai_models",
+    "score": 39
+  },
+  "752df48f5c0ff80c": {
+    "title": "InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation",
+    "category": "ai_models",
+    "score": 38
+  },
+  "7cf0dcd8d0bdaae5": {
+    "title": "Cost-augmented Schr\u00f6dinger bridges on graphs are exactly solvable: a Feynman-Kac tilt replaces learned control",
+    "category": "ai_models",
+    "score": 30
+  },
+  "9f1274798d658933": {
+    "title": "Hierarchical Continuous Diffusion Language Models",
+    "category": "ai_models",
+    "score": 39
+  },
+  "0b14cc49d8f32ba1": {
+    "title": "The Missing Primitive: Diagnosing and Repairing Mathematical Reasoning in Large Language Models",
+    "category": "ai_models",
+    "score": 32
+  },
+  "7df6a7a3a554ce4e": {
+    "title": "Trust the Direction, Search the Step: Zero-and-First-Order Methods for LLM Fine-Tuning",
+    "category": "ai_models",
+    "score": 37
+  },
+  "ae2cb8a011ceb7fd": {
+    "title": "Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features",
+    "category": "ai_models",
+    "score": 35
+  },
+  "7a828813f78f8c51": {
+    "title": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
+    "category": "ai_models",
+    "score": 28
+  },
+  "fe2c61481132ac44": {
+    "title": "Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry",
+    "category": "ai_models",
+    "score": 27
+  },
+  "5a2480e5f87b5858": {
+    "title": "Decoding Looped Transformers Better for (Almost) Free",
+    "category": "ai_models",
+    "score": 38
+  },
+  "23b711d3a3f1b734": {
+    "title": "SoftServe: A Scalable Quasi-Newton Method for Deep Learning",
+    "category": "ai_models",
+    "score": 29
+  },
+  "b1f6087f6cad491f": {
+    "title": "OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning",
+    "category": "ai_models",
+    "score": 34
+  },
+  "f78f5f9768d3582e": {
+    "title": "Generative Cinematographer: Composing Camera and Object Motion in 3D",
+    "category": "ai_models",
+    "score": 33
+  },
+  "f5ab5aa72be0d741": {
+    "title": "Asia Bankers Hope Japan, Australia Can Lift M&A From Doldrums",
+    "category": "ai_models",
+    "score": 26
+  },
+  "9f28510342a85475": {
+    "title": "Indonesia\u2019s 30% Stock Rout Lures Swedish Fund in First-Ever Bet",
+    "category": "ai_models",
+    "score": 10
+  },
+  "ccd3a1dc1d291061": {
+    "title": "Australia Sees Export Income Rising 5% on High Energy Prices",
+    "category": "ai_models",
+    "score": 20
+  },
+  "7624777a47974ce0": {
+    "title": "Nvidia-Backed Firmus Prices Landmark IPO at A$11 a Share",
+    "category": "ai_models",
+    "score": 23
+  },
+  "cf43d4f1dc8263ca": {
+    "title": "Treasuries Rebound as Global Bond Rout Continues",
+    "category": "ai_models",
+    "score": 23
+  },
+  "619e49caf37044b2": {
+    "title": "US May Add Carrier and 10,000 Troops to Mideast, Official Says",
+    "category": "ai_models",
+    "score": 21
+  },
+  "27bbdbfabc507c0b": {
+    "title": "Anthropic Said to Target Mega-IPO Before Thanksgiving Holiday",
+    "category": "ai_models",
+    "score": 20
+  },
+  "8cc104352cd0ce7a": {
+    "title": "Gold Steadies as Easing US Bond Yields Reduce Rate-Hike Bets",
+    "category": "ai_models",
+    "score": 19
+  },
+  "f37f99a7e4478712": {
+    "title": "What Do Entertainment Industry Leaders Look for in a Pitch?",
+    "category": "ai_models",
+    "score": 11
+  },
+  "6f6d4fac5274d767": {
+    "title": "Bloomberg Screentime: AI, Streaming Wars and Deals",
+    "category": "ai_models",
+    "score": 15
+  },
+  "3cf31e22754088bd": {
+    "title": "NBCUniversal's Donna Langley on Film, TV and Streaming",
+    "category": "ai_models",
+    "score": 14
+  },
+  "c60001c375df0e1d": {
+    "title": "Australia-US Bond Yield Gap Nears Zero as Policy Paths Diverge",
+    "category": "ai_models",
+    "score": 11
+  },
+  "bcba368803a8ead4": {
+    "title": "Paramount Dealmaker Says Warner Merger Is About Growth, Not Cuts",
+    "category": "ai_models",
+    "score": 20
+  },
+  "d47c01e8157b4fd6": {
+    "title": "RedBird's Cardinale on Paramount Future & Investing",
+    "category": "ai_models",
+    "score": 22
+  },
+  "648164e715b1775c": {
+    "title": "Live Nation is capitalizing on the creator economy with a new firm",
+    "category": "ai_models",
+    "score": 23
+  },
+  "1ffe0fb3dcd6963c": {
+    "title": "Netflix gets a bite of \u2018Chicken Shop Date\u2019",
+    "category": "ai_models",
+    "score": 13
   }
 }
