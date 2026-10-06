@@ -52854,5 +52854,215 @@
     "title": "TikTok\u2019s 2025 economic impact included support for 410,000 jobs in the U.S.",
     "category": "ai_models",
     "score": 24
+  },
+  "500d9b290f2c9620": {
+    "title": "Ask HN: Are there AI models for generating sounds based on a text and reference?",
+    "category": "ai_models",
+    "score": 8
+  },
+  "363ec5c33f491dd2": {
+    "title": "Nova Sprint. Coordinate AI sprints across multiple models and harnesses",
+    "category": "ai_models",
+    "score": 8
+  },
+  "d8707991b7044b02": {
+    "title": "Off-Policy Merging Beats On-Policy Self-Distillation for Continual Learning",
+    "category": "ai_models",
+    "score": 34
+  },
+  "47ec499af29e48a0": {
+    "title": "Certification of Real Images through Calibrated Content Authentication",
+    "category": "ai_models",
+    "score": 34
+  },
+  "6a814f1f2e0a1c8d": {
+    "title": "Finite-Sample Distribution Theory and Efficient Large-Scale Inference for Online Quantile Regression",
+    "category": "ai_models",
+    "score": 30
+  },
+  "0d2737fed1856009": {
+    "title": "Weave Mamba Fusion: Global Cross-Scale Interaction for Lightweight Face Detection",
+    "category": "ai_models",
+    "score": 41
+  },
+  "feffa3e26578d4ba": {
+    "title": "CCQ: A Multi-State Child Care Quality Dataset to Support AI for Children's Health Research",
+    "category": "ai_models",
+    "score": 27
+  },
+  "c4713cea28ee7167": {
+    "title": "Imagine to Act: High-Fidelity Data Synthesis via Image Editing World Model for Scalable GUI Agent Training",
+    "category": "ai_models",
+    "score": 43
+  },
+  "7735d9a71cbb10cb": {
+    "title": "Curriculum Brain: Constructing Curriculum Knowledge Graphs as a Substrate for Cognitive Diagnosis",
+    "category": "ai_models",
+    "score": 34
+  },
+  "931b3874a5bf0792": {
+    "title": "Hierarchical Reinforcement Learning for Collision-Free Locomotion of an Underactuated Biped",
+    "category": "ai_models",
+    "score": 30
+  },
+  "dba5b28f3c238f18": {
+    "title": "TurboPairFormer: Fast and Stable Protein Folding Model Training with an Optimized Triangle Attention Kernel",
+    "category": "ai_models",
+    "score": 35
+  },
+  "d51ea339611d5a75": {
+    "title": "The Blind Spot Paradox: When Adaptive Classifiers Defeat Drift Detectors",
+    "category": "ai_models",
+    "score": 34
+  },
+  "3545c779ea1e63e5": {
+    "title": "RepICL: Reusable In-Context Prediction Across Heterogeneous Representation Spaces",
+    "category": "ai_models",
+    "score": 36
+  },
+  "f0ef48057a586b04": {
+    "title": "CACFG: Curvature-Aware Classifier-Free Guidance and Optimal Control",
+    "category": "ai_models",
+    "score": 34
+  },
+  "b0242240bb738f17": {
+    "title": "PhaseMatcher: Autoregressive Phase-Set Identification with Spectral Decomposition",
+    "category": "ai_models",
+    "score": 26
+  },
+  "c9c02fd3ba6bea58": {
+    "title": "AnchorPose for Geometry-Aware MOF Assembly through Meso-Grained Pose Generation",
+    "category": "ai_models",
+    "score": 30
+  },
+  "98f7869b4df783b6": {
+    "title": "HLA: Expressive Hybrid Linear Attention via Chunk-Wise Dynamic Mixing",
+    "category": "ai_models",
+    "score": 41
+  },
+  "399b392891db4338": {
+    "title": "Dual-Rate Force-Image Control with Model-Based Orientation Limits for Robotic Ultrasound",
+    "category": "ai_models",
+    "score": 31
+  },
+  "f85ee28813e6c893": {
+    "title": "Adaptive-Shot Hybrid Quantum Anomaly Detection for Tactile Internet Security: Reliability-Aware Measurement Allocation Under Resource Constraints",
+    "category": "ai_models",
+    "score": 39
+  },
+  "2555b1abdcef9784": {
+    "title": "HiER-BLS: A Hierarchy-Guided and Error-Correcting Robust Incremental Broad Learning System",
+    "category": "ai_models",
+    "score": 37
+  },
+  "33e0f1f2e8968a9b": {
+    "title": "Request Order Matters: Cache-History Sensitivity in Selective KV-Cache Reuse for Rolling Agents",
+    "category": "ai_models",
+    "score": 31
+  },
+  "7fe14622b006f794": {
+    "title": "Selecting Long-Horizon Trajectories for Reliable and Efficient Terminal-Agent Training",
+    "category": "ai_models",
+    "score": 36
+  },
+  "d38fe9a39a75692f": {
+    "title": "Measurement-First Auditing of Agentic Leaderboards: Contamination Susceptibility, Matched-Control Re-evaluation, and Scorer Validation",
+    "category": "ai_models",
+    "score": 47
+  },
+  "4d200dac18bf6765": {
+    "title": "Data-Driven Personas for Survey Simulation: Insights into Simulation Alignment Across Data-Access Regimes",
+    "category": "ai_models",
+    "score": 39
+  },
+  "0bdd34b608ebc32a": {
+    "title": "Usefulness of Quantile-Aware Diffusion Modeling for Highly Imbalanced Tabular Data",
+    "category": "ai_models",
+    "score": 40
+  },
+  "cb6ff95a192b1730": {
+    "title": "Who Keeps the Gains from Personal AI Assistants? Seller Adaptation and the Unassisted in a Language-Model Market Simulation",
+    "category": "ai_models",
+    "score": 33
+  },
+  "b98c6fd989d96257": {
+    "title": "Transporting Unsecured Stacked Payloads with a Quadrupedal Robot via Multi-Objective Reinforcement Learning",
+    "category": "ai_models",
+    "score": 28
+  },
+  "f1962ee38e4ecb30": {
+    "title": "New World Launches Debt Swap for Nearly $1 Billion of Bonds",
+    "category": "ai_models",
+    "score": 21
+  },
+  "704b41b80b1fae2c": {
+    "title": "Philippines\u2019 Inflation Tops Estimates on Pricier Food, Fuel",
+    "category": "ai_models",
+    "score": 16
+  },
+  "3817c3e05341db46": {
+    "title": "S&P 500 Closes In on Record High as Tech Rallies: Markets Wrap",
+    "category": "ai_models",
+    "score": 30
+  },
+  "4f22ab71fba0f6bd": {
+    "title": "GPIF Didn\u2019t Discuss Portfolio Allocation, Damping Speculation",
+    "category": "ai_models",
+    "score": 20
+  },
+  "6341ea5cdbf9d89e": {
+    "title": "Citi Strategist Says JGBs Becoming Appealing as Yields Near Peak",
+    "category": "ai_models",
+    "score": 25
+  },
+  "c594ff75002b2ff3": {
+    "title": "Nidec Scandal Sends Bonds to Bottom in Test for New President",
+    "category": "ai_models",
+    "score": 19
+  },
+  "5eba81f2bfc500f1": {
+    "title": "Japan's Takaichi Pitches Food Tax Cut, Investment Plan",
+    "category": "ai_models",
+    "score": 17
+  },
+  "5fa03c705df4b6e2": {
+    "title": "Higher Bond Yields Will Pressure Australia Budget, Chalmers Says",
+    "category": "ai_models",
+    "score": 13
+  },
+  "85da767119ec5524": {
+    "title": "Gold Steadies as Stronger Dollar and Yields Weigh on Rate Path",
+    "category": "ai_models",
+    "score": 19
+  },
+  "8b6428cc614a8625": {
+    "title": "Australia\u2019s Consumer Confidence Tumbles Further After Rate Hike",
+    "category": "ai_models",
+    "score": 23
+  },
+  "d448fd13f44a15ac": {
+    "title": "A Trader\u2019s Guide to Navigating Malaysia\u2019s 2027 Budget Plan",
+    "category": "ai_models",
+    "score": 18
+  },
+  "aa352f312e1728d6": {
+    "title": "There\u2019s now a monthly virtual support group for creators struggling with their mental health",
+    "category": "ai_models",
+    "score": 29
+  },
+  "0080fef8d17a51c4": {
+    "title": "Top 5 Branded Videos of the Week: Flippin\u2019 robotics",
+    "category": "ai_models",
+    "score": 23
+  },
+  "71b9b661be7f4f26": {
+    "title": "Top 50 Most Subscribed YouTube Channels Worldwide \u2022 Week Of 10/04/2026",
+    "category": "ai_models",
+    "score": 25
+  },
+  "80144c6842dfad65": {
+    "title": "Top 50 Most Viewed YouTube Channels Worldwide \u2022 Week Of 10/04/2026",
+    "category": "ai_models",
+    "score": 30
   }
 }
