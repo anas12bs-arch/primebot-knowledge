@@ -53809,5 +53809,225 @@
     "title": "Twitch has streaming deals in its new Shopping category",
     "category": "ai_models",
     "score": 22
+  },
+  "9ae345f7eb49c321": {
+    "title": "LGTM: A parody of modern AI adoption in the tech industry [video]",
+    "category": "ai_models",
+    "score": 7
+  },
+  "798566c23675842e": {
+    "title": "Biology, Buddhism and AI: the Platonic space model and the rogue agent swarm",
+    "category": "ai_models",
+    "score": 7
+  },
+  "9462b5f9e4181123": {
+    "title": "World Models' Last Exam in Physics",
+    "category": "ai_models",
+    "score": 40
+  },
+  "cf08928005c74ebd": {
+    "title": "Building Rome from a Single Image",
+    "category": "ai_models",
+    "score": 29
+  },
+  "17f0db2c62ff1f1e": {
+    "title": "QF3: Fast Flow RL with Filtered Q-Gradients",
+    "category": "ai_models",
+    "score": 33
+  },
+  "d57ef972c63cd861": {
+    "title": "Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective",
+    "category": "ai_models",
+    "score": 27
+  },
+  "12708468232f053e": {
+    "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
+    "category": "ai_models",
+    "score": 37
+  },
+  "e59a3ff985b0a1d3": {
+    "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
+    "category": "ai_models",
+    "score": 35
+  },
+  "229959c8ad1c28a7": {
+    "title": "DepthWorld: 3D World Model for Robot Manipulation",
+    "category": "ai_models",
+    "score": 45
+  },
+  "fd0b6ad347e5ca78": {
+    "title": "ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing",
+    "category": "ai_models",
+    "score": 26
+  },
+  "90b351a1e74d735a": {
+    "title": "Sherpa: Teaching LLMs to Teach Adaptively",
+    "category": "ai_models",
+    "score": 40
+  },
+  "490ff9fe25d2756b": {
+    "title": "CtrlCache: Accelerating Interactive Video World Models with Control-Aware Caching",
+    "category": "ai_models",
+    "score": 36
+  },
+  "bb19ad6eb3a9aacb": {
+    "title": "Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?",
+    "category": "ai_models",
+    "score": 30
+  },
+  "2c1755951a72cf07": {
+    "title": "AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model",
+    "category": "ai_models",
+    "score": 36
+  },
+  "b16f7c079829da83": {
+    "title": "Backend-Agnostic Sparse Attention for Fast High-Resolution Visual Generation",
+    "category": "ai_models",
+    "score": 41
+  },
+  "4fe3a75d86098e96": {
+    "title": "Data Leakage in Patch-Based Hyperspectral Image Classification: Quantifying the Impact of Spatial Overlap",
+    "category": "ai_models",
+    "score": 28
+  },
+  "3238b2c834efa71b": {
+    "title": "Rapid Fredholm stabilization of the Kuramoto--Sivashinsky equation with unrestricted, spatially-varying anti-diffusion",
+    "category": "ai_models",
+    "score": 19
+  },
+  "ba97aa7b5f0c1b95": {
+    "title": "VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning",
+    "category": "ai_models",
+    "score": 48
+  },
+  "30705d08b8429027": {
+    "title": "WorldSonus: Bringing Sound to Worlds",
+    "category": "ai_models",
+    "score": 40
+  },
+  "a76c8312f7b9b73b": {
+    "title": "Post-Training Semantic Lifting for 3D Gaussian Splatting: Separating Detector, Lifting and Representation Error",
+    "category": "ai_models",
+    "score": 25
+  },
+  "49b3795b4d4dd6b0": {
+    "title": "Neural Petri flows for chemical reactions",
+    "category": "ai_models",
+    "score": 27
+  },
+  "3cc595a70925e398": {
+    "title": "The Missing Minimal Pair: Stereotype Evaluation in LLMs",
+    "category": "ai_models",
+    "score": 28
+  },
+  "48ec3514ea5f27a0": {
+    "title": "Linear Bandits under Exact Sliding-Window Constraints",
+    "category": "ai_models",
+    "score": 26
+  },
+  "67a352e1f1a7fe73": {
+    "title": "Reinforcement Learning with Conformal Action Sets: An Application to Sequential Recommendation",
+    "category": "ai_models",
+    "score": 32
+  },
+  "22c2ea43b2fbca4c": {
+    "title": "On the Computational Tractability of Robust Bandits",
+    "category": "ai_models",
+    "score": 21
+  },
+  "300014f7c690cf6d": {
+    "title": "Denoising Hierarchical Representations: Joint Continuous Diffusion for Language Modeling",
+    "category": "ai_models",
+    "score": 34
+  },
+  "f38908bf91614a94": {
+    "title": "Optimal and Efficient Online Inverse Optimization",
+    "category": "ai_models",
+    "score": 25
+  },
+  "a21efa6d064b2a87": {
+    "title": "India's Central Bank Hikes Repo Rate By 25 Bps",
+    "category": "ai_models",
+    "score": 17
+  },
+  "9c64b786091994ef": {
+    "title": "China\u2019s Central Bank Adds Gold in September as Bullion Weakens",
+    "category": "ai_models",
+    "score": 17
+  },
+  "aaaca2dd3d441d78": {
+    "title": "ABN Amro Welcomes Dutch Govt.'s Plan to Cut Stake, CEO Says",
+    "category": "ai_models",
+    "score": 22
+  },
+  "ea801ea93f06fa90": {
+    "title": "Taiwan Claims Two Hong Kong Residents Involved in Spying on DPP Lawmaker",
+    "category": "ai_models",
+    "score": 7
+  },
+  "037fb420ded96e0a": {
+    "title": "Copper Steadies as AI-Driven Tech Stock Rally Stalls Near Record",
+    "category": "ai_models",
+    "score": 16
+  },
+  "63fdb8ac62361e5f": {
+    "title": "Partners Group Gets Creative to Fix Funds Hit by Redemption Wave",
+    "category": "ai_models",
+    "score": 15
+  },
+  "77281c961c0c3597": {
+    "title": "Dutch Government Plans to Halve ABN Amro Stake to 10.5%",
+    "category": "ai_models",
+    "score": 11
+  },
+  "53aede848f90f150": {
+    "title": "Iran Ramps Up Ship Attacks in Hormuz as Oil Flows Rise, Ebola Spreads to Kenya",
+    "category": "ai_models",
+    "score": 32
+  },
+  "bdcef6eebfabfb69": {
+    "title": "World Faces Risk Cocktail From AI, Oil and Debt, Says IMF Chief",
+    "category": "ai_models",
+    "score": 22
+  },
+  "bcfe57333204e369": {
+    "title": "Covenant Plans Mass Production of Cruise Missiles in Germany",
+    "category": "ai_models",
+    "score": 23
+  },
+  "4d01d57d115b4019": {
+    "title": "FTSE 100 Live: UK Bond Market Faces Fresh Test With Gilt Sale",
+    "category": "ai_models",
+    "score": 3
+  },
+  "4c12c54428a66549": {
+    "title": "MS Capital CEO on China Markets, Investment Strategy",
+    "category": "ai_models",
+    "score": 19
+  },
+  "7b5610543949c372": {
+    "title": "From Bitcoin To Tokenization, Crypto Optimism Returns",
+    "category": "ai_models",
+    "score": 29
+  },
+  "e19df427578240be": {
+    "title": "Kenya Sees First Ebola Case Imported From Congo",
+    "category": "ai_models",
+    "score": 23
+  },
+  "030e4ee8f089a5f1": {
+    "title": "India\u2019s RBI Lifts Rates for First Time in Nearly Four Years",
+    "category": "ai_models",
+    "score": 22
+  },
+  "de96db94562a6412": {
+    "title": "Floods, Storms Create \u20ac500 Billion Opportunity for Industrials",
+    "category": "ai_models",
+    "score": 23
+  },
+  "04ebf17a25671ab7": {
+    "title": "Why Dangote\u2019s Nigeria Refinery IPO Is Such a Big Deal for Africa",
+    "category": "ai_models",
+    "score": 27
   }
 }
