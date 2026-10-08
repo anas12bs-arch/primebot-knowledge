@@ -54519,5 +54519,235 @@
     "title": "Some TikTok users trust medical influencers more than their own doctors",
     "category": "ai_models",
     "score": 22
+  },
+  "a2c8f859aabbe1d2": {
+    "title": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+    "category": "ai_models",
+    "score": 9
+  },
+  "1e56654dc737e0cc": {
+    "title": "Liquid AI releases Pareto-frontier, multimodal decision model for the edge",
+    "category": "ai_models",
+    "score": 12
+  },
+  "fc3551604f3b1737": {
+    "title": "Tetris3D: 3D Scene Generation With Objects That Fit Together",
+    "category": "ai_models",
+    "score": 33
+  },
+  "ed74333ed8ca804c": {
+    "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
+    "category": "ai_models",
+    "score": 35
+  },
+  "da1c4a5b6e7ad57f": {
+    "title": "Decoupling Exploration from Optimization in RLVR",
+    "category": "ai_models",
+    "score": 41
+  },
+  "414817924ecbdf5c": {
+    "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+    "category": "ai_models",
+    "score": 41
+  },
+  "077c05c22e70f5af": {
+    "title": "Long-WAM: Scaling the Context of World-Action Models",
+    "category": "ai_models",
+    "score": 39
+  },
+  "35b6fd432f5ca18d": {
+    "title": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
+    "category": "ai_models",
+    "score": 25
+  },
+  "1892b3b22deee9e0": {
+    "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
+    "category": "ai_models",
+    "score": 20
+  },
+  "a14e66ea6f838337": {
+    "title": "GRACE: Generation-aware latent compression for efficient video generation",
+    "category": "ai_models",
+    "score": 40
+  },
+  "2798128e78c0d8f9": {
+    "title": "Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs",
+    "category": "ai_models",
+    "score": 36
+  },
+  "465fe250219e145e": {
+    "title": "Why Forget-Only Unlearning Needs Memorization",
+    "category": "ai_models",
+    "score": 23
+  },
+  "b570808b082ebb23": {
+    "title": "RoboJEPA: Scaling Robotic Latent World Models",
+    "category": "ai_models",
+    "score": 31
+  },
+  "71271ab2e542e35d": {
+    "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
+    "category": "ai_models",
+    "score": 35
+  },
+  "aca5c85c02d19c6f": {
+    "title": "Video-Conditioned Generative Joint 2D-3D Hand Motion Recovery",
+    "category": "ai_models",
+    "score": 34
+  },
+  "23b252ebe03077bf": {
+    "title": "Your Prompt Should Do More: Effects of Retrieval Instructions in Embedding Models",
+    "category": "ai_models",
+    "score": 23
+  },
+  "45abe5eae007502b": {
+    "title": "RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing",
+    "category": "ai_models",
+    "score": 39
+  },
+  "873acba68d14831b": {
+    "title": "Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models",
+    "category": "ai_models",
+    "score": 44
+  },
+  "96ef2858ae21a696": {
+    "title": "Oracle-Efficient and Parameter-Free Agnostic Smoothed Online Learning",
+    "category": "ai_models",
+    "score": 24
+  },
+  "50440c17c81477da": {
+    "title": "EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution",
+    "category": "ai_models",
+    "score": 46
+  },
+  "cdce0cb857c1aaa2": {
+    "title": "QuadTok: Quadtree Visual Tokenizer for Autoregressive Image Generation",
+    "category": "ai_models",
+    "score": 25
+  },
+  "b8e40528728d781d": {
+    "title": "Evolutionary Architecture Search for Chlorophyll-$a$ Prediction in Lakes using Sentinel-2",
+    "category": "ai_models",
+    "score": 35
+  },
+  "6e911e948d364f2d": {
+    "title": "Insights from Autoresearch for Solar Panel Segmentation",
+    "category": "ai_models",
+    "score": 33
+  },
+  "c8cc48deeed34301": {
+    "title": "Best Arm Identification for Bandits with Shifting Means",
+    "category": "ai_models",
+    "score": 26
+  },
+  "467adc57892ee124": {
+    "title": "Two-Level Softmax Sampling Done Right: Correcting Bias from Size Imbalance and Dispersion",
+    "category": "ai_models",
+    "score": 30
+  },
+  "7818014b12b1e5ea": {
+    "title": "Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies",
+    "category": "ai_models",
+    "score": 35
+  },
+  "d33e8086a0080016": {
+    "title": "Before They Can Solve: Predicting Post-Training Coding-Agent Performance from Base Models",
+    "category": "ai_models",
+    "score": 39
+  },
+  "b39259c3f2ac5dc2": {
+    "title": "Imperial Brands Plans \u00a31.5 Billion Buyback After Stock Fall",
+    "category": "ai_models",
+    "score": 16
+  },
+  "a8bcd1d7be6a6b1a": {
+    "title": "MCB CEO: Growth Fueled by Current Oil Market Demand",
+    "category": "ai_models",
+    "score": 21
+  },
+  "cb420923f039e293": {
+    "title": "Kennerly: Ultra Wealthy See Long-Term Mideast Gains",
+    "category": "ai_models",
+    "score": 30
+  },
+  "9d49492c907d0f8f": {
+    "title": "Oil Spoils the Global Stock Rally as Brent Tops $102",
+    "category": "ai_models",
+    "score": 25
+  },
+  "3ca5449933277ce1": {
+    "title": "Copper Edges Up in London as Chinese Buyers Return After Holiday",
+    "category": "ai_models",
+    "score": 17
+  },
+  "5b4e0e55eb886cfb": {
+    "title": "Vista: Global Demand Strongest Since Post-Covid Days",
+    "category": "ai_models",
+    "score": 16
+  },
+  "24bc0408b08085c4": {
+    "title": "Fidelity: Tokenized Markets Need to Put Assets to Work",
+    "category": "ai_models",
+    "score": 17
+  },
+  "3e06d8d93376a0b2": {
+    "title": "India Shuns Costly Russian Crude as Middle East Flows Recover",
+    "category": "ai_models",
+    "score": 25
+  },
+  "42668f30aa0baa67": {
+    "title": "Singapore Bank Shares Tumble as Yield Surge Threatens Earnings",
+    "category": "ai_models",
+    "score": 23
+  },
+  "18080656ad72bd0d": {
+    "title": "China Stocks Dip As Soft Travel Data Drags on Sentiment",
+    "category": "ai_models",
+    "score": 28
+  },
+  "5a45f21bc3f33d81": {
+    "title": "Chelsea FC Co-Owners Settled Dispute With Robey as Key Mediator",
+    "category": "ai_models",
+    "score": 12
+  },
+  "2d05a245faecaf26": {
+    "title": "AI Bubble Risks Worst S&P 500 Crash Since 2008, Strategist Says",
+    "category": "ai_models",
+    "score": 21
+  },
+  "18aeb329d711d3e5": {
+    "title": "FTSE 100 Live: Gilts, UK Stocks Fall as Oil Prices Climb",
+    "category": "ai_models",
+    "score": 6
+  },
+  "93299e0ae85b276a": {
+    "title": "Avaada Electro Said to Plan $786 Million India IPO in November",
+    "category": "ai_models",
+    "score": 16
+  },
+  "845fafd700addd4d": {
+    "title": "Tencent Mulls $5 Billion Bond Offering as AI Push Ramps Up",
+    "category": "ai_models",
+    "score": 19
+  },
+  "7459a520f741653b": {
+    "title": "AI Squeezes Tech Grads at India\u2019s Banking Hubs",
+    "category": "ai_models",
+    "score": 31
+  },
+  "49979aa2ed4aba74": {
+    "title": "Tikehau: Private Markets Entering a More Selective Phase",
+    "category": "ai_models",
+    "score": 27
+  },
+  "3cec27c92b8df8b6": {
+    "title": "DNEG on Making Cartoon Logic Work in Coyote vs. Acme",
+    "category": "ai_models",
+    "score": 13
+  },
+  "4c65defb891ca762": {
+    "title": "Dhar Mann wants to broker $100 million in creator/brand deals, and also he\u2019s opening \u201cCreator City\u201d in Los Angeles",
+    "category": "ai_models",
+    "score": 23
   }
 }
