@@ -55309,5 +55309,235 @@
     "title": "OpenAI brought in Patreon\u2019s Co-Founder. Here\u2019s what he has planned.",
     "category": "ai_models",
     "score": 21
+  },
+  "7fa0690d90ca0cf2": {
+    "title": "Can an AI learn what you like, rather than just what you've searched for?",
+    "category": "ai_models",
+    "score": 4
+  },
+  "7615a8f4130434d3": {
+    "title": "AI model can reconstruct images from your brain",
+    "category": "ai_models",
+    "score": 6
+  },
+  "a3fd0c208980eb9f": {
+    "title": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
+    "category": "ai_models",
+    "score": 38
+  },
+  "79ba1a4026fba088": {
+    "title": "Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
+    "category": "ai_models",
+    "score": 44
+  },
+  "86a57e135ee99a9e": {
+    "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+    "category": "ai_models",
+    "score": 41
+  },
+  "de3326963607b92b": {
+    "title": "CSF: Contextual Safety Filtering for Motion Generators",
+    "category": "ai_models",
+    "score": 35
+  },
+  "d0f53098b7be9af2": {
+    "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+    "category": "ai_models",
+    "score": 23
+  },
+  "dc4e8b080bc74f59": {
+    "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
+    "category": "ai_models",
+    "score": 41
+  },
+  "ed889c864095afbd": {
+    "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+    "category": "ai_models",
+    "score": 41
+  },
+  "efbbc21e8ffb87bb": {
+    "title": "What 30,000 Hours of Ego-centric Video Does Not Teach",
+    "category": "ai_models",
+    "score": 42
+  },
+  "498b0cfd3e19de31": {
+    "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
+    "category": "ai_models",
+    "score": 31
+  },
+  "2f975f1cdec60eb1": {
+    "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
+    "category": "ai_models",
+    "score": 35
+  },
+  "2946c56bd42337af": {
+    "title": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning",
+    "category": "ai_models",
+    "score": 51
+  },
+  "57c98168d8c77c32": {
+    "title": "Hybrid Cinematography: Previsualizing and Managing Hallucination Risk in Generative Video Reshooting",
+    "category": "ai_models",
+    "score": 26
+  },
+  "ccff47e68b74d55a": {
+    "title": "BrickBench: Evaluating Agentic Brick Design",
+    "category": "ai_models",
+    "score": 29
+  },
+  "09749b75dbeef7b0": {
+    "title": "VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation",
+    "category": "ai_models",
+    "score": 40
+  },
+  "a08c3ea70bd73aeb": {
+    "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
+    "category": "ai_models",
+    "score": 34
+  },
+  "e42fe658ebf58972": {
+    "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
+    "category": "ai_models",
+    "score": 29
+  },
+  "1157bf5576b30425": {
+    "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+    "category": "ai_models",
+    "score": 36
+  },
+  "7f84cd09f9e4239b": {
+    "title": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization",
+    "category": "ai_models",
+    "score": 27
+  },
+  "b43bb5173747b7c8": {
+    "title": "LEGO: A Lifting-Free Approach for Exocentric-to-Egocentric Video Generation",
+    "category": "ai_models",
+    "score": 38
+  },
+  "b403a2e4fc8ded20": {
+    "title": "Density Ratio Estimation with Stein Displacement Fields",
+    "category": "ai_models",
+    "score": 21
+  },
+  "654ee6e9cd939bb6": {
+    "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
+    "category": "ai_models",
+    "score": 38
+  },
+  "8f9450ba8782c7e4": {
+    "title": "VioLA: Learning Generalist Humanoid Control Policies from Human Data",
+    "category": "ai_models",
+    "score": 29
+  },
+  "30dcb4487241b015": {
+    "title": "FAITH: Feasibility-Aware Safety-Filtered RL for High-Dimensional Systems",
+    "category": "ai_models",
+    "score": 32
+  },
+  "528767592e1efca6": {
+    "title": "Toward Joint Optimization of Circuit Depth and Training Data Size in Adaptively Grown Quantum Classifiers",
+    "category": "ai_models",
+    "score": 36
+  },
+  "4149c48a777f682e": {
+    "title": "FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?",
+    "category": "ai_models",
+    "score": 44
+  },
+  "8e0dab29361971c0": {
+    "title": "China Stocks Rebound on Speculation of State-Linked Support",
+    "category": "ai_models",
+    "score": 14
+  },
+  "cac1b29b4e5a4999": {
+    "title": "Tencent-Backed Uzum Talk Attracting US Investment",
+    "category": "ai_models",
+    "score": 35
+  },
+  "b7c89b6bd6e7b75c": {
+    "title": "Airtel Money Rises in Biggest London IPO for Five Years",
+    "category": "ai_models",
+    "score": 21
+  },
+  "5a0314993c6258e3": {
+    "title": "AI Angst Won't Pop the Bubble Yet: Markey Analysis",
+    "category": "ai_models",
+    "score": 13
+  },
+  "d2732e76034e807f": {
+    "title": "Zimbabwe Says No Justification to Delay Lithium Export Ban",
+    "category": "ai_models",
+    "score": 9
+  },
+  "d4d184404132363e": {
+    "title": "Xiaomi Shares Surge After SkyNomad SUV Draws Strong Orders",
+    "category": "ai_models",
+    "score": 14
+  },
+  "92a07e9bfe503aa3": {
+    "title": "Trump Rules Out Iran Strikes Before Midterms, Oil Rises as Hormuz Attacks Continue",
+    "category": "ai_models",
+    "score": 35
+  },
+  "3f87705c698a9985": {
+    "title": "Singapore Race Will Go Ahead Despite Haze: Formula 1 CEO",
+    "category": "ai_models",
+    "score": 12
+  },
+  "9cdc71ff7330d352": {
+    "title": "Copper Set for Weekly Gain on China\u2019s Return and Supply Concerns",
+    "category": "ai_models",
+    "score": 15
+  },
+  "9f5a11555d3733e3": {
+    "title": "Zetwerk Is Said to Plan Up to $525 Million India IPO Next Week",
+    "category": "ai_models",
+    "score": 14
+  },
+  "bbc5f6e7b764f2fb": {
+    "title": "Yuan Hits Four-Year High Versus Basket as PBOC Backs FX Policy",
+    "category": "ai_models",
+    "score": 24
+  },
+  "349b3c6490cb149e": {
+    "title": "Indonesia Cuts Travel Spending as Energy Costs Pressure Budget",
+    "category": "ai_models",
+    "score": 24
+  },
+  "68ac59964866a6b9": {
+    "title": "Luxury Stock Bulls Have to Wait Longer for a Revival",
+    "category": "ai_models",
+    "score": 17
+  },
+  "7ea039dddf6e74f8": {
+    "title": "Europe\u2019s Bond Market Turbulence Puts ECB Repo Funding Into Focus",
+    "category": "ai_models",
+    "score": 19
+  },
+  "2bf2440a395ae0fc": {
+    "title": "OpenAI's Revenue Report Deepens AI Bubble Fears, Firmus Shelves IPO",
+    "category": "ai_models",
+    "score": 30
+  },
+  "7ddbe77e55d12694": {
+    "title": "Philippines to Adopt Global Bond Pricing to Woo Investors",
+    "category": "ai_models",
+    "score": 18
+  },
+  "77966fd219c434f5": {
+    "title": "Chile Emerges As Global Hub For Ice Swimming",
+    "category": "ai_models",
+    "score": 13
+  },
+  "dc50b4f4a92e681c": {
+    "title": "FTSE 100 Live: Miners Lead European Stocks Higher",
+    "category": "ai_models",
+    "score": 6
+  },
+  "23720be41de088dd": {
+    "title": "China Rejects Claims the Yuan Is Undervalued",
+    "category": "ai_models",
+    "score": 31
   }
 }
