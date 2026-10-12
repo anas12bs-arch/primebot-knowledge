@@ -56589,5 +56589,225 @@
     "title": "Wrightson\u2019s Crandall Ends Weekly Market Missives After 44 Years",
     "category": "ai_models",
     "score": 22
+  },
+  "c2aa995a841af9fc": {
+    "title": "Show HN: An open source AI leaderboard of the best models your machine can run",
+    "category": "ai_models",
+    "score": 8
+  },
+  "9631f227983e70d8": {
+    "title": "Can Language Models Play the Wikipedia Game?",
+    "category": "ai_models",
+    "score": 27
+  },
+  "82ce3480253c4ddb": {
+    "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
+    "category": "ai_models",
+    "score": 35
+  },
+  "8217fadb0b65806e": {
+    "title": "Splat2Act: From Captured Scenes to Personalized VLA Manipulation",
+    "category": "ai_models",
+    "score": 37
+  },
+  "38b283184b17c781": {
+    "title": "InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
+    "category": "ai_models",
+    "score": 39
+  },
+  "fc662983a58d064b": {
+    "title": "Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback",
+    "category": "ai_models",
+    "score": 41
+  },
+  "af5c121d4276a711": {
+    "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+    "category": "ai_models",
+    "score": 35
+  },
+  "94848d12492acaf8": {
+    "title": "Constructive Bounds for the Topological Expressivity of Neural Networks",
+    "category": "ai_models",
+    "score": 27
+  },
+  "de5eee94d1865059": {
+    "title": "Chronos Policy: Learning Robot Policies on Physical Time",
+    "category": "ai_models",
+    "score": 37
+  },
+  "10f1ce806d5e834c": {
+    "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+    "category": "ai_models",
+    "score": 32
+  },
+  "bd550b07c17a22b8": {
+    "title": "Can machines reason non-verbally?",
+    "category": "ai_models",
+    "score": 34
+  },
+  "e65d71d867ed0b79": {
+    "title": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling",
+    "category": "ai_models",
+    "score": 22
+  },
+  "72a7fb1cef1aa447": {
+    "title": "Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications via Reinforcement Learning",
+    "category": "ai_models",
+    "score": 37
+  },
+  "5f36f53eef35fc17": {
+    "title": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness",
+    "category": "ai_models",
+    "score": 31
+  },
+  "3c82a230ab1d0d0a": {
+    "title": "Designing Protein Structures from Natural Language",
+    "category": "ai_models",
+    "score": 32
+  },
+  "658a0b7b5599d479": {
+    "title": "Where to Look Matters: Rethinking Sub-Volume Sampling in 3D Medical Self-supervised Learning",
+    "category": "ai_models",
+    "score": 40
+  },
+  "3bc59bc0fddaaa57": {
+    "title": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
+    "category": "ai_models",
+    "score": 42
+  },
+  "87559c2ee649d61e": {
+    "title": "When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors",
+    "category": "ai_models",
+    "score": 38
+  },
+  "6d35cb7e5fc0a0dc": {
+    "title": "Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping",
+    "category": "ai_models",
+    "score": 43
+  },
+  "86fb01652c218743": {
+    "title": "Hitting-Time Bounds for Asynchronous Q-Learning",
+    "category": "ai_models",
+    "score": 28
+  },
+  "a954372e7ccfa32e": {
+    "title": "Structural Automata for Neural Semantic Parsing",
+    "category": "ai_models",
+    "score": 33
+  },
+  "2e6766812627c1c1": {
+    "title": "Task Context Shapes Component Roles in Language Models",
+    "category": "ai_models",
+    "score": 37
+  },
+  "c3b5e43a93595224": {
+    "title": "Beyond the Snowflakes: Disentangling Weather Effects from Confounding Meta-Factors in LiDAR Object Detection",
+    "category": "ai_models",
+    "score": 38
+  },
+  "1a100546c2c9e61e": {
+    "title": "RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics",
+    "category": "ai_models",
+    "score": 33
+  },
+  "56cf100a7360fb6f": {
+    "title": "X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems",
+    "category": "ai_models",
+    "score": 44
+  },
+  "074bff6606e354f6": {
+    "title": "Prediction Is Not a Sufficient Memory State",
+    "category": "ai_models",
+    "score": 28
+  },
+  "dca3a62a1970f365": {
+    "title": "How AI use in webinars builds a program that compounds",
+    "category": "ai_models",
+    "score": 7
+  },
+  "f21962f8d9b6eade": {
+    "title": "Why the joy of checking out belongs in every holiday media plan",
+    "category": "ai_models",
+    "score": 13
+  },
+  "7c54c4457adf5fea": {
+    "title": "Genting Shares Tumble Most on Record on Rights Issue Plan",
+    "category": "ai_models",
+    "score": 18
+  },
+  "e29b18a2edf4996a": {
+    "title": "G20\u2019s Debt Toolkit Faces Fresh Test in Senegal",
+    "category": "ai_models",
+    "score": 37
+  },
+  "676b5035d2463697": {
+    "title": "Indonesia Stocks Tumble on Speculation Over Regulatory Fines",
+    "category": "ai_models",
+    "score": 19
+  },
+  "2ad34639b70580e3": {
+    "title": "Goldman Strategists Upgrade Global Stocks on Earnings Boost",
+    "category": "ai_models",
+    "score": 24
+  },
+  "948d1cf4ff907d77": {
+    "title": "China Coal Prices at Three-Year High With Little Relief in Sight",
+    "category": "ai_models",
+    "score": 19
+  },
+  "56ce791daac5041f": {
+    "title": "INR/USD: India Draws Line in Sand for Rupee at 97 as RBI Steps Up Defense",
+    "category": "ai_models",
+    "score": 24
+  },
+  "4d8224e2e8a3686e": {
+    "title": "Nate Soares on How AI Really Could Kill Us All",
+    "category": "ai_models",
+    "score": 2
+  },
+  "3868edb19e97b39d": {
+    "title": "Odd Lots: Nate Soares on How AI Could Kill Us All (Podcast)",
+    "category": "ai_models",
+    "score": 34
+  },
+  "a8617e6114dd537b": {
+    "title": "Singapore Woos Offshore Traders with New Asian Bond Futures Window",
+    "category": "ai_models",
+    "score": 19
+  },
+  "952c0e1a04d3c867": {
+    "title": "Stellantis CEO Says Company Split 'Not Plausible'",
+    "category": "ai_models",
+    "score": 16
+  },
+  "52264764feed3a38": {
+    "title": "China Says Hybrid-Car Deal With Europe to Ensure \u2018Export Space\u2019",
+    "category": "ai_models",
+    "score": 14
+  },
+  "60ffc71f14d9fa18": {
+    "title": "China Steel Mill Turns to Shipbuilding As Industry Booms",
+    "category": "ai_models",
+    "score": 14
+  },
+  "227f967548474047": {
+    "title": "Saudis\u2019 Ability to Supply Energy Is Resilient, Minister Says",
+    "category": "ai_models",
+    "score": 18
+  },
+  "436ce5986e3f0a14": {
+    "title": "Chinese Lithium Slumps 10% After EU Deal Slashes Hybrid Exports",
+    "category": "ai_models",
+    "score": 21
+  },
+  "af24d8e7fc15b141": {
+    "title": "Euro Area Rate Reprieve Capped by Political Risk: Market Analysis",
+    "category": "ai_models",
+    "score": 14
+  },
+  "be015e7b31bc742b": {
+    "title": "Nuveen's Cooper Sees Yield Risks Tilted to Upside",
+    "category": "ai_models",
+    "score": 27
   }
 }
