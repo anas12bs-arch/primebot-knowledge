@@ -56424,5 +56424,170 @@
     "title": "US Bond Traders Await CPI, Warsh For Insight on Fed\u2019s Rate Path",
     "category": "ai_models",
     "score": 23
+  },
+  "705cf3f041bba77a": {
+    "title": "OpenDocRouter: every document model under one API",
+    "category": "ai_models",
+    "score": 7
+  },
+  "02b5c48df0f304dd": {
+    "title": "RESCUE: Is This Alarm Worth Acting On? Counterfactual Evaluation of VLA Runtime Monitors",
+    "category": "ai_models",
+    "score": 35
+  },
+  "053c383ed20e48fb": {
+    "title": "Retrieval-Augmented Multimodal Language Model with Heterogeneous Evidence Integration for Clinical Prognosis",
+    "category": "ai_models",
+    "score": 34
+  },
+  "9cd634a21ae931e2": {
+    "title": "FedPCD: Priority-Constrained Federated Aggregation",
+    "category": "ai_models",
+    "score": 44
+  },
+  "3c84864ad20dc9e5": {
+    "title": "Beyond Temporal Proximity: Explanatory World Models for Credit Assignment in Reinforcement Learning",
+    "category": "ai_models",
+    "score": 38
+  },
+  "5d14702a092aa9d2": {
+    "title": "SplatQ: Interaction-Aware Pruning of 3D Gaussian Splatting via Quadratic Selection",
+    "category": "ai_models",
+    "score": 37
+  },
+  "bec44e289297da0b": {
+    "title": "Stride: Scale-Aware Multi-Agent Evolutionary Refinement for Infographic Generation",
+    "category": "ai_models",
+    "score": 49
+  },
+  "44cdc2bab4793035": {
+    "title": "Humanize MLE Agents: Multi-Agent Session Alternation Beyond Single-Agent Limits",
+    "category": "ai_models",
+    "score": 48
+  },
+  "f3c73a3dc2d935bc": {
+    "title": "Proactive Agentic Orchestration",
+    "category": "ai_models",
+    "score": 46
+  },
+  "f06ea3e24cdce7da": {
+    "title": "Branching On-Policy Distillation",
+    "category": "ai_models",
+    "score": 30
+  },
+  "30f91d6be7f33023": {
+    "title": "A Scalable Learned Iterative Solver for Nonlinear MPC via Temporal Decomposition",
+    "category": "ai_models",
+    "score": 46
+  },
+  "bb22536417103200": {
+    "title": "A Local Agentic AI Framework to Generate Edge Case Scenarios for Safety Assurance",
+    "category": "ai_models",
+    "score": 45
+  },
+  "caed7bfdfb404652": {
+    "title": "Harmonic analysis and circuit approximation of Sobolev functions on quantum input spaces",
+    "category": "ai_models",
+    "score": 28
+  },
+  "91508711058dd6e4": {
+    "title": "A Better Metric Will Not Save You: What You Compare Beats How You Compare It",
+    "category": "ai_models",
+    "score": 25
+  },
+  "b162cdcda034bca4": {
+    "title": "GraftOOD: Grafting Out-of-Distribution Exemplars into Advantage-Weighted Rectification for Video Reward Optimization",
+    "category": "ai_models",
+    "score": 39
+  },
+  "294597d09fe04b9e": {
+    "title": "A Real-World CAD Segmentation Benchmark: Comparing Rule-Based and Learning-Based Approaches through Hole Detection",
+    "category": "ai_models",
+    "score": 44
+  },
+  "b0d2bd6fff5eb041": {
+    "title": "When MLLMs miss what humans read: diagnosing and learning to read squint text",
+    "category": "ai_models",
+    "score": 39
+  },
+  "92bf2a0903fdc839": {
+    "title": "SqueezeBench: Saturation-Resilient Evaluation of Mathematical Capability",
+    "category": "ai_models",
+    "score": 37
+  },
+  "b57fd5cda0656da4": {
+    "title": "Towards Enriching Design-Time Models with Evidence from Simulation and Operational Activities",
+    "category": "ai_models",
+    "score": 39
+  },
+  "ee236d95c35e023a": {
+    "title": "Agentic Large Language Models",
+    "category": "ai_models",
+    "score": 30
+  },
+  "863aefbf175ce3a0": {
+    "title": "O\u00eddo: Open-Vocabulary Speech Recognition on a $5 Microcontroller without a Neural Accelerator",
+    "category": "ai_models",
+    "score": 25
+  },
+  "65db35b22e4c673f": {
+    "title": "Learning by Compression: Risk Estimates Attain the Law-of-Large-Numbers Rate",
+    "category": "ai_models",
+    "score": 28
+  },
+  "bcb6b0978803abe5": {
+    "title": "Revisiting Accent Classification with DistilHuBERT: Speaker-Disjoint Evaluation and Cross-Corpus Generalization",
+    "category": "ai_models",
+    "score": 32
+  },
+  "ab95979d5d2af140": {
+    "title": "Collective Autonomous Vehicle Routing Needs Social Awareness for Coexistence with Human Drivers",
+    "category": "ai_models",
+    "score": 36
+  },
+  "493222feec85cf77": {
+    "title": "Rollout-Time Intervention: Unlocking Agentic Reinforcement Learning Beyond Policy Limits",
+    "category": "ai_models",
+    "score": 53
+  },
+  "6c13a17014a37778": {
+    "title": "Local Diagnostics of Learned Event Representations for Anomaly Detection at the HL-LHC",
+    "category": "ai_models",
+    "score": 31
+  },
+  "5c4ff48fe8a60412": {
+    "title": "Indian Rupee Strengthens in Offshore Market After RBI Measures",
+    "category": "ai_models",
+    "score": 16
+  },
+  "7787d6c0a02d9416": {
+    "title": "Gov. Koike's Next Key Priorities for Tokyo",
+    "category": "ai_models",
+    "score": 21
+  },
+  "9a504619a1f5090c": {
+    "title": "Malaysia Budget Sees Consumer Names Emerge Winners, Analysts Say",
+    "category": "ai_models",
+    "score": 28
+  },
+  "d9702c44a7abb0d9": {
+    "title": "Gold Edges Up as Lower Oil Prices Pare Rate-Hike Expectations",
+    "category": "ai_models",
+    "score": 21
+  },
+  "37f51c337435e273": {
+    "title": "India\u2019s Capital Braces for More Protests After Mass Detentions",
+    "category": "ai_models",
+    "score": 18
+  },
+  "4534e811af700ad0": {
+    "title": "Korean Bond Rally Seen Faltering as Traders Brace for Rate Hikes",
+    "category": "ai_models",
+    "score": 28
+  },
+  "0336653d547ee627": {
+    "title": "Wrightson\u2019s Crandall Ends Weekly Market Missives After 44 Years",
+    "category": "ai_models",
+    "score": 22
   }
 }
