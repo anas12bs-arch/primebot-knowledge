@@ -58563,5 +58563,235 @@
     "title": "Cal\u2019s Twitch studio for student-athletes shows that creator content is the new recruiting hack",
     "category": "ai_models",
     "score": 24
+  },
+  "e6d17412a69aec17": {
+    "title": "Step 5 Preview: StepFun's flagship model for agentic work",
+    "category": "ai_models",
+    "score": 9
+  },
+  "269503476cef463b": {
+    "title": "Show HN: I'll Call You Later, an interactive 3D browser short film",
+    "category": "ai_models",
+    "score": 7
+  },
+  "cc5a54954b79ad29": {
+    "title": "Can Learning to Answer Spatial Questions Improve Novel-View Generation?",
+    "category": "ai_models",
+    "score": 45
+  },
+  "73481db31e444341": {
+    "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+    "category": "ai_models",
+    "score": 45
+  },
+  "12c60f552b5a16b2": {
+    "title": "Representation Conditioning for Generation",
+    "category": "ai_models",
+    "score": 34
+  },
+  "4ec29a45b117b25b": {
+    "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+    "category": "ai_models",
+    "score": 37
+  },
+  "49aace752095bb77": {
+    "title": "VITAL: From Visual Motion to Precise Action",
+    "category": "ai_models",
+    "score": 41
+  },
+  "36cefba7dd0858f6": {
+    "title": "CommerceGen-Studio: An End-to-End Framework for Commercial-Grade Main-Image Generation",
+    "category": "ai_models",
+    "score": 34
+  },
+  "951048f2386abdf9": {
+    "title": "DynThinker: Unifying Static 3D and Dynamic 4D Spatial Reasoning",
+    "category": "ai_models",
+    "score": 38
+  },
+  "d483f532f953d148": {
+    "title": "Co-Evolving Acting and Forecasting for Language Agents",
+    "category": "ai_models",
+    "score": 40
+  },
+  "fa6daa87a50da04e": {
+    "title": "GeoThinker-$F$: Endogenous Predictive World Representations for Fast Spatial Intelligence",
+    "category": "ai_models",
+    "score": 42
+  },
+  "e554352351cd074d": {
+    "title": "Feed-Forward Multi-View Feature Coding for 3D Gaussian Splatting",
+    "category": "ai_models",
+    "score": 32
+  },
+  "38cd13a80ad595f9": {
+    "title": "Your Transformer Is Secretly Elastic",
+    "category": "ai_models",
+    "score": 30
+  },
+  "4c34b50735f84d97": {
+    "title": "Price of Anarchy of First-Price Auctions in Agentic Markets",
+    "category": "ai_models",
+    "score": 28
+  },
+  "c5649d7ab587b089": {
+    "title": "Continuum Attention",
+    "category": "ai_models",
+    "score": 33
+  },
+  "4fb44fb9e8820c8e": {
+    "title": "Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes",
+    "category": "ai_models",
+    "score": 38
+  },
+  "2931de1e42b9a3ce": {
+    "title": "Player-1: Learning to Play from Synthetic Experience",
+    "category": "ai_models",
+    "score": 52
+  },
+  "ad012841748eef88": {
+    "title": "Latent Compaction with Test-Time Training",
+    "category": "ai_models",
+    "score": 39
+  },
+  "87801066b31d1a8d": {
+    "title": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
+    "category": "ai_models",
+    "score": 30
+  },
+  "35370e1dd269179a": {
+    "title": "Beyond LLM Judge: Mechanical Verification for Agentic Autoformalization",
+    "category": "ai_models",
+    "score": 29
+  },
+  "6cf95a9d19e2d4fe": {
+    "title": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation",
+    "category": "ai_models",
+    "score": 35
+  },
+  "bc52e37c28706a84": {
+    "title": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
+    "category": "ai_models",
+    "score": 36
+  },
+  "dd714751206de948": {
+    "title": "Manac\u00e1-1B-Instruct-2: Reproducible Safety Alignment for a Native Brazilian-Portuguese LLM. Negative DPO Results, a Controlled Composition Scan, and a Silent Failure Mode of the LLM Judge",
+    "category": "ai_models",
+    "score": 41
+  },
+  "0ee27cc821a8a04d": {
+    "title": "Scaling Discovery Requires Forgetting",
+    "category": "ai_models",
+    "score": 33
+  },
+  "27aed6ec66cdc26e": {
+    "title": "A$^3$PreCore: Robust Rigid Registration for Native FLAIR-Space Brain-Mask Transfer",
+    "category": "ai_models",
+    "score": 26
+  },
+  "df40b0ec1eb50d1d": {
+    "title": "PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition",
+    "category": "ai_models",
+    "score": 56
+  },
+  "8481c1973710fda2": {
+    "title": "Speculative Sampling in Interactive Video Generation",
+    "category": "ai_models",
+    "score": 43
+  },
+  "4f4601cb94064617": {
+    "title": "Figma announces new features to define how agents work on its platform",
+    "category": "ai_models",
+    "score": 8
+  },
+  "b78f437ea8f9b4c0": {
+    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "category": "ai_models",
+    "score": 22
+  },
+  "1dea1e43eda97786": {
+    "title": "Ukraine to Resume Russia Oil Refinery Strikes, FT Reports",
+    "category": "ai_models",
+    "score": 16
+  },
+  "71310964d96b1f71": {
+    "title": "Jio Returns for Meta, Alphabet, KKR Crimped by Long Rupee Slide",
+    "category": "ai_models",
+    "score": 21
+  },
+  "352d26b3b18dd7b0": {
+    "title": "Fairfax\u2019s $6 Billion Bank Deal Signals Zest For India Assets",
+    "category": "ai_models",
+    "score": 29
+  },
+  "810a87c2406f8b18": {
+    "title": "Sunak Invokes Singapore\u2019s 'Poisonous Shrimp' in Power Debate",
+    "category": "ai_models",
+    "score": 17
+  },
+  "ca350fdb09d16845": {
+    "title": "Taiwan Dollar, Won Slump as Chip Selloff Hurts Asian Currencies",
+    "category": "ai_models",
+    "score": 26
+  },
+  "0ac5cd1c09770aed": {
+    "title": "Canada Minister Anand Says Ties with India Have Improved",
+    "category": "ai_models",
+    "score": 22
+  },
+  "9be9f6e8f6284892": {
+    "title": "ECB's Dolenc: Less Action Needed if Markets Tighten",
+    "category": "ai_models",
+    "score": 23
+  },
+  "ec772e9e344c0b81": {
+    "title": "IMF Says Saudi Buffers, Energy Backup Blunt Economic Blow",
+    "category": "ai_models",
+    "score": 16
+  },
+  "25e24fea26317ab0": {
+    "title": "Korea\u2019s Foreign Bank Scrutiny Intensifies With Bond Sale Delayed",
+    "category": "ai_models",
+    "score": 16
+  },
+  "2350149fe61cdc88": {
+    "title": "Europe\u2019s $40 Billion Battery Bet Set for Big Winter Payout",
+    "category": "ai_models",
+    "score": 17
+  },
+  "019f12db1030ed86": {
+    "title": "India\u2019s IDBI Stake Sale Brings Timely Buffer Against $100 Oil",
+    "category": "ai_models",
+    "score": 21
+  },
+  "2ebe874df2c61f71": {
+    "title": "Treasury Haven Trade Bounces Back as Stocks Sink, Yields Entice",
+    "category": "ai_models",
+    "score": 16
+  },
+  "c0acca3fdbb68ce1": {
+    "title": "Introducing: Disclosure Season 2",
+    "category": "ai_models",
+    "score": 29
+  },
+  "344a2f30a595aa39": {
+    "title": "Iron Ore Trades Below $90 a Ton for First Time Since 2024",
+    "category": "ai_models",
+    "score": 17
+  },
+  "8c9229996e8b3ade": {
+    "title": "Anthropic Results May Aid IPO But Not AI Trade, Analysts Say",
+    "category": "ai_models",
+    "score": 21
+  },
+  "332d123b34b28ddc": {
+    "title": "Indonesia Swaps Out Electricity Chief After Huge Batam Blackout",
+    "category": "ai_models",
+    "score": 11
+  },
+  "81343a98049fbc47": {
+    "title": "Bonds Pay the Price for India\u2019s Rupee Defense as Rate Bets Build",
+    "category": "ai_models",
+    "score": 18
   }
 }
