@@ -59443,5 +59443,210 @@
     "title": "Doing Things wants to turn its bevy of Instagram brands into a \u201cbroader development engine\u201d for social shows",
     "category": "ai_models",
     "score": 31
+  },
+  "2681752963009c54": {
+    "title": "Sergey Brin says Google's AI models are reaching recursive self-improvement",
+    "category": "ai_models",
+    "score": 12
+  },
+  "0c5495ad3c140a48": {
+    "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+    "category": "ai_models",
+    "score": 37
+  },
+  "5088120daa4b4602": {
+    "title": "Gen4P: Video Generators are 4D Perceivers",
+    "category": "ai_models",
+    "score": 40
+  },
+  "a6d8f8d7c2a9579b": {
+    "title": "Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation",
+    "category": "ai_models",
+    "score": 38
+  },
+  "4f86316fda83f3bf": {
+    "title": "SoftCache: Adaptive Step Size Caching for Diffusion Transformers",
+    "category": "ai_models",
+    "score": 43
+  },
+  "c1cb20c8436197cc": {
+    "title": "Discovering state-of-the-art quantum circuits with large language models",
+    "category": "ai_models",
+    "score": 42
+  },
+  "886a13b8113b3509": {
+    "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
+    "category": "ai_models",
+    "score": 29
+  },
+  "6b0be716c6715ce6": {
+    "title": "Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation",
+    "category": "ai_models",
+    "score": 27
+  },
+  "05c628c3d3a71cee": {
+    "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
+    "category": "ai_models",
+    "score": 37
+  },
+  "7d478a4e4275ddfd": {
+    "title": "Grounding Generative Verification in 3D Content",
+    "category": "ai_models",
+    "score": 50
+  },
+  "ec12d079597390fe": {
+    "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
+    "category": "ai_models",
+    "score": 35
+  },
+  "0a97b8371551f3ad": {
+    "title": "DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models",
+    "category": "ai_models",
+    "score": 47
+  },
+  "04b856465a05a2cd": {
+    "title": "OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling",
+    "category": "ai_models",
+    "score": 33
+  },
+  "a3c706e862a5d00b": {
+    "title": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
+    "category": "ai_models",
+    "score": 45
+  },
+  "2940ecb365e29aea": {
+    "title": "SUPRA-TEX: 3D Generation with Super-Aligned Texture",
+    "category": "ai_models",
+    "score": 41
+  },
+  "4a2103df1548818b": {
+    "title": "FDE-Gym: The Last Mile of AI Delivery",
+    "category": "ai_models",
+    "score": 41
+  },
+  "061b03ec24ad95cd": {
+    "title": "Speculative Forcing for Efficient Autoregressive Video Generation",
+    "category": "ai_models",
+    "score": 43
+  },
+  "4d248e47d080d7f8": {
+    "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
+    "category": "ai_models",
+    "score": 51
+  },
+  "439fd5a09ddffe91": {
+    "title": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
+    "category": "ai_models",
+    "score": 31
+  },
+  "baf47629cba46680": {
+    "title": "3DCodeVerse: Exploring 3D Worlds as Code",
+    "category": "ai_models",
+    "score": 35
+  },
+  "bd13ab7dcf2fcbc1": {
+    "title": "Dexterity from Supervised Play",
+    "category": "ai_models",
+    "score": 35
+  },
+  "e790b7c8b4a68d3d": {
+    "title": "Lean Graph Search for Formal Theorem Proving",
+    "category": "ai_models",
+    "score": 29
+  },
+  "b2eed899a78fef56": {
+    "title": "Robust Reinforcement Learning for Dynamic Treatment Regimes under Model and Measurement Uncertainty",
+    "category": "ai_models",
+    "score": 46
+  },
+  "109f9c689838ab05": {
+    "title": "Evaluation Awareness Beyond English: Do LLMs Act Differently When Tested in Indic Languages?",
+    "category": "ai_models",
+    "score": 29
+  },
+  "5f610dfb3962bbaa": {
+    "title": "KnowGPO: Knowledge-Grouped Policy Optimization for Search Agents",
+    "category": "ai_models",
+    "score": 49
+  },
+  "c8fd8b5f9a658b81": {
+    "title": "Designing Transformers for Continuous Diffusion Language Models",
+    "category": "ai_models",
+    "score": 35
+  },
+  "828187ecac3d8c98": {
+    "title": "Fed's Warsh Says US Facing Massive Investment Surge",
+    "category": "ai_models",
+    "score": 28
+  },
+  "79badeacfaba0e16": {
+    "title": "FTSE 100 Poised to Underperform as Stocks Rebound - Live",
+    "category": "ai_models",
+    "score": 4
+  },
+  "e8874878b16f4734": {
+    "title": "China Builds Gas Buffer for Winter as Iran War Heightens Risk",
+    "category": "ai_models",
+    "score": 16
+  },
+  "8b2f7c1c760c6010": {
+    "title": "India\u2019s Rupee Relief Comes With Disruptions in Financial Markets",
+    "category": "ai_models",
+    "score": 15
+  },
+  "e5b9a6ae99254883": {
+    "title": "Delhi Police Tighten Security Ahead of \u2018Cockroach\u2019 Rally",
+    "category": "ai_models",
+    "score": 16
+  },
+  "6f2178e03e22931e": {
+    "title": "Kganyago: SARB Expects S. Africa CPI to Decline in 2027",
+    "category": "ai_models",
+    "score": 20
+  },
+  "e9e11d72a8cd60b0": {
+    "title": "Ship-Fuel Squeeze Persists Despite More Hormuz Crude, Vitol Says",
+    "category": "ai_models",
+    "score": 26
+  },
+  "2336db012c6f207c": {
+    "title": "Japan\u2019s Fukoku Mutual Life Counts on Cash to Mitigate Volatility",
+    "category": "ai_models",
+    "score": 18
+  },
+  "20d10d5bd0e9913d": {
+    "title": "Michael Palin on the Philippines and China\u2019s Power",
+    "category": "ai_models",
+    "score": 11
+  },
+  "1a7f703cfd405c78": {
+    "title": "Metals Rebound as Sentiment Improves After US Inflation Shock",
+    "category": "ai_models",
+    "score": 21
+  },
+  "87545e4bbb8acb58": {
+    "title": "IMF Quite Confident Argentina Able to Meet 2027 Debt Obligations",
+    "category": "ai_models",
+    "score": 6
+  },
+  "d4783b11c3d87705": {
+    "title": "Blue Owl: Private Credit Redemptions Are Falling",
+    "category": "ai_models",
+    "score": 20
+  },
+  "67f0d19e8de62fbf": {
+    "title": "South Africa Court Rulings May Lift Confidence, PSG Chief Says",
+    "category": "ai_models",
+    "score": 21
+  },
+  "006ebd1bd5390f0b": {
+    "title": "Indian Software Stocks Set to Beat AI Peers by Most in Decades",
+    "category": "ai_models",
+    "score": 24
+  },
+  "9bd56760dcfeabb4": {
+    "title": "Chip Selloff Eases as Nvidia CEO Downplays CoreWeave Concerns",
+    "category": "ai_models",
+    "score": 31
   }
 }
