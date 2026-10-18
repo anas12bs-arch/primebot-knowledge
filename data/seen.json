@@ -60488,5 +60488,45 @@
     "title": "China Condemns Japan\u2019s \u2018Negative Moves\u2019 Over Yasukuni Shrine",
     "category": "ai_models",
     "score": 19
+  },
+  "a5ffaf977427b83b": {
+    "title": "Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)",
+    "category": "ai_models",
+    "score": 9
+  },
+  "d0c718d0d45e664a": {
+    "title": "Eval of 19 ways to crop images using LLMs, Jev and image classification models",
+    "category": "ai_models",
+    "score": 8
+  },
+  "076e32bb520a799a": {
+    "title": "China proposes export controls on its advanced AI models and chip designs",
+    "category": "ai_models",
+    "score": 13
+  },
+  "1b009c3e6b8ae04f": {
+    "title": "America\u2019s Downtowns Need More Than Offices",
+    "category": "ai_models",
+    "score": 17
+  },
+  "548d7371d2fd1e84": {
+    "title": "By The Way: Headlines You May Have Missed",
+    "category": "ai_models",
+    "score": 15
+  },
+  "e60d9c481bed447c": {
+    "title": "Election Rallies That Swept Latin America Face Reality Check",
+    "category": "ai_models",
+    "score": 32
+  },
+  "8ab0354fa0e9e11a": {
+    "title": "Pope Leo Looks Ahead After Cancer Surgery",
+    "category": "ai_models",
+    "score": 39
+  },
+  "385d6c5e2d6d53a0": {
+    "title": "Why Globalization Is Getting Harder to Navigate",
+    "category": "ai_models",
+    "score": 34
   }
 }
