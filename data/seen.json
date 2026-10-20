@@ -61508,5 +61508,235 @@
     "title": "ROVE Launches a New Identity and Website, Signs Ashley McKim Consulting",
     "category": "ai_models",
     "score": 12
+  },
+  "dc5982069321bf23": {
+    "title": "SKY\u2011001 ] the First Engineering World Model",
+    "category": "ai_models",
+    "score": 8
+  },
+  "0be981a9fb44d08e": {
+    "title": "Show HN: Rouler \u2013 Steer Windows traffic per app or IP across multiple interfaces",
+    "category": "ai_models",
+    "score": 10
+  },
+  "1f30206ada94fe30": {
+    "title": "Show HN: Search for AI-agents and usefulness score",
+    "category": "ai_models",
+    "score": 6
+  },
+  "5cbfe61cc01d2763": {
+    "title": "Show HN: Privacy Layer for Frontier Models",
+    "category": "ai_models",
+    "score": 8
+  },
+  "68a7e8e72e9d15c6": {
+    "title": "Victoria Secret Video Generator \u2013 Turn a photo into a runway video",
+    "category": "ai_models",
+    "score": 7
+  },
+  "6d838b59cc298bdf": {
+    "title": "Text-to-Image Generative Modeling Without Language Pretraining",
+    "category": "ai_models",
+    "score": 36
+  },
+  "e59dcd5a5c8f0237": {
+    "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+    "category": "ai_models",
+    "score": 51
+  },
+  "4fc97b5860c71b29": {
+    "title": "Can It Actually Work? Synthesizing Functional CAD Mechanisms",
+    "category": "ai_models",
+    "score": 30
+  },
+  "9a903c9f9476b6ff": {
+    "title": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
+    "category": "ai_models",
+    "score": 44
+  },
+  "f58947306fe6289e": {
+    "title": "VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token",
+    "category": "ai_models",
+    "score": 44
+  },
+  "60460504a8e9c2ae": {
+    "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
+    "category": "ai_models",
+    "score": 40
+  },
+  "93786412ef60ad86": {
+    "title": "InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation",
+    "category": "ai_models",
+    "score": 44
+  },
+  "15a5067cf564b938": {
+    "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
+    "category": "ai_models",
+    "score": 54
+  },
+  "f4897e2343a4c188": {
+    "title": "Manga2Animate: An Agentic Framework for Faithful Manga Animation with Script and Storyboard Planning",
+    "category": "ai_models",
+    "score": 39
+  },
+  "a6a6b622b35e1cf8": {
+    "title": "GenOlympiad: Benchmarking Frontier Image Models at Their Capability Boundaries",
+    "category": "ai_models",
+    "score": 35
+  },
+  "c942191a32a95ee4": {
+    "title": "Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy",
+    "category": "ai_models",
+    "score": 38
+  },
+  "52762da3151dc245": {
+    "title": "WeAct: Dynamic Weight Switching as Agent Actions",
+    "category": "ai_models",
+    "score": 40
+  },
+  "9665277e357149f4": {
+    "title": "Train An Imaginative Agent",
+    "category": "ai_models",
+    "score": 31
+  },
+  "b3e4981a9faf03b1": {
+    "title": "AnyGoal: On World Model Generalization Beyond Expert Rollouts",
+    "category": "ai_models",
+    "score": 38
+  },
+  "4063e0ba57551bec": {
+    "title": "LatComm: Reusable Context Compression for Latent Communication between Large Language Models",
+    "category": "ai_models",
+    "score": 31
+  },
+  "ecc1b50b43e4084f": {
+    "title": "Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexity",
+    "category": "ai_models",
+    "score": 31
+  },
+  "56dd714c26078a75": {
+    "title": "SpecKCast: Spectral Kalman Forecasting for Diffusion Acceleration",
+    "category": "ai_models",
+    "score": 41
+  },
+  "19618a47b00ca429": {
+    "title": "Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agents Accuracy",
+    "category": "ai_models",
+    "score": 36
+  },
+  "4f05bf18279a0366": {
+    "title": "Kronecker Delta Rule for Long Context Linear Attention",
+    "category": "ai_models",
+    "score": 30
+  },
+  "7ef3936bb160573e": {
+    "title": "Supervised Learning with Quantum Hamiltonian Embeddings",
+    "category": "ai_models",
+    "score": 37
+  },
+  "5c37ad6ae9b13f56": {
+    "title": "Competing Learning in Hybrid Architectures",
+    "category": "ai_models",
+    "score": 31
+  },
+  "3a094f759934602a": {
+    "title": "ProteinGeoBench: Frontier Structural-Biology Agents Are Fluent at Lookup but Lost in Geometry",
+    "category": "ai_models",
+    "score": 35
+  },
+  "ac9366b29fc282bc": {
+    "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
+    "category": "ai_models",
+    "score": 41
+  },
+  "4e3fb9d1058f02b2": {
+    "title": "KEEP-Bench: Evaluating Evidence Preservation in Context Compression",
+    "category": "ai_models",
+    "score": 38
+  },
+  "940905e81f5cb84b": {
+    "title": "RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development",
+    "category": "ai_models",
+    "score": 44
+  },
+  "a608b97bceb1e726": {
+    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "category": "ai_models",
+    "score": 11
+  },
+  "6adcc517791e37d2": {
+    "title": "China\u2019s Huachen Energy Risks Fresh Default on $956 Million Debt",
+    "category": "ai_models",
+    "score": 20
+  },
+  "43e9b59cdf0aa5c7": {
+    "title": "GCash Parent Mynt Open to Acquisitions After IPO",
+    "category": "ai_models",
+    "score": 24
+  },
+  "9291ccaec4245c24": {
+    "title": "FTSE 100 Live: UK Stocks Set to Fall as European Weakness Extends",
+    "category": "ai_models",
+    "score": 7
+  },
+  "7ba229f6ed28d994": {
+    "title": "Indonesia Stocks Rebound as Questions Persist Over Market Fix",
+    "category": "ai_models",
+    "score": 24
+  },
+  "32a044a4cded2b51": {
+    "title": "Saudi Arabia Postpones FII Summit After Houthi Attacks",
+    "category": "ai_models",
+    "score": 21
+  },
+  "9cf4565bcef2a691": {
+    "title": "Chinese Nickel Firms Plan to Discuss Cutting Indonesian Output",
+    "category": "ai_models",
+    "score": 18
+  },
+  "98d5d647befddf14": {
+    "title": "Japanese Investors Buy Most Domestic Government Bonds Since 2009",
+    "category": "ai_models",
+    "score": 25
+  },
+  "9710b615f7f53e41": {
+    "title": "Shaker: Demand in Mecca Driven by Faith not Cycles",
+    "category": "ai_models",
+    "score": 30
+  },
+  "d9ca45206ad142b5": {
+    "title": "Failed Firmus IPO Triggers Information Gathering by Regulator",
+    "category": "ai_models",
+    "score": 13
+  },
+  "b8e94a10a521f9ae": {
+    "title": "US Tightens Federal Access to DeepSeek",
+    "category": "ai_models",
+    "score": 30
+  },
+  "5de27c45b4fdd122": {
+    "title": "Rory McIlroy on Trump and the Future of Golf",
+    "category": "ai_models",
+    "score": 8
+  },
+  "fb177368b3d046b8": {
+    "title": "Japan\u2019s 20-Year Bond Auction Sees Strongest Demand on Record",
+    "category": "ai_models",
+    "score": 18
+  },
+  "2d9e353accb3a8bb": {
+    "title": "AirAsia Drops as Malaysia Says It Hasn\u2019t Agreed to Financial Aid",
+    "category": "ai_models",
+    "score": 11
+  },
+  "ac702001528c9cb9": {
+    "title": "Ares Warns of Australian Private Credit Stress From Rising Rates",
+    "category": "ai_models",
+    "score": 25
+  },
+  "9d1637007bb4e229": {
+    "title": "Traders on Edge as AI Jitters Continue",
+    "category": "ai_models",
+    "score": 33
   }
 }
