@@ -61328,5 +61328,185 @@
     "title": "The new class for Alex Cooper\u2019s Unwell University is matriculating across the continent",
     "category": "ai_models",
     "score": 21
+  },
+  "d37669455b4c3abf": {
+    "title": "Skymizer HTX301 \u2013 IP Licensable AI Accelerator Card with 384GB for 700B Models",
+    "category": "ai_models",
+    "score": 4
+  },
+  "b6e1baf79831d4f0": {
+    "title": "Scalable and Adaptive Distribution Regression via Random Features",
+    "category": "ai_models",
+    "score": 37
+  },
+  "351366c89821263f": {
+    "title": "Query-Dependent Reading for Quantized Inner-Product Estimation: A Minimax Separation",
+    "category": "ai_models",
+    "score": 32
+  },
+  "1155446d3e0f5027": {
+    "title": "Measuring Data Diversity with Embeddings: A Taxonomy and Benchmark for Diversity Measures",
+    "category": "ai_models",
+    "score": 39
+  },
+  "b02a7d1cd2c62e5a": {
+    "title": "Goal Images Are Control Targets: Spatially-Grounded Goal-Image Synthesis for Robotic Manipulation",
+    "category": "ai_models",
+    "score": 34
+  },
+  "2093f230d05debd0": {
+    "title": "Sample-Efficient Reinforcement Learning with General Utilities via Neural Dual Critics",
+    "category": "ai_models",
+    "score": 32
+  },
+  "d8500b48a75c8908": {
+    "title": "RAFT: Redundancy-Aware Input Filtering for Temporal Graph Neural Network Training",
+    "category": "ai_models",
+    "score": 47
+  },
+  "53cb2be20ad1491b": {
+    "title": "The One-Pixel of Reasoning: One Truthful Relation Is Enough to Mislead LLM Agents",
+    "category": "ai_models",
+    "score": 34
+  },
+  "36af32e673bae1d1": {
+    "title": "The Missing Compliance Class: LLM Graders That Collapse Jailbreak Success, and a Free Check",
+    "category": "ai_models",
+    "score": 32
+  },
+  "4834140b87812d02": {
+    "title": "Bellman Language Models: Solving the Recurring Decisions of LLM Agents",
+    "category": "ai_models",
+    "score": 43
+  },
+  "7f1ff83ae972227d": {
+    "title": "Dual Task Vector Merging: Leveraging Emotion and ASR Knowledge for Low-Resource Alzheimer's Disease Detection",
+    "category": "ai_models",
+    "score": 35
+  },
+  "ba13807a538ffb4e": {
+    "title": "SpriteStage: Long Horizon Animation Generation via Progressive Scene Programming and Replay",
+    "category": "ai_models",
+    "score": 53
+  },
+  "a87af163037bceb8": {
+    "title": "FlowMaker: From Tasks to Cost-Efficient Generative AI Workflow Deployments",
+    "category": "ai_models",
+    "score": 36
+  },
+  "82a8f90c34bae04f": {
+    "title": "Arbitrary-Scale Anisotropic 3D MRI Super-Resolution with Gaussian Prototypes",
+    "category": "ai_models",
+    "score": 36
+  },
+  "f4c1457241c5a87d": {
+    "title": "LLM-Based Evaluation Planning for Heterogeneous Optimization",
+    "category": "ai_models",
+    "score": 38
+  },
+  "217314ed8a1ced4e": {
+    "title": "Learning to Program Retrievals: Composing Search Primitives via Reinforcement Learning",
+    "category": "ai_models",
+    "score": 47
+  },
+  "055b3d6fdfe3b8cb": {
+    "title": "MisleadQA: Diagnosing LLM Failures under Misleading Context",
+    "category": "ai_models",
+    "score": 31
+  },
+  "f5f248f2c6171b0d": {
+    "title": "An Impossibility Result for ETF Target Geometry, and an Equinorm Remedy for Imbalanced Analytic Continual Learning",
+    "category": "ai_models",
+    "score": 38
+  },
+  "004ba567e6ead810": {
+    "title": "PCHMR: Empowering and Benchmarking Human Mesh Recovery in Privacy-Constrained Real-World Settings",
+    "category": "ai_models",
+    "score": 47
+  },
+  "f265f7dd5e305f65": {
+    "title": "A Statistical Viewpoint on Adam, Shampoo and Muon",
+    "category": "ai_models",
+    "score": 29
+  },
+  "3e623eb8b0c149b3": {
+    "title": "Pattern-Driven Evaluation of LLM Code Optimization: Isolating Compiler-Transcendent Semantic Reasoning",
+    "category": "ai_models",
+    "score": 44
+  },
+  "3d27ad9e8db4801a": {
+    "title": "VTF900: A 900-Subject Visible-Thermal Face Recognition Dataset and Benchmark",
+    "category": "ai_models",
+    "score": 36
+  },
+  "b2e3b9c89c57a5f4": {
+    "title": "Recurrent Temporal Restricted Boltzmann Machines as Unsupervised Encoders for Biomechanical Movement Sequences",
+    "category": "ai_models",
+    "score": 41
+  },
+  "3c673c4c10741584": {
+    "title": "Compose the Horizon: Parameter-Shared Blockwise Forecasting under a Sequential-Compute Trade-off",
+    "category": "ai_models",
+    "score": 38
+  },
+  "a9558b7b432187ca": {
+    "title": "Teaching Code Agents to Ask Without Leaking Private Code",
+    "category": "ai_models",
+    "score": 34
+  },
+  "c2530632ea111ead": {
+    "title": "Pair-Aware Optimization: Coordinating Exploration and Refinement for Jailbreaking LLM Agents",
+    "category": "ai_models",
+    "score": 37
+  },
+  "1dbe22633003a2af": {
+    "title": "Advancing coding in low\u2011resource programming languages",
+    "category": "ai_models",
+    "score": 21
+  },
+  "68a6b53f34def307": {
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+    "category": "ai_models",
+    "score": 14
+  },
+  "e6f1ae44f641af38": {
+    "title": "Embedded AI evaluators won\u2019t be an easy solution, Hugging Face\u2019s policy chief says",
+    "category": "ai_models",
+    "score": 34
+  },
+  "347c436de7c74a34": {
+    "title": "Asian Stocks Decline in Break From US Chip Rally: Markets Wrap",
+    "category": "ai_models",
+    "score": 17
+  },
+  "908efee59b28b4c5": {
+    "title": "Treasuries Losing Luster as Hedge Tool, Citi Australia CEO Says",
+    "category": "ai_models",
+    "score": 20
+  },
+  "96e9396b6760a7fa": {
+    "title": "Latest Oil Market News and Analysis for Oct. 20",
+    "category": "ai_models",
+    "score": 22
+  },
+  "5aa6623002175506": {
+    "title": "French Protests Taper Off as Officials Admit Failure",
+    "category": "ai_models",
+    "score": 20
+  },
+  "ceea8061c4729672": {
+    "title": "Gold Holds Decline as Energy-Led Inflation Weighs on Rate Path",
+    "category": "ai_models",
+    "score": 18
+  },
+  "cf6d35446af6b57a": {
+    "title": "Mynt\u2019s Record IPO Brings a New Heavyweight to Philippine Stocks",
+    "category": "ai_models",
+    "score": 25
+  },
+  "4487677cb3e97570": {
+    "title": "ROVE Launches a New Identity and Website, Signs Ashley McKim Consulting",
+    "category": "ai_models",
+    "score": 12
   }
 }
