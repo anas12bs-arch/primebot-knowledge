@@ -62258,5 +62258,210 @@
     "title": "TikTok\u2019s popularity as a news source appears to be reaching a plateau",
     "category": "ai_models",
     "score": 32
+  },
+  "b7698091d389d0ce": {
+    "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+    "category": "ai_models",
+    "score": 31
+  },
+  "32263a4df1a56c90": {
+    "title": "AEON: Unifying Video and 3D World Models",
+    "category": "ai_models",
+    "score": 30
+  },
+  "2e531884687e989e": {
+    "title": "SolarRenderer: Few-Step Generative Reference Rendering",
+    "category": "ai_models",
+    "score": 31
+  },
+  "9c3394e90b417646": {
+    "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
+    "category": "ai_models",
+    "score": 40
+  },
+  "2dbf7273e5a07ba8": {
+    "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
+    "category": "ai_models",
+    "score": 38
+  },
+  "2ff15a1a1bdb7820": {
+    "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
+    "category": "ai_models",
+    "score": 38
+  },
+  "b6781eefe1e5566c": {
+    "title": "PsycheMME: A Psychology-Informed Benchmark for Social Understanding and Interaction in Videos",
+    "category": "ai_models",
+    "score": 35
+  },
+  "e8ec54b2ec90730d": {
+    "title": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets",
+    "category": "ai_models",
+    "score": 40
+  },
+  "6870ad36959f7f68": {
+    "title": "Planning under Noise with Neural Operators",
+    "category": "ai_models",
+    "score": 37
+  },
+  "fed8d7dd7c0aacd2": {
+    "title": "MindView: Benchmarking Generative Multi-View Spatial Intelligence",
+    "category": "ai_models",
+    "score": 42
+  },
+  "13578e8cc16e97d8": {
+    "title": "Adaptive Multi-Token Prediction: How far should we go?",
+    "category": "ai_models",
+    "score": 32
+  },
+  "48831551ddb499a6": {
+    "title": "Efficient Edge-aware Attention Network for Graph Generation",
+    "category": "ai_models",
+    "score": 38
+  },
+  "661ddf44a4056a2a": {
+    "title": "NarraSpace: Multimodal Scene-Grounded Evidence for Picture-Description Dementia Classification",
+    "category": "ai_models",
+    "score": 38
+  },
+  "c4b3ba261bc1266e": {
+    "title": "KoalaGS: Complexity-Aware Continuous Level of Detail for Gaussian Splatting",
+    "category": "ai_models",
+    "score": 40
+  },
+  "c77ac5c5f09d6e8e": {
+    "title": "Semantic Observability for Autonomous Systems Diagnostics",
+    "category": "ai_models",
+    "score": 41
+  },
+  "dbffdd4f77d971eb": {
+    "title": "Benchmarking Arabic Dialects for Math Problems",
+    "category": "ai_models",
+    "score": 29
+  },
+  "20b8db4284682857": {
+    "title": "Value-Rich, Differently Organized: Measuring Value Expression and Organization in AI-Generated Debates",
+    "category": "ai_models",
+    "score": 29
+  },
+  "f6d34145757a8799": {
+    "title": "Turning TS2Vec into a Foundation Model for Time Series Classification",
+    "category": "ai_models",
+    "score": 47
+  },
+  "c52bfd0d22b78a13": {
+    "title": "Evolving Agent Interfaces",
+    "category": "ai_models",
+    "score": 37
+  },
+  "bf7acf0921c86040": {
+    "title": "Neural Implicit Energy Optimization for LiDAR Mapping",
+    "category": "ai_models",
+    "score": 30
+  },
+  "f4a471d8e71d0603": {
+    "title": "What Do RTL Repair Benchmarks Actually Measure?",
+    "category": "ai_models",
+    "score": 32
+  },
+  "c75f200426370a68": {
+    "title": "Learning the 4D World through Point Trajectory Forecasting",
+    "category": "ai_models",
+    "score": 36
+  },
+  "368cc3cf8d10ab04": {
+    "title": "PaPi: Parallel Picard-Duhamel Integration for Fast Neuro-Spectral Architectures",
+    "category": "ai_models",
+    "score": 36
+  },
+  "86d1b99046e410d1": {
+    "title": "WildMAE: Structure-Aware Masked Autoencoding for Wildlife Image Reconstruction",
+    "category": "ai_models",
+    "score": 33
+  },
+  "de26fbf3fbd573ff": {
+    "title": "Two $\\operatorname{ReLU}$ Layers is All You Need",
+    "category": "ai_models",
+    "score": 12
+  },
+  "aa8847d44cbae332": {
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "category": "ai_models",
+    "score": 17
+  },
+  "2c0c78d6dd60d843": {
+    "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: \u2018Physical AI is in its LEGO era\u2019",
+    "category": "ai_models",
+    "score": 15
+  },
+  "36cccf664b6d7413": {
+    "title": "Indonesia\u2019s Top Stocks Face Outsized Selling, Says Allspring",
+    "category": "ai_models",
+    "score": 22
+  },
+  "a843c46fd36b0c97": {
+    "title": "Merdeka Gold Braves Indonesia Turmoil With $559 Million Offering",
+    "category": "ai_models",
+    "score": 20
+  },
+  "cad71551ef4a2658": {
+    "title": "Nickel Extends Rebound on Prospect of Indonesian Production Cuts",
+    "category": "ai_models",
+    "score": 19
+  },
+  "e28187997debc815": {
+    "title": "Podcast: Portfolio Reset Why Passive Investing Is Anything But Passive",
+    "category": "ai_models",
+    "score": 14
+  },
+  "a74589ac5b641639": {
+    "title": "Macquarie Oil Traders Leave as Bank Restructures Commodity Units",
+    "category": "ai_models",
+    "score": 10
+  },
+  "44124e7194773b75": {
+    "title": "DayOne Said to Weigh Options for US IPO After Data Center Rout",
+    "category": "ai_models",
+    "score": 25
+  },
+  "973c221f4d49696c": {
+    "title": "CATL\u2019s Slow Profit Growth Fans Fears for China Battery Peers",
+    "category": "ai_models",
+    "score": 26
+  },
+  "3784058a131d6a75": {
+    "title": "Jio\u2019s Record $3.2 Billion IPO Puts India\u2019s Market Muscle to the Test",
+    "category": "ai_models",
+    "score": 19
+  },
+  "ed087cedaae9992a": {
+    "title": "Korean Data Center Firm Elice Jumps by Limit After Debut Slump",
+    "category": "ai_models",
+    "score": 19
+  },
+  "304ffb34c16f1bd2": {
+    "title": "EEX in Talks With Australian Power Traders to Offer Futures",
+    "category": "ai_models",
+    "score": 25
+  },
+  "905cc54f62039478": {
+    "title": "Before Tera\u2019s 95% Crash, Punches Were Thrown and Warnings Missed",
+    "category": "ai_models",
+    "score": 13
+  },
+  "ab027fe96e627483": {
+    "title": "Citi's Luet Sees AI Infrastructure Theme Continuing",
+    "category": "ai_models",
+    "score": 26
+  },
+  "ab655f2665cf53da": {
+    "title": "Gold Steadies as Conflicting Iran Signals Cloud Path for Rates",
+    "category": "ai_models",
+    "score": 15
+  },
+  "41e774142ebada89": {
+    "title": "Syracuse University students are calling local creators to their very own bizdev convention",
+    "category": "ai_models",
+    "score": 28
   }
 }
