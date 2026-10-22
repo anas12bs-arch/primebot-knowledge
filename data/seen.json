@@ -63187,5 +63187,220 @@
     "title": "Stop me if you\u2019ve heard this one before: Gen Z and Gen Alpha see YouTube as a top storytelling platform",
     "category": "ai_models",
     "score": 24
+  },
+  "558b484432bacaa8": {
+    "title": "Does a text-to-speech model know what it's saying?",
+    "category": "ai_models",
+    "score": 5
+  },
+  "ea10ab104278cd32": {
+    "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+    "category": "ai_models",
+    "score": 37
+  },
+  "258aecd6bd45e2f5": {
+    "title": "Rethinking Video Autoencoders for Interactive World Models",
+    "category": "ai_models",
+    "score": 44
+  },
+  "32f28cbf576f8854": {
+    "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+    "category": "ai_models",
+    "score": 33
+  },
+  "4338b76824ac1d6f": {
+    "title": "VoxProg: 3D Spatial Reasoning through Voxel Programming",
+    "category": "ai_models",
+    "score": 34
+  },
+  "fba9ced5cf97332d": {
+    "title": "PhysiCalWorld: In-Context Physics Calibration for World Models",
+    "category": "ai_models",
+    "score": 40
+  },
+  "e8918c220029048a": {
+    "title": "A Quasipolynomial Algorithm for $\\ell_\\infty$ Contractions",
+    "category": "ai_models",
+    "score": 21
+  },
+  "d5324551ea624df1": {
+    "title": "ALPS: Visual State Encoders for World Models",
+    "category": "ai_models",
+    "score": 34
+  },
+  "5325ea1c318c18c2": {
+    "title": "Self-normalized Bernstein Inequalities for Regenerative Processes and Applications to Learning Without Independence",
+    "category": "ai_models",
+    "score": 29
+  },
+  "24ba4aff751b0eea": {
+    "title": "The role of locality and weight sharing in convolutional neural networks",
+    "category": "ai_models",
+    "score": 41
+  },
+  "0372742febd17fbf": {
+    "title": "Environment Duels: A Microcosm of LLM Co-Evolution",
+    "category": "ai_models",
+    "score": 39
+  },
+  "6eaa76acdb6ac62e": {
+    "title": "The End of Consensus Research?",
+    "category": "ai_models",
+    "score": 36
+  },
+  "a3d6ca4e4487a273": {
+    "title": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
+    "category": "ai_models",
+    "score": 38
+  },
+  "30e20278c1355ef5": {
+    "title": "Minimax Optimality of the NPMLE for Gaussian Mixtures in Hellinger Distance",
+    "category": "ai_models",
+    "score": 19
+  },
+  "b9d100f0402a1c4e": {
+    "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
+    "category": "ai_models",
+    "score": 39
+  },
+  "bd59e4a0a8e201c6": {
+    "title": "Velocity Ambiguity Profiles: Time-Resolved Bayes-Risk Diagnostics for Flow Matching",
+    "category": "ai_models",
+    "score": 20
+  },
+  "2eda632846a981da": {
+    "title": "Asymmetric On-Policy Distillation Learns In-Context Exploration",
+    "category": "ai_models",
+    "score": 50
+  },
+  "cd9f458c474bcd7a": {
+    "title": "BatchBench: Benchmarking AI Robustness to Batch Effects and Domain Shift in Biomedical Images - A JUMP Cell Painting Leaderboard",
+    "category": "ai_models",
+    "score": 39
+  },
+  "5dd9defdb5f1947a": {
+    "title": "Did the Problem Actually Get Harder? Testing LLMs on Paired P and NP-Complete Problems Hardened by Adversarial Multi-Agent Rewriting",
+    "category": "ai_models",
+    "score": 30
+  },
+  "dc2a94563807b5b5": {
+    "title": "Differentially Private Sparse Reward Estimation with Preference Feedback",
+    "category": "ai_models",
+    "score": 38
+  },
+  "caa91b6121058c23": {
+    "title": "AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation",
+    "category": "ai_models",
+    "score": 56
+  },
+  "53d3a58775014126": {
+    "title": "VX-One: Typed, Calibrated Decision Heads for Real-Time Perimeter Triage - An empirical study of unknown-attack honesty, cascade gray zones, and calibration under drift",
+    "category": "ai_models",
+    "score": 39
+  },
+  "4aea9efb9a9ef2b5": {
+    "title": "ProactEgoMem: Benchmarking Proactive Memory in Streaming Egocentric Video",
+    "category": "ai_models",
+    "score": 44
+  },
+  "0400afc927600dd0": {
+    "title": "Orbitol: Crystal Generation on Wyckoff Orbits",
+    "category": "ai_models",
+    "score": 42
+  },
+  "d5f86bbd6ada42fa": {
+    "title": "Circuits of LLM Classifiers",
+    "category": "ai_models",
+    "score": 25
+  },
+  "2aa39c12e6646357": {
+    "title": "From Classifier Heads to Encoder Prototypes: Personalized Federated Learning with Head-Derived Clustering",
+    "category": "ai_models",
+    "score": 38
+  },
+  "16364d9e2ea5b8bd": {
+    "title": "China Stocks Enter Bear Market as Tech Slumps, Policy Hopes Ebb",
+    "category": "ai_models",
+    "score": 24
+  },
+  "7770bcfc1eab00c7": {
+    "title": "Horizons Middle East & Africa 10/22/2026 (Video)",
+    "category": "ai_models",
+    "score": 5
+  },
+  "e6592d1abe815881": {
+    "title": "Spanish VC Seaya Enters London After Raising \u20ac600 Million",
+    "category": "ai_models",
+    "score": 19
+  },
+  "562580921ec2a041": {
+    "title": "China Stocks Drop Most Since Liberation Day",
+    "category": "ai_models",
+    "score": 28
+  },
+  "222d3b73288ccf29": {
+    "title": "Jio Leverage Play Pops Up at SBI as India Brokers Lure IPO Bets",
+    "category": "ai_models",
+    "score": 20
+  },
+  "dc00f8a010798452": {
+    "title": "Evergrande Liquidators Plan First Payout to Creditors Next Year",
+    "category": "ai_models",
+    "score": 19
+  },
+  "942219d1750d9f26": {
+    "title": "China\u2019s Chip Catch-Up May Take Five Years: Miller",
+    "category": "ai_models",
+    "score": 25
+  },
+  "27bca2040c84e2eb": {
+    "title": "BOE Interest Rates Beyond November Clouded by Energy Uncertainty",
+    "category": "ai_models",
+    "score": 12
+  },
+  "0df6e80475b11bb9": {
+    "title": "Tesla Cuts Capex Guidance, Meta Hikes AI Spending Outlook, Announces New Stock Class",
+    "category": "ai_models",
+    "score": 39
+  },
+  "7389b87d88887229": {
+    "title": "Alibaba Leads Hong Kong Tech Slide on China Regulatory Move",
+    "category": "ai_models",
+    "score": 25
+  },
+  "ac7fd22b8edfa8dc": {
+    "title": "Oil Market Crunch Could Happen in Months: BofA's Blanch",
+    "category": "ai_models",
+    "score": 32
+  },
+  "b3364ee187ec6f7d": {
+    "title": "Boston Dynamics Founder On Physical AI Outlook",
+    "category": "ai_models",
+    "score": 21
+  },
+  "00471fc2a86af240": {
+    "title": "India\u2019s Margin-Funded Stock Bets Fall as Small-Cap Rally Falters",
+    "category": "ai_models",
+    "score": 21
+  },
+  "090e670baad84f1b": {
+    "title": "FTSE 100 Live: UK Stocks Set for Losses as Global Equities Decline",
+    "category": "ai_models",
+    "score": 6
+  },
+  "d4fc48164f693df0": {
+    "title": "BNP Paribas AM Builds Long-End JGB Bet on Steep Yield Curve",
+    "category": "ai_models",
+    "score": 23
+  },
+  "f4df423774a8924e": {
+    "title": "Treasuries Climb With Yen as AI Trade Jitters Fuel Haven Bid",
+    "category": "ai_models",
+    "score": 18
+  },
+  "47f13a588189d59d": {
+    "title": "Indonesian Stocks Rebound as Sovereign Wealth Fund Shows Support",
+    "category": "ai_models",
+    "score": 16
   }
 }
