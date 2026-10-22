@@ -62977,5 +62977,215 @@
     "title": "Top 5 Branded Videos of the Week: Tech on the street",
     "category": "ai_models",
     "score": 24
+  },
+  "1184e650a69e33f4": {
+    "title": "Show HN: Embodsi \u2013 Embodied Super Intelligence",
+    "category": "ai_models",
+    "score": 6
+  },
+  "b1f87839bd47c031": {
+    "title": "Near Minimax Rate for Quantile Distributional Reinforcement Learning",
+    "category": "ai_models",
+    "score": 31
+  },
+  "4e5cce67908810f9": {
+    "title": "A Transfer Learning-Driven Methodology for Efficient and Sustainable Indoor Localization Using VLC",
+    "category": "ai_models",
+    "score": 48
+  },
+  "8d32e6dc0ceefd7e": {
+    "title": "CineEvolve: An Agentic Self-Evolution Framework for Cinematic Multi-Shot Video Generation",
+    "category": "ai_models",
+    "score": 47
+  },
+  "91c352dbec401b49": {
+    "title": "Fragment-Level Graph Encoding for Interpretable Molecular Property Prediction",
+    "category": "ai_models",
+    "score": 37
+  },
+  "46b6802c61e8e5a4": {
+    "title": "Unlocking Spatial Grounding in Flow-Matching Models via SNR Tuning",
+    "category": "ai_models",
+    "score": 47
+  },
+  "8fac2acc484ffa86": {
+    "title": "Fast Bayesian Optimization Through Linear Models",
+    "category": "ai_models",
+    "score": 36
+  },
+  "935eaf601c022270": {
+    "title": "What Prediction-Market Contracts Reveal at Launch: Trading Volume and Dispute Risk",
+    "category": "ai_models",
+    "score": 28
+  },
+  "a58c42bb7b4dad54": {
+    "title": "The Reflexivity Threshold: A Phase Transition for Multi-Agent Performative Prediction",
+    "category": "ai_models",
+    "score": 39
+  },
+  "534ff42130eab64f": {
+    "title": "Private Online Prediction from Experts with Small Losses",
+    "category": "ai_models",
+    "score": 34
+  },
+  "281e6eba381e1c9f": {
+    "title": "Implicit Feature Reweighting for Label-Free Graph Generalization",
+    "category": "ai_models",
+    "score": 52
+  },
+  "cb201f0014a7cdfd": {
+    "title": "Rethinking Underwater Image Enhancement: Learning through Text-Guided Degradation Curriculum",
+    "category": "ai_models",
+    "score": 44
+  },
+  "59bf406957326896": {
+    "title": "Certified Neural Approximation of Robust Nonlinear Model Predictive Control",
+    "category": "ai_models",
+    "score": 34
+  },
+  "45e7390d606526ef": {
+    "title": "SOAR: Social and Opinion-Aware Recommendations",
+    "category": "ai_models",
+    "score": 29
+  },
+  "78635699da82b9de": {
+    "title": "WRDO: Weighted Refusal Direction Optimization in Aligned Language Models",
+    "category": "ai_models",
+    "score": 35
+  },
+  "ae9ea68238a5825c": {
+    "title": "Generalized CycleGRPO for Fine-Grained Multimodal Understanding and Grounding",
+    "category": "ai_models",
+    "score": 46
+  },
+  "2fc4aa70bd96da1d": {
+    "title": "Hyperspherical Simplex Representations for Backward-Compatible Retrieval",
+    "category": "ai_models",
+    "score": 38
+  },
+  "cfc3f867042a63f7": {
+    "title": "PACE: Periodic and Channel-Aligned Encoding of Four-Bit Recurrent States",
+    "category": "ai_models",
+    "score": 32
+  },
+  "236f6f0bf8c92fe9": {
+    "title": "Stochastic Pruning of the DPO Computation Graph: 1.4x Faster Training and Lower Peak Memory",
+    "category": "ai_models",
+    "score": 35
+  },
+  "cc46f26b2bd27a19": {
+    "title": "Melange: A Synthetic Visual Bias Benchmark for Multi-modal Large Language Models",
+    "category": "ai_models",
+    "score": 39
+  },
+  "7ddf86dee291a28a": {
+    "title": "Block Diffusion for Longitudinal EHR: Accuracy, Efficiency, and Representation Trade-offs",
+    "category": "ai_models",
+    "score": 48
+  },
+  "9e812b4b413b4e14": {
+    "title": "Phase Transitions in Learning Driven by Extremal Data",
+    "category": "ai_models",
+    "score": 34
+  },
+  "9734f6999d1630af": {
+    "title": "Residual-Based Causal Discovery via Pretrained In-Context Quantile Regression",
+    "category": "ai_models",
+    "score": 37
+  },
+  "5393848d8e50d660": {
+    "title": "Are Joint-Embedding Predictive Objectives Effective for Longitudinal EHRs?",
+    "category": "ai_models",
+    "score": 46
+  },
+  "d2f778e64509416a": {
+    "title": "RCSD: Reinforcement and Continual Learning for Domain-Specific Speculative Decoding",
+    "category": "ai_models",
+    "score": 39
+  },
+  "ea5560b082eba8a1": {
+    "title": "Geometric knowledge spaces, Attention pairing and Architectures",
+    "category": "ai_models",
+    "score": 36
+  },
+  "3fe372fb2e8166f0": {
+    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+    "category": "ai_models",
+    "score": 22
+  },
+  "468e2c3a8b2e2f07": {
+    "title": "Singapore Dollar Gains on Yen as Carry Funder, Analysts Say",
+    "category": "ai_models",
+    "score": 26
+  },
+  "1b1ebc039c133461": {
+    "title": "AI Boom Likely to Cushion Asia Despite Earnings Woes",
+    "category": "ai_models",
+    "score": 17
+  },
+  "34be2b68f2596b8c": {
+    "title": "Nextdc Claws Back Losses after Profit Warning Prompts Plunge",
+    "category": "ai_models",
+    "score": 19
+  },
+  "e66111ba1e57d5d1": {
+    "title": "China\u2019s Iron Ore Sway May Leave Japan a Price Taker: Woodmac",
+    "category": "ai_models",
+    "score": 19
+  },
+  "903929b42167edcf": {
+    "title": "China Stock Rescue May Need More State Buying to Work, BI Says",
+    "category": "ai_models",
+    "score": 26
+  },
+  "df1dba996df75cd2": {
+    "title": "Gold Edges Lower as Traders Weigh Mideast Signals, Fed Rate Path",
+    "category": "ai_models",
+    "score": 24
+  },
+  "ea62a7a5717e9c2c": {
+    "title": "El Ni\u00f1o Stresses China\u2019s Power Market With Return to Costly Gas",
+    "category": "ai_models",
+    "score": 17
+  },
+  "9ac0cf90696d701f": {
+    "title": "Pulp Maker Mercer Is Weighing Possible Chapter 11 Bankruptcy",
+    "category": "ai_models",
+    "score": 17
+  },
+  "e6ef8f2b2ac49d1c": {
+    "title": "UniSuper CIO Is Not A Skeptic on AI",
+    "category": "ai_models",
+    "score": 20
+  },
+  "334383a9250dc1d1": {
+    "title": "Santos Posts Record Quarterly Output on New LNG, Oil Projects",
+    "category": "ai_models",
+    "score": 20
+  },
+  "7d33589399daac74": {
+    "title": "MSCI Pressed by Investors to Justify Drastic Indonesia Warning",
+    "category": "ai_models",
+    "score": 24
+  },
+  "6007f20ca9026f6f": {
+    "title": "Citi Targets Top Spot in China as It Awaits Securities License",
+    "category": "ai_models",
+    "score": 25
+  },
+  "a589e72b254d837a": {
+    "title": "China\u2019s Petrochemicals Glut Turns to Crunch After Months of War",
+    "category": "ai_models",
+    "score": 20
+  },
+  "383d955b25018ae2": {
+    "title": "Lofi Girl\u2019s iconic headphones are now real\u2013and on (digital) store shelves",
+    "category": "ai_models",
+    "score": 26
+  },
+  "24a1b7f44eb55ec4": {
+    "title": "Stop me if you\u2019ve heard this one before: Gen Z and Gen Alpha see YouTube as a top storytelling platform",
+    "category": "ai_models",
+    "score": 24
   }
 }
