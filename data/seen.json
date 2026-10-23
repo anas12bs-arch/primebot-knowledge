@@ -63986,5 +63986,245 @@
     "title": "BookTok smash hit Heated Rivalry is headed to theaters\u2013a year after its finale aired",
     "category": "ai_models",
     "score": 22
+  },
+  "d87e05cdd4593cb4": {
+    "title": "The Latest Anthropic Claude Models Contain AI Text Watermarks",
+    "category": "ai_models",
+    "score": 11
+  },
+  "797b0d200eacf2e2": {
+    "title": "M3.1 Flash weights are now open",
+    "category": "ai_models",
+    "score": 6
+  },
+  "5eee804247a435ab": {
+    "title": "Canva's first in-house AI image model plans designs before generating them",
+    "category": "ai_models",
+    "score": 12
+  },
+  "2fca62f4a1a47891": {
+    "title": "A Unified Framework for Image-to-3D Part Generation via Variable Granularity",
+    "category": "ai_models",
+    "score": 37
+  },
+  "9badb334b46a68ed": {
+    "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+    "category": "ai_models",
+    "score": 40
+  },
+  "22a812c26be8ec97": {
+    "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
+    "category": "ai_models",
+    "score": 44
+  },
+  "38071abdd9d3d1fc": {
+    "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+    "category": "ai_models",
+    "score": 35
+  },
+  "20a7a7d0ca148066": {
+    "title": "Phase Transition from Random Features to Fully Trainable Networks",
+    "category": "ai_models",
+    "score": 47
+  },
+  "6014311e0d9e4e0f": {
+    "title": "Reliable AI-Assisted Decisions via Selective Auditing",
+    "category": "ai_models",
+    "score": 28
+  },
+  "ab78ab72567f005c": {
+    "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
+    "category": "ai_models",
+    "score": 42
+  },
+  "4dd6c69ad57ae145": {
+    "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+    "category": "ai_models",
+    "score": 32
+  },
+  "a6b2bf3c91a3d9f1": {
+    "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
+    "category": "ai_models",
+    "score": 32
+  },
+  "d81d3f03fd86d0cb": {
+    "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
+    "category": "ai_models",
+    "score": 35
+  },
+  "93ba40125d7e725f": {
+    "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
+    "category": "ai_models",
+    "score": 31
+  },
+  "53dc7b8c4922bcd1": {
+    "title": "Gate3DGen: A Pre-processing Model that Selectively Purifies Real-World Images for 3D Generation",
+    "category": "ai_models",
+    "score": 42
+  },
+  "a5398b76b1582d9b": {
+    "title": "Low-Bit N-Gram Embeddings for Language Models",
+    "category": "ai_models",
+    "score": 35
+  },
+  "a18edfe37fb789cc": {
+    "title": "OmniRay: Camera-Agnostic Monocular 3D Reconstruction with Composite Ray Fields",
+    "category": "ai_models",
+    "score": 24
+  },
+  "b83a469c3d73b342": {
+    "title": "GigaBench: Benchmarking Learnable Representations for Gigapixel Image Compression and Super-Resolution",
+    "category": "ai_models",
+    "score": 46
+  },
+  "490fc4fbe44a51fc": {
+    "title": "A Fix for Softmax and Cross-Entropy",
+    "category": "ai_models",
+    "score": 18
+  },
+  "22d427443161c3c4": {
+    "title": "UniVOE: A Removal-Driven Framework for Interaction-Aware Universal Video Object Editing",
+    "category": "ai_models",
+    "score": 41
+  },
+  "df990fb8a9c524cf": {
+    "title": "WorldForge V2: Eliciting Camera-Trajectory Alignment in Video Diffusion Models",
+    "category": "ai_models",
+    "score": 40
+  },
+  "ed2a3abdf7c40911": {
+    "title": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation",
+    "category": "ai_models",
+    "score": 39
+  },
+  "c798a81652dd97a6": {
+    "title": "Can an Agent Debug a Web Corpus? Agentic Auditing of Slovak FineWeb2",
+    "category": "ai_models",
+    "score": 27
+  },
+  "170e444c71951223": {
+    "title": "HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction",
+    "category": "ai_models",
+    "score": 46
+  },
+  "6331dbfb3c408504": {
+    "title": "BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing",
+    "category": "ai_models",
+    "score": 40
+  },
+  "d45d50cb8a8614cc": {
+    "title": "Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3",
+    "category": "ai_models",
+    "score": 45
+  },
+  "a4d39fcacb794cf7": {
+    "title": "F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation",
+    "category": "ai_models",
+    "score": 44
+  },
+  "18d54059dbb98689": {
+    "title": "Bilingual Language Models Capture Cross-Linguistic Influence in Second-Language Reading",
+    "category": "ai_models",
+    "score": 33
+  },
+  "fad2445ec928b994": {
+    "title": "Profound vs. Scrunch: Which AEO tool fits your team?",
+    "category": "ai_models",
+    "score": 16
+  },
+  "cf51e24baa15d2e1": {
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "category": "ai_models",
+    "score": 11
+  },
+  "fee5d6bca690475f": {
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "category": "ai_models",
+    "score": 16
+  },
+  "7b3ad7c1e3e3611a": {
+    "title": "Indonesian Corporate Bond Risk Gauge Rises to Six-Year High",
+    "category": "ai_models",
+    "score": 13
+  },
+  "3a7edc80187602e0": {
+    "title": "Volvo Profit Rises on Truck Demand in North America, Europe",
+    "category": "ai_models",
+    "score": 19
+  },
+  "6e948812a250a550": {
+    "title": "Swiggy Shares Plunge After Losses Mount on Intense Competition",
+    "category": "ai_models",
+    "score": 20
+  },
+  "1d2c45447440a90e": {
+    "title": "Eni Raises Investor Payouts as High Fuel Prices Boost Cash Flow",
+    "category": "ai_models",
+    "score": 18
+  },
+  "6f189dc1058c6482": {
+    "title": "Europe\u2019s Luxury Giants Trade at Lowest Valuations in a Decade",
+    "category": "ai_models",
+    "score": 22
+  },
+  "960b03d57ee6a9ec": {
+    "title": "Tokyo Bourse\u2019s Data Fix Revives Kioxia Margin-Position Concerns",
+    "category": "ai_models",
+    "score": 24
+  },
+  "82d75fc67674b459": {
+    "title": "Why Are India\u2019s Truckers Avoiding New Expressways?",
+    "category": "ai_models",
+    "score": 18
+  },
+  "c63e361971d30a47": {
+    "title": "Holcim Lifts Guidance Again as Strong Demand Drives Profit Beat",
+    "category": "ai_models",
+    "score": 21
+  },
+  "58d01f5d3eb6889e": {
+    "title": "Tech Selloff Deepens, SK Hynix Scraps Solidigm US IPO Plans",
+    "category": "ai_models",
+    "score": 35
+  },
+  "c4fe0ebf91abf7a0": {
+    "title": "Wheat Slides for Eighth Week in Longest Losing Streak Since 1997",
+    "category": "ai_models",
+    "score": 22
+  },
+  "19b42b81b778bb5f": {
+    "title": "Singapore Exchange\u2019s Loh Plans to Hand Over Reins After Decade",
+    "category": "ai_models",
+    "score": 13
+  },
+  "4f14e9d8ea13b8b2": {
+    "title": "China AI Model Stocks\u2019 $150 Billion Drop Shows No Sign of Easing",
+    "category": "ai_models",
+    "score": 19
+  },
+  "72cd6cf5f690576d": {
+    "title": "Blackstone's Early Bet on AI",
+    "category": "ai_models",
+    "score": 15
+  },
+  "fa86dcd7a744a6bc": {
+    "title": "Pentagon\u2019s Venezuelan Oil Partner Nabep Adds Rig, Boosts Output",
+    "category": "ai_models",
+    "score": 26
+  },
+  "e9cb037aa9db0d24": {
+    "title": "Are AI Data Centers Overvalued?",
+    "category": "ai_models",
+    "score": 48
+  },
+  "1486db1817e19413": {
+    "title": "Palm Oil Fluctuates as Market Faces Dueling Supply Outlooks",
+    "category": "ai_models",
+    "score": 11
+  },
+  "723e6e3a8be546fe": {
+    "title": "China Stocks Sink Further as State Buying Offers Little Relief",
+    "category": "ai_models",
+    "score": 23
   }
 }
