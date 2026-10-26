@@ -65131,5 +65131,175 @@
     "title": "BYD\u2019s Korea Expansion Challenges Hyundai Dominance on Home Turf",
     "category": "ai_models",
     "score": 19
+  },
+  "d478fbcecf20fa17": {
+    "title": "Show HN: Depono \u2013 Chat with many AI models at cost and 10%, files kept in Git",
+    "category": "ai_models",
+    "score": 5
+  },
+  "9ac777aef5bfc1e9": {
+    "title": "Interpretable Singing Emotion Recognition Using Acoustic and Vocal Technique Features",
+    "category": "ai_models",
+    "score": 34
+  },
+  "7fa7bc14992f7b3a": {
+    "title": "Acquisition for Spherical-Linear Bayesian Optimization on the Cube",
+    "category": "ai_models",
+    "score": 26
+  },
+  "18543c3ecdd730e2": {
+    "title": "LGMT: A Tool for Testing the Logical Reasoning Reliability of LLMs",
+    "category": "ai_models",
+    "score": 45
+  },
+  "4f437ef2e10139ff": {
+    "title": "What Transfers Across Protein Pockets? Experience Reuse in Molecular Optimization for Agentic Structure-Based Drug Design",
+    "category": "ai_models",
+    "score": 33
+  },
+  "678a38e3172ef819": {
+    "title": "Earth embeddings are decomposable records of the land surface",
+    "category": "ai_models",
+    "score": 39
+  },
+  "d15288979799a6dc": {
+    "title": "DriveOSS: Dataset and Benchmark for 3D Anomaly Segmentation and Open-set Semantic Segmentation in Autonomous Driving",
+    "category": "ai_models",
+    "score": 39
+  },
+  "942af7439ca63f34": {
+    "title": "Interpreting Supervised Pairwise Graph Representations: Local Evidence, Confounding, and Provable Post-hoc Correction",
+    "category": "ai_models",
+    "score": 36
+  },
+  "32fcd663b5f9a07f": {
+    "title": "Hair Segmentation and Skin Characterization on Macroscopic Dermatological Images for Laser Treatment Parameterization",
+    "category": "ai_models",
+    "score": 29
+  },
+  "8d717456a025c1c7": {
+    "title": "LLaCO: Continuous Diffusion for Large Language Models with Competition-Aware Semantic Scheduling",
+    "category": "ai_models",
+    "score": 37
+  },
+  "770d20847ebd1afa": {
+    "title": "Trajectory Matching: Discrete Flow Matching with Structured Actions",
+    "category": "ai_models",
+    "score": 33
+  },
+  "2acf383eaeed3cde": {
+    "title": "Let's Do Turbulence Right: In Space and Time!",
+    "category": "ai_models",
+    "score": 37
+  },
+  "87cbdecb857d6690": {
+    "title": "Universal neural network approximation of symmetric polyconvex energies and envelopes",
+    "category": "ai_models",
+    "score": 30
+  },
+  "55a2a94113e2baac": {
+    "title": "Contextual Decision Making: Predictive or Generative",
+    "category": "ai_models",
+    "score": 34
+  },
+  "abc269666b38b202": {
+    "title": "Batched NN 4D-Var: a performant hybrid model framework for the Integrated Forecasting System",
+    "category": "ai_models",
+    "score": 45
+  },
+  "b6f760502b91dc9c": {
+    "title": "From Parameter Rebasin to Functional Transfer Across Heterogeneous Transformers",
+    "category": "ai_models",
+    "score": 39
+  },
+  "f337ae9773a833f2": {
+    "title": "PHYRD: A Living Benchmark for Reproducing and Extending Theoretical Physics Research",
+    "category": "ai_models",
+    "score": 40
+  },
+  "24149bdf7601a2aa": {
+    "title": "Standing on Open Shoulders: Regional Fine-Tuning of Open-Weight Camera-Trap Models for UK Wildlife with Modest Data and Compute",
+    "category": "ai_models",
+    "score": 32
+  },
+  "a021bfafe0b48d46": {
+    "title": "Pseudo-Labels as Rewards, Not Targets: Group-Relative Policy Optimization for Semi-Supervised ASR",
+    "category": "ai_models",
+    "score": 32
+  },
+  "7f9eaabe3e51fa1f": {
+    "title": "Reuse, Don't Retrain: Efficient, Modality-Versatile Geospatial Foundation Models through Feature Distillation",
+    "category": "ai_models",
+    "score": 48
+  },
+  "db0163b56d58d111": {
+    "title": "Shared Is Not Enough: Predictor Width and Factor Readability Under Masked Latent Prediction",
+    "category": "ai_models",
+    "score": 35
+  },
+  "c59a68fdfbf7a314": {
+    "title": "HEALPix-Based Implicit Neural Compression of Omnidirectional Images",
+    "category": "ai_models",
+    "score": 37
+  },
+  "8f4cb5ba485c4a5b": {
+    "title": "Tool-Calling LLM Agents Under Realistic MCP Faults: Scale Does Not Purchase Fault Tolerance",
+    "category": "ai_models",
+    "score": 37
+  },
+  "5b128d606deb89e3": {
+    "title": "Exact Global Minimax Risk near Nonidentification",
+    "category": "ai_models",
+    "score": 32
+  },
+  "870276466774ddd1": {
+    "title": "Beyond Channel Data: Configuration-Enriched Radio Foundation Models",
+    "category": "ai_models",
+    "score": 36
+  },
+  "2d751435c7e142c0": {
+    "title": "StarRTT: An End-to-End Real-Time Framework for Blind Zone-Free RTT Prediction in Starlink LEO Satellite Networks",
+    "category": "ai_models",
+    "score": 30
+  },
+  "d500db08a339106d": {
+    "title": "France Avoids Rerun of Looting With Tough Security",
+    "category": "ai_models",
+    "score": 20
+  },
+  "c78100d4a4cbca53": {
+    "title": "Western Sydney Airport Opens With Uncertain Prospects",
+    "category": "ai_models",
+    "score": 21
+  },
+  "5d11157c3359231e": {
+    "title": "Gold Steadies After Weekly Drop as Focus Shifts to Fed Meeting",
+    "category": "ai_models",
+    "score": 21
+  },
+  "e3f95ddeb6fb76c4": {
+    "title": "Slow AI Buildout Could Be Inflationary: Natixis' Herrero",
+    "category": "ai_models",
+    "score": 21
+  },
+  "60d770e5a3e05539": {
+    "title": "Ingenia Soars on Fresh $1.6 Billion Takeover Bid From AVID",
+    "category": "ai_models",
+    "score": 18
+  },
+  "d6319f027831becc": {
+    "title": "Mexico\u2019s Electoral Chief Is Resigning After Graft Probe Opened",
+    "category": "ai_models",
+    "score": 7
+  },
+  "ee6cc25b9a492133": {
+    "title": "Goldman Says Yen Becoming Better Hedge Against AI Market Shock",
+    "category": "ai_models",
+    "score": 30
+  },
+  "2afca11440ab555d": {
+    "title": "Baht to Rebound on Inflows Into Nation\u2019s Bonds, Analysts Say",
+    "category": "ai_models",
+    "score": 25
   }
 }
