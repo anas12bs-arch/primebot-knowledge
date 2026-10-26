@@ -65301,5 +65301,240 @@
     "title": "Baht to Rebound on Inflows Into Nation\u2019s Bonds, Analysts Say",
     "category": "ai_models",
     "score": 25
+  },
+  "6317efb1024f9afd": {
+    "title": "Show HN: Continue Your Google AI Mode Chats in Gemini/Claude",
+    "category": "ai_models",
+    "score": 7
+  },
+  "4189a9e8e31babc3": {
+    "title": "Show HN: Frontier Log \u2013 Database of AI events, models and benchmarks",
+    "category": "ai_models",
+    "score": 13
+  },
+  "55bc1924e899a999": {
+    "title": "Show HN: UIPalooza \u2013 Do AI models have a recognizable design taste?",
+    "category": "ai_models",
+    "score": 6
+  },
+  "04a5ff0ef6c57791": {
+    "title": "Show HN: Nodecode, open-source living agent in Lisp that rewrites itself for you",
+    "category": "ai_models",
+    "score": 7
+  },
+  "b9acb8e86a5d4836": {
+    "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+    "category": "ai_models",
+    "score": 7
+  },
+  "c325c9d5f7190189": {
+    "title": "The Language of Instruction: Genre and Generative AI",
+    "category": "ai_models",
+    "score": 26
+  },
+  "1e9e89034d2b68ff": {
+    "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
+    "category": "ai_models",
+    "score": 57
+  },
+  "f678e49cae64c3e0": {
+    "title": "UniAction: Unified Action Conditioning for World Models",
+    "category": "ai_models",
+    "score": 34
+  },
+  "d4fb1ea92ed10598": {
+    "title": "FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation",
+    "category": "ai_models",
+    "score": 44
+  },
+  "6bde5e248a9e175b": {
+    "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+    "category": "ai_models",
+    "score": 44
+  },
+  "e371cf84949215d5": {
+    "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
+    "category": "ai_models",
+    "score": 33
+  },
+  "9b422f4202511f2d": {
+    "title": "MiD-VLM: Detecting and Grounding Global Semantic Misinformation in Image-Caption Pairs",
+    "category": "ai_models",
+    "score": 36
+  },
+  "1ec68837c6032f5d": {
+    "title": "ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback",
+    "category": "ai_models",
+    "score": 52
+  },
+  "edad3740ad7c9e6b": {
+    "title": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
+    "category": "ai_models",
+    "score": 48
+  },
+  "b8cebbb8e7c2b9d8": {
+    "title": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
+    "category": "ai_models",
+    "score": 48
+  },
+  "3dadb5c76e6175c3": {
+    "title": "Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning",
+    "category": "ai_models",
+    "score": 42
+  },
+  "9b5b73281518ad34": {
+    "title": "Beyond Discrete Tokens: Preserving Numerical Continuity in Medical Vision-Language Models",
+    "category": "ai_models",
+    "score": 46
+  },
+  "b50a11795d923842": {
+    "title": "Monetizing Intelligence: Advertising and Subscription Design on LLM Platforms",
+    "category": "ai_models",
+    "score": 44
+  },
+  "86d6ff7e4d9713c7": {
+    "title": "Knowledge Distillation across Item and Code Spaces for Parallel Generative Recommendation",
+    "category": "ai_models",
+    "score": 40
+  },
+  "7629f2a807ab8c18": {
+    "title": "If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs",
+    "category": "ai_models",
+    "score": 44
+  },
+  "af9879c4768aad3f": {
+    "title": "Learning Positive Linear Combinations of ReLUs in Fully Polynomial Time",
+    "category": "ai_models",
+    "score": 23
+  },
+  "efaa35ed00c40081": {
+    "title": "Yalda-Embedding: Open Development of a Competitive Persian Retrieval Model",
+    "category": "ai_models",
+    "score": 38
+  },
+  "a8648af4418674e3": {
+    "title": "STROKE: Simple Sparse Structural Occlusions for Black-Box Adversarial Attacks",
+    "category": "ai_models",
+    "score": 39
+  },
+  "0445d1d3de35719d": {
+    "title": "ZENO: Nonlinear filtering with Zakai Equation Neural Operators",
+    "category": "ai_models",
+    "score": 33
+  },
+  "aad08a62ec9886ec": {
+    "title": "Adaptive Frequency Threshold Byte Pair Encoding for Mixed Natural Language and Structured Symbolic Corpora",
+    "category": "ai_models",
+    "score": 43
+  },
+  "d2bf31fea51021be": {
+    "title": "SemantEq: Faithful Bidirectional Equivalence of Formal Statements",
+    "category": "ai_models",
+    "score": 29
+  },
+  "9ed4e8cfda1ff1da": {
+    "title": "A Tutorial on Physics Constrained Machine Learning for Hybrid Modeling, Optimization, and Control",
+    "category": "ai_models",
+    "score": 38
+  },
+  "2faa47804c7fb968": {
+    "title": "Recommender regret for improving regularised RL estimation with bandits and MCTS",
+    "category": "ai_models",
+    "score": 42
+  },
+  "dd6cbcedb010253e": {
+    "title": "LoCA: Enabling Multi-Modality in Geospatial Location Encoders",
+    "category": "ai_models",
+    "score": 32
+  },
+  "b21763c69541cfa7": {
+    "title": "Green Code or Costly Code? Evaluating the Energy Costs of Iterative LLM-Based Code Optimizations",
+    "category": "ai_models",
+    "score": 42
+  },
+  "9716ed05db9cb5ff": {
+    "title": "Banque Du Caire Says IPO Priced at Top End of Range",
+    "category": "ai_models",
+    "score": 18
+  },
+  "f6dd7213c1fb52e9": {
+    "title": "UK Dealers See More Treasury Bills Coming to Cut Debt Costs",
+    "category": "ai_models",
+    "score": 21
+  },
+  "4bf0750b615eaffd": {
+    "title": "Billionaire Villar\u2019s Vista Land Profit Sinks 70% on Higher Costs",
+    "category": "ai_models",
+    "score": 20
+  },
+  "831627384770e639": {
+    "title": "Brazil Markets Brace for Rout on Lula\u2019s Improbable Election Win",
+    "category": "ai_models",
+    "score": 23
+  },
+  "8bd70759ed3e66e0": {
+    "title": "FTSE 100 Live: UK Stock Futures Point to Brighter Start to Week",
+    "category": "ai_models",
+    "score": 6
+  },
+  "aea1ab7266b2bb37": {
+    "title": "World Bank Flags Somalia Low Tax Revenue as Key Fiscal Challenge",
+    "category": "ai_models",
+    "score": 20
+  },
+  "dfd914006b3d205a": {
+    "title": "French Bond Rout Draws Australia Pension Into Market Others Shun",
+    "category": "ai_models",
+    "score": 22
+  },
+  "1f27d107eb89ecae": {
+    "title": "Ken Griffin\u2019s Citadel Securities to Expand India Office",
+    "category": "ai_models",
+    "score": 23
+  },
+  "dc42474d6f3b33de": {
+    "title": "IGU's Ydreos on Energy Demand Driven by Data Centers",
+    "category": "ai_models",
+    "score": 19
+  },
+  "c8ab0cf5653c447b": {
+    "title": "Moonshot's Latest AI Upgrade Takes on Top-Tier US Models",
+    "category": "ai_models",
+    "score": 33
+  },
+  "08e9a7b11a76ffee": {
+    "title": "JPMorgan's Travis Spence on China's Active ETF Market",
+    "category": "ai_models",
+    "score": 13
+  },
+  "4c6ecc44d42e62a9": {
+    "title": "Markets Brace After Lula's Surprise Comeback Win In Brazil Elections",
+    "category": "ai_models",
+    "score": 32
+  },
+  "d38cce4bbe4a6d38": {
+    "title": "(USD:UGX) Shilling Freefall Has Uganda Tapping Meager Reserve War-Chest",
+    "category": "ai_models",
+    "score": 17
+  },
+  "351e31a1548d6d20": {
+    "title": "Blackstone-Backed ASK Hires Ex-Motilal Executive as Mutual Fund Chief",
+    "category": "ai_models",
+    "score": 28
+  },
+  "9c487216a91f988f": {
+    "title": "Soybeans Hit Two-Month Low as Lula Win Lifts China Trade Outlook",
+    "category": "ai_models",
+    "score": 24
+  },
+  "ece63f4280411f2a": {
+    "title": "Trump Says Decision Nearing on Iran: Deal or \u2018Finish It Off\u2019",
+    "category": "ai_models",
+    "score": 23
+  },
+  "2a66cefaecf83688": {
+    "title": "Australian Regulator Warns Higher Market Risks May Hit Liquidity",
+    "category": "ai_models",
+    "score": 20
   }
 }
