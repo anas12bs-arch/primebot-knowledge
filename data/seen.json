@@ -67166,5 +67166,235 @@
     "title": "Want to find the Must Eat dishes in your city? TikTok will set the table.",
     "category": "ai_models",
     "score": 25
+  },
+  "4b2cdaf44c574486": {
+    "title": "Particle: AI inference layer for open weight models",
+    "category": "ai_models",
+    "score": 9
+  },
+  "4f74162823464120": {
+    "title": "Rent the model, own the harness: how to build a model-agnostic AI agent",
+    "category": "automation",
+    "score": 8
+  },
+  "2e6c28bbdbeb935d": {
+    "title": "Gemini 4 Carbon (High) Scores 59 on Artificial Analysis v5",
+    "category": "ai_models",
+    "score": 7
+  },
+  "77320d852cfc2e9e": {
+    "title": "Show HN: Homi, open decision model for audio, near Flash on MMSU and 50x cheaper",
+    "category": "ai_models",
+    "score": 8
+  },
+  "6825ae5281ac7c3f": {
+    "title": "Gemini 4 Carbon",
+    "category": "ai_models",
+    "score": 3
+  },
+  "beb6eaeb5feea293": {
+    "title": "Show HN: Muscle Memory \u2013 Can you still write code without AI?",
+    "category": "ai_models",
+    "score": 7
+  },
+  "d842cb3feb90bc0d": {
+    "title": "Show HN: Coding agent spots your AI practices and the ones you're missing",
+    "category": "ai_models",
+    "score": 7
+  },
+  "b19713309e25f0de": {
+    "title": "Show HN: Interview your analysts instead of auto-generating a semantic layer",
+    "category": "ai_models",
+    "score": 9
+  },
+  "5799fc30137a74ad": {
+    "title": "Access Multiple AI Models in Your Python Apps Using OpenRouter",
+    "category": "ai_models",
+    "score": 10
+  },
+  "ed1df7ca88ca2a3d": {
+    "title": "Building My Own Tiny AI Weather Model",
+    "category": "ai_models",
+    "score": 6
+  },
+  "347bfccdd934edf4": {
+    "title": "Show HN: Pando, what to do with vibe coded apps at work",
+    "category": "ai_models",
+    "score": 2
+  },
+  "004ac306cf31507b": {
+    "title": "Watch Apple slowly become just another computer company",
+    "category": "ai_models",
+    "score": 10
+  },
+  "51a5875841aee3c0": {
+    "title": "AI financing driving private credit growth as refinancing risks rise \u2013 Moodys",
+    "category": "ai_models",
+    "score": 9
+  },
+  "e2ed7680c50ae3f0": {
+    "title": "The future of the firm",
+    "category": "ai_models",
+    "score": 3
+  },
+  "709cc8e2bd467b79": {
+    "title": "Legora is building the agentic operating system for legal work",
+    "category": "ai_models",
+    "score": 23
+  },
+  "5204f0980f352951": {
+    "title": "Databricks CRO Ron Gabrisko: 5 Interesting Learnings on Selling at a $200B AI Company: Flat SDR Headcount, 6-10% Reply Rates, and Free Seats That Unlocked Consumption",
+    "category": "ai_models",
+    "score": 24
+  },
+  "9fa9a984d39b7474": {
+    "title": "10 Months Into AI for GTM That Actually Works: The CRO Matters More Than Ever. Every Other GTM Role Is in Flux.",
+    "category": "ai_models",
+    "score": 33
+  },
+  "d65bb799c0d38ffb": {
+    "title": "How Urban Outfitters finds the right campus fit with college marketing",
+    "category": "ai_models",
+    "score": 13
+  },
+  "0ad534faf5b96907": {
+    "title": "Liquid I.V. enlists former Poppi CMO to drive cultural impact",
+    "category": "ai_models",
+    "score": 20
+  },
+  "3ee0473d9dc7922e": {
+    "title": "What influencer fatigue says about creator-driven marketing\u2019s next phase",
+    "category": "ai_models",
+    "score": 18
+  },
+  "c7155b360e3e33db": {
+    "title": "Claude marketing plugins worth adding to your stack in 2026",
+    "category": "ai_models",
+    "score": 25
+  },
+  "6f70b282a99dd280": {
+    "title": "How often to run AEO prompt tracking: A cadence guide",
+    "category": "ai_models",
+    "score": 15
+  },
+  "06ad305e72b9e48d": {
+    "title": "Profound vs. Peec AI: Which is right for your team?",
+    "category": "ai_models",
+    "score": 30
+  },
+  "297bfab976061294": {
+    "title": "The \u2018Vulnpocalypse\u2019 is coming for the internet\u2019s aging code, says Wiz\u2019s CTO",
+    "category": "ai_models",
+    "score": 25
+  },
+  "f2796a9e771f5f13": {
+    "title": "Chrome\u2019s AI-powered Autofill can now dig through your Gmail to fill out forms",
+    "category": "ai_models",
+    "score": 16
+  },
+  "dc7790b3a03a16cf": {
+    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+    "category": "ai_models",
+    "score": 21
+  },
+  "c3f3cbf4e178e822": {
+    "title": "AI execs may be too out of touch to build for the general public",
+    "category": "ai_models",
+    "score": 9
+  },
+  "776aed39bd32c423": {
+    "title": "South Korea\u2019s financial industry hit by fresh wave of cyberattacks",
+    "category": "ai_models",
+    "score": 17
+  },
+  "8fd264d14a343cc6": {
+    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+    "category": "ai_models",
+    "score": 23
+  },
+  "36a54b4ff62cfaac": {
+    "title": "Fed's Warsh Says Monetary 'Medicine' Starting to Work",
+    "category": "ai_models",
+    "score": 24
+  },
+  "8fd74d36dcfa1432": {
+    "title": "Fed Will Raise Rates in December, Clarida Predicts",
+    "category": "ai_models",
+    "score": 18
+  },
+  "a93e3c8270e74ded": {
+    "title": "Chris Wright Says Diesel Exports From Arabian Gulf Likely to Increase",
+    "category": "ai_models",
+    "score": 26
+  },
+  "cd2cafe652780afd": {
+    "title": "Fed Leaves Rates Unchanged, Cook and Hammack Dissent",
+    "category": "ai_models",
+    "score": 22
+  },
+  "8e6f378ef195882c": {
+    "title": "Boston Tower Owner Buys It Again at 68% Discount After Default",
+    "category": "ai_models",
+    "score": 22
+  },
+  "c6f67718f07aff18": {
+    "title": "Bolsonaro huye a Miami y desata ola de memes en Brasil",
+    "category": "ai_models",
+    "score": 7
+  },
+  "228e8260d0dee7ad": {
+    "title": "Goldman\u2019s Mericle Says December Hike Looms",
+    "category": "ai_models",
+    "score": 25
+  },
+  "9d6553cb35eb309a": {
+    "title": "Star Hedge Fund Trader Lemssouguer\u2019s Woes at Arini Roil European Junk Bonds",
+    "category": "ai_models",
+    "score": 10
+  },
+  "90cb1295d342b345": {
+    "title": "DFW\u2019s $12 Billion Transformation",
+    "category": "ai_models",
+    "score": 24
+  },
+  "74d1d3ec5201b305": {
+    "title": "Anthropic Is Said to Plan UK Share Offering Via RetailBook",
+    "category": "ai_models",
+    "score": 18
+  },
+  "fe0cb499dda7ce7b": {
+    "title": "Spanish Train Crash Kills at Least 68 People South of Madrid",
+    "category": "ai_models",
+    "score": 18
+  },
+  "e9408d5e6dbaa0e8": {
+    "title": "Lionsgate in Investor Talks for Rare Film Library-Backed Bonds",
+    "category": "ai_models",
+    "score": 17
+  },
+  "e588124295290144": {
+    "title": "Sandoz Warns EU May Scrap Antibiotic Protection, Harm Plant",
+    "category": "ai_models",
+    "score": 14
+  },
+  "79d396de6f7d4074": {
+    "title": "Baker Hughes 3Q EPS Beat Falls Short of High Bar",
+    "category": "ai_models",
+    "score": 19
+  },
+  "44427ba5424cf544": {
+    "title": "Weil Junior Lawyers Urged to Find Work With Firm in Jeopardy",
+    "category": "ai_models",
+    "score": 8
+  },
+  "e9ac2ee881ba6464": {
+    "title": "Boeing Rout a Win For Skeptics Who Rejected Wall Street Optimism",
+    "category": "ai_models",
+    "score": 21
+  },
+  "3ad63d0491338fc0": {
+    "title": "YouTube tests reduced payout thresholds to aid creators in developing economies",
+    "category": "ai_models",
+    "score": 33
   }
 }
