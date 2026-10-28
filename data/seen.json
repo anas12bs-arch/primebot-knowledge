@@ -66796,5 +66796,245 @@
     "title": "Tubi reveals ten shows led by TikTok stars as part of incubator program",
     "category": "ai_models",
     "score": 28
+  },
+  "c6cc6df00023d044": {
+    "title": "Show HN: SelfClaw \u2013 Self-hosted multi-model AI chat with OpenAI-compatible API",
+    "category": "ai_models",
+    "score": 6
+  },
+  "568e85abdf877585": {
+    "title": "Show HN: Misery in America",
+    "category": "ai_models",
+    "score": 3
+  },
+  "75f520315176dd36": {
+    "title": "Show HN: The New Way to Make AI UGC Ads in 2026",
+    "category": "ai_models",
+    "score": 2
+  },
+  "066cda5a37286ec7": {
+    "title": "Show HN: How to Make AI UGC Ads in 2026 Using an AI Video Generator",
+    "category": "ai_models",
+    "score": 4
+  },
+  "17635e8369a24038": {
+    "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+    "category": "ai_models",
+    "score": 40
+  },
+  "befd66ab0debac53": {
+    "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+    "category": "ai_models",
+    "score": 56
+  },
+  "2e1a38de9a2ee097": {
+    "title": "Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
+    "category": "ai_models",
+    "score": 38
+  },
+  "3675fcb155541f2a": {
+    "title": "When Should We Intervene at Test Time?",
+    "category": "ai_models",
+    "score": 36
+  },
+  "4d7ec723f445c21a": {
+    "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+    "category": "ai_models",
+    "score": 37
+  },
+  "3dd8d52e805888dc": {
+    "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
+    "category": "ai_models",
+    "score": 28
+  },
+  "28c100190cbbec8b": {
+    "title": "KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry",
+    "category": "ai_models",
+    "score": 25
+  },
+  "e8cbc28520ff07ed": {
+    "title": "Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well",
+    "category": "ai_models",
+    "score": 44
+  },
+  "38ed68bbcb1adec4": {
+    "title": "GEPA-Curator: Curated Learning for Self Improving Agents",
+    "category": "ai_models",
+    "score": 37
+  },
+  "b7bbe440eab9ddc1": {
+    "title": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
+    "category": "ai_models",
+    "score": 41
+  },
+  "092baa0aebd81af7": {
+    "title": "Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis",
+    "category": "ai_models",
+    "score": 34
+  },
+  "9580edeac518e201": {
+    "title": "MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control",
+    "category": "ai_models",
+    "score": 30
+  },
+  "ba64aa5c907b991a": {
+    "title": "Multi-State Linear Attention with Generalized Second-Order Routing",
+    "category": "ai_models",
+    "score": 30
+  },
+  "056689f0a3fe3a58": {
+    "title": "Metacognitive Decoding: Efficient Inference for Diffusion Language Agents",
+    "category": "ai_models",
+    "score": 37
+  },
+  "f9b909b11ba827f1": {
+    "title": "Repurposing Video Diffusion Transformers for Cross-View Temporal Object Correspondence",
+    "category": "ai_models",
+    "score": 35
+  },
+  "0cc0b9572712bcda": {
+    "title": "What Improves During Pretraining? Tracking Knowledge Acquisition with Point-in-Time Models",
+    "category": "ai_models",
+    "score": 35
+  },
+  "905db329288c85d5": {
+    "title": "Know, then Draw: A New Learning Paradigm for Visual Generation",
+    "category": "ai_models",
+    "score": 43
+  },
+  "f8d62ee87e4a58d5": {
+    "title": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
+    "category": "ai_models",
+    "score": 35
+  },
+  "07fff258a8256d28": {
+    "title": "Perceiving and Predicting Dynamic Sports: Spatiotemporal Intelligence in Vision Models for Egocentric Tennis Video",
+    "category": "ai_models",
+    "score": 42
+  },
+  "43fc8fdeaf4daa89": {
+    "title": "VideoLVR: Latent Visual Reasoning over Grounded Video Evidence",
+    "category": "ai_models",
+    "score": 41
+  },
+  "86cd0f22c26767bc": {
+    "title": "EnvSched: Environment-Aware Scheduling for Rollout-Efficient Agent Reinforcement Learning",
+    "category": "ai_models",
+    "score": 42
+  },
+  "ef101170dd8e11ed": {
+    "title": "Beyond Answer Changes: Matched Same-Class Controls for Local Audio Evidence",
+    "category": "ai_models",
+    "score": 39
+  },
+  "3ca8fbf291564688": {
+    "title": "MoI-Bench: A Benchmark for Image Generation and Editing on Mobile Devices",
+    "category": "ai_models",
+    "score": 47
+  },
+  "3f08d5318de8ca3f": {
+    "title": "GAS-PFN: Graph-Aware Spatiotemporal Prior-Data Fitted Networks for Zero-Shot Traffic Forecasting",
+    "category": "ai_models",
+    "score": 45
+  },
+  "d3adb4ca619b60a3": {
+    "title": "Understanding the limits of latent world models",
+    "category": "ai_models",
+    "score": 42
+  },
+  "4ba4897dde9b2c1a": {
+    "title": "VCs will make billions on Anthropic\u2019s IPO, but Amazon is set to make much (much) more",
+    "category": "ai_models",
+    "score": 10
+  },
+  "45542b580008a4df": {
+    "title": "Deutsche Bank\u2019s Fixed-Income Trading Meets Estimate in Quarter",
+    "category": "ai_models",
+    "score": 13
+  },
+  "99afd49e56d42fa1": {
+    "title": "Weaker Euro Boosts European Exporters as Earnings Season Peaks",
+    "category": "ai_models",
+    "score": 19
+  },
+  "59ce97550280de41": {
+    "title": "Ambani Sheds Tears as India\u2019s Richest Family Hails Jio Debut Pop",
+    "category": "ai_models",
+    "score": 21
+  },
+  "938f66e25591722d": {
+    "title": "Copper Wavers Near Two-Week High as Traders Look to Fed Meeting",
+    "category": "ai_models",
+    "score": 16
+  },
+  "1fa01d3002a5a7ac": {
+    "title": "Japan Retail Traders Shrug Off GMO Hack, Says Central Tanshi FX",
+    "category": "ai_models",
+    "score": 27
+  },
+  "a0e002a69510e5c4": {
+    "title": "Your Portfolio Reset: How Investors Should Think About The Next Decade",
+    "category": "ai_models",
+    "score": 15
+  },
+  "d6df3be3c9208a7d": {
+    "title": "Rome\u2019s Mayor Rules Out \u2018Venice-Like\u2019 Entrance Fee for Tourists",
+    "category": "ai_models",
+    "score": 17
+  },
+  "a1b930eb173e7437": {
+    "title": "Ambani\u2019s\u00a0Jio\u00a0Surges in Debut After India-Record IPO",
+    "category": "ai_models",
+    "score": 25
+  },
+  "8c3e3ef18534cad6": {
+    "title": "PHP/USD: Marcos Pledges to \u201cDo All We Can\u201d to Defend Philippine Peso",
+    "category": "ai_models",
+    "score": 9
+  },
+  "2aa970d6ee4dc9c0": {
+    "title": "Aussie-Kiwi Rates Split Drives Biggest Currency Move in 9 Years",
+    "category": "ai_models",
+    "score": 27
+  },
+  "a11f06150eac31b2": {
+    "title": "China Robot Stocks Extend Rally With Unitree Earnings in Focus",
+    "category": "ai_models",
+    "score": 26
+  },
+  "de0b301c63107109": {
+    "title": "Korea Financial Firms Hit By More Hacks as Asia Breaches Grow",
+    "category": "ai_models",
+    "score": 28
+  },
+  "6e4322e4adce83ab": {
+    "title": "Fortescue Says Iron Ore Deal With China Must Protect Australia",
+    "category": "ai_models",
+    "score": 13
+  },
+  "05aa8cf3ea90fd42": {
+    "title": "Hong Kong's Kevin Choi on Innovation",
+    "category": "ai_models",
+    "score": 23
+  },
+  "79670ed9224f94b0": {
+    "title": "Regal's Poman Lo On Green Investing",
+    "category": "ai_models",
+    "score": 20
+  },
+  "3ccac0c7c5f9dc66": {
+    "title": "Traders Brace for Jio Debut",
+    "category": "ai_models",
+    "score": 25
+  },
+  "4d3b9a3e15dcf192": {
+    "title": "US, Australia Pledge to \u2018Swiftly Execute\u2019 Defense Collaboration",
+    "category": "ai_models",
+    "score": 20
+  },
+  "ba8ed36ac670f1c2": {
+    "title": "YouTube calls on the court of BookTubers (including Haley Pham) to celebrate the latest ACOTAR release",
+    "category": "ai_models",
+    "score": 17
   }
 }
