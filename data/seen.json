@@ -68186,5 +68186,215 @@
     "title": "Pornhub is calling on its community to upload safe-for-work content (and get paid for it)",
     "category": "ai_models",
     "score": 22
+  },
+  "efe1026dde3d35a3": {
+    "title": "Elucidating the Design Space of LM Data Attribution",
+    "category": "ai_models",
+    "score": 39
+  },
+  "b3bacef6b597bf6a": {
+    "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
+    "category": "ai_models",
+    "score": 33
+  },
+  "6e85078ea76c659b": {
+    "title": "Micro-Edits: Computational Support for Fine-Scale Edits in Film",
+    "category": "ai_models",
+    "score": 38
+  },
+  "20f2814dcfa23f12": {
+    "title": "Rethinking Neural Thickets Without Weight Perturbations",
+    "category": "ai_models",
+    "score": 39
+  },
+  "a65db5201afd95aa": {
+    "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+    "category": "ai_models",
+    "score": 35
+  },
+  "9eae0295d0de9183": {
+    "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
+    "category": "ai_models",
+    "score": 43
+  },
+  "d5397b83db2c5a25": {
+    "title": "Luggage re-identification: A study of strategies towards a real-world application",
+    "category": "ai_models",
+    "score": 47
+  },
+  "5deadd170ccdf431": {
+    "title": "From extreme weather to agricultural consequences with agentic AI",
+    "category": "ai_models",
+    "score": 28
+  },
+  "4dd901a5d4ea65a6": {
+    "title": "SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization",
+    "category": "ai_models",
+    "score": 37
+  },
+  "5c6d398f025e14ff": {
+    "title": "world2vec: Mechanistic world models through latent dynamics learning",
+    "category": "ai_models",
+    "score": 44
+  },
+  "29e6c25ba84f01bc": {
+    "title": "Probing Spatial State Representations in Visual Foundation Models",
+    "category": "ai_models",
+    "score": 36
+  },
+  "7f638c75e14c5a05": {
+    "title": "SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors",
+    "category": "ai_models",
+    "score": 47
+  },
+  "e745bf194ab22996": {
+    "title": "ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
+    "category": "ai_models",
+    "score": 35
+  },
+  "ae583edfdc6f2a0c": {
+    "title": "Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses",
+    "category": "ai_models",
+    "score": 35
+  },
+  "9e95b3dbb8b3923d": {
+    "title": "An ODE-based Sampler for Discrete Diffusion Models",
+    "category": "ai_models",
+    "score": 32
+  },
+  "ac19a8d59d2d5a31": {
+    "title": "Difficulty Calibration Across Time for Membership Inference in Diffusion Models",
+    "category": "ai_models",
+    "score": 43
+  },
+  "d7f8b4cad8f52644": {
+    "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
+    "category": "ai_models",
+    "score": 44
+  },
+  "01c7e4cbb7b7ddab": {
+    "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
+    "category": "ai_models",
+    "score": 38
+  },
+  "274ec2eee5502f19": {
+    "title": "When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder",
+    "category": "ai_models",
+    "score": 42
+  },
+  "5694512ef8d0e8e2": {
+    "title": "Fight World Model: Customizable Combat through Visual Interaction Proxies",
+    "category": "ai_models",
+    "score": 41
+  },
+  "04d9fce64382ecff": {
+    "title": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+    "category": "ai_models",
+    "score": 33
+  },
+  "09813ad3bba008a8": {
+    "title": "Collaborative AI agents for autonomous experimental research with solid-state quantum spins",
+    "category": "ai_models",
+    "score": 43
+  },
+  "fccd693baa0d9aa6": {
+    "title": "Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In",
+    "category": "ai_models",
+    "score": 33
+  },
+  "8a5101f41793e69a": {
+    "title": "Beyond Ground Truth: A Heuristic Unsupervised Quality Assurance Engine for Diagnosing Calibrational Blindness in Dental Segmentation",
+    "category": "ai_models",
+    "score": 45
+  },
+  "b056a6cde4fc1b7f": {
+    "title": "Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond",
+    "category": "ai_models",
+    "score": 42
+  },
+  "b263a5068942e224": {
+    "title": "BlackRock Says Bonds Offer Compelling Income Opportunity",
+    "category": "ai_models",
+    "score": 26
+  },
+  "95db8fd815925141": {
+    "title": "Universal Music Subscription Revenue Growth Tops Estimates",
+    "category": "ai_models",
+    "score": 27
+  },
+  "b514f1732354c763": {
+    "title": "Horizons Middle East & Africa 10/30/2026 (Video)",
+    "category": "ai_models",
+    "score": 5
+  },
+  "aa54d2145e62a660": {
+    "title": "GLP-1 Demand Boosts Dis-Chem\u2019s South Africa Pharmacy Revenue",
+    "category": "ai_models",
+    "score": 17
+  },
+  "0ba9969235ef0835": {
+    "title": "Credit Agricole Reports Higher Profit, Warns of France Risk",
+    "category": "ai_models",
+    "score": 37
+  },
+  "823b79366f8a781c": {
+    "title": "PHP2Shell Won\u2019t Be the Last Big AI Cybersecurity Risk",
+    "category": "ai_models",
+    "score": 5
+  },
+  "82f1ad538c4766b1": {
+    "title": "Audi Dials Back Outlook on China Slump, Competition in Europe",
+    "category": "ai_models",
+    "score": 13
+  },
+  "1ae3e7cd76504d7d": {
+    "title": "Odd Lots: What Cybersecurity Means in the Age of AI (Podcast)",
+    "category": "ai_models",
+    "score": 30
+  },
+  "6703dd06d100bc97": {
+    "title": "BP Profit Hits 18-Year High as Oil Refining Margins Surge",
+    "category": "ai_models",
+    "score": 24
+  },
+  "4e88e8618ba39e29": {
+    "title": "Tesco Strikes Deal to Sell Czech, Slovakia Unit for \u20ac1.7 Billion",
+    "category": "ai_models",
+    "score": 15
+  },
+  "82a7bdd3dd7ce220": {
+    "title": "BP's Refining Business Had a 'Banner Quarter,' CEO Says",
+    "category": "ai_models",
+    "score": 32
+  },
+  "a46118cf0cb2394b": {
+    "title": "BP Earnings: Profits Jump as Refining Margins Surge",
+    "category": "ai_models",
+    "score": 7
+  },
+  "ae4025523d3534f5": {
+    "title": "Yen Pares Gains as Ueda Offers Few Fresh Clues on BOJ Hikes",
+    "category": "ai_models",
+    "score": 12
+  },
+  "38dd602699639849": {
+    "title": "Jio Boosts India to Top of Global IPO Market With Record October",
+    "category": "ai_models",
+    "score": 21
+  },
+  "06404b33841160f0": {
+    "title": "FTSE 100 Live: UK Stocks Set to Outperform as Tech Sells Off",
+    "category": "ai_models",
+    "score": 4
+  },
+  "40b17e86b533f1d2": {
+    "title": "Varkey: AI to Help Bridge Teacher Shortage Gap",
+    "category": "ai_models",
+    "score": 35
+  },
+  "087c209580c09f80": {
+    "title": "Japanese Stocks Signal Confidence Over Faster BOJ ETF Sales",
+    "category": "ai_models",
+    "score": 25
   }
 }
