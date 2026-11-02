@@ -69231,5 +69231,220 @@
     "title": "A new California law lets children of family vloggers make their parents take down all footage of them",
     "category": "ai_models",
     "score": 25
+  },
+  "95d040dc513b3e31": {
+    "title": "New AI-driven malware feeds stolen data to Claude to rank victims' assets",
+    "category": "ai_models",
+    "score": 10
+  },
+  "9e7361f1713f7abc": {
+    "title": "How to Model \"Taarof\" with AI [video]",
+    "category": "ai_models",
+    "score": 4
+  },
+  "fe493640476e120a": {
+    "title": "Show HN: EchoChain to see what happens when LLMs play telephone",
+    "category": "ai_models",
+    "score": 6
+  },
+  "39a0dfd74838b19e": {
+    "title": "How Small Can We Slice an AI Model?",
+    "category": "ai_models",
+    "score": 4
+  },
+  "0c7cb59871c63d95": {
+    "title": "Should He Fix Churn, Change Pricing, or Rebuild His SaaS? [video]",
+    "category": "ai_models",
+    "score": 8
+  },
+  "ecc039d8cc309d34": {
+    "title": "From 1D Benchmarks to Complex 3D Geometries: Can Agents Reliably Specify Problems for Automated PDE Simulation?",
+    "category": "ai_models",
+    "score": 42
+  },
+  "7387b146a4667459": {
+    "title": "Rome Wasn't Built in One Turn: Replay-Grounded Reward Signals for Long-Horizon Freeciv Agents",
+    "category": "ai_models",
+    "score": 52
+  },
+  "5cedff9cfede7d83": {
+    "title": "SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement",
+    "category": "ai_models",
+    "score": 43
+  },
+  "7eb9e4a524a0a7e1": {
+    "title": "PBSR: Pseudo-Burst Super-Resolution via Zero-Shot Novel View Synthesis",
+    "category": "ai_models",
+    "score": 32
+  },
+  "c795a1c27280ea38": {
+    "title": "ReVEAL: Eliciting Role-Aware Latent Visual Evidence from MLLMs for Reasoning Video Object Segmentation",
+    "category": "ai_models",
+    "score": 38
+  },
+  "89f33c210e3e1980": {
+    "title": "Hawkeye: Reading Illegible Text with Vision Language Models",
+    "category": "ai_models",
+    "score": 38
+  },
+  "22f70b4d8e83f9d7": {
+    "title": "MEMIG: Self-evolving Memory Construction for Antibody Optimization",
+    "category": "ai_models",
+    "score": 41
+  },
+  "78834b985274523a": {
+    "title": "A Unified Framework for Probability Estimation of Data-Dependent Events",
+    "category": "ai_models",
+    "score": 33
+  },
+  "82e8a3ab44c2fbec": {
+    "title": "Generative SDEs with Trainable Diffusion and Density-Based Losses",
+    "category": "ai_models",
+    "score": 38
+  },
+  "bb203b1d5a4ccb02": {
+    "title": "Experts Exhibit Structured Redundancy: Structure-Preserving Expert Pruning for Mixture-of-Experts Large Language Models",
+    "category": "ai_models",
+    "score": 42
+  },
+  "b3493e043161648e": {
+    "title": "TRIDENT and SHAKTI: A Framework and Benchmark for Hindi AI-Text Detection",
+    "category": "ai_models",
+    "score": 46
+  },
+  "82ad367f3fa19a42": {
+    "title": "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
+    "category": "ai_models",
+    "score": 34
+  },
+  "9422abf703150a58": {
+    "title": "RTL-Interact: Training EDA-Interactive Models for Multi-Task RTL Design",
+    "category": "ai_models",
+    "score": 40
+  },
+  "f704161a5782d96c": {
+    "title": "Corroborative Learning: Mutual Enhancement through Task-Response Reconstruction",
+    "category": "ai_models",
+    "score": 40
+  },
+  "628e14049d2729e0": {
+    "title": "A Positional Realizability Theory of Length Generalization in Single-Head Attention",
+    "category": "ai_models",
+    "score": 28
+  },
+  "8eefa2c3d78d6600": {
+    "title": "TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents",
+    "category": "ai_models",
+    "score": 49
+  },
+  "2ebf70020ad73260": {
+    "title": "Beyond Response Scoring: An AI-aware Cognitive Supervision Framework for Automated Mathematical Short Answer Grading",
+    "category": "ai_models",
+    "score": 47
+  },
+  "bffaaf7d6c1bf493": {
+    "title": "Beyond Scarcity: When Encoder Adaptation Is Worthwhile",
+    "category": "ai_models",
+    "score": 42
+  },
+  "a59ab0f58f507107": {
+    "title": "From Evaluation to Evolution: Benchmarking Image Editing and Evolving Image Models",
+    "category": "ai_models",
+    "score": 44
+  },
+  "b5015be5be05a4f3": {
+    "title": "Shifting Focus by Reliability: Geometric Fusion Modulation for Robust RGB-T Detection",
+    "category": "ai_models",
+    "score": 40
+  },
+  "8d69e127baac7813": {
+    "title": "Beyond CLIP: Calibrated (Few-Shot) Defect Detection With System One Decision Models",
+    "category": "ai_models",
+    "score": 35
+  },
+  "039a3dc733b06d2c": {
+    "title": "Role-Aware Server Optimization for Multimodal Federated Learning with Missing Modalities",
+    "category": "ai_models",
+    "score": 44
+  },
+  "b67376845b2b88b7": {
+    "title": "When AI Investigators Cannot Trust Their Tools: Conflict-Aware Evidence Verification for Cyber Threat Investigation",
+    "category": "ai_models",
+    "score": 46
+  },
+  "4cf815320fce3111": {
+    "title": "FlowMoDE: Coarse-to-fine Flow Matching for Detail-aware Sim-to-Real Monocular Depth Estimation",
+    "category": "ai_models",
+    "score": 47
+  },
+  "be66d23ea83f914f": {
+    "title": "Mechanistic Interpretability for End-to-End Self-Driving",
+    "category": "ai_models",
+    "score": 47
+  },
+  "4e43fa04cfe64c4c": {
+    "title": "Japanese Stocks Fall on Tech Selloff, Kioxia\u2019s Profit Outlook",
+    "category": "ai_models",
+    "score": 20
+  },
+  "9f9d416a80e7825b": {
+    "title": "Latest Oil Market News and Analysis for Nov. 2",
+    "category": "ai_models",
+    "score": 17
+  },
+  "e60ca3a7805a28a2": {
+    "title": "China Factory Activity Expands But Ends Streak of Faster Growth",
+    "category": "ai_models",
+    "score": 25
+  },
+  "d95a3cfa720a9ae7": {
+    "title": "PBOC Conducts Overnight Reverse Repo as Policy Anchor Shifts",
+    "category": "ai_models",
+    "score": 23
+  },
+  "fa8b25682d3a7a73": {
+    "title": "Japan\u2019s Katayama Says Ready to Act for Stable FX Market",
+    "category": "ai_models",
+    "score": 19
+  },
+  "3004f5b0b8cde8b1": {
+    "title": "Gold Climbs Back From One-Year Low as Dip Buyers Arrest Slide",
+    "category": "ai_models",
+    "score": 12
+  },
+  "b94bdd761dd5e5d5": {
+    "title": "Foreigners Make Record Withdrawal From Taiwan Stocks on AI Rout",
+    "category": "ai_models",
+    "score": 20
+  },
+  "78643b353255b9d5": {
+    "title": "Gulf States Fear Iran Retaliation If US Strikes Again",
+    "category": "ai_models",
+    "score": 18
+  },
+  "b2c3de079ff37ff6": {
+    "title": "Philippine Bonds Can Beat Asia If War Risks Ebb, Says Brandywine",
+    "category": "ai_models",
+    "score": 15
+  },
+  "79800a3d06a3fe98": {
+    "title": "Learjet Plummets to Ground in Florida Neighborhood",
+    "category": "ai_models",
+    "score": 14
+  },
+  "0ebfc23a466685c5": {
+    "title": "Billionaire Friedland to Build Major US-Backed Rare Earths Mine",
+    "category": "ai_models",
+    "score": 14
+  },
+  "a1f42648ea51a809": {
+    "title": "Colombia at Risk of Default Without a Fix, Restrepo Tells Semana",
+    "category": "ai_models",
+    "score": 20
+  },
+  "8cd0194201bf75d3": {
+    "title": "Australian Far-Right Party Regains Poll Lead as Government Slips",
+    "category": "ai_models",
+    "score": 25
   }
 }
