@@ -69446,5 +69446,225 @@
     "title": "Australian Far-Right Party Regains Poll Lead as Government Slips",
     "category": "ai_models",
     "score": 25
+  },
+  "00e9372b0b667eca": {
+    "title": "Ask HW: Best frontier AI model for mind map generation?",
+    "category": "ai_models",
+    "score": 7
+  },
+  "58a54f0625ed6cfb": {
+    "title": "Ask HN: Can a NTFS driver for macOS be vibecoded?",
+    "category": "ai_models",
+    "score": 5
+  },
+  "66074ea452ee295f": {
+    "title": "GazeRIB: Systematic Evaluation of Multi-Reader Gaze-Guided Chest X-ray Learning",
+    "category": "ai_models",
+    "score": 45
+  },
+  "c42020293f5c7a81": {
+    "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
+    "category": "ai_models",
+    "score": 44
+  },
+  "0dece08f2c63f86f": {
+    "title": "Flide: Accelerating Decision Inference with Exact State Forking",
+    "category": "ai_models",
+    "score": 44
+  },
+  "0df1f39e08765e23": {
+    "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+    "category": "ai_models",
+    "score": 39
+  },
+  "bdb649ce676c8771": {
+    "title": "Hierarchical World Models with Implicit Dynamics",
+    "category": "ai_models",
+    "score": 54
+  },
+  "0bacc23a3a9d7253": {
+    "title": "SemEllipsoid: Semantic-aware Shape Abstraction with Ellipsoid",
+    "category": "ai_models",
+    "score": 33
+  },
+  "e4ff026bf609c8fe": {
+    "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+    "category": "ai_models",
+    "score": 48
+  },
+  "ed72e21129ac4e47": {
+    "title": "Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches",
+    "category": "ai_models",
+    "score": 33
+  },
+  "bb158430e952b896": {
+    "title": "ReLift: Dense 3D Tracking as Lifted Trajectory Repair",
+    "category": "ai_models",
+    "score": 40
+  },
+  "dfe7293a867f3493": {
+    "title": "A Better Critic Matters for Distribution Matching Distillation",
+    "category": "ai_models",
+    "score": 43
+  },
+  "a21877761e8a1764": {
+    "title": "Instance-dependent sequential limits as an exact information ledger",
+    "category": "ai_models",
+    "score": 38
+  },
+  "bb71f0b07a1e6e15": {
+    "title": "DecisionRank: On-Policy Distillation for Decision-Model Rerankers",
+    "category": "ai_models",
+    "score": 52
+  },
+  "ba603295ef0479de": {
+    "title": "Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions",
+    "category": "ai_models",
+    "score": 36
+  },
+  "81c2cfae46b29b8f": {
+    "title": "Gradient Descent on Two ReLU Neurons: Global Landscape and Bifurcation Dynamics",
+    "category": "ai_models",
+    "score": 43
+  },
+  "cdd9f4db26cd1733": {
+    "title": "Fast Privacy Loss Accounting for Random Allocation via Multiscale FFT",
+    "category": "ai_models",
+    "score": 24
+  },
+  "0409bf400b863ec0": {
+    "title": "ACCT: Asymmetric Cross-LLM Context Transfer",
+    "category": "ai_models",
+    "score": 33
+  },
+  "8b744946ddc6866d": {
+    "title": "Subquadratic Attention with a Hierarchical Tree-Structured Indexer",
+    "category": "ai_models",
+    "score": 35
+  },
+  "da3a4c130f0a0b08": {
+    "title": "SATFRONT: Detecting Atmospheric Fronts with Satellite Data using Machine Learning",
+    "category": "ai_models",
+    "score": 34
+  },
+  "cf283ad541c40bf3": {
+    "title": "Regret-Optimal Wasserstein-Robust Linear Regression",
+    "category": "ai_models",
+    "score": 30
+  },
+  "8c14efb76f1e26a6": {
+    "title": "Hard Constraint Projection in a Physics Informed Neural Network (Burgers)",
+    "category": "ai_models",
+    "score": 36
+  },
+  "293d9ee4740f0abc": {
+    "title": "Hyperbolic Inverse Reinforcement Learning",
+    "category": "ai_models",
+    "score": 37
+  },
+  "9442206156d70c76": {
+    "title": "Towards Understanding the Impact of Plasticity Loss on Reinforcement Learning in Stochastic Environments",
+    "category": "ai_models",
+    "score": 45
+  },
+  "9822d4106f2d640a": {
+    "title": "CausalWAM: Learning the Causes of Actions in World Action Models",
+    "category": "ai_models",
+    "score": 21
+  },
+  "670ce3e9988be50d": {
+    "title": "Rethinking Asymmetry in Self-Supervised 3D Geometry Learning",
+    "category": "ai_models",
+    "score": 40
+  },
+  "617b747dba8116e5": {
+    "title": "Cost-Aware Stopping for Freeze-Thaw Bayesian Optimization: When Does One-Step Lookahead Suffice?",
+    "category": "ai_models",
+    "score": 27
+  },
+  "46a47923adcc3708": {
+    "title": "Why JCPenney is taking on deal fatigue for its holiday campaign",
+    "category": "ai_models",
+    "score": 22
+  },
+  "eba625934d54b45e": {
+    "title": "Spotify Investor Creandum Raises $750M Fund",
+    "category": "ai_models",
+    "score": 18
+  },
+  "b66a8716bcef7f0b": {
+    "title": "China\u2019s Gen Z Dons Spooky Stock Market Costumes for Halloween",
+    "category": "ai_models",
+    "score": 10
+  },
+  "52bd547755b3e439": {
+    "title": "What Are Structured Notes And Why the Market for Them Is Booming",
+    "category": "ai_models",
+    "score": 5
+  },
+  "ab4264154e2ed9d4": {
+    "title": "Odd Lots: The Structured Notes Market Is Booming (Podcast)",
+    "category": "ai_models",
+    "score": 31
+  },
+  "89b059310442c3eb": {
+    "title": "Alphabet Tests Bond Market\u2019s AI Faith With Second Euro Sale",
+    "category": "ai_models",
+    "score": 25
+  },
+  "72a03d7bc12e92b0": {
+    "title": "German Protests Erupt in Violence",
+    "category": "ai_models",
+    "score": 16
+  },
+  "7c9039d5ced04f48": {
+    "title": "This Bounce in Stocks Appears Premature: Market Analysis",
+    "category": "ai_models",
+    "score": 16
+  },
+  "742563d9557cae2b": {
+    "title": "Nordic Investment Bank Mulls SRTs After Adding Defense Focus",
+    "category": "ai_models",
+    "score": 17
+  },
+  "4fe998f3f22664da": {
+    "title": "Ryanair Initiates Cost Drive to Offset $2 Billion Fuel Surge",
+    "category": "ai_models",
+    "score": 19
+  },
+  "a4b87752c5c8e66c": {
+    "title": "South Africa\u2019s Low-Key Municipal Polls Hold Risk for Markets",
+    "category": "ai_models",
+    "score": 28
+  },
+  "930d60eff9cf71fb": {
+    "title": "Kneron Looks Beyond Chips as It Prepares for IPO",
+    "category": "ai_models",
+    "score": 22
+  },
+  "1640957d9465f6c0": {
+    "title": "Ryanair CEO O'Leary on Cost Savings, Fuel Prices, Higher Fares",
+    "category": "ai_models",
+    "score": 22
+  },
+  "2c5bcbac2756a98e": {
+    "title": "Where to Invest 1 Crore Rupees",
+    "category": "ai_models",
+    "score": 17
+  },
+  "50db44864d8e7b5c": {
+    "title": "Kneron Looks Beyond Chips as It Prepares for IPO",
+    "category": "ai_models",
+    "score": 22
+  },
+  "def1a051d193fb09": {
+    "title": "Ryanair Slashes Costs After \u20ac2 Billion Fuel-Charge Increase",
+    "category": "ai_models",
+    "score": 11
+  },
+  "fb1f3598720234ca": {
+    "title": "Turkish Market Clearinghouse CEO Resigns as Fund Probe Widens",
+    "category": "ai_models",
+    "score": 23
   }
 }
