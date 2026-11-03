@@ -69940,5 +69940,290 @@
     "title": "Top 5 Branded Videos of the Week: Keeping cash",
     "category": "ai_models",
     "score": 33
+  },
+  "b2417fd183b6501a": {
+    "title": "Show HN: Project Wisteria-A BYOK chatbot that saves thoughts and memory locally",
+    "category": "ai_models",
+    "score": 9
+  },
+  "098ee6ddbe901d2f": {
+    "title": "Stolen AI API keys generated nearly $1M in charges for a single company",
+    "category": "ai_models",
+    "score": 9
+  },
+  "fba8aacc27f4de81": {
+    "title": "CloudOpsBench: AI benchmark shows FAI models struggling with cloud infra",
+    "category": "ai_models",
+    "score": 9
+  },
+  "c3158ab5306cb378": {
+    "title": "AI models may not be so opaque after all",
+    "category": "ai_models",
+    "score": 5
+  },
+  "2ffafc1fb28ebe79": {
+    "title": "Evidence-grounded large language models guide perovskite solar cell design and optimization",
+    "category": "ai_models",
+    "score": 49
+  },
+  "f0c6bf9aeea3d1cd": {
+    "title": "TopoQuant: Topological Framework to Characterize Behavioral Shifts in Quantized Large Language Models",
+    "category": "ai_models",
+    "score": 40
+  },
+  "eb64e1a2f18f2897": {
+    "title": "Autonomous Analysis of Thermoelectric Materials Big Data by Multi-Agentic AI and Construction of a Knowledge Base and Specialized AI",
+    "category": "ai_models",
+    "score": 40
+  },
+  "dde3bbadaf7cc5da": {
+    "title": "XLA from the Trenches: Correctness on TPU Workloads at Scale",
+    "category": "ai_models",
+    "score": 42
+  },
+  "ea824cd564361228": {
+    "title": "Log-Driven Semantic Tuning for Mixed Integer Programming Solvers",
+    "category": "ai_models",
+    "score": 37
+  },
+  "04bcdfe65a183cb9": {
+    "title": "Discovering Models for Experimental Quantum Systems with Agentic AI",
+    "category": "ai_models",
+    "score": 45
+  },
+  "d173843ff122913d": {
+    "title": "LM6-CastBench: A Geometry-Aware Simulation Dataset for Transient Thermal Prediction in LM6 Sand Casting",
+    "category": "ai_models",
+    "score": 40
+  },
+  "3d1cc0efce0b664b": {
+    "title": "Enhancing Language Model Reasoning with Structured Multi-Level Modeling",
+    "category": "ai_models",
+    "score": 48
+  },
+  "d0f362891b0f4886": {
+    "title": "Learning from an Imitable Teacher: Competition Solution for the MetaFine Challenge",
+    "category": "ai_models",
+    "score": 35
+  },
+  "a808c3fec8e38df1": {
+    "title": "ECG2Gene: Deep Learning-Based Germline Tumor Susceptibility Gene Risk Assessment Using Electrocardiograms",
+    "category": "ai_models",
+    "score": 23
+  },
+  "77624e74110b261b": {
+    "title": "Roz: A Taste Test for World Model Latents",
+    "category": "ai_models",
+    "score": 36
+  },
+  "1d4613468713f58e": {
+    "title": "Trail: Accurate Local Smart Home Control Using Decision Models",
+    "category": "ai_models",
+    "score": 46
+  },
+  "666d92006e313ff5": {
+    "title": "Words Before Pixels: Selective Modality Routing for Vision-Language Model Unlearning",
+    "category": "ai_models",
+    "score": 42
+  },
+  "edc78c24a48e17e0": {
+    "title": "Sparse Autoencoder Attribution Graphs Are Decided at the Margin",
+    "category": "ai_models",
+    "score": 36
+  },
+  "7dbc102d06515ffa": {
+    "title": "Conversational Interaction for LLM-Based Clinical Text-to-SQL: A User Study with Healthcare Professionals",
+    "category": "ai_models",
+    "score": 43
+  },
+  "b27480a7225ad080": {
+    "title": "Editing the Goal: Per-Token SAE Steering and Its Depth Limits in $\u03c0_{0.5}$",
+    "category": "ai_models",
+    "score": 37
+  },
+  "5f284b27cd3e5fd6": {
+    "title": "Multi-Estimate Elicitation Does Not Uniformly Debias Language Model Judgments",
+    "category": "ai_models",
+    "score": 43
+  },
+  "db9799089480eb4e": {
+    "title": "X-World 1.6: Building Controllable Virtual Cities with World Models",
+    "category": "ai_models",
+    "score": 53
+  },
+  "0d077b4987e44bca": {
+    "title": "Do Orthogonality Constraints Help Language-Model Training Beyond Sphere Optimization?",
+    "category": "ai_models",
+    "score": 44
+  },
+  "fb1d7f585efa7a75": {
+    "title": "Saidzoda-Tajik-E5-Large: Fine-Tuning a 560M Embedder for Tajik Retrieval",
+    "category": "ai_models",
+    "score": 29
+  },
+  "00ae78cfa228f693": {
+    "title": "State-Aware Activation Recomputation with Replay Contracts and Selective Preservation",
+    "category": "ai_models",
+    "score": 25
+  },
+  "201f66b02337fd04": {
+    "title": "Guarded Compression of Adam Optimizer State with Shared-Gradient Bounds",
+    "category": "ai_models",
+    "score": 36
+  },
+  "ac231962497a130c": {
+    "title": "TVP: TV is Almost All You Need for Speculative Decoding",
+    "category": "ai_models",
+    "score": 37
+  },
+  "8615666118028f07": {
+    "title": "Dataset Mismatch Matters in Group Relative Policy Optimization for Reinforcement Learning from Verifiable Rewards",
+    "category": "ai_models",
+    "score": 45
+  },
+  "c204e129c7d917b4": {
+    "title": "Conic Certification of Transformer Attention",
+    "category": "ai_models",
+    "score": 25
+  },
+  "277870ffc8d71544": {
+    "title": "Scaling Git at OpenAI",
+    "category": "ai_models",
+    "score": 10
+  },
+  "945f879ef3a469b4": {
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "category": "ai_models",
+    "score": 17
+  },
+  "804d2e2f62a5210f": {
+    "title": "Apple may try to increase revenue by doing\u2026something with third-party AI apps",
+    "category": "ai_models",
+    "score": 12
+  },
+  "dfb1d49114f0805e": {
+    "title": "Y Combinator\u2019s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "category": "ai_models",
+    "score": 16
+  },
+  "c8564f3a68709075": {
+    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+    "category": "ai_models",
+    "score": 16
+  },
+  "ca204e1c0052a712": {
+    "title": "Anthropic warns that it\u2019s very close to RSI capability, aka self-building AI",
+    "category": "ai_models",
+    "score": 16
+  },
+  "4ca5045e7ee7fda1": {
+    "title": "Web host Squarespace lays off 19% of its employees",
+    "category": "ai_models",
+    "score": 12
+  },
+  "130d10eea59d08d0": {
+    "title": "Gold Holds Biggest Jump in Two Months on Iran Peace-Deal Hopes",
+    "category": "ai_models",
+    "score": 18
+  },
+  "6f893c3572ab98fd": {
+    "title": "Reliance\u2019s Record $19 Billion Surge Lifts Nifty, Keeps India Bulls in the Game",
+    "category": "ai_models",
+    "score": 16
+  },
+  "dd67d432959fd4d3": {
+    "title": "Asian Stocks Fall After US Losses, Oil Holds Drop: Markets Wrap",
+    "category": "ai_models",
+    "score": 21
+  },
+  "1dba9dc3e2bcc08e": {
+    "title": "China Vows to Boost Yuan Liquidity, Back Hong Kong Markets",
+    "category": "ai_models",
+    "score": 13
+  },
+  "7301a09c0d08f3d2": {
+    "title": "China\u2019s Revival of 2024 Stock Rescue Tools Faces Skepticism",
+    "category": "ai_models",
+    "score": 16
+  },
+  "30f321ddfad4988e": {
+    "title": "Latest Oil Market News and Analysis for Nov. 3",
+    "category": "ai_models",
+    "score": 13
+  },
+  "11e5f182c0f88c43": {
+    "title": "Offshore Yuan Weakens on PBOC\u2019s Move to Raise FX Reserve Ratio",
+    "category": "ai_models",
+    "score": 18
+  },
+  "022fe0afccc8b717": {
+    "title": "China's He Lifeng on Hong Kong's Financial Edge",
+    "category": "ai_models",
+    "score": 13
+  },
+  "0b77b844c50fcfae": {
+    "title": "Pakistan\u2019s Rebound Masks Deeper Problems Weighing on Economy",
+    "category": "ai_models",
+    "score": 24
+  },
+  "5baca87c2f467347": {
+    "title": "Live: Goldman, Morgan Stanley CEOs to Navigate Markets, AI Trades at HK Summit",
+    "category": "ai_models",
+    "score": 9
+  },
+  "07d869082813674c": {
+    "title": "Franklin Templeton CEO Hopes Indonesia Changes on MSCI Warning",
+    "category": "ai_models",
+    "score": 14
+  },
+  "8958fcadb0d164e8": {
+    "title": "Leaked File Put Lenders in Bind Before Acrisure\u2019s Earnings Win",
+    "category": "ai_models",
+    "score": 28
+  },
+  "db7e45fd4facbe72": {
+    "title": "Chilean, Mexican Pesos Lead EM Currencies Higher as Oil Sinks",
+    "category": "ai_models",
+    "score": 24
+  },
+  "dc83d4cddf531328": {
+    "title": "Hedge Funds Back SEC Push to Ease Rules on EU Bond Futures",
+    "category": "ai_models",
+    "score": 22
+  },
+  "cedb8781e4923366": {
+    "title": "Apollo\u2019s Simoes Moves to Carlyle for Credit-Origination Role",
+    "category": "ai_models",
+    "score": 15
+  },
+  "fe62c11e5b9f1fd6": {
+    "title": "Gold\u2019s Faded Haven Allure Hinges on Deficit, Inflation Fears",
+    "category": "ai_models",
+    "score": 16
+  },
+  "a0b0155773c3d78f": {
+    "title": "Romania Raises \u20ac4.5 Billion in New Government\u2019s First Bond Sale",
+    "category": "ai_models",
+    "score": 17
+  },
+  "96ddc3cd681b0ca1": {
+    "title": "Do videos with excessive motion help kids pay attention, or are they just distractions?",
+    "category": "ai_models",
+    "score": 32
+  },
+  "b003c5563806d967": {
+    "title": "Top 50 Most Subscribed YouTube Channels Worldwide \u2022 Week Of 11/01/2026",
+    "category": "ai_models",
+    "score": 19
+  },
+  "0a85c6397b266366": {
+    "title": "Top 50 Most Viewed YouTube Channels Worldwide \u2022 Week Of 11/01/2026",
+    "category": "ai_models",
+    "score": 24
+  },
+  "b1dfe2244c2043e9": {
+    "title": "So you\u2019re a creator, and you want to know: When is the magic moment to sign with a manager? We have your answer, straight from Viral Nation\u2019s Head of Creator Relations.",
+    "category": "ai_models",
+    "score": 27
   }
 }
