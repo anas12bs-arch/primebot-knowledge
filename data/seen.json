@@ -70225,5 +70225,255 @@
     "title": "So you\u2019re a creator, and you want to know: When is the magic moment to sign with a manager? We have your answer, straight from Viral Nation\u2019s Head of Creator Relations.",
     "category": "ai_models",
     "score": 27
+  },
+  "9ba366f41c640a82": {
+    "title": "Open models can do 90 percent of agentic work at a twentieth of the cost",
+    "category": "ai_models",
+    "score": 6
+  },
+  "84218c78c0390d19": {
+    "title": "Exstill: The frontier model's co-processor",
+    "category": "ai_models",
+    "score": 7
+  },
+  "00b49d0a4c49879a": {
+    "title": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
+    "category": "ai_models",
+    "score": 30
+  },
+  "b679c81f953f6456": {
+    "title": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
+    "category": "ai_models",
+    "score": 36
+  },
+  "af69d64a233db18c": {
+    "title": "EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos",
+    "category": "ai_models",
+    "score": 45
+  },
+  "ac16133431930360": {
+    "title": "From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles",
+    "category": "ai_models",
+    "score": 47
+  },
+  "2cf8174fd73b2d30": {
+    "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+    "category": "ai_models",
+    "score": 46
+  },
+  "da729483ccd0a582": {
+    "title": "Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap",
+    "category": "ai_models",
+    "score": 40
+  },
+  "242c3be1d407f19b": {
+    "title": "Not All Reasoning Generalizes: A Case Study on Learning Generalizable Reasoning Strategies in RLVR",
+    "category": "ai_models",
+    "score": 36
+  },
+  "d7e443e5dfc665b9": {
+    "title": "Isekai3D SDG: A Platform for Diverse Synthetic Gameplay Visual Data",
+    "category": "ai_models",
+    "score": 46
+  },
+  "302abca0675e76df": {
+    "title": "FADE: Factored Ability--Difficulty Filtering for Online RLVR Scheduling",
+    "category": "ai_models",
+    "score": 50
+  },
+  "dd5d8196bc6eebd9": {
+    "title": "Thought-deciphering via hierarchical EEG-to-text alignment",
+    "category": "ai_models",
+    "score": 27
+  },
+  "67f47331cda32587": {
+    "title": "D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models",
+    "category": "ai_models",
+    "score": 55
+  },
+  "ea74065ddb97fa06": {
+    "title": "Strategist: Evolving Reasoning with Agents",
+    "category": "ai_models",
+    "score": 30
+  },
+  "c56547a67c82b92b": {
+    "title": "Tracing the Scientific Discovery Capacity of LLMs to Their Training Data",
+    "category": "ai_models",
+    "score": 34
+  },
+  "b008bf0d2d95f321": {
+    "title": "Benchmark Prediction with Sparse and Unpaired Cached Responses",
+    "category": "ai_models",
+    "score": 30
+  },
+  "f40dfad07531a45f": {
+    "title": "Efficient Closure Learning in Dynamical Systems: A Comparison of Data-Assimilated and Embedded Approaches",
+    "category": "ai_models",
+    "score": 56
+  },
+  "6de9c0fea06e59a9": {
+    "title": "ufakzeka-kulak: Building and Evaluating a 31.6M-Parameter Turkish Speech Recognizer from Scratch",
+    "category": "ai_models",
+    "score": 32
+  },
+  "1cca6f0d9cca7df7": {
+    "title": "Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning",
+    "category": "ai_models",
+    "score": 32
+  },
+  "3e51ec88c5a1a788": {
+    "title": "DiabAgent: Toward Agentic Physiological Control",
+    "category": "ai_models",
+    "score": 43
+  },
+  "bbd06625942b5615": {
+    "title": "Four Bridges: Measuring Deception Propensity in a Multi-Agent Game",
+    "category": "ai_models",
+    "score": 38
+  },
+  "4a9399196bc53636": {
+    "title": "Should We Combine Our Data? Algorithms and Limits for Privately Assessing Data Sharing",
+    "category": "ai_models",
+    "score": 33
+  },
+  "09b6b8bd1249c2a1": {
+    "title": "Structured Visual Landscape: Generating Preferred Representations in Biological and Artificial Neural Networks",
+    "category": "ai_models",
+    "score": 41
+  },
+  "5f6b9ae00a8016c4": {
+    "title": "Spacetime Emergence in the Memory of a Learning Agent",
+    "category": "ai_models",
+    "score": 27
+  },
+  "98de7c6a8641c410": {
+    "title": "DynaSolver: A Neural Operator for Autoregressive 4D Flow Prediction with Dynamic Boundaries",
+    "category": "ai_models",
+    "score": 35
+  },
+  "345bf8c4288ad0ad": {
+    "title": "Evaluating Uncertainty Calibration in Probabilistic Time Series Foundation Models",
+    "category": "ai_models",
+    "score": 42
+  },
+  "70979fbc1d2afe51": {
+    "title": "A Scaling Theory of Multi-Epoch Pretraining: Late-Time Overfitting and Ensembling",
+    "category": "ai_models",
+    "score": 33
+  },
+  "fc87a45dcfbf03d4": {
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "category": "ai_models",
+    "score": 20
+  },
+  "bca108e4c77bd86b": {
+    "title": "Rewarding defenders with bigger bug bounties",
+    "category": "ai_models",
+    "score": 17
+  },
+  "0d297090385ad5a7": {
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "category": "ai_models",
+    "score": 9
+  },
+  "aafb2d2c8fa21079": {
+    "title": "Apple Watch\u2019s AI features for rewinding and recapping conversations begin beta testing",
+    "category": "ai_models",
+    "score": 13
+  },
+  "23abe1f1b0a2b246": {
+    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "category": "ai_models",
+    "score": 19
+  },
+  "745f2224d3ff71be": {
+    "title": "Europe\u2019s Junk Market Sees Another Loan Pulled as Iqony Axes Deal",
+    "category": "ai_models",
+    "score": 22
+  },
+  "efef35bde154bf45": {
+    "title": "Turkey\u2019s Stock Market CEO Arrested as Fund Scandal Widens",
+    "category": "ai_models",
+    "score": 19
+  },
+  "6ae7bb0e0c403957": {
+    "title": "Lula Victory Adds to Brazil Farm Angst as Defaults Hit Record",
+    "category": "ai_models",
+    "score": 25
+  },
+  "6f69381b1b4efa8a": {
+    "title": "An Election Day Special With Nate Silver",
+    "category": "ai_models",
+    "score": 4
+  },
+  "c6a65914bfd5e41a": {
+    "title": "Odd Lots: An Election Day Special With Nate Silver (Podcast)",
+    "category": "ai_models",
+    "score": 35
+  },
+  "47f88e9f2f438d3c": {
+    "title": "Bayer Raises Profit Outlook on Strong Demand for Drugs",
+    "category": "ai_models",
+    "score": 14
+  },
+  "fc2604b556b838ef": {
+    "title": "Brookfield, QIA to Invest \u00a32.5 Billion in Drax Data Center",
+    "category": "ai_models",
+    "score": 18
+  },
+  "d5d8c1f28299cea0": {
+    "title": "Wall Street Heavyweights Weigh the Risks to the AI Boom",
+    "category": "ai_models",
+    "score": 30
+  },
+  "f3ad2c91db7b1ab9": {
+    "title": "Eyesan: Strong Interest in New Nigerian Oil Blocks",
+    "category": "ai_models",
+    "score": 29
+  },
+  "f2934b0f112170dd": {
+    "title": "Oil Is the Biggest Binary Risk: Market Analysis",
+    "category": "ai_models",
+    "score": 14
+  },
+  "c0d066030d9b7118": {
+    "title": "Marin: YPF Eyes November Deal with XRG and Eni",
+    "category": "ai_models",
+    "score": 16
+  },
+  "7f517d968dad8062": {
+    "title": "Amer: BGN Investing in Ships as Iran War Disrupts Trade",
+    "category": "ai_models",
+    "score": 35
+  },
+  "d65ec8e3f03f3714": {
+    "title": "Huafa\u2019s $62 Billion Debt Strain Shakes China\u2019s Credit Market",
+    "category": "ai_models",
+    "score": 22
+  },
+  "b63f5eb1b4b713d0": {
+    "title": "US Hits Iran\u2019s Qeshm Island as Hormuz Talks Keep Oil Markets on Edge",
+    "category": "ai_models",
+    "score": 32
+  },
+  "d401f7ea74ff5e5e": {
+    "title": "Hochstein: Markets Should Be Cognizant of Strike Risk",
+    "category": "ai_models",
+    "score": 28
+  },
+  "5f572528a2ad23f8": {
+    "title": "PIMCO Says Mideast Crisis Driving High Interest Rates",
+    "category": "ai_models",
+    "score": 20
+  },
+  "26ace1f715d73bd4": {
+    "title": "Copper Dips Below $14,000 as Tech Selloff Rattles LME Metals",
+    "category": "ai_models",
+    "score": 15
+  },
+  "046b280217ef38ea": {
+    "title": "RevThink Hosts John Warrillow for a Webinar on Building a Business Buyers Want",
+    "category": "ai_models",
+    "score": 13
   }
 }
