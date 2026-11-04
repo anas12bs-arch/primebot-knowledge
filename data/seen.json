@@ -70865,5 +70865,240 @@
     "title": "Druski is one of Netflix\u2019s biggest creator signings. What can he do with a multi-year deal?",
     "category": "ai_models",
     "score": 19
+  },
+  "15461b2a949790e2": {
+    "title": "VibeVoted \u2013 The best software products as ranked by 10 leading AI models",
+    "category": "ai_models",
+    "score": 9
+  },
+  "8e836b4338fda8fe": {
+    "title": "Local AI app that runs an 80B model on an 8GB Mac",
+    "category": "ai_models",
+    "score": 4
+  },
+  "8716723cd83cafbe": {
+    "title": "Show HN: Modelpeers \u2013 a changelog for the AI models and agents you use",
+    "category": "ai_models",
+    "score": 8
+  },
+  "8eb28acdb4745ec7": {
+    "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+    "category": "ai_models",
+    "score": 36
+  },
+  "3bd975395a2a0e25": {
+    "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
+    "category": "ai_models",
+    "score": 39
+  },
+  "4079641725d4c0e0": {
+    "title": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
+    "category": "ai_models",
+    "score": 39
+  },
+  "7e21020f2514e250": {
+    "title": "PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning",
+    "category": "ai_models",
+    "score": 35
+  },
+  "d32bf4f6ea3f4afe": {
+    "title": "GUILD: Guided Iterative Data Collection for Imitation Learning",
+    "category": "ai_models",
+    "score": 36
+  },
+  "edaede567602b8ff": {
+    "title": "Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments",
+    "category": "ai_models",
+    "score": 47
+  },
+  "5d70d7f4c3861183": {
+    "title": "GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs",
+    "category": "ai_models",
+    "score": 34
+  },
+  "534aa0712ea5852a": {
+    "title": "Suppressing Misaligned Behaviors in Language Models, Durably",
+    "category": "ai_models",
+    "score": 34
+  },
+  "24ad945b79fde1b0": {
+    "title": "Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubits",
+    "category": "ai_models",
+    "score": 35
+  },
+  "007cd9d434282ef8": {
+    "title": "OpenBrain: An Auditable Generated-Label Release for Whole-Brain MRI Parcellation",
+    "category": "ai_models",
+    "score": 35
+  },
+  "21ab1b3478620407": {
+    "title": "Agnostic Learning by Imitating",
+    "category": "ai_models",
+    "score": 30
+  },
+  "325ed833d5b8f12c": {
+    "title": "Adversarial Speculative Reasoning Improves Long Horizon Agents",
+    "category": "ai_models",
+    "score": 49
+  },
+  "8aab758744836e74": {
+    "title": "A Circuit for In-Context Learning",
+    "category": "ai_models",
+    "score": 40
+  },
+  "b37568ab794bbfeb": {
+    "title": "Weight-space programming for auditing clinical decision networks",
+    "category": "ai_models",
+    "score": 42
+  },
+  "ceb18ee78cae6c04": {
+    "title": "MedPhysBench: A Benchmark for Evaluating Language Models on Medical Physics Calculations and Error Detection",
+    "category": "ai_models",
+    "score": 39
+  },
+  "9f3b695215aeb7c8": {
+    "title": "A simple adaptive accelerated optimistic dual averaging method for unconstrained convex optimization in $p$-norm geometry",
+    "category": "ai_models",
+    "score": 37
+  },
+  "43110b792881cad2": {
+    "title": "CATF: A Manager-Worker Framework for Context-Aware Time-Series Forecasting",
+    "category": "ai_models",
+    "score": 44
+  },
+  "3aaad9bec9bde6b5": {
+    "title": "PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data",
+    "category": "ai_models",
+    "score": 38
+  },
+  "f13c4251295ecc9c": {
+    "title": "HARP: Training-Free Dual-Profile Agentic Communication for LLM-Based Recommendation",
+    "category": "ai_models",
+    "score": 34
+  },
+  "d47f21ec9a96fce4": {
+    "title": "MDSKILL: Learning to Internalize Skill Memory through Multi-View Distillation for Efficient Dynamic Agent Self-Evolution",
+    "category": "ai_models",
+    "score": 52
+  },
+  "4dd2da24ce2d7cae": {
+    "title": "$\u03a6$asmaNet: A Staged Spectral Token-Refinement Architecture for Fast Gravitational-Wave Signal-to-Noise Ratio Prediction",
+    "category": "ai_models",
+    "score": 41
+  },
+  "f55560086070b9db": {
+    "title": "You don't need long context",
+    "category": "ai_models",
+    "score": 36
+  },
+  "6e892918bf5dce66": {
+    "title": "LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers",
+    "category": "ai_models",
+    "score": 47
+  },
+  "c53e9c5cc4b45777": {
+    "title": "Universal Hardness From Masking Channels",
+    "category": "ai_models",
+    "score": 35
+  },
+  "d6cec4e5bf534675": {
+    "title": "GSBR: Geometric Support Behavior Regularization for Online RL",
+    "category": "ai_models",
+    "score": 39
+  },
+  "bfe3a4b547c4e747": {
+    "title": "European Stocks Set to Dip as Democrat Sweep Stokes AI Worries",
+    "category": "ai_models",
+    "score": 28
+  },
+  "90346ba3cd0c8575": {
+    "title": "Korean Stocks Rebound as US Midterm-Driven Losses Seen Excessive",
+    "category": "ai_models",
+    "score": 25
+  },
+  "c3aed638aca58840": {
+    "title": "Treasuries Rise on Democrat Win as Traders Await Refunding Plan",
+    "category": "ai_models",
+    "score": 19
+  },
+  "325496164c689629": {
+    "title": "Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar",
+    "category": "ai_models",
+    "score": 22
+  },
+  "f97d628137633a80": {
+    "title": "Nasdaq Futures Drop as Signs of \u2018Blue-nami\u2019 Weigh on AI Complex",
+    "category": "ai_models",
+    "score": 31
+  },
+  "b54677be8c1e6006": {
+    "title": "Japanese Stocks Sink as US Midterm Results Hit Tech Shares",
+    "category": "ai_models",
+    "score": 16
+  },
+  "9af28bb3e490ab36": {
+    "title": "Palm Oil Sinks to Lowest Since June as Stockpile Concerns Mount",
+    "category": "ai_models",
+    "score": 16
+  },
+  "514cde9e612eada6": {
+    "title": "Bain Capital Chair Expects $30 Billion of Exits This Year",
+    "category": "ai_models",
+    "score": 27
+  },
+  "845b24911d39adb6": {
+    "title": "Tesla, SpaceX Shares Take Early Hit as Midterm Blue Wave Unfolds",
+    "category": "ai_models",
+    "score": 21
+  },
+  "73d81a38e95b775a": {
+    "title": "India\u2019s Dollar Hedging Slumps as RBI Cracks Down on Speculation",
+    "category": "ai_models",
+    "score": 28
+  },
+  "fb4e6ba9703ca4b3": {
+    "title": "Corn Extends Loss to Hit Four-Month Low on Supply, Peace Hopes",
+    "category": "ai_models",
+    "score": 19
+  },
+  "1240fd0f1562d088": {
+    "title": "Temasek\u2019s Mapletree Is Said to Pick Banks for Singapore IPO",
+    "category": "ai_models",
+    "score": 22
+  },
+  "40c678e7bce14196": {
+    "title": "Asian Stocks Fall as Democratic Gains in US Add to AI Worries",
+    "category": "ai_models",
+    "score": 25
+  },
+  "b7ac01b65fc8729e": {
+    "title": "China Services Gauge Unexpectedly Dips for First Time Since July",
+    "category": "ai_models",
+    "score": 24
+  },
+  "d7123168ccbf908c": {
+    "title": "Can India\u2019s Debt-Fueled Spending Survive Higher Rates?",
+    "category": "ai_models",
+    "score": 24
+  },
+  "83416d2b041dabd2": {
+    "title": "Florida Passes Property Tax Cuts in Challenge for Local Funding",
+    "category": "ai_models",
+    "score": 11
+  },
+  "3a2bdee1e1a4ab07": {
+    "title": "Singapore Stocks Set for Correction as Bank Profit Outlook Sours",
+    "category": "ai_models",
+    "score": 23
+  },
+  "5226b485321206e5": {
+    "title": "Japan Courier Service Yamato\u2019s Shares Surge on Farallon Stake",
+    "category": "ai_models",
+    "score": 19
+  },
+  "ede05994574cc01e": {
+    "title": "YouTube enlists educational creators to show the value of its interactive gaming hub",
+    "category": "ai_models",
+    "score": 30
   }
 }
