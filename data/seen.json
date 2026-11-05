@@ -72049,5 +72049,175 @@
     "title": "Making Immersive LLM Chat Experiences More Accessible",
     "category": "ai_models",
     "score": 24
+  },
+  "b4f7b72028bdbbac": {
+    "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+    "category": "ai_models",
+    "score": 10
+  },
+  "1d193e40d1bd409d": {
+    "title": "Why decision models are the next step in fraud prevention",
+    "category": "ai_models",
+    "score": 8
+  },
+  "01f6b5605ef27352": {
+    "title": "Anthropic's models improving nearly twice as fast with help from AI, study finds",
+    "category": "ai_models",
+    "score": 11
+  },
+  "d7006390a4c4a49a": {
+    "title": "Show HN: A terminal viewer for plain text data files (JSON,YAML,CSV,XML,)",
+    "category": "ai_models",
+    "score": 4
+  },
+  "335e94a0914635a1": {
+    "title": "Launch HN: Rivet (YC W23) \u2013 Scale and Orchestrate Agents on S3",
+    "category": "ai_models",
+    "score": 7
+  },
+  "d4f727919d2693d8": {
+    "title": "Vetto ScienceBench: Expanding Scientific Capabilities of Frontier AI Models",
+    "category": "ai_models",
+    "score": 12
+  },
+  "e6a0524a25786ed0": {
+    "title": "Show HN: Training a SOTA Pangram-like detector on a 4070ti with Claude",
+    "category": "ai_models",
+    "score": 7
+  },
+  "14e90e72d3401ddf": {
+    "title": "GPT\u20116 Cyber: Advancing the frontier of aligned cybersecurity agents",
+    "category": "ai_models",
+    "score": 18
+  },
+  "d9828d59e610f6c0": {
+    "title": "20VC x SaaStr: OpenAI Cuts to $1.25 Trillion, Anthropic\u2019s Growth Goes From 12x to 2x, and Why Agents Are an Existential Risk to DoorDash",
+    "category": "ai_models",
+    "score": 20
+  },
+  "e91202676c190e21": {
+    "title": "McDonald\u2019s US CMO steps down as sales decline",
+    "category": "ai_models",
+    "score": 15
+  },
+  "773d73b67a110118": {
+    "title": "L\u2019Or\u00e9al\u2019s evolving microdrama strategy puts entertainment over product",
+    "category": "ai_models",
+    "score": 19
+  },
+  "ce33817e4026d3a9": {
+    "title": "Meta says US users can now video chat with their Muse AI avatar",
+    "category": "ai_models",
+    "score": 12
+  },
+  "7d05777f3cb4ebe2": {
+    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+    "category": "ai_models",
+    "score": 26
+  },
+  "42370702883d2723": {
+    "title": "OpenAI released a new cybersecurity model. Is that enough?",
+    "category": "ai_models",
+    "score": 14
+  },
+  "2a8256897722920e": {
+    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+    "category": "ai_models",
+    "score": 18
+  },
+  "b86f7c45dcb3e542": {
+    "title": "Claude can now analyze your spending with its new Personal Finance tool",
+    "category": "ai_models",
+    "score": 16
+  },
+  "40be7bcb1f1007db": {
+    "title": "Asian Stocks Brace for Selloff as AI Rout Deepens: Markets Wrap",
+    "category": "ai_models",
+    "score": 31
+  },
+  "ed6ce26d48fc93d0": {
+    "title": "Worst US Stock Rout Since 2020 Leaves Virtually Nowhere to Hide",
+    "category": "ai_models",
+    "score": 14
+  },
+  "11fea130d8e9138f": {
+    "title": "Argentine Markets on Edge as Peso Repo Rates Soar to 190%",
+    "category": "ai_models",
+    "score": 18
+  },
+  "e3010e0e033b385c": {
+    "title": "DraftKings Plunges on 2027 Forecast That Misses Estimates",
+    "category": "ai_models",
+    "score": 26
+  },
+  "7373c0492b7aad2d": {
+    "title": "What Anthropic\u2019s IPO Means for the ETF Market",
+    "category": "ai_models",
+    "score": 14
+  },
+  "405f3060a0a8a3d1": {
+    "title": "Trump-Backed Critical Minerals Deals Face Growing Pressure After Blue Wave",
+    "category": "ai_models",
+    "score": 21
+  },
+  "1559a94dc2636e7e": {
+    "title": "BofA Rejigs Global Credit Trading Businesses to Boost Liquidity",
+    "category": "ai_models",
+    "score": 27
+  },
+  "b9b82b408d24fab2": {
+    "title": "Grindr Lifts Outlook, Expects to Meet 2027 Targets Ahead of Plan",
+    "category": "ai_models",
+    "score": 20
+  },
+  "118f16da7587602f": {
+    "title": "Lyft Posts Surprise Loss on Settlement, Gives In-Line Outlook",
+    "category": "ai_models",
+    "score": 17
+  },
+  "b6f442889e4a2930": {
+    "title": "Canada to Reform Bank Ownership Rules in Bid to Stoke Competition",
+    "category": "ai_models",
+    "score": 21
+  },
+  "e3f5c8a11c607c68": {
+    "title": "Wall Street Banks to Lead $3 Billion Debt Deal for CD&R Purchase",
+    "category": "ai_models",
+    "score": 16
+  },
+  "fd5484a10c4771ac": {
+    "title": "Indonesia Raises $3 Billion in First Bond Sale Since MSCI Threat",
+    "category": "ai_models",
+    "score": 16
+  },
+  "9b16c3bf6112d9c9": {
+    "title": "Treasuries Soar as Tech-Stock Selloff Stokes Haven Demand",
+    "category": "ai_models",
+    "score": 18
+  },
+  "61dac2f36cb6f98b": {
+    "title": "Now the Market Is Selling Off for Real",
+    "category": "ai_models",
+    "score": 6
+  },
+  "87f083addd9d8d5d": {
+    "title": "High Yield Credit Quality In Good Shape: Skiba",
+    "category": "ai_models",
+    "score": 31
+  },
+  "d928a2383895bb5d": {
+    "title": "Volleyball World \u2013 VNL Trailer | Musclebeaver",
+    "category": "ai_models",
+    "score": 4
+  },
+  "dd3cfd8dbaed67c3": {
+    "title": "fxpodcast: W\u0113t\u0101 FX brings the ocean, lava and islands of Moana to life",
+    "category": "ai_models",
+    "score": 11
+  },
+  "0c1eee6ef9810d61": {
+    "title": "Some students watch thousands of irrelevant videos during class. Can YouTube solve that problem?",
+    "category": "ai_models",
+    "score": 31
   }
 }
