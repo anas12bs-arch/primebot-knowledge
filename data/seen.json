@@ -71574,5 +71574,245 @@
     "title": "Midterm election traffic spiked on Twitch, but Hasan Piker can\u2019t hold a candle to Steve Kornacki",
     "category": "ai_models",
     "score": 25
+  },
+  "65eda1d64d636dbd": {
+    "title": "Tencent Hy4 Intelligence, Performance and Price Analysis",
+    "category": "ai_models",
+    "score": 8
+  },
+  "d12fdc7e3ce1e976": {
+    "title": "LifeVal: Evaluating AI Model Performance on Personalized Agentic Consumer Tasks [pdf]",
+    "category": "ai_models",
+    "score": 12
+  },
+  "97028c9e5c91b705": {
+    "title": "Ask HN: AI Coding Preference",
+    "category": "ai_models",
+    "score": 5
+  },
+  "4c4f2b8ade7543e1": {
+    "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+    "category": "ai_models",
+    "score": 46
+  },
+  "a2f081d858f37048": {
+    "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+    "category": "ai_models",
+    "score": 42
+  },
+  "32c44345f01827fb": {
+    "title": "FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors",
+    "category": "ai_models",
+    "score": 41
+  },
+  "b1dfa51978e66b50": {
+    "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
+    "category": "ai_models",
+    "score": 53
+  },
+  "6309aed8facb6151": {
+    "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+    "category": "ai_models",
+    "score": 46
+  },
+  "85afb4c93a10c220": {
+    "title": "Perceptive Humanoid Motion from Simulation",
+    "category": "ai_models",
+    "score": 44
+  },
+  "3989df45c4ed23bb": {
+    "title": "Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement",
+    "category": "ai_models",
+    "score": 42
+  },
+  "9bdbc782de45f9f5": {
+    "title": "Motion-guided Contrastive Regularization For Latent World Models",
+    "category": "ai_models",
+    "score": 52
+  },
+  "5a4e2288e4dff297": {
+    "title": "Occlusion for Free: Detecting Occlusion from the Disagreement Between Two Monocular Distance Cues",
+    "category": "ai_models",
+    "score": 37
+  },
+  "f5b34153e703eb20": {
+    "title": "Procedural Adversarial Learning",
+    "category": "ai_models",
+    "score": 47
+  },
+  "2a9e16da9577bbb8": {
+    "title": "Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure",
+    "category": "ai_models",
+    "score": 31
+  },
+  "ce33973974be9620": {
+    "title": "Adaptive Multi Mode: Budget-Aware Routing of Optimizers By Online Landscape Probes",
+    "category": "ai_models",
+    "score": 40
+  },
+  "d42ac278ebdfdc40": {
+    "title": "SpecCompact: Accelerating LLM Agent Context Compaction with Slot-Parallel Semantic Speculative Verification",
+    "category": "ai_models",
+    "score": 45
+  },
+  "8ff50c078125fd34": {
+    "title": "Learning to Decode Linear Codes with Generalized Belief Propagation Network",
+    "category": "ai_models",
+    "score": 43
+  },
+  "2efe280516743e3e": {
+    "title": "PixelSpline: Continuous Space-Time Video Super-Resolution via Endpoint-Anchored Shared Pixel Trajectories",
+    "category": "ai_models",
+    "score": 41
+  },
+  "cd8294189c8cb5c4": {
+    "title": "On Turn-Level Best-of-N Sampling for Scaling LLM Agents",
+    "category": "ai_models",
+    "score": 28
+  },
+  "e0e4cf4bff2252e1": {
+    "title": "CounterFactual Retrieval for Evidence-Aware Individual Animal Identification",
+    "category": "ai_models",
+    "score": 47
+  },
+  "55be7c68420cf703": {
+    "title": "Balancing hierarchical representation and quantization: A performance trade-off in text embeddings",
+    "category": "ai_models",
+    "score": 35
+  },
+  "662426c3ca29fc10": {
+    "title": "CompressionBench: How can your coding agents compress LLMs?",
+    "category": "ai_models",
+    "score": 44
+  },
+  "dfffb466dc0d4049": {
+    "title": "LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis",
+    "category": "ai_models",
+    "score": 34
+  },
+  "fbc4c157e0fe0f8d": {
+    "title": "Visual Token Routing: Learning to keep tokens that matter",
+    "category": "ai_models",
+    "score": 45
+  },
+  "41c37e65a8270c2b": {
+    "title": "Trainspotting: Learning Object-Centric 3D Reconstruction from Found Photos",
+    "category": "ai_models",
+    "score": 45
+  },
+  "2d8fd702591e20fa": {
+    "title": "Persona Perspectives: Adopting Viewpoints Reorganizes Representations in LLMs",
+    "category": "ai_models",
+    "score": 40
+  },
+  "1942bd7f975861d3": {
+    "title": "Navigating Disagreement Among Criteria for Evaluating Explanation Faithfulness",
+    "category": "ai_models",
+    "score": 40
+  },
+  "4c1471c6dbed9354": {
+    "title": "Where to Connect? Boosting MLLMs via Dynamic Gated Pathways across ALL ViT and LLM Layers",
+    "category": "ai_models",
+    "score": 37
+  },
+  "ad1030df5ce46710": {
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "category": "ai_models",
+    "score": 17
+  },
+  "0ee5115bb8658d79": {
+    "title": "After the midterms, a bigger clash over data centers could be coming",
+    "category": "ai_models",
+    "score": 14
+  },
+  "344abcf7575061a0": {
+    "title": "Air France-KLM Deepens Dutch Airline Overhaul; Stock Surges",
+    "category": "ai_models",
+    "score": 18
+  },
+  "7d0374d3f6de13da": {
+    "title": "China\u2019s Copper Squeeze Deepens as Buyers Scramble For Metal",
+    "category": "ai_models",
+    "score": 16
+  },
+  "b32cb2c0a51b1534": {
+    "title": "BOE Set to Hike Rates for First Time Three Years",
+    "category": "ai_models",
+    "score": 18
+  },
+  "71124d391c9b94cd": {
+    "title": "BOE Decision Day: With a Hike Baked in Traders Look to December",
+    "category": "ai_models",
+    "score": 6
+  },
+  "9bdd214349e3c056": {
+    "title": "Commerzbank Flags Deposit Competition Before UniCredit Deal",
+    "category": "ai_models",
+    "score": 15
+  },
+  "1e06878567d900e4": {
+    "title": "China Stocks Surge As Blue Wave Sinks Korea's Heavyweights",
+    "category": "ai_models",
+    "score": 34
+  },
+  "c3a59192a1c80efb": {
+    "title": "Commerzbank in 'Position of Strength' Ahead of UniCredit Deal, CEO Says",
+    "category": "ai_models",
+    "score": 23
+  },
+  "62fc2a811b42cf4d": {
+    "title": "Hong Kong Stocks Roar Back as Value Rotation Boosts China Tech",
+    "category": "ai_models",
+    "score": 19
+  },
+  "be69c142beccaa69": {
+    "title": "Yardeni: Yields Attractive at 5%; Nasdaq to Outperform",
+    "category": "ai_models",
+    "score": 27
+  },
+  "f917b30573a9c17c": {
+    "title": "Indonesia Deploys Troops Amid Wiretapping Scandal",
+    "category": "ai_models",
+    "score": 20
+  },
+  "603d1c7d5c12babb": {
+    "title": "China Stocks Surge As Blue Wave Sinks Korea's Heavyweights",
+    "category": "ai_models",
+    "score": 34
+  },
+  "da3b73d33d40a401": {
+    "title": "Emirates Profit Drops 66% as Iran War, High Oil Prices Hit Dubai Airline",
+    "category": "ai_models",
+    "score": 21
+  },
+  "00c526f90141617b": {
+    "title": "France Braces for Marches and Strikes Amid Stalled Budget",
+    "category": "ai_models",
+    "score": 18
+  },
+  "8bb5f6f7cacdf708": {
+    "title": "Orsted Completes Offshore Wind Farm That Trump Tried to Stop",
+    "category": "ai_models",
+    "score": 14
+  },
+  "71dd03c8317385b8": {
+    "title": "Canada\u2019s Avenir Global Acquires Marker Collective, Adding Nvidia, Meta Clients",
+    "category": "ai_models",
+    "score": 23
+  },
+  "610e0bf196b8fb8b": {
+    "title": "Hormuz Diplomacy Gains Ground as Trump Plays Down New Iran Strikes",
+    "category": "ai_models",
+    "score": 39
+  },
+  "98295203718804f2": {
+    "title": "Ed Yardeni Says 5% Treasury Yields Now Attractive",
+    "category": "ai_models",
+    "score": 34
+  },
+  "77fb8e2389e89641": {
+    "title": "Netflix might want its new AI search to drum up more \u201cquality\u201d viewership",
+    "category": "ai_models",
+    "score": 24
   }
 }
