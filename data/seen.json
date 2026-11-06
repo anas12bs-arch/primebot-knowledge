@@ -72499,5 +72499,240 @@
     "title": "Stream, meet sea: Carnival is integrating Twitch into its cruises",
     "category": "ai_models",
     "score": 19
+  },
+  "b70ccc602d586241": {
+    "title": "Inkling 2 Small: highest-scoring open weights model developed outside China",
+    "category": "ai_models",
+    "score": 10
+  },
+  "2889eee6be957669": {
+    "title": "Sarvam Prism: a decision model built on Sarvam 105B",
+    "category": "ai_models",
+    "score": 5
+  },
+  "8300c7a12fd9b73b": {
+    "title": "Show HN: Repairer \u2013 close the breach when a Linux flaw goes public",
+    "category": "ai_models",
+    "score": 8
+  },
+  "39dc88843c6ee961": {
+    "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
+    "category": "ai_models",
+    "score": 40
+  },
+  "3de0008d9aabad95": {
+    "title": "Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI",
+    "category": "ai_models",
+    "score": 34
+  },
+  "113ca84b140a4573": {
+    "title": "Where and Why is Grounded Reasoning Useful?",
+    "category": "ai_models",
+    "score": 31
+  },
+  "e68c75837c28ac1b": {
+    "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+    "category": "ai_models",
+    "score": 43
+  },
+  "625d8dd613a664d6": {
+    "title": "Scientist World: Grow a Research World for AI-Scientists",
+    "category": "ai_models",
+    "score": 27
+  },
+  "64423ebb36359728": {
+    "title": "EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling",
+    "category": "ai_models",
+    "score": 43
+  },
+  "c545377ef80e0fe8": {
+    "title": "XStack: A Benchmark for ML Repo Migration",
+    "category": "ai_models",
+    "score": 40
+  },
+  "50aa0e3f26fe5772": {
+    "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+    "category": "ai_models",
+    "score": 35
+  },
+  "9aae8329808f16cc": {
+    "title": "Towards interpreting any residual stream direction by scaling activation inversion",
+    "category": "ai_models",
+    "score": 20
+  },
+  "459f32dcf918a8d6": {
+    "title": "Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness",
+    "category": "ai_models",
+    "score": 33
+  },
+  "dff9d77686c0b3fe": {
+    "title": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO",
+    "category": "ai_models",
+    "score": 48
+  },
+  "c7e02e653bc2eed2": {
+    "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+    "category": "ai_models",
+    "score": 46
+  },
+  "5c0b273d12716d35": {
+    "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+    "category": "ai_models",
+    "score": 40
+  },
+  "6ff3c7abd3a3c566": {
+    "title": "A Hidden Markov Preference Model for Online Prediction of Adversary Actions",
+    "category": "ai_models",
+    "score": 33
+  },
+  "344d52d71c2e069c": {
+    "title": "Edge-Assisted Crowdsensing for Explainable Cyclist Safety Perception",
+    "category": "ai_models",
+    "score": 51
+  },
+  "8a04b51fc04b1a6a": {
+    "title": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes",
+    "category": "ai_models",
+    "score": 39
+  },
+  "2f9567d4f46496ce": {
+    "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+    "category": "ai_models",
+    "score": 43
+  },
+  "476dc066bc8f469f": {
+    "title": "SM4RT: Cascaded Feed-forward Model for 4D Reconstruction",
+    "category": "ai_models",
+    "score": 35
+  },
+  "e64f34e3e3f22b61": {
+    "title": "MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue",
+    "category": "ai_models",
+    "score": 38
+  },
+  "659792604f2d6984": {
+    "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
+    "category": "ai_models",
+    "score": 45
+  },
+  "099bd49063f71dc7": {
+    "title": "Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing",
+    "category": "ai_models",
+    "score": 52
+  },
+  "7ff8d40ec8215628": {
+    "title": "Data-driven discovery of intrinsic Lie point symmetries of differential equation systems",
+    "category": "ai_models",
+    "score": 37
+  },
+  "978efb8a1abb2468": {
+    "title": "On the limitations of molecular representations",
+    "category": "ai_models",
+    "score": 41
+  },
+  "f3b411487e8b307d": {
+    "title": "Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks",
+    "category": "ai_models",
+    "score": 48
+  },
+  "b2e36ad857c9ad74": {
+    "title": "Spectral and Subspace Dynamics of LoRA in Supervised Fine-Tuning and Reinforcement Learning",
+    "category": "ai_models",
+    "score": 37
+  },
+  "c822924fc1f280c7": {
+    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+    "category": "ai_models",
+    "score": 17
+  },
+  "0d6cdf67653bbc70": {
+    "title": "Wall Street\u2019s Script Gets Flipped by Post-Election Rout",
+    "category": "ai_models",
+    "score": 9
+  },
+  "2f8be9088e9f637f": {
+    "title": "KKR Is Said to Seek More Banks for Logisteed IPO in Japan",
+    "category": "ai_models",
+    "score": 17
+  },
+  "256f4c72a790d0c4": {
+    "title": "Taiwan Imposes Short-Selling Limit After Stock Market Rout",
+    "category": "ai_models",
+    "score": 21
+  },
+  "45d967600d56cdb2": {
+    "title": "Kyiv Hits Sixth Russian Oil Plant in a Week as Campaign Picks Up",
+    "category": "ai_models",
+    "score": 25
+  },
+  "38ef3e7bda6e4470": {
+    "title": "ATP Is Said to Weigh Stake Sale in \u20ac2 billion Spanish Gas Firm",
+    "category": "ai_models",
+    "score": 10
+  },
+  "c81481723e5a91f5": {
+    "title": "Taiwan\u00a0to Deploy Market\u00a0Stabilization Fund\u00a0After Stock Rout",
+    "category": "ai_models",
+    "score": 9
+  },
+  "21aaaeb6484d04a3": {
+    "title": "Fast-Money Systematic Funds Stoked $2.3 Trillion Tech-Stock Rout",
+    "category": "ai_models",
+    "score": 23
+  },
+  "42e0d6fc2c1d2377": {
+    "title": "Oil Drops as Qatar Emir Discusses War De-Escalation With Trump",
+    "category": "ai_models",
+    "score": 17
+  },
+  "222017167644246b": {
+    "title": "Jio IPO Lifts Angel One Past Zerodha as India\u2019s No. 2 Broker",
+    "category": "ai_models",
+    "score": 27
+  },
+  "3bf561f7013f8875": {
+    "title": "What to Expect From Today's US Jobs Report",
+    "category": "ai_models",
+    "score": 34
+  },
+  "6817095f263c89f6": {
+    "title": "US Jobs Data Faces Market Uncertainty",
+    "category": "ai_models",
+    "score": 11
+  },
+  "bc48029c1db3b41b": {
+    "title": "Sell Off Turns to Uncertainty",
+    "category": "ai_models",
+    "score": 9
+  },
+  "a5475960c72ddc98": {
+    "title": "Man Group Found Liable by Judge for \u2018Breathtaking\u2019 Kuwaiti Bribery",
+    "category": "ai_models",
+    "score": 17
+  },
+  "e0ed353a8deb8b7a": {
+    "title": "Wall Street Peers Into Abyss of AI Trade as Midterms Expose Risk",
+    "category": "ai_models",
+    "score": 19
+  },
+  "0d03747bf7523266": {
+    "title": "Top Africa Multi-Nation Bourse Plans ETFs, Futures for Growth",
+    "category": "ai_models",
+    "score": 26
+  },
+  "6ff604f4769c4b10": {
+    "title": "Herzog to Choose Between Eisenkot, Netanyahu on Sunday",
+    "category": "ai_models",
+    "score": 22
+  },
+  "a44749a04cc970dd": {
+    "title": "What Does a Democratic Congress Mean for Markets?",
+    "category": "ai_models",
+    "score": 7
+  },
+  "36f465d1bc8fef85": {
+    "title": "Odd Lots: The Macro Implications of the Blue Tsunami (Podcast)",
+    "category": "ai_models",
+    "score": 37
   }
 }
