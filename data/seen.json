@@ -72219,5 +72219,285 @@
     "title": "Some students watch thousands of irrelevant videos during class. Can YouTube solve that problem?",
     "category": "ai_models",
     "score": 31
+  },
+  "ff2d3498b43e7683": {
+    "title": "Closed AI models dominate the price-performance frontier",
+    "category": "ai_models",
+    "score": 10
+  },
+  "4b7c799cc3e7c631": {
+    "title": "World-Model MCP for Finance",
+    "category": "ai_models",
+    "score": 5
+  },
+  "d64db837ab1f39a3": {
+    "title": "Show HN: Open-world text adventure played through AI agents",
+    "category": "ai_models",
+    "score": 7
+  },
+  "db4f2184a1421a97": {
+    "title": "Automatic keyphrase extraction and annotation: modern theoretical approaches and practical solutions for text and speech",
+    "category": "ai_models",
+    "score": 41
+  },
+  "776821658ec67b5f": {
+    "title": "Deformable Contact-Aware 3D Object Placement",
+    "category": "ai_models",
+    "score": 26
+  },
+  "8f4ed55a5afe0cca": {
+    "title": "When GeoFMs Meet VHR: Benchmarking Foundation Models on Very High Resolution Earth Observation Imagery",
+    "category": "ai_models",
+    "score": 42
+  },
+  "8081a413d82e5597": {
+    "title": "Towards Multiscale Molecular Representation Learning through Geometry-Based Fragmentation for Polymer Property Prediction",
+    "category": "ai_models",
+    "score": 37
+  },
+  "7d4e65de6ba99d44": {
+    "title": "Reviving the Discarded High-Resolution Feature for Transformer-Based Tiny Object Detection",
+    "category": "ai_models",
+    "score": 52
+  },
+  "e1f5ffa8c4ecdecc": {
+    "title": "Compression Through a Context Lens: Evaluating Adaptation, Quantization, and Distillation in Arabic Legal LLMs",
+    "category": "ai_models",
+    "score": 46
+  },
+  "371d68321100ace6": {
+    "title": "Technohybridism: Recursive Semantic Normalization in AI-Mediated Societies",
+    "category": "ai_models",
+    "score": 39
+  },
+  "975ea9701ba579ae": {
+    "title": "How Far Can Lightweight LLMs Go in Intent-to-SLO Translation?",
+    "category": "ai_models",
+    "score": 40
+  },
+  "2b8c426e7b6e64e3": {
+    "title": "QRAE: Query-Relevant Attention Entropy for Context Compression in DeepSearch Agents",
+    "category": "ai_models",
+    "score": 41
+  },
+  "7d5c604689819615": {
+    "title": "Tight Asymptotic Bounds on the Maximum Number of Linear Regions of Piecewise-Linear Kolmogorov--Arnold networks",
+    "category": "ai_models",
+    "score": 24
+  },
+  "0c4aea7a4c1d5e21": {
+    "title": "TCSExam: Evaluating Frontier LLMs on the Full Range of TCS Research",
+    "category": "ai_models",
+    "score": 35
+  },
+  "31cc6b7148d3b8d9": {
+    "title": "Bri3D: Bridging the Object-Scene Gap in Single-Image 3D Generation via Scene-Anchor",
+    "category": "ai_models",
+    "score": 59
+  },
+  "aa2442087844450b": {
+    "title": "CoRD: Coupled Rollouts Fill the Blind Spot of On-Policy Distillation",
+    "category": "ai_models",
+    "score": 29
+  },
+  "30a3178175be8e1b": {
+    "title": "Rotation Is Token-Blind: A Structural Criterion for Post-Training Quantization of Feed-Forward Geometry Transformers",
+    "category": "ai_models",
+    "score": 44
+  },
+  "18babc5d7aa07e75": {
+    "title": "A Behavioural Framework for Predicting and Understanding Loss of Control in Frontier Artificial Intelligence Systems",
+    "category": "ai_models",
+    "score": 42
+  },
+  "6b7bdd2e66c0f2f1": {
+    "title": "Invariance before structure: two modes of emergent compression in representation learning",
+    "category": "ai_models",
+    "score": 36
+  },
+  "780cdc6d627058ff": {
+    "title": "Leakage- and Label-Aware Benchmarking of Class-Imbalance Strategies for Multimodal Chest X-Ray and EHR Classification",
+    "category": "ai_models",
+    "score": 37
+  },
+  "5bc20ac64d39c0f8": {
+    "title": "Beyond the Keyword: A Human-Annotated Benchmark for Arabic Anxiety-Related Discourse",
+    "category": "ai_models",
+    "score": 34
+  },
+  "1a1b262c85b8dbe0": {
+    "title": "Circe: Training-Free LLM Self-Evaluation via Component Interaction Consistency",
+    "category": "ai_models",
+    "score": 44
+  },
+  "c96349bcdc99837f": {
+    "title": "ChemE-as-Code: An Open-Source Platform for Agentic AI in Chemical Engineering",
+    "category": "ai_models",
+    "score": 40
+  },
+  "d56a42257b0eef78": {
+    "title": "tok: a textual concrete syntax of BPMN and DMN for humans and AI agents",
+    "category": "ai_models",
+    "score": 42
+  },
+  "12a79c0aeea587a4": {
+    "title": "IDPrior: Decoupling Identity Generation from Facial Image Synthesis",
+    "category": "ai_models",
+    "score": 43
+  },
+  "06ac1340b216c585": {
+    "title": "CardioLM: A multilingual suite of small language models for the cardiology domain",
+    "category": "ai_models",
+    "score": 49
+  },
+  "a893d2d22c1eb1a1": {
+    "title": "WAM-Sim0.1: World Anchored Memory Meets Online RL for Consistent and Realistic Driving Simulation",
+    "category": "ai_models",
+    "score": 49
+  },
+  "ace4f1765793c352": {
+    "title": "Joint Modeling of Conditional Mean and Variability in Multilevel Functional Data: Application to Postprandial Glucose Trajectories in the AEGIS Study",
+    "category": "ai_models",
+    "score": 35
+  },
+  "616c68177b707eae": {
+    "title": "Australian universities are creating AI-native graduates",
+    "category": "ai_models",
+    "score": 20
+  },
+  "bbd492caba72ca54": {
+    "title": "Cult.fit builds operational muscle with Codex",
+    "category": "ai_models",
+    "score": 14
+  },
+  "db9792e954d44701": {
+    "title": "Merge builds product and business tools with OpenAI technology",
+    "category": "ai_models",
+    "score": 23
+  },
+  "2d1d326185a62641": {
+    "title": "Flipsnack grows product signups with conversion optimization",
+    "category": "ai_models",
+    "score": 16
+  },
+  "a8e215d1c3fca63a": {
+    "title": "Franklin Templeton uses OpenAI to support investment research",
+    "category": "ai_models",
+    "score": 21
+  },
+  "17b57e4655701f14": {
+    "title": "Airbnb says it\u2019s launching an AI travel agent in the first half of 2027",
+    "category": "ai_models",
+    "score": 14
+  },
+  "6041983099e15774": {
+    "title": "Hedge Funds Tout Nvidia, Disney at Sohn Queenstown Conference",
+    "category": "ai_models",
+    "score": 14
+  },
+  "4a05697f8cfe0cfe": {
+    "title": "Latest Oil Market News and Analysis for Nov. 6",
+    "category": "ai_models",
+    "score": 18
+  },
+  "ea9844e62c6d7b33": {
+    "title": "Stock Market Selloff: What Correction, Crash and Other Trading Terms Mean",
+    "category": "ai_models",
+    "score": 23
+  },
+  "06ba541e40a5ac42": {
+    "title": "Nasdaq Suffers Worst Rout Since March 2020",
+    "category": "ai_models",
+    "score": 15
+  },
+  "3d91012d51db86ee": {
+    "title": "China to Cut Diesel Exports on Tight Stocks, Energy Aspects Says",
+    "category": "ai_models",
+    "score": 20
+  },
+  "94fab511cee57d9b": {
+    "title": "Gold Set for Biggest Weekly Gain Since August After US Midterms",
+    "category": "ai_models",
+    "score": 18
+  },
+  "9fc092d678de1769": {
+    "title": "China\u2019s 10-Year Yield Hits Record Intraday Low on Haven Demand",
+    "category": "ai_models",
+    "score": 14
+  },
+  "dde1433ed486c132": {
+    "title": "Wall Street Traders Wrong-Footed After Bullish Equity Calls",
+    "category": "ai_models",
+    "score": 20
+  },
+  "554d5bdc73912293": {
+    "title": "How a Bank Scandal Is Taking Down Trump\u2019s Ally in Paraguay",
+    "category": "ai_models",
+    "score": 15
+  },
+  "0169785c0bb00feb": {
+    "title": "Overbought Nifty May Find Fresh Fuel as AI Stocks Tumble Globally",
+    "category": "ai_models",
+    "score": 13
+  },
+  "ea255cd44b761951": {
+    "title": "Hedge Fund Samlyn Dumps All Stocks But Financials, Cuts Staff",
+    "category": "ai_models",
+    "score": 21
+  },
+  "7d6bb0e057c5bbb8": {
+    "title": "Taiwan\u2019s Currency Weakens Past 33 Per US Dollar on AI Jitters",
+    "category": "ai_models",
+    "score": 23
+  },
+  "abf08a8b1e35bd99": {
+    "title": "Korean Stocks Tumble Below 5,000 Milestone as Panic Spreads",
+    "category": "ai_models",
+    "score": 19
+  },
+  "e36cb096a1ae48c2": {
+    "title": "John Woods Sees AI Selloff as Positioning-Driven",
+    "category": "ai_models",
+    "score": 17
+  },
+  "fc99d4116d430590": {
+    "title": "Japan\u2019s Nikkei Poised to Enter Bear Market as AI Selloff Deepens",
+    "category": "ai_models",
+    "score": 24
+  },
+  "3054fc6e409bb5ba": {
+    "title": "Mystery Seller Puts Up $500 Million Data Center Loans Backing Stargate, CyrusOne",
+    "category": "ai_models",
+    "score": 24
+  },
+  "97945ba2146fd4c6": {
+    "title": "Japan Bonds Rally as Global Risk-Off Move Boosts Haven Demand",
+    "category": "ai_models",
+    "score": 22
+  },
+  "b5970f13126d21ed": {
+    "title": "OCBC CEO Raises Outlook as Lending Nudges Profit Higher",
+    "category": "ai_models",
+    "score": 18
+  },
+  "04a1ccaf41a18edd": {
+    "title": "Google, TikTok, and Meta are suing California to stop a law that bans \u201cpsychologically exploitative features\u201d for kids under 16",
+    "category": "ai_models",
+    "score": 25
+  },
+  "f71643add0b12fed": {
+    "title": "YouTube\u2019s biggest creators join forces to support the Susan Wojcicki Foundation\u2019s critical mission: changing the conversation about lung cancer",
+    "category": "ai_models",
+    "score": 28
+  },
+  "ef8278c32645a3a5": {
+    "title": "TikTok Shop now has a standalone app in four Southeast Asian markets",
+    "category": "ai_models",
+    "score": 29
+  },
+  "bbeb9ced2c7d4ac0": {
+    "title": "Stream, meet sea: Carnival is integrating Twitch into its cruises",
+    "category": "ai_models",
+    "score": 19
   }
 }
