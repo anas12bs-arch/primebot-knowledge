@@ -73479,5 +73479,205 @@
     "title": "Treasury Rally Gets New Boost as Election Hammers the AI Trade",
     "category": "ai_models",
     "score": 27
+  },
+  "f8a79bd24c9b6c30": {
+    "title": "Revolut Cut AI Costs 90% and Started Shipping Faster",
+    "category": "ai_models",
+    "score": 8
+  },
+  "954dc2d6ada8db7c": {
+    "title": "Show HN: Airlock \u2013 Policy-as-code for fleets of AI coding agents",
+    "category": "ai_models",
+    "score": 8
+  },
+  "d4d9b14085b633d5": {
+    "title": "Turn prompts into images and editable SVGs with GPT Image 2.6",
+    "category": "ai_models",
+    "score": 8
+  },
+  "6185ae0dc9b57fef": {
+    "title": "AI model to learn language the way children do",
+    "category": "ai_models",
+    "score": 8
+  },
+  "a6cc499fecafee3b": {
+    "title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
+    "category": "ai_models",
+    "score": 36
+  },
+  "9cca34356159c3d2": {
+    "title": "Refer-CityFlow and M3Track: A Benchmark Dataset and Reference Framework for Language-Driven Multi-Target Multi-Camera Tracking",
+    "category": "ai_models",
+    "score": 42
+  },
+  "21c1f25f39e646e6": {
+    "title": "Beyond Truncation? Entailment-Licensed Elision and the Limits of Semantic Preservation in LLM Decoding",
+    "category": "ai_models",
+    "score": 48
+  },
+  "7c3ed8c6cbfb8e09": {
+    "title": "Phantom Consensus: Measuring Social Reasoning in Multi-Agent LLM Decision-Making",
+    "category": "ai_models",
+    "score": 43
+  },
+  "c2509206fe3381ee": {
+    "title": "PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals",
+    "category": "ai_models",
+    "score": 45
+  },
+  "a7228495c8a4fed1": {
+    "title": "Using an LLM to Tackle Difficult Cases in NER for Nepali Tweets",
+    "category": "ai_models",
+    "score": 30
+  },
+  "bb9fa88cf21b955f": {
+    "title": "Concordance-Optimal Continuous Music Emotion Estimation: Variance Decomposition, Dual-Branch Temporal Fusion, and Conformal Prediction Intervals",
+    "category": "ai_models",
+    "score": 44
+  },
+  "93540f3a844cbf47": {
+    "title": "Region-aware error triage for medical image segmentation with groupwise conformal risk control",
+    "category": "ai_models",
+    "score": 36
+  },
+  "e01bcaaa0ead0b84": {
+    "title": "Accuracy Is Not Value: Choosing Weak Supervisors by What the Student Inherits",
+    "category": "ai_models",
+    "score": 28
+  },
+  "1c0082b8f788f033": {
+    "title": "MetricPose: Flexible 3D Human Pose Estimation with Depth and Geometric Cues",
+    "category": "ai_models",
+    "score": 40
+  },
+  "9f929ba2c9a156cb": {
+    "title": "More with Less: Efficient Parallel Scientific Code Translation via an Agent-Skill Workflow",
+    "category": "ai_models",
+    "score": 48
+  },
+  "583fb0cfede9f8be": {
+    "title": "Flex-RSI: Benchmarking Recursive Self-Improvement of Frontier Agents",
+    "category": "ai_models",
+    "score": 42
+  },
+  "77a6d5425b3549c0": {
+    "title": "MESAM: Enhancing SAM2 for Few-Shot Segmentation through Semantic-Visual Memory Generation and Refinement",
+    "category": "ai_models",
+    "score": 45
+  },
+  "9510b68f9da7a0a7": {
+    "title": "Surrogate Quality Score: A Novel Composite Performance Metric for Model Selection",
+    "category": "ai_models",
+    "score": 52
+  },
+  "de646fdd64b8afdf": {
+    "title": "Ordered Policy Optimization",
+    "category": "ai_models",
+    "score": 32
+  },
+  "205524658cc99500": {
+    "title": "DRAFT-Bench: Evaluating Frontier Agents Across the Professional Design Lifecycle",
+    "category": "ai_models",
+    "score": 49
+  },
+  "87c4dbbdca02196b": {
+    "title": "Grid-Oriented Probabilistic Load Forecasting for AI Data Centers",
+    "category": "ai_models",
+    "score": 43
+  },
+  "3087eee7695a7b7d": {
+    "title": "UAV-Based Computer Vision for Cattle Detection and Feed Bunk Spatial Analysis",
+    "category": "ai_models",
+    "score": 50
+  },
+  "4f4b945d4da6c33d": {
+    "title": "ResQAdam: Residual-Preserving Adaptive Optimization for Memory-Efficient Quantization Aware Training",
+    "category": "ai_models",
+    "score": 43
+  },
+  "dc99c5ff0ff44a96": {
+    "title": "FANO: Anchored Forward-Noise Optimization for Diffusion Inverse Problems",
+    "category": "ai_models",
+    "score": 44
+  },
+  "f1d5882b0f7f385e": {
+    "title": "Glyph: An Interpretability Engine for AI-Driven Scientific Discovery in Clinical Data",
+    "category": "ai_models",
+    "score": 44
+  },
+  "8b64ca7037c8345a": {
+    "title": "Frame: Form-Restricted Authoring with Model-Based Evaluation",
+    "category": "ai_models",
+    "score": 47
+  },
+  "a2a1389518a60bbd": {
+    "title": "Composable Causality: A Toolkit for Systematic Time-Series Causal Discovery and Treatment-Effect Benchmarking",
+    "category": "ai_models",
+    "score": 51
+  },
+  "3661d764f6561756": {
+    "title": "On the Incompleteness of do-calculus for Universal Identifiability",
+    "category": "ai_models",
+    "score": 22
+  },
+  "d9b2b34679187544": {
+    "title": "HomeLoop: A Simulation Framework and Benchmark for Robot-IoT Coordination in Everyday Domestic Assistance and Safety",
+    "category": "ai_models",
+    "score": 61
+  },
+  "deb277dd7d9c5bc4": {
+    "title": "Latest Oil Market News and Analysis for Nov. 9",
+    "category": "ai_models",
+    "score": 24
+  },
+  "7c8f76a5943889b0": {
+    "title": "Philippine Economy Unexpectedly Slows, Pressuring Marcos",
+    "category": "ai_models",
+    "score": 16
+  },
+  "6073097440c0aa17": {
+    "title": "Mizuho Pierces Nomura\u2019s Japan Bubble With Big-Ticket Global IPOs",
+    "category": "ai_models",
+    "score": 20
+  },
+  "2b447b8f8b197b86": {
+    "title": "Berkshire Plans First Japan Bond Offering Since April",
+    "category": "ai_models",
+    "score": 14
+  },
+  "958f0160141ca853": {
+    "title": "Gold Gains as Oil Extends Fall and Nvidia Probe Rattles Markets",
+    "category": "ai_models",
+    "score": 20
+  },
+  "b4834542850fa492": {
+    "title": "India Short Bonds May Underperform on Rate Hikes, Cash Squeeze",
+    "category": "ai_models",
+    "score": 23
+  },
+  "9f4a0f685e454023": {
+    "title": "Lula Vows Fiscal Responsibility in First Address Since Election",
+    "category": "ai_models",
+    "score": 24
+  },
+  "8b541354c6d0785a": {
+    "title": "Sudden Distress at Top-Rated Firm Tests China\u2019s Rating Crackdown",
+    "category": "ai_models",
+    "score": 19
+  },
+  "f414065c30fb6456": {
+    "title": "Nvidia Probes Huang Affair Amid Spying Controversy",
+    "category": "ai_models",
+    "score": 26
+  },
+  "17b5148f15a1cb45": {
+    "title": "Australia Regulator Halts Private Credit Fund on Bathla Risks",
+    "category": "ai_models",
+    "score": 26
+  },
+  "b3d66bc9f0f604e2": {
+    "title": "Just a quarter of U.S. adults trust creators to always disclose brand deals",
+    "category": "ai_models",
+    "score": 24
   }
 }
