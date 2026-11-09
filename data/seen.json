@@ -73679,5 +73679,235 @@
     "title": "Just a quarter of U.S. adults trust creators to always disclose brand deals",
     "category": "ai_models",
     "score": 24
+  },
+  "24b0b3b4b0aaa6ec": {
+    "title": "Show HN: Open-source customer-facing agents",
+    "category": "ai_models",
+    "score": 10
+  },
+  "e71b523b4e92eef2": {
+    "title": "STMicroelectronics streamlines AI model development for STM32 developers",
+    "category": "ai_models",
+    "score": 9
+  },
+  "ac3dd7c9e2363000": {
+    "title": "Type in Any Task. Get the Best AI Model for It",
+    "category": "ai_models",
+    "score": 4
+  },
+  "694b3f805785df55": {
+    "title": "Show HN: Grade or Skip \u2013 measure a Pok\u00e9mon card's centering and grading ROI",
+    "category": "ai_models",
+    "score": 8
+  },
+  "34b922fcfdfa4fb0": {
+    "title": "Video-Coder: Reinforcing Agentic Coding for Video Generation",
+    "category": "ai_models",
+    "score": 50
+  },
+  "f90a81bc16775efb": {
+    "title": "On Agentic Manipulation Policies",
+    "category": "ai_models",
+    "score": 35
+  },
+  "2b95767c13ca5c97": {
+    "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+    "category": "ai_models",
+    "score": 31
+  },
+  "ef22192ca3422b50": {
+    "title": "On the (non-)closedness of the set of ReLU networks",
+    "category": "ai_models",
+    "score": 25
+  },
+  "70e30363207bf039": {
+    "title": "FlowMoP: Stochastic Multi-Person Motion Prediction",
+    "category": "ai_models",
+    "score": 43
+  },
+  "14c51bbf49d82a6d": {
+    "title": "ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations",
+    "category": "ai_models",
+    "score": 45
+  },
+  "71aabce0efc4fa0e": {
+    "title": "Graded convolutional networks: scale invariance without the scale and robustness to unknown blur",
+    "category": "ai_models",
+    "score": 34
+  },
+  "c2fb5aeea36779d6": {
+    "title": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
+    "category": "ai_models",
+    "score": 42
+  },
+  "2e7b6377ff3a8b83": {
+    "title": "CodeQuant2: Enhanced Outlier Mitigation and Adaptive Clustering for Low-Precision LRMs",
+    "category": "ai_models",
+    "score": 47
+  },
+  "70fbf45394029f60": {
+    "title": "GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description",
+    "category": "ai_models",
+    "score": 39
+  },
+  "e87d7c5e7d593841": {
+    "title": "Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation",
+    "category": "ai_models",
+    "score": 55
+  },
+  "69eb798206d3b181": {
+    "title": "Flow-Guided Target-Space Alignment via Path Consistency",
+    "category": "ai_models",
+    "score": 36
+  },
+  "9a9dfa0cc4516819": {
+    "title": "Super-resolved digital terrain models for GEDI geolocation correction: agreement with airborne LiDAR DTM-based corrections at the beam level, not the footprint level",
+    "category": "ai_models",
+    "score": 59
+  },
+  "553fd0f9fc3db85e": {
+    "title": "Health-System-Wide Mapping of Demographic Information in Routine Clinical Histopathology",
+    "category": "ai_models",
+    "score": 38
+  },
+  "6a35144a96633ca3": {
+    "title": "How far does a hash-only sender go? A pre-registered map of sender memory versus bits for short text messages",
+    "category": "ai_models",
+    "score": 28
+  },
+  "45b17ab3903afd5a": {
+    "title": "Computer-Use Agents Are Embodied Generalists",
+    "category": "ai_models",
+    "score": 39
+  },
+  "6bf646da9d2ff492": {
+    "title": "Ensemble Methodology for Reference-Free Confidence Estimation in LLM-based Code Summarization",
+    "category": "ai_models",
+    "score": 42
+  },
+  "5131c10c1a052bef": {
+    "title": "AdaptivePnP: Fast Auto-Tuned Plug-and-Play for Deconvolution",
+    "category": "ai_models",
+    "score": 26
+  },
+  "7bc695dc9755d0a0": {
+    "title": "Fifty-Two Shades of Pig: What the UCR Archive Really Asks Classifiers to Do",
+    "category": "ai_models",
+    "score": 24
+  },
+  "285e3a8e189a6d64": {
+    "title": "Can Agentic Systems Close the Gap in Radiology with Production AI Tools?",
+    "category": "ai_models",
+    "score": 49
+  },
+  "faaba7dc4044d02b": {
+    "title": "Designing Effective Monitor-Based Interventions for Mitigating Reward Hacking During RL",
+    "category": "ai_models",
+    "score": 40
+  },
+  "57e19c34f561b4d9": {
+    "title": "BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design",
+    "category": "ai_models",
+    "score": 37
+  },
+  "43e9f427b6954bf7": {
+    "title": "Discovering formally verified quantum programs with AI",
+    "category": "ai_models",
+    "score": 51
+  },
+  "e743b4fcdb377bbf": {
+    "title": "Generative Latent Priors for Interpreting and Steering Protein Language Models",
+    "category": "ai_models",
+    "score": 34
+  },
+  "5ac1d7db1a5c1104": {
+    "title": "Machine learning for lattice QCD",
+    "category": "ai_models",
+    "score": 30
+  },
+  "2661819f1523b8b2": {
+    "title": "Dear SaaStr: What Can a Startup Do to Get Their Customers to Pay on Time?",
+    "category": "ai_models",
+    "score": 20
+  },
+  "1cec0a7289e922d4": {
+    "title": "5 social signals brands should act on now",
+    "category": "ai_models",
+    "score": 10
+  },
+  "e120b878a12761b0": {
+    "title": "Is Jensen Huang\u2019s job on the line? Yale\u2019s Jeffrey Sonnenfeld estimates it\u2019s \u201cabout a 50-50\u201d",
+    "category": "ai_models",
+    "score": 15
+  },
+  "01ff7891092bd47a": {
+    "title": "European Stocks Rise as Banking and Technology Sectors Advance",
+    "category": "ai_models",
+    "score": 23
+  },
+  "c0568cdc64af8c2d": {
+    "title": "The Descent of the Online Sports Gambler",
+    "category": "ai_models",
+    "score": 24
+  },
+  "c445ef8bff964bb2": {
+    "title": "Nvidia CEO Jensen Huang Admits Affair With Suspected Chinese Spy",
+    "category": "ai_models",
+    "score": 38
+  },
+  "dd542633880886dd": {
+    "title": "Gunman in Polish Mass Shooting Dies as Terrorism Probe Proceeds",
+    "category": "ai_models",
+    "score": 8
+  },
+  "24047ab80d3b807e": {
+    "title": "Citi Strategists Cut US Stocks, Upgrade Europe After AI Turmoil",
+    "category": "ai_models",
+    "score": 21
+  },
+  "72be0260c2d9c477": {
+    "title": "Norway Halts Power Connections for New Data Centers",
+    "category": "ai_models",
+    "score": 19
+  },
+  "b0b189eec7825f25": {
+    "title": "Euro-Zone Officials Meet to Discuss Lagarde Succession Plan",
+    "category": "ai_models",
+    "score": 24
+  },
+  "104ebbe29a61ac62": {
+    "title": "China\u2019s National Team Ramps Up ETF Buying to Record High",
+    "category": "ai_models",
+    "score": 15
+  },
+  "6eee59f39248af48": {
+    "title": "Inside the Race to Upgrade Transformers",
+    "category": "ai_models",
+    "score": 24
+  },
+  "ab2b2c3777540a2f": {
+    "title": "This Is How New York City Takes Out Its Trash",
+    "category": "ai_models",
+    "score": 4
+  },
+  "968edd0fcad97408": {
+    "title": "Odd Lots: How New York City Takes Out Its Trash (Podcast)",
+    "category": "ai_models",
+    "score": 28
+  },
+  "5e3385fc11bf113b": {
+    "title": "Hedge Funds Dump Tech Stocks at One of Fastest Paces on Record",
+    "category": "ai_models",
+    "score": 24
+  },
+  "10df096c4a37e84a": {
+    "title": "Data Center Boss Vows Engagement After Backlash Tanks Stock",
+    "category": "ai_models",
+    "score": 17
+  },
+  "568fa11bbecccf62": {
+    "title": "Aramco Tower Targeted in Riyadh as Eisenkot Gets Israeli Government Mandate",
+    "category": "ai_models",
+    "score": 37
   }
 }
