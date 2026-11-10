@@ -74159,5 +74159,290 @@
     "title": "Art Director Flora MacLeod Joins Electric Theatre Collective",
     "category": "ai_models",
     "score": 14
+  },
+  "f2826d61744e1e47": {
+    "title": "Ask HN: Are companies making money by using AI?",
+    "category": "ai_models",
+    "score": 6
+  },
+  "16d24d5403c703ae": {
+    "title": "A teen used her school Chromebook and Google AI Mode to plan her suicide",
+    "category": "ai_models",
+    "score": 6
+  },
+  "615e66d0980d01ef": {
+    "title": "Show HN: Emma, a real-time AI video persona from Nuance Labs",
+    "category": "ai_models",
+    "score": 6
+  },
+  "f4c2960cda744ede": {
+    "title": "Hybrid Source Code Change Impact Analysis",
+    "category": "ai_models",
+    "score": 37
+  },
+  "40c44c003707e181": {
+    "title": "Risk-Sensitive Reinforcement Learning for an Options Market Maker: An Empirical Study with Real S&P 500 Options",
+    "category": "ai_models",
+    "score": 47
+  },
+  "152ddc65c6a36173": {
+    "title": "Interpretable Cyber-Physical Attack Detection in Smart Grids: A Leakage-Controlled Multi-Testbed Evaluation of Fusion, Robustness, and Observability Limits",
+    "category": "ai_models",
+    "score": 45
+  },
+  "212988f734fcc20b": {
+    "title": "CoupledFlow: One-Step Neural Operators for Coupled Multi-Physics PDEs",
+    "category": "ai_models",
+    "score": 49
+  },
+  "13db705ca9b5c0ac": {
+    "title": "Semantic Synthesis over Brute-Force Search: LLM-Guided Transformation Design for Efficient Learning",
+    "category": "ai_models",
+    "score": 52
+  },
+  "80f7c66e422db6ed": {
+    "title": "Can small transformers learn the language of Coxeter groups?",
+    "category": "ai_models",
+    "score": 35
+  },
+  "a9b1f7d842301e4c": {
+    "title": "Gendered Misclassification from Surname-Based Race Imputation",
+    "category": "ai_models",
+    "score": 34
+  },
+  "6b9aba70d8f7c39c": {
+    "title": "DeepFinance: Can AI Diligence a $100MM Deal?",
+    "category": "ai_models",
+    "score": 48
+  },
+  "06427e4796d55ec8": {
+    "title": "Prescriptive Learning of Linear Policies with Feasibility Guarantees for Binary Decision-Making",
+    "category": "ai_models",
+    "score": 56
+  },
+  "5f98034b140421ca": {
+    "title": "Remembering to Reason: Structured Memory for Scene and Workflow Understanding in Robot-Assisted Surgery",
+    "category": "ai_models",
+    "score": 54
+  },
+  "9962e535093b7dee": {
+    "title": "Pole or Vector? Encoders Capture Bangla Compound Verbs, but LLMs Read Them Literally",
+    "category": "ai_models",
+    "score": 29
+  },
+  "7fade03c2b39e15a": {
+    "title": "Beyond Real or Fake: A Dual-Channel Authenticity and Reasoning Protocol for Photographic Assessment",
+    "category": "ai_models",
+    "score": 35
+  },
+  "7f8a0d97f8070e47": {
+    "title": "SCorPion: A Strategic, Controllable and Personified Conversational Companion",
+    "category": "ai_models",
+    "score": 35
+  },
+  "270490f6c1e5332e": {
+    "title": "How Short Is Too Short? Length-Conditional Calibration and Abstention for Detecting AI-Generated Text",
+    "category": "ai_models",
+    "score": 42
+  },
+  "028895e93b982b96": {
+    "title": "Optimal Byzantine-resilient Federated Learning with User-level Differential Privacy",
+    "category": "ai_models",
+    "score": 39
+  },
+  "7d4b5bf472132030": {
+    "title": "Robust Satisficing Ensemble: Scalable Model Aggregation Under Distribution Shifts",
+    "category": "ai_models",
+    "score": 44
+  },
+  "eca815abda4b2c14": {
+    "title": "Zero-Shot VLA Adaptation with Retrieved Guidance",
+    "category": "ai_models",
+    "score": 49
+  },
+  "9f215ba7768c6b19": {
+    "title": "Complementarity without ground truth?",
+    "category": "ai_models",
+    "score": 40
+  },
+  "4dbb5175b44b48f5": {
+    "title": "Approximate Recall, Approximate Forecasts: Recall as a Diagnostic for LLM Forecasting Errors",
+    "category": "ai_models",
+    "score": 36
+  },
+  "12d12d736b963c76": {
+    "title": "Keeping LLM Agents on Procedure: Executable Finite-State Control for Long-Horizon Instruction Fidelity",
+    "category": "ai_models",
+    "score": 40
+  },
+  "a65c51105c1f1eaf": {
+    "title": "Guiding future global temperature distributions with simulations and observations",
+    "category": "ai_models",
+    "score": 42
+  },
+  "40f198396180738d": {
+    "title": "Robust and Efficient Continual Model Merging via Global Singular Subspace Separation and Restoration",
+    "category": "ai_models",
+    "score": 33
+  },
+  "1a4bcd48b4464863": {
+    "title": "Sampling-based Model Predictive Control as Sequential Monte Carlo Inference",
+    "category": "ai_models",
+    "score": 31
+  },
+  "a1bdc717d9454854": {
+    "title": "REDiff-AD: No Training and No Target Masks for Industrial Anomaly Image Generation via Diversity-Driven In-Context MMDiT",
+    "category": "ai_models",
+    "score": 43
+  },
+  "7775ee47d09cf5be": {
+    "title": "BRAT: Bounded Residual-Aligned Training for Stable Multi-Pass LLM Post-Training",
+    "category": "ai_models",
+    "score": 42
+  },
+  "952d2516af2e9054": {
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "category": "ai_models",
+    "score": 21
+  },
+  "02e9abf47eaf3fa0": {
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "category": "ai_models",
+    "score": 19
+  },
+  "8a35af252b32001f": {
+    "title": "Anthropic reportedly plans to move forward with IPO plans",
+    "category": "ai_models",
+    "score": 11
+  },
+  "cbe54f11b05c0e59": {
+    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+    "category": "ai_models",
+    "score": 14
+  },
+  "ee9aab4d1d8b4a89": {
+    "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
+    "category": "ai_models",
+    "score": 16
+  },
+  "38b3fce4c5431b80": {
+    "title": "The race is on to sue Nvidia",
+    "category": "ai_models",
+    "score": 15
+  },
+  "e2073281799902d1": {
+    "title": "Asian Stocks Ride Tech Rally Higher as Oil Drops: Markets Wrap",
+    "category": "ai_models",
+    "score": 20
+  },
+  "fd75cc40a414e64f": {
+    "title": "Rising Fuel Flows Through Hormuz May Help Ease Strained Market",
+    "category": "ai_models",
+    "score": 20
+  },
+  "080a4a4793714ce4": {
+    "title": "Japan 30-Year Bond Sale Sees Weaker Demand Than 12-Month Average",
+    "category": "ai_models",
+    "score": 16
+  },
+  "99c38ed25fd199ce": {
+    "title": "Copper Extends Rebound as Global Technology Stocks Resume Rally",
+    "category": "ai_models",
+    "score": 24
+  },
+  "67f909011c9f25ea": {
+    "title": "Singapore Launches Gold Vaulting Service for Central Banks",
+    "category": "ai_models",
+    "score": 18
+  },
+  "bab6e8e63a521cab": {
+    "title": "Hegseth Hits Out at Critics as Massie Pushes Impeachment",
+    "category": "ai_models",
+    "score": 24
+  },
+  "c91d9fc561f8ed35": {
+    "title": "Singapore\u2019s Interbank Rate Hits Highest in More Than a Year",
+    "category": "ai_models",
+    "score": 16
+  },
+  "a7eed685f3fdc3e5": {
+    "title": "Latest Oil Market News and Analysis for Nov. 10",
+    "category": "ai_models",
+    "score": 17
+  },
+  "5def6a12ef657687": {
+    "title": "Kioxia Leveraged Product Debuts in HK After One Year Hiatus",
+    "category": "ai_models",
+    "score": 21
+  },
+  "4c23112b95048af3": {
+    "title": "China Water Environment Seeks $410 Million Loan Restructuring",
+    "category": "ai_models",
+    "score": 31
+  },
+  "ddb642f0f1b20060": {
+    "title": "Berkshire Tests Wider Yen Spreads in Latest Japan Bond Deal",
+    "category": "ai_models",
+    "score": 20
+  },
+  "8ce7f850c38249a1": {
+    "title": "Australia Probes Bathla as Private Credit Flaws Persist",
+    "category": "ai_models",
+    "score": 23
+  },
+  "1b0f1614ca2cfd96": {
+    "title": "Indonesia\u00a0Markets Second Panda Bond Offering Despite MSCI Threat",
+    "category": "ai_models",
+    "score": 22
+  },
+  "f932ca2a8cd2d6aa": {
+    "title": "Inflation Data to Test Limits of Treasury Rally After Haven Bid",
+    "category": "ai_models",
+    "score": 19
+  },
+  "ce6b65a2162598c2": {
+    "title": "South Korean Stocks Jump as Chipmakers Roar Back on Dip Buying",
+    "category": "ai_models",
+    "score": 25
+  },
+  "b78c3b6cfd8530f9": {
+    "title": "Australia Consumer Confidence Slumps on Cost-of-Living Fears",
+    "category": "ai_models",
+    "score": 19
+  },
+  "37e115e0aaba0499": {
+    "title": "Gold Holds Gain Above $4,100 as Lower Oil Eases Inflation Woes",
+    "category": "ai_models",
+    "score": 15
+  },
+  "a3becf388ea522f3": {
+    "title": "Japan\u2019s Household Spending Slumps Most Since Pandemic",
+    "category": "ai_models",
+    "score": 26
+  },
+  "104632eb7912756d": {
+    "title": "ExxonMobil Signs Deal in Step Toward Re-Entering Venezuela",
+    "category": "ai_models",
+    "score": 25
+  },
+  "19fabe0faff2a31c": {
+    "title": "Twitch and Amazon want to turn \u201cgit gud\u201d into \u201cu good?\u201d for men\u2019s mental health",
+    "category": "ai_models",
+    "score": 22
+  },
+  "8fd2d5fda5c29936": {
+    "title": "As brands dive into ChatGPT, OpenAI will let them track their mentions",
+    "category": "ai_models",
+    "score": 35
+  },
+  "aa0b74411e4a964d": {
+    "title": "Top 50 Most Subscribed YouTube Channels Worldwide \u2022 Week Of 11/08/2026",
+    "category": "ai_models",
+    "score": 30
+  },
+  "a02cb0d7ea75ab0a": {
+    "title": "Top 50 Most Viewed YouTube Channels Worldwide \u2022 Week Of 11/08/2026",
+    "category": "ai_models",
+    "score": 29
   }
 }
