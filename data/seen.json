@@ -74444,5 +74444,275 @@
     "title": "Top 50 Most Viewed YouTube Channels Worldwide \u2022 Week Of 11/08/2026",
     "category": "ai_models",
     "score": 29
+  },
+  "6b9a89fc274b79be": {
+    "title": "Show HN: AI Vision Index, private tests of how well 36 AI models see",
+    "category": "ai_models",
+    "score": 9
+  },
+  "def7dfc6bcfd4fb9": {
+    "title": "Show HN: VoxaDub \u2013 Open-source AI video dubbing with speaker-aware voices",
+    "category": "ai_models",
+    "score": 7
+  },
+  "5214a76514c4d6d1": {
+    "title": "Show HN: Eigin. Local-first and no-shell personal AI for iOS",
+    "category": "ai_models",
+    "score": 9
+  },
+  "31d144e167e66b7b": {
+    "title": "Show HN: You can now train your own LLMs with less memory, on your consumer GPUs",
+    "category": "ai_models",
+    "score": 6
+  },
+  "f568b044128ac3ce": {
+    "title": "Tell HN: Gemini Carbon released",
+    "category": "ai_models",
+    "score": 6
+  },
+  "562ed066dd9ee82b": {
+    "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
+    "category": "ai_models",
+    "score": 8
+  },
+  "70215b752c14b3d3": {
+    "title": "Show HN: Calculators for token costs and Claude Code API budgets",
+    "category": "ai_models",
+    "score": 8
+  },
+  "6a9af3441e3a7608": {
+    "title": "90% of the models can do 90% of the work while best owns the turn",
+    "category": "ai_models",
+    "score": 6
+  },
+  "79ef2673e46d01bc": {
+    "title": "Aipicks.ca \u2013 Using multi-sport AI models to find edges in table tennis",
+    "category": "ai_models",
+    "score": 8
+  },
+  "991eb0fc1ef710ca": {
+    "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+    "category": "ai_models",
+    "score": 52
+  },
+  "d71a97a4733b2b76": {
+    "title": "World In-Context Learning for Agentic Robot Manipulation",
+    "category": "ai_models",
+    "score": 39
+  },
+  "da018a44a52a1110": {
+    "title": "Guiding Data Allocation for Robust Subpopulation Generalization",
+    "category": "ai_models",
+    "score": 35
+  },
+  "359863498ccda6ef": {
+    "title": "Beyond Modality Preference: Controlling Multimodal Arbitration under Modality Conflict in MLLMs",
+    "category": "ai_models",
+    "score": 45
+  },
+  "95ddbe7b8fad83c0": {
+    "title": "Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics",
+    "category": "ai_models",
+    "score": 52
+  },
+  "744d3e8722b6ae91": {
+    "title": "Grasping the Future: Joint 3D Hand-Object Forecasting From Internet Videos",
+    "category": "ai_models",
+    "score": 37
+  },
+  "412e31450c8bc91d": {
+    "title": "Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels",
+    "category": "ai_models",
+    "score": 48
+  },
+  "a2c1fdd47c73c57f": {
+    "title": "Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks",
+    "category": "ai_models",
+    "score": 45
+  },
+  "433e72e1b4576541": {
+    "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+    "category": "ai_models",
+    "score": 46
+  },
+  "f59e5195ef6337f7": {
+    "title": "Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection",
+    "category": "ai_models",
+    "score": 41
+  },
+  "0eb501bda43866b1": {
+    "title": "SWAM: Scaling World Action Models with Cross-Modal Alignment",
+    "category": "ai_models",
+    "score": 44
+  },
+  "213f41affd409447": {
+    "title": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis",
+    "category": "ai_models",
+    "score": 34
+  },
+  "73b904dd2bd27688": {
+    "title": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
+    "category": "ai_models",
+    "score": 50
+  },
+  "d8aa4bc95af7a9c3": {
+    "title": "Is Persona Generalization Predictable?",
+    "category": "ai_models",
+    "score": 36
+  },
+  "a97ea8448801e71f": {
+    "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
+    "category": "ai_models",
+    "score": 52
+  },
+  "9bf1f764b46e911b": {
+    "title": "AI-based characterization of lymphoid structures and the tumor microenvironment reveals lower mature tertiary lymphoid structures, lymph-node follicles, and plasma cells after neoadjuvant therapy in lung squamous cell carcinoma",
+    "category": "ai_models",
+    "score": 25
+  },
+  "d0f9f37d832b3510": {
+    "title": "What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching",
+    "category": "ai_models",
+    "score": 54
+  },
+  "8c0c30d9e916ce93": {
+    "title": "Mitigating Agentic Deception via Evaluation-Side Partially Observable Games",
+    "category": "ai_models",
+    "score": 46
+  },
+  "28bbbb52ac4a38e9": {
+    "title": "Programming Prescience: Issues in Human Construction of Forecasting Bots",
+    "category": "ai_models",
+    "score": 41
+  },
+  "4a5d35d9fa8f3e01": {
+    "title": "What the Loss Curve Misses: FP4 Pretraining Slows the Acquisition of Rare Facts",
+    "category": "ai_models",
+    "score": 36
+  },
+  "8e532aae150055fd": {
+    "title": "MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning",
+    "category": "ai_models",
+    "score": 38
+  },
+  "e92c496ab9590eac": {
+    "title": "How Well Does AI Peer Review Work? A Benchmark Built from 100 Planted Errors",
+    "category": "ai_models",
+    "score": 28
+  },
+  "bcfc636e5a3be6d4": {
+    "title": "LUCQUE: A lung cancer screening dataset from Qu\u00e9bec for reliable AI evaluation",
+    "category": "ai_models",
+    "score": 32
+  },
+  "fe6003c42d22f54e": {
+    "title": "Automated Knowledge Acquisition Pipeline for Disassembly Instructions: A Comparison of NLP and Generative AI Frameworks",
+    "category": "ai_models",
+    "score": 42
+  },
+  "474e152505cea294": {
+    "title": "Inversion-Free High-Dimensional Counterfactual Inference",
+    "category": "ai_models",
+    "score": 32
+  },
+  "0f0020abcf733229": {
+    "title": "Helping caregivers use AI in everyday life",
+    "category": "ai_models",
+    "score": 17
+  },
+  "69d4d9d74efa0162": {
+    "title": "Closing the AI guidance gap in education",
+    "category": "ai_models",
+    "score": 24
+  },
+  "775ac0a390011ca0": {
+    "title": "Otter AI can now follow conversations across 30+ languages",
+    "category": "ai_models",
+    "score": 13
+  },
+  "4ece9c81c09f6525": {
+    "title": "Blackstone to Buy 15.5% of IIFL Finance in $532 Million India Bet",
+    "category": "ai_models",
+    "score": 25
+  },
+  "bbe360a7cefb4828": {
+    "title": "Oil Market Starting to Price In a US-Iran Deal, Says Analyst Sen",
+    "category": "ai_models",
+    "score": 28
+  },
+  "fa144f8127e18a4e": {
+    "title": "UBS, Europe\u2019s Biggest Stock Bull, Sees 13% Gain By End of 2027",
+    "category": "ai_models",
+    "score": 27
+  },
+  "ca95dbe514b8c60e": {
+    "title": "Fed\u2019s Waller on Rates, Market Pricing and the US Economy",
+    "category": "ai_models",
+    "score": 21
+  },
+  "0a99f235866eb8fe": {
+    "title": "Japan\u2019s Trading Houses Thrive in a World Scrambling for Resources",
+    "category": "ai_models",
+    "score": 18
+  },
+  "52a49d507255cbfc": {
+    "title": "Oil and Gas Fall on Iran De-escalation Hopes",
+    "category": "ai_models",
+    "score": 39
+  },
+  "0cfdf45353ed4c5c": {
+    "title": "HSBC's Sels Rotates Away from Semiconductors into Applications and Cloud",
+    "category": "ai_models",
+    "score": 23
+  },
+  "74094001f0eb25de": {
+    "title": "Angola\u2019s Bonds Lead Retreat Among Emerging-Market Oil Producers",
+    "category": "ai_models",
+    "score": 20
+  },
+  "179682990eea96d1": {
+    "title": "Falling Oil Prices and Bond Yields Offer Investors Some Relief",
+    "category": "ai_models",
+    "score": 16
+  },
+  "d529a0d1c3901127": {
+    "title": "Banks Prep \u00a31.8 Billion Debt Financing to Back TDR\u2019s OCU Deal",
+    "category": "ai_models",
+    "score": 13
+  },
+  "8dd6392700c1abb8": {
+    "title": "French Grocer Casino Agrees Debt Deal With Opposing Creditors",
+    "category": "ai_models",
+    "score": 18
+  },
+  "22364928dcf780e3": {
+    "title": "ECB's Kaz\u0101ks Sees Rate-Hike Judgments Getting \u2018More Nuanced\u2019",
+    "category": "ai_models",
+    "score": 40
+  },
+  "23552b0a9df13f5a": {
+    "title": "'Marry the House, Date the Rate' Backfires for Stuck Homeowners",
+    "category": "ai_models",
+    "score": 31
+  },
+  "43868b6cfbc8483f": {
+    "title": "Fed's Waller Supports Rate Hike in December",
+    "category": "ai_models",
+    "score": 31
+  },
+  "1eb1a83dab601d79": {
+    "title": "Hedge-Fund Founder Shah Fights 12-Year Danish Jail Sentence Over Cum-Ex Tax Scam",
+    "category": "ai_models",
+    "score": 16
+  },
+  "3a2b89d02e428383": {
+    "title": "Emirates\u2019 Clark Says Retirement Hinges on Airline\u2019s Recovery",
+    "category": "ai_models",
+    "score": 17
+  },
+  "c01528e1e5d8d13c": {
+    "title": "ServiceNow AI Platform | NotReal",
+    "category": "ai_models",
+    "score": 2
   }
 }
