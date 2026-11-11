@@ -75174,5 +75174,250 @@
     "title": "The Hot 100 flows through social media, so Billboard is bringing YouTube data back into its charts",
     "category": "ai_models",
     "score": 29
+  },
+  "c22f727cde40e904": {
+    "title": "Ant Group's Robbyant open-sources tactile AI model for robot hands",
+    "category": "ai_models",
+    "score": 11
+  },
+  "d480a8b58456a30a": {
+    "title": "Matching product records with a decision model",
+    "category": "ai_models",
+    "score": 10
+  },
+  "10a9513446a8a05d": {
+    "title": "Ask HN: Why doesn't Ramp AI Index include OpenRouter or other aggregators?",
+    "category": "ai_models",
+    "score": 10
+  },
+  "f22db79b36eec11b": {
+    "title": "Show HN: Zeus \u2013 Claude Code for AI voice agents",
+    "category": "ai_models",
+    "score": 7
+  },
+  "fe811014c2f031b1": {
+    "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+    "category": "ai_models",
+    "score": 35
+  },
+  "f4edfe11b6533a57": {
+    "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+    "category": "ai_models",
+    "score": 41
+  },
+  "399ecd1b590b94dc": {
+    "title": "TorchCurves: Differentiable Parametric Curves",
+    "category": "ai_models",
+    "score": 41
+  },
+  "9eada54d6811eed4": {
+    "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+    "category": "ai_models",
+    "score": 38
+  },
+  "6c02bf98d5e3f309": {
+    "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+    "category": "ai_models",
+    "score": 47
+  },
+  "b578e632a3b13868": {
+    "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+    "category": "ai_models",
+    "score": 46
+  },
+  "b29365c1d326a876": {
+    "title": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
+    "category": "ai_models",
+    "score": 33
+  },
+  "35f0b78cc85822d6": {
+    "title": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
+    "category": "ai_models",
+    "score": 48
+  },
+  "3ff2d9fe4072b757": {
+    "title": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions",
+    "category": "ai_models",
+    "score": 47
+  },
+  "133851bfbe16e004": {
+    "title": "Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model: Linking an Adversarial and a Perceptual Illusion",
+    "category": "ai_models",
+    "score": 44
+  },
+  "b6ffaf3d387cfe6a": {
+    "title": "RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval",
+    "category": "ai_models",
+    "score": 43
+  },
+  "a89f0826746b4cb4": {
+    "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
+    "category": "ai_models",
+    "score": 46
+  },
+  "f77d37bd9c0d188b": {
+    "title": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
+    "category": "ai_models",
+    "score": 34
+  },
+  "b3c7a74190974e48": {
+    "title": "TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics",
+    "category": "ai_models",
+    "score": 49
+  },
+  "95e4696846f25ae8": {
+    "title": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game",
+    "category": "ai_models",
+    "score": 37
+  },
+  "af65c0122a536a06": {
+    "title": "Mechanistic Interpretability Needs a Logic of Inference",
+    "category": "ai_models",
+    "score": 51
+  },
+  "2df5a196fd78c594": {
+    "title": "Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation",
+    "category": "ai_models",
+    "score": 42
+  },
+  "7f8bbe8ae18d8340": {
+    "title": "FERN: Cross-Benchmark Table Retrieval for Text-to-SQL with Frozen Retrievers and Learned Ranking",
+    "category": "ai_models",
+    "score": 44
+  },
+  "8cb07d32e5a61ff7": {
+    "title": "BoviShift: A Six-Year Multi-Attribute Audit of Visual Cattle Phenotyping Across Animals and Time",
+    "category": "ai_models",
+    "score": 51
+  },
+  "4af378f8b7bb097e": {
+    "title": "TanCRAFT: Context-Reasoned Anticipatory Feedback for Assembly Tasks",
+    "category": "ai_models",
+    "score": 44
+  },
+  "2e1f2f7d5730d3cb": {
+    "title": "C$^2$-Routing: Complementary Cropping and Compression for Efficient Vision-Language Inference",
+    "category": "ai_models",
+    "score": 38
+  },
+  "a362b5fe1718737c": {
+    "title": "Bayesian inverse problems and epidemic-threshold uncertainty for a heterogeneous SIS reaction-diffusion model",
+    "category": "ai_models",
+    "score": 35
+  },
+  "fcb358d24fde432a": {
+    "title": "A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets",
+    "category": "ai_models",
+    "score": 43
+  },
+  "2abce43907b1b7de": {
+    "title": "A Theory of Cross-Validation Variance",
+    "category": "ai_models",
+    "score": 33
+  },
+  "d8947628da2212eb": {
+    "title": "Accurate predictions of properties of energetic materials with tabular foundation models",
+    "category": "ai_models",
+    "score": 41
+  },
+  "ac94b61a25ade5ed": {
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "category": "ai_models",
+    "score": 11
+  },
+  "9092d5eb66f29547": {
+    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+    "category": "ai_models",
+    "score": 19
+  },
+  "37e4452e64c861cf": {
+    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+    "category": "ai_models",
+    "score": 17
+  },
+  "d1951b7785beef23": {
+    "title": "Nvidia\u2019s crisis has corporate governance experts reaching for the popcorn",
+    "category": "ai_models",
+    "score": 13
+  },
+  "26517d830ea6b84d": {
+    "title": "Investor Selby on Why Anthropic's IPO Puzzles Him (Correct)",
+    "category": "ai_models",
+    "score": 30
+  },
+  "9797648c48cb1306": {
+    "title": "UK Gilts Get Pulled into US Bond Selloff",
+    "category": "ai_models",
+    "score": 7
+  },
+  "436e54dc565c13c2": {
+    "title": "Presight CEO: Long-Standing Ties with US Tech Firms",
+    "category": "ai_models",
+    "score": 17
+  },
+  "bf39c52598cdb5f4": {
+    "title": "Unilever-McCormick Deal Facing In Depth Review From UK Watchdog",
+    "category": "ai_models",
+    "score": 15
+  },
+  "d2ecd07e6f5ddf40": {
+    "title": "Rubio\u00a0Says Ukraine Must Never Again Feel Threatened",
+    "category": "ai_models",
+    "score": 24
+  },
+  "9b4fdbd352734d60": {
+    "title": "US Envoy: Nvidia Affair Shows US Should Stay 'Diligent' on China",
+    "category": "ai_models",
+    "score": 29
+  },
+  "c5b9bada9b26c4b1": {
+    "title": "FTSE 100 to Bounce Back, Pound Sinks Closer to $1.33",
+    "category": "ai_models",
+    "score": 5
+  },
+  "c15cde2e34043866": {
+    "title": "Bajaj Finance Said Set to Launch Up to $1.2 Billion Share Sale",
+    "category": "ai_models",
+    "score": 27
+  },
+  "d58b51081c06ccdd": {
+    "title": "Dubai\u2019s DIP Rises as Much as 6% in UAE\u2019s First IPO Since War",
+    "category": "ai_models",
+    "score": 18
+  },
+  "3ca66f0cdcbe746b": {
+    "title": "Luxury Watch Platform Subdial Raises $20 Million for Its US Push",
+    "category": "ai_models",
+    "score": 23
+  },
+  "4e94315725573f35": {
+    "title": "Japan Government Bond Yields Jump, Tracking Treasury Selloff",
+    "category": "ai_models",
+    "score": 23
+  },
+  "7d8c798f364781d1": {
+    "title": "Korea Fines Bond Dealers Record $1.2 Billion Over Collusion",
+    "category": "ai_models",
+    "score": 28
+  },
+  "07f38d30467eb069": {
+    "title": "Chinese Lithium Giant Says Price Swings Have Turned More Extreme",
+    "category": "ai_models",
+    "score": 19
+  },
+  "998ead7fbd7bf0cc": {
+    "title": "Latest Oil Market News and Analysis for Nov. 11",
+    "category": "ai_models",
+    "score": 11
+  },
+  "2c9bce14da8a3bca": {
+    "title": "Indonesia to Cut 300 More Tightly Held Stocks From Benchmark",
+    "category": "ai_models",
+    "score": 24
+  },
+  "9687215d30725950": {
+    "title": "IIFL: Can Sustain 25-30% Lending Growth For 3-4 Years",
+    "category": "ai_models",
+    "score": 29
   }
 }
