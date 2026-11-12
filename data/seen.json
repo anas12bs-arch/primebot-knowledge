@@ -75989,5 +75989,289 @@
     "title": "BoA, Temasek, Citi Leaders on Where Capital is Moving",
     "category": "ai_models",
     "score": 29
+  },
+  "38ea2af28c723f9e": {
+    "title": "Gemini 4 Hydrogen (Xhigh) Intelligence, Performance and Price Analysis",
+    "category": "ai_models",
+    "score": 9
+  },
+  "80edea19d5fdcf28": {
+    "title": "Gemini 4 Hydrogen",
+    "category": "ai_models",
+    "score": 4
+  },
+  "2b40b585359d0124": {
+    "title": "Show HN: Kapso \u2013 Iterative learning from enterprise data",
+    "category": "ai_models",
+    "score": 8
+  },
+  "2e6820c6490eaab3": {
+    "title": "Running 800B-parameter LLMs on consumer hardware with InferSSD",
+    "category": "ai_models",
+    "score": 7
+  },
+  "e03235e9677a3604": {
+    "title": "AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up",
+    "category": "ai_models",
+    "score": 9
+  },
+  "9001f49a281ef62a": {
+    "title": "Inception's Diffusion LLM API Is Shutting Down",
+    "category": "ai_models",
+    "score": 6
+  },
+  "4744643b45b63606": {
+    "title": "What's Going on at Inception AI?",
+    "category": "ai_models",
+    "score": 4
+  },
+  "0205a5df71266d83": {
+    "title": "Frontier AI models bypassed Perplexity's sandbox network rules",
+    "category": "ai_models",
+    "score": 11
+  },
+  "cb91b71f6a9a774c": {
+    "title": "Advanced AI models could infer the activity of the brain",
+    "category": "ai_models",
+    "score": 9
+  },
+  "c49baedfb092abf3": {
+    "title": "Claude Code's API billing depends on how often the cache expires",
+    "category": "ai_models",
+    "score": 5
+  },
+  "27719fb5ec688196": {
+    "title": "Show HN: Indie Signals \u2013 24h/7d momentum of new AI repos and models",
+    "category": "ai_models",
+    "score": 10
+  },
+  "f4e0da7b6fe690cd": {
+    "title": "Vercel Data Shows AI Models Have Six-Week Half-Life in Production",
+    "category": "ai_models",
+    "score": 9
+  },
+  "e08d2deb03169e9f": {
+    "title": "A Great B2B Agent Doubles Your ACV. Most AI Features Don\u2019t Move It at All.",
+    "category": "ai_models",
+    "score": 25
+  },
+  "d891b8917d0f942a": {
+    "title": "Welch\u2019s holiday microdrama embraces Y2K nostalgia as Gen Z become parents",
+    "category": "ai_models",
+    "score": 26
+  },
+  "fa101b6ca9fda2b8": {
+    "title": "Sociable: Meta\u2019s AI ads included unapproved discounts",
+    "category": "ai_models",
+    "score": 24
+  },
+  "5e46b59f8e0aadb2": {
+    "title": "Oreo refreshes holiday creative with spin on Santa\u2019s milk and cookies",
+    "category": "ai_models",
+    "score": 8
+  },
+  "48eb2e5c93c163c5": {
+    "title": "How Unilever\u2019s social-first marketing is evolving amid reorganization",
+    "category": "ai_models",
+    "score": 21
+  },
+  "d3c7bc2a15898a5a": {
+    "title": "Fetch trades views for rewards with brand-backed holiday microseries",
+    "category": "ai_models",
+    "score": 21
+  },
+  "76f0f9d265ce6e4d": {
+    "title": "Google\u2019s latest Search upgrade promises better answers to your most complicated questions",
+    "category": "ai_models",
+    "score": 28
+  },
+  "5e287749a0529190": {
+    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "category": "ai_models",
+    "score": 25
+  },
+  "bd79903a17a4b8df": {
+    "title": "Jensen Huang\u2019s exit puts Nvidia\u2019s support for open source in question",
+    "category": "ai_models",
+    "score": 29
+  },
+  "cf8aede2b245e7be": {
+    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang\u2019s exit",
+    "category": "ai_models",
+    "score": 13
+  },
+  "0544f18fda8e3232": {
+    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+    "category": "ai_models",
+    "score": 23
+  },
+  "0039716ebb4ac156": {
+    "title": "SoftBank\u2019s billion-dollar loss may have put a cap on AI\u2019s natural gas ambitions",
+    "category": "ai_models",
+    "score": 14
+  },
+  "62853baff9e5dea3": {
+    "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+    "category": "ai_models",
+    "score": 18
+  },
+  "548fe94a79cba56a": {
+    "title": "Jensen Huang agrees to testify before Congress",
+    "category": "ai_models",
+    "score": 19
+  },
+  "c32c9bb4ff06b22c": {
+    "title": "Five ways Jensen Huang\u2019s ouster from Nvidia could damage the AI industry",
+    "category": "ai_models",
+    "score": 9
+  },
+  "17107c7279fd1016": {
+    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang\u2019s successor",
+    "category": "ai_models",
+    "score": 12
+  },
+  "b2e35daf8642042c": {
+    "title": "Jensen Huang is out at Nvidia \u2014 who is Colette Kress, his interim replacement?",
+    "category": "ai_models",
+    "score": 9
+  },
+  "7c091be54b73fa0e": {
+    "title": "Norwest pushes deeper into AI with new $4B fund",
+    "category": "ai_models",
+    "score": 6
+  },
+  "3d14e9acb8c15562": {
+    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers\u2019 chat transcripts",
+    "category": "ai_models",
+    "score": 17
+  },
+  "07a62a8bb6b160cd": {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "category": "ai_models",
+    "score": 15
+  },
+  "49ac9311c7b4233f": {
+    "title": "Nine Korean startups vie for a spot in Disrupt 2027\u2019s Startup Battlefield 200 competition",
+    "category": "ai_models",
+    "score": 22
+  },
+  "0745590a93b359cb": {
+    "title": "Oil Rises After Trump Declares US Doesn\u2019t Need a Deal With Iran",
+    "category": "ai_models",
+    "score": 12
+  },
+  "f47d21aab7bfbefa": {
+    "title": "BofA Traders See Short Sellers Pile Into Rate-Sensitive Stocks",
+    "category": "ai_models",
+    "score": 21
+  },
+  "50269212ed7e9b38": {
+    "title": "US Records $404 Billion Deficit in First Month of Fiscal Year",
+    "category": "ai_models",
+    "score": 11
+  },
+  "12543ce2f45308e9": {
+    "title": "Fed's Goolsbee Says Inflation 'Inching' Into Tough Spot",
+    "category": "ai_models",
+    "score": 18
+  },
+  "daf913bca3162349": {
+    "title": "Daly Says More Fed Rates Hikes Likely Needed",
+    "category": "ai_models",
+    "score": 32
+  },
+  "72af593c74db54e8": {
+    "title": "December Fed-Hike Priced In: JPMorgan\u2019s Kelsey Berro",
+    "category": "ai_models",
+    "score": 34
+  },
+  "8c089c8013f30400": {
+    "title": "NYC Sees Nearly $1 Billion Tax-Revenue Jump on Wall Street Gains",
+    "category": "ai_models",
+    "score": 17
+  },
+  "24186ffa8383372c": {
+    "title": "Fed Drops October 2027 FOMC Rate Meeting",
+    "category": "ai_models",
+    "score": 15
+  },
+  "ead2896354d90fd0": {
+    "title": "Higher Cost of Capital Will Impact Credit: Gibbons",
+    "category": "ai_models",
+    "score": 23
+  },
+  "76d279fc217bb7fb": {
+    "title": "Why Nordstrom Decided to Go Private",
+    "category": "ai_models",
+    "score": 14
+  },
+  "a3fc74d5973ef55a": {
+    "title": "How to Use ETFs to Buy a Market Freak-Out and Manage AI Anxiety",
+    "category": "ai_models",
+    "score": 8
+  },
+  "c581f7b61b11a63b": {
+    "title": "Bond Traders See Elliott\u2019s Citgo Deal Imperiled by Windfall",
+    "category": "ai_models",
+    "score": 17
+  },
+  "439bc657c18bf54c": {
+    "title": "Acciona\u2019s $1 Billion Mexico Infrastructure Deal Seen Threatened",
+    "category": "ai_models",
+    "score": 19
+  },
+  "88f5aa7fce9fe11f": {
+    "title": "US-Held Venezuela Oil Fund Used $9 Billion to Buoy Bolivar",
+    "category": "ai_models",
+    "score": 16
+  },
+  "2dc59a2716d0b467": {
+    "title": "Brazil\u2019s Farm Economy Woes Hit Corteva Earnings, Shares",
+    "category": "ai_models",
+    "score": 11
+  },
+  "56e3fd8cab619c34": {
+    "title": "Jensen Huang Resigns From Nvidia Amid Affairs and Alleged Spy Scandal",
+    "category": "ai_models",
+    "score": 32
+  },
+  "004f80f8be130902": {
+    "title": "Papa John\u2019s Franchisee Files for Bankruptcy in Pennsylvania",
+    "category": "ai_models",
+    "score": 15
+  },
+  "4d2bc700f2fa5409": {
+    "title": "Japan\u2019s Yen Jumps After Breaching Key 160-Per-Dollar Level",
+    "category": "ai_models",
+    "score": 22
+  },
+  "a8137b46126af722": {
+    "title": "Trump\u2019s Russia Diesel Deal Struggles to Find Willing US Buyer",
+    "category": "ai_models",
+    "score": 14
+  },
+  "61722942071e210f": {
+    "title": "Beyond 12 Columns: Designing Layouts With Personality",
+    "category": "ai_models",
+    "score": 34
+  },
+  "f958a83ba3a90093": {
+    "title": "Reframe: David Sheldon-Hicks and Art Tindsley open a new podcast with Patrice Vermette",
+    "category": "ai_models",
+    "score": 10
+  },
+  "82771c18223ba54f": {
+    "title": "Perfect Stranger Appoints Tony Kadillak as Head of Client Partnerships",
+    "category": "ai_models",
+    "score": 17
+  },
+  "0906da378f433934": {
+    "title": "La Llama | The Post Office",
+    "reason": "irrelevant"
+  },
+  "9f663437118e879c": {
+    "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
+    "category": "ai_models",
+    "score": 19
   }
 }
