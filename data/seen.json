@@ -76468,5 +76468,235 @@
     "title": "With music sharing app, Samsung subsidiary Drops into the social media landscape",
     "category": "ai_models",
     "score": 34
+  },
+  "b2378e4af484d02a": {
+    "title": "Show HN: AI-drop project \u2013 drop traffic fast from misbehaving crawlers (AGPL)",
+    "category": "ai_models",
+    "score": 6
+  },
+  "646c8da7eff6e794": {
+    "title": "Ask HN: Is there hope against slop?",
+    "category": "ai_models",
+    "score": 6
+  },
+  "d559b87717e222d0": {
+    "title": "Show HN: Wonderchat \u2013 A Zendesk alternative that doesn't charge per seat",
+    "category": "ai_models",
+    "score": 8
+  },
+  "8ccfd064277e6993": {
+    "title": "Anthropic Says Its AI Model Cut AMD Chip Switch to Three Days",
+    "category": "ai_models",
+    "score": 7
+  },
+  "8d421d9d0ca569c2": {
+    "title": "Show HN: I built a Rick and Morty explainer video generator",
+    "category": "ai_models",
+    "score": 8
+  },
+  "d2994d4b111f84eb": {
+    "title": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
+    "category": "ai_models",
+    "score": 47
+  },
+  "679d98c46787de9c": {
+    "title": "Unbundling Multimodal Vision Encoding",
+    "category": "ai_models",
+    "score": 39
+  },
+  "3d4375e30f1ce4d7": {
+    "title": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models",
+    "category": "ai_models",
+    "score": 43
+  },
+  "f70e7b56d2cd56ba": {
+    "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+    "category": "ai_models",
+    "score": 46
+  },
+  "5ef42df225d9cca3": {
+    "title": "ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation",
+    "category": "ai_models",
+    "score": 41
+  },
+  "4204d87434aabe0c": {
+    "title": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
+    "category": "ai_models",
+    "score": 43
+  },
+  "09a19308c845d876": {
+    "title": "K2V: Generative Keyframing For Physically Plausible Video Generation",
+    "category": "ai_models",
+    "score": 41
+  },
+  "ad714a2b2e4c73e6": {
+    "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+    "category": "ai_models",
+    "score": 38
+  },
+  "9b592dffc463d1da": {
+    "title": "BrickFlow: Connectivity-Guided Brick Reconstruction",
+    "category": "ai_models",
+    "score": 30
+  },
+  "c391b97e9d0b1093": {
+    "title": "Learning When Diffusion Language Models Should Regenerate",
+    "category": "ai_models",
+    "score": 47
+  },
+  "21f778b48e800470": {
+    "title": "Spatial Foundry: A Multimodal Dataset for Spatial Intelligence",
+    "category": "ai_models",
+    "score": 49
+  },
+  "97c09d186311ecff": {
+    "title": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+    "category": "ai_models",
+    "score": 34
+  },
+  "9ddb21fdc3691ac5": {
+    "title": "Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
+    "category": "ai_models",
+    "score": 35
+  },
+  "34bdea16fa8d2cc8": {
+    "title": "Sketching Language Models for Context Attribution",
+    "category": "ai_models",
+    "score": 39
+  },
+  "5c9f9b82031a7193": {
+    "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+    "category": "ai_models",
+    "score": 45
+  },
+  "bf26105ff1ebed07": {
+    "title": "Quantifying structural stability of transparent models for general insurance pricing",
+    "category": "ai_models",
+    "score": 46
+  },
+  "2ac474438d784c8f": {
+    "title": "Towards a Theory of Learnability via Debate",
+    "category": "ai_models",
+    "score": 36
+  },
+  "a744ff8985616d6d": {
+    "title": "FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture Classification",
+    "category": "ai_models",
+    "score": 39
+  },
+  "467b523e4369e8aa": {
+    "title": "Consistent Video-to-Video Translation via Explicit Correspondences",
+    "category": "ai_models",
+    "score": 46
+  },
+  "a101b05a41943402": {
+    "title": "Goal Encoding in LLMs",
+    "category": "ai_models",
+    "score": 29
+  },
+  "51220045230d60ec": {
+    "title": "Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon",
+    "category": "ai_models",
+    "score": 48
+  },
+  "254d65d6a9675db1": {
+    "title": "Negative-Only Policy Optimization for One-Sided Verifiable Rewards",
+    "category": "ai_models",
+    "score": 39
+  },
+  "de2cf42ea2313322": {
+    "title": "Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs",
+    "category": "ai_models",
+    "score": 34
+  },
+  "5172e915daa565ad": {
+    "title": "LiveGeo: Benchmarking Geographic Agents in Continuously Evolving Worlds",
+    "category": "ai_models",
+    "score": 48
+  },
+  "4ce104f30d0fd5ae": {
+    "title": "Programming Quantum Circuit Parameters with Large Language Models",
+    "category": "ai_models",
+    "score": 38
+  },
+  "2fee35282e401294": {
+    "title": "European Shares Pull Back From Record High After Four-Day Rally",
+    "category": "ai_models",
+    "score": 10
+  },
+  "95403a6631aac150": {
+    "title": "Talabat CEO: Grocery Demand Up Amid Mideast Situation",
+    "category": "ai_models",
+    "score": 26
+  },
+  "743668a1382e2821": {
+    "title": "Hidary: Investors See Anthropic IPO as Key Bellwether",
+    "category": "ai_models",
+    "score": 32
+  },
+  "4ff8227cd14cd618": {
+    "title": "EGA CFO: Al Taweelah At Full Production by 1Q 2027",
+    "category": "ai_models",
+    "score": 21
+  },
+  "3d72d6188cc74096": {
+    "title": "Copper Set for Worst Run in Two Years on Nvidia and Rates Unease",
+    "category": "ai_models",
+    "score": 21
+  },
+  "ac08a649dac51e75": {
+    "title": "UK Gilts Head for Worst Weekly Drop Since September",
+    "category": "ai_models",
+    "score": 7
+  },
+  "78161ae18edf80f9": {
+    "title": "(USD:ZWG) Zimbabwe Moves to Rebuild Local Bond Market After Currency Turmoil",
+    "category": "ai_models",
+    "score": 20
+  },
+  "1e9668725359236a": {
+    "title": "Nvidia Names Kress Interim CEO After Huang Exit as Trump Cools on Iran Deal",
+    "category": "ai_models",
+    "score": 35
+  },
+  "6f3ba1084d0f89e0": {
+    "title": "India\u2019s Manufacturing Incentives Fall Short on Jobs, Report Says",
+    "category": "ai_models",
+    "score": 22
+  },
+  "b63d8344ade0844f": {
+    "title": "ICTSI to Stay Listed in Philippines, Targets More Ports",
+    "category": "ai_models",
+    "score": 27
+  },
+  "7d3915a9521b5b4c": {
+    "title": "Traders Digest Jensen Huang's Exit from Nvidia",
+    "category": "ai_models",
+    "score": 31
+  },
+  "1dae91f92584fa18": {
+    "title": "Billionaire KoGuan Vows Not to Buy Nvidia Stock After Huang Exit",
+    "category": "ai_models",
+    "score": 16
+  },
+  "06bec67f845ed5ba": {
+    "title": "Guinness Atkinson CEO Discusses New K-Beauty ETF Launch",
+    "category": "ai_models",
+    "score": 11
+  },
+  "7d498ccf7fc9edc8": {
+    "title": "Server Maker xFusion Gets Shenzhen Nod for $1.2 Billion Listing",
+    "category": "ai_models",
+    "score": 21
+  },
+  "2fbeb329aec4c181": {
+    "title": "Treasury Yield Surge Shatters Hopes Worst of Bond Rout Is Over",
+    "category": "ai_models",
+    "score": 18
+  },
+  "6c8d2dd8d281bd59": {
+    "title": "Oil-Hungry Asia Turns Back to Mideast in Earnest as Flows Expand",
+    "category": "ai_models",
+    "score": 25
   }
 }
