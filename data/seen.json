@@ -76928,5 +76928,160 @@
     "title": "HP Studio | HP Limited Edition Scuderia Ferrari AI PC",
     "category": "ai_models",
     "score": 4
+  },
+  "a009bbdbfbe6de47": {
+    "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+    "category": "ai_models",
+    "score": 10
+  },
+  "2a8e9e06f928c50b": {
+    "title": "Warning of interruptions as AI models by Anthropic, OpenAI and others evolve",
+    "category": "ai_models",
+    "score": 10
+  },
+  "d0f9bf46fa9dba7c": {
+    "title": "DeepMind opens the datasets behind its AI weather models",
+    "category": "ai_models",
+    "score": 10
+  },
+  "3ffcf74b6582cdee": {
+    "title": "Swapping pgvector for turbopuffer made our whole database faster and cheaper",
+    "category": "ai_models",
+    "score": 9
+  },
+  "790dd2128487177d": {
+    "title": "Show HN: Port of Context \u2013 Token efficient MCP context layer",
+    "category": "ai_models",
+    "score": 7
+  },
+  "36f6806868d7eb15": {
+    "title": "AI models read the law to the right of their politics",
+    "category": "ai_models",
+    "score": 7
+  },
+  "1d1d0b9a24801df1": {
+    "title": "Emerging International Best Practices for AI Model Specs",
+    "category": "ai_models",
+    "score": 11
+  },
+  "e93683bddc4f4784": {
+    "title": "Advocacy groups sue AI giants to freeze new models, warning 'catastrophic' risks",
+    "category": "ai_models",
+    "score": 12
+  },
+  "bdcf9e296d67a525": {
+    "title": "Beating benchmarks by weight-space optimizing decision models with DSPy",
+    "category": "ai_models",
+    "score": 14
+  },
+  "e65dfd6ae7d41bc7": {
+    "title": "Show HN: Giving frontier AI models capital and access to onchain markets",
+    "category": "ai_models",
+    "score": 13
+  },
+  "12990af15e181ab9": {
+    "title": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
+    "category": "ai_models",
+    "score": 8
+  },
+  "6e49412123a3577c": {
+    "title": "1 in 4 3rd Party AI Endpoints Underperform Their Advertised Models",
+    "category": "ai_models",
+    "score": 6
+  },
+  "267e1a7fb6714657": {
+    "title": "Jensen Resigns, Sequoia Pulls Back to the Bay, and Anthropic\u2019s IPO Draws 6x Demand: The Top Takeaways from 20VC x SaaStr",
+    "category": "ai_models",
+    "score": 23
+  },
+  "a53b6d6797d1d8ce": {
+    "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
+    "category": "ai_models",
+    "score": 20
+  },
+  "b96c8f1ce3eaba55": {
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "category": "ai_models",
+    "score": 16
+  },
+  "6669a4d19d8d9722": {
+    "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh-oh, Jensen!",
+    "category": "ai_models",
+    "score": 17
+  },
+  "bf8e02771c9c3397": {
+    "title": "Rent the Runway CEO Paige Thomas on Her Company Vision",
+    "category": "ai_models",
+    "score": 12
+  },
+  "19a4373ad591269a": {
+    "title": "Tanker Hits Cruise Ship in New Orleans, Triggering Rescue",
+    "category": "ai_models",
+    "score": 12
+  },
+  "661a580ba76b7651": {
+    "title": "Flights Grounded Across US Over Air Traffic Control Problems",
+    "category": "ai_models",
+    "score": 43
+  },
+  "2d04e48a4a3b5289": {
+    "title": "US is Struggling to Build Affordable Housing",
+    "category": "ai_models",
+    "score": 45
+  },
+  "ba6f932c80ca0410": {
+    "title": "Investing in Financial Security: Masters in Business with Salim Ramji",
+    "category": "ai_models",
+    "score": 30
+  },
+  "426e189cba880df7": {
+    "title": "Flights Halted Across US, FAA Cites Safety Reasons",
+    "category": "ai_models",
+    "score": 19
+  },
+  "67ef8bec8f17f122": {
+    "title": "FAA Grounds All Flights Nationwide",
+    "category": "ai_models",
+    "score": 22
+  },
+  "491f153a551dfe15": {
+    "title": "Salim Ramji on the Vanguard Effect",
+    "category": "ai_models",
+    "score": 26
+  },
+  "9f198ba73fbf786d": {
+    "title": "Emerging-Market Assets Dip as Chip Rout, Fed Rate Worries Linger",
+    "category": "ai_models",
+    "score": 21
+  },
+  "77e544f5ef30c063": {
+    "title": "Nvidia Has Worst Week Since Trump Tariff Selloff as Huang Exits",
+    "category": "ai_models",
+    "score": 17
+  },
+  "b55e0e7d7869b020": {
+    "title": "Stocks End Week Higher Amid Tech Turmoil | Closing Bell",
+    "category": "ai_models",
+    "score": 16
+  },
+  "4cfbb94be87b7e15": {
+    "title": "US Treasury Weighs Loan to Help Venezuela Pay Debt to IDB",
+    "category": "ai_models",
+    "score": 25
+  },
+  "d58760c34b40708e": {
+    "title": "SEC Moves to Rein In Executive Pay Disclosures to Investors",
+    "category": "ai_models",
+    "score": 19
+  },
+  "2c21edeaaede2f95": {
+    "title": "Wall Street\u2019s Wild Ride Delivers Big Paydays and Bigger Bruises",
+    "category": "ai_models",
+    "score": 15
+  },
+  "dd1862bf94b30aab": {
+    "title": "New report claims TikTok Live is fastest-growing platform for game streaming",
+    "category": "ai_models",
+    "score": 27
   }
 }
