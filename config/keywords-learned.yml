@@ -26,6 +26,7 @@ ai_models:
 - accused
 - accuses
 - acquire
+- acquired
 - acquires
 - acquisition
 - across
@@ -45,11 +46,14 @@ ai_models:
 - adaptive
 - added
 - adding
+- additional
+- additive
 - address
 - adjustments
 - admits
 - adobe
 - adoption
+- adults
 - advance
 - advanced
 - advances
@@ -62,6 +66,7 @@ ai_models:
 - adviser
 - advisers
 - advisory
+- affair
 - affect
 - affordability
 - affordable
@@ -153,8 +158,10 @@ ai_models:
 - analyst
 - analysts
 - analytic
+- analytics
 - analyzing
 - anchor
+- anchored
 - andrew
 - android
 - angola
@@ -198,6 +205,7 @@ ai_models:
 - appropriate
 - approval
 - approves
+- approximate
 - approximation
 - april
 - arabia
@@ -224,11 +232,13 @@ ai_models:
 - asian
 - asked
 - asking
+- assembly
 - assess
 - assessment
 - asset
 - assets
 - assignment
+- assistance
 - assistant
 - assistants
 - associate
@@ -280,8 +290,10 @@ ai_models:
 - awaits
 - awards
 - awareness
+- b-parameter
 - backdoor
 - backed
+- backer
 - background
 - backing
 - backlash
@@ -301,6 +313,7 @@ ai_models:
 - banque
 - barclays
 - barrels
+- barrick
 - based
 - bases
 - basis
@@ -314,6 +327,7 @@ ai_models:
 - beating
 - beats
 - beauty
+- became
 - because
 - become
 - becomes
@@ -330,6 +344,7 @@ ai_models:
 - below
 - bench
 - benchmark
+- benchmarked
 - benchmarking
 - benchmarks
 - bending
@@ -337,6 +352,7 @@ ai_models:
 - benefit
 - benefits
 - berkshire
+- bernstein
 - berro
 - berry
 - bessent
@@ -344,16 +360,19 @@ ai_models:
 - betting
 - beyond
 - bharat
+- bidding
 - bidirectional
 - bigger
 - biggest
 - bilevel
 - billion
+- billion-dollar
 - billionaire
 - billionaires
 - billions
 - bills
 - binance
+- binary
 - binge
 - biofuel
 - biological
@@ -433,7 +452,9 @@ ai_models:
 - breaking
 - breaks
 - breakthrough
+- breakthroughs
 - brent
+- brick
 - brics
 - bridge
 - bridges
@@ -450,6 +471,7 @@ ai_models:
 - broadband
 - broadcast
 - broadcom
+- broadens
 - broader
 - broke
 - broker
@@ -483,6 +505,7 @@ ai_models:
 - businesses
 - buyback
 - buybacks
+- buyer
 - buyers
 - buying
 - buyout
@@ -499,6 +522,7 @@ ai_models:
 - calling
 - calls
 - camera
+- cameras
 - campaign
 - campaigns
 - campus
@@ -533,6 +557,7 @@ ai_models:
 - cartoon
 - cascaded
 - cases
+- casino
 - casting
 - casts
 - catalog
@@ -544,6 +569,7 @@ ai_models:
 - cattle
 - caught
 - causal
+- cause
 - causing
 - caution
 - cautious
@@ -574,6 +600,7 @@ ai_models:
 - charges
 - charity
 - charm
+- charts
 - chase
 - chases
 - chatbot
@@ -582,6 +609,7 @@ ai_models:
 - chats
 - cheap
 - cheaper
+- cheapest
 - cheating
 - check
 - checking
@@ -643,6 +671,7 @@ ai_models:
 - clearing
 - clearlake
 - clears
+- clicks
 - client
 - clients
 - cliff
@@ -666,17 +695,21 @@ ai_models:
 - clouds
 - cluster
 - clustering
+- co-design
 - co-evolution
 - co-evolving
 - co-founder
 - coach
+- coalition
 - coast
 - cobalt
 - coca-cola
 - cockroach
 - cocoa
 - codebase
+- codebases
 - coded
+- coderabbit
 - codex
 - coding
 - coffee
@@ -689,6 +722,7 @@ ai_models:
 - collaboration
 - collaborative
 - collapse
+- collapses
 - collection
 - collective
 - college
@@ -727,14 +761,17 @@ ai_models:
 - competitor
 - compiler
 - compiling
+- complete
 - completes
 - completion
 - complex
 - complexity
 - compliance
 - component
+- composite
 - composition
 - compositional
+- compound
 - comprehensive
 - compression
 - compromise
@@ -746,10 +783,12 @@ ai_models:
 - computing
 - concentration
 - concept
+- concepts
 - concern
 - concerned
 - concerning
 - concerns
+- concrete
 - conditional
 - conditioning
 - conditions
@@ -801,6 +840,7 @@ ai_models:
 - control
 - controllable
 - controlled
+- controlling
 - controls
 - convenes
 - convergence
@@ -816,15 +856,19 @@ ai_models:
 - cooperation
 - cooperative
 - coordinate
+- coordination
+- cop31
 - copper
 - copying
 - coreweave
 - corner
+- cornerstone
 - corpora
 - corporate
 - corpus
 - correct
 - correction
+- correspondence
 - cost-aware
 - cost-efficient
 - costly
@@ -837,6 +881,7 @@ ai_models:
 - counting
 - countries
 - counts
+- coupled
 - course
 - court
 - courts
@@ -869,6 +914,7 @@ ai_models:
 - critic
 - critical
 - criticism
+- critics
 - cross
 - cross-modal
 - cross-scale
@@ -876,10 +922,12 @@ ai_models:
 - crowd
 - crowded
 - crude
+- cruise
 - crunch
 - crushing
 - crusoe
 - crypto
+- css-tricks
 - cultural
 - culture
 - curated
@@ -904,6 +952,7 @@ ai_models:
 - d-day
 - daily
 - dalio
+- dallas
 - damage
 - dangerous
 - dangote
@@ -912,11 +961,14 @@ ai_models:
 - data-driven
 - data-efficient
 - database
+- databricks
 - dataset
 - dating
 - david
 - daybreak
 - deadline
+- deadly
+- dealers
 - dealmakers
 - dealmaking
 - deals
@@ -934,7 +986,9 @@ ai_models:
 - deception
 - deceptive
 - decide
+- decided
 - decision
+- decision-making
 - decisions
 - declares
 - decline
@@ -956,6 +1010,7 @@ ai_models:
 - defenders
 - defends
 - defense
+- defensive
 - deficit
 - defies
 - defying
@@ -975,10 +1030,12 @@ ai_models:
 - democrat
 - democratic
 - democrats
+- demographic
 - denies
 - denoising
 - dense
 - density
+- depends
 - deploy
 - deployment
 - deploys
@@ -1018,10 +1075,12 @@ ai_models:
 - dhabi
 - diagnosing
 - diagnosis
+- diagnostic
 - diagnostics
 - diagrams
 - dialogue
 - diaspora
+- dictation
 - diesel
 - difference
 - different
@@ -1031,6 +1090,7 @@ ai_models:
 - differently
 - difficult
 - diffusion
+- digest
 - digital
 - dilemma
 - diligence
@@ -1047,7 +1107,9 @@ ai_models:
 - disaster
 - discloses
 - disclosure
+- disclosures
 - discount
+- discourse
 - discover
 - discovering
 - discovery
@@ -1111,6 +1173,8 @@ ai_models:
 - draft
 - draftkings
 - drags
+- drama
+- drawdown
 - draws
 - dream
 - dressing
@@ -1151,6 +1215,7 @@ ai_models:
 - economy
 - ecosystem
 - edges
+- editable
 - editing
 - edition
 - editor
@@ -1174,6 +1239,7 @@ ai_models:
 - electricity
 - eleições
 - elevated
+- elevates
 - eleven
 - elevenlabs
 - eliciting
@@ -1184,6 +1250,7 @@ ai_models:
 - embedded
 - embedding
 - embeddings
+- ember
 - embodied
 - embraces
 - embracing
@@ -1193,6 +1260,7 @@ ai_models:
 - emerges
 - emerging
 - emerging-market
+- emirates
 - emotion
 - emotional
 - empire
@@ -1208,6 +1276,7 @@ ai_models:
 - encoding
 - end-to-end
 - endgame
+- endpoints
 - energy
 - energy-based
 - engagement
@@ -1218,11 +1287,13 @@ ai_models:
 - engines
 - england
 - english
+- enhanced
 - enhancement
 - enhancing
 - enlists
 - enough
 - enrollment
+- ensemble
 - ensembles
 - ensure
 - enter
@@ -1247,6 +1318,7 @@ ai_models:
 - erase
 - erases
 - error
+- errors
 - escalate
 - escalates
 - escalating
@@ -1280,6 +1352,7 @@ ai_models:
 - evidence-grounded
 - evolution
 - evolutionary
+- evolve
 - evolving
 - exact
 - exactly
@@ -1288,6 +1361,7 @@ ai_models:
 - exchanges
 - exclusive
 - execs
+- executable
 - execution
 - executive
 - executives
@@ -1314,6 +1388,7 @@ ai_models:
 - expert
 - expertise
 - experts
+- expires
 - expiry
 - explain
 - explainable
@@ -1330,6 +1405,7 @@ ai_models:
 - exponential
 - export
 - exports
+- expose
 - exposed
 - exposes
 - exposure
@@ -1355,6 +1431,7 @@ ai_models:
 - factor
 - factories
 - factory
+- facts
 - failed
 - fails
 - failure
@@ -1420,9 +1497,11 @@ ai_models:
 - fine-tune
 - fine-tuning
 - fines
+- finish
 - fintech
 - fired
 - firefly
+- fireworks
 - firms
 - firmus
 - first
@@ -1436,6 +1515,8 @@ ai_models:
 - flares
 - flash
 - fleet
+- fleets
+- flexible
 - flight
 - flights
 - flock
@@ -1459,6 +1540,7 @@ ai_models:
 - forces
 - forcing
 - forecast
+- forecaster
 - forecasting
 - forecasts
 - foreign
@@ -1469,6 +1551,7 @@ ai_models:
 - former
 - forms
 - fortescue
+- fortress
 - forum
 - forward
 - found
@@ -1480,7 +1563,9 @@ ai_models:
 - fragility
 - frame
 - framework
+- frameworks
 - france
+- franchisee
 - franklin
 - fraud
 - freeze
@@ -1489,6 +1574,7 @@ ai_models:
 - frenzy
 - frequency
 - fresh
+- friday
 - friedland
 - front
 - frontier
@@ -1509,6 +1595,7 @@ ai_models:
 - fusion
 - future
 - futures
+- gabon
 - gaining
 - gains
 - gallon
@@ -1565,14 +1652,17 @@ ai_models:
 - google
 - governance
 - government
+- governments
 - governor
 - gpt-6
 - grade
+- graded
 - gradient
 - grading
 - graft
 - grain
 - grand
+- granola
 - grants
 - graph
 - graphic
@@ -1584,8 +1674,10 @@ ai_models:
 - great
 - greek
 - green
+- grids
 - griffin
 - grips
+- grocery
 - gross
 - ground
 - grounded
@@ -1617,8 +1709,10 @@ ai_models:
 - halloween
 - hallucination
 - hallucinations
+- halted
 - halts
 - hammack
+- hammers
 - handle
 - handling
 - hands
@@ -1698,6 +1792,7 @@ ai_models:
 - hopes
 - horizon
 - horizons
+- horizontal
 - hormuz
 - horror
 - hospital
@@ -1725,21 +1820,25 @@ ai_models:
 - hurricane
 - hurts
 - hybrid
+- hydrogen
 - hynix
 - hypnosis
 - hypotheses
 - hypothesis
 - icons
 - ideas
+- ideation
 - identification
 - identify
 - identity
 - ignoring
 - illegal
+- illusion
 - image
 - image-to-3d
 - imagery
 - images
+- imagination
 - imaging
 - imbalance
 - imbalanced
@@ -1754,6 +1853,7 @@ ai_models:
 - improve
 - improved
 - improvement
+- improvements
 - improves
 - improving
 - in-browser
@@ -1761,15 +1861,18 @@ ai_models:
 - in-house
 - inbound
 - inbox
+- inception
 - incident
 - incidents
 - include
+- includes
 - including
 - income
 - increase
 - increased
 - increases
 - increasing
+- incremental
 - independence
 - independent
 - index
@@ -1831,12 +1934,14 @@ ai_models:
 - interface
 - interfaces
 - interference
+- interim
 - internal
 - international
 - internet
 - interpretability
 - interpretable
 - interpretation
+- interpreting
 - intervention
 - interventions
 - interview
@@ -1848,6 +1953,7 @@ ai_models:
 - inverse
 - inversion
 - invest
+- investigate
 - investigates
 - investigating
 - investigation
@@ -1881,6 +1987,7 @@ ai_models:
 - japan
 - japanese
 - jason
+- javascript
 - jefferies
 - jensen
 - jersey
@@ -1890,6 +1997,7 @@ ai_models:
 - joining
 - joins
 - joint
+- joint-embedding
 - jolts
 - jonathan
 - jordan
@@ -1900,6 +2008,8 @@ ai_models:
 - jumbo
 - jumps
 - junior
+- junk-bond
+- justice
 - kalshi
 - keeping
 - keeps
@@ -1915,6 +2025,7 @@ ai_models:
 - kills
 - kioxia
 - knowledge
+- known
 - knows
 - korea
 - korean
@@ -1923,6 +2034,7 @@ ai_models:
 - label
 - labels
 - labor
+- lagarde
 - lambda
 - landmark
 - lands
@@ -1942,6 +2054,7 @@ ai_models:
 - later
 - latest
 - latin
+- lattice
 - lauder
 - launch
 - launches
@@ -1998,6 +2111,7 @@ ai_models:
 - license
 - licensed
 - lidar
+- lifted
 - lifting
 - lifts
 - light
@@ -2011,6 +2125,7 @@ ai_models:
 - lineup
 - linger
 - linguistic
+- linking
 - links
 - linux
 - liquid
@@ -2019,11 +2134,13 @@ ai_models:
 - listening
 - listing
 - listings
+- literally
 - lithium
 - little
 - lives
 - living
 - llm-based
+- llm-guided
 - loans
 - local
 - local-first
@@ -2040,6 +2157,7 @@ ai_models:
 - long-context
 - long-end
 - long-form
+- long-haul
 - long-horizon
 - long-term
 - longer
@@ -2063,15 +2181,18 @@ ai_models:
 - lowest
 - lululemon
 - lures
+- lutnick
 - luxury
 - m-parameter
 - machine
 - machinery
 - machines
 - macos
+- macquarie
 - macro
 - magic
 - mainstream
+- maintaining
 - maintenance
 - major
 - majority
@@ -2109,6 +2230,7 @@ ai_models:
 - martin
 - masked
 - masking
+- masks
 - massive
 - masters
 - match
@@ -2122,6 +2244,7 @@ ai_models:
 - matrix
 - matter
 - matters
+- mature
 - maximum
 - maybe
 - mayor
@@ -2145,11 +2268,14 @@ ai_models:
 - meets
 - mega-ipo
 - melanoma
+- meltdown
 - member
 - members
 - membership
 - memory
+- memory-efficient
 - mental
+- mentions
 - mercados
 - mercedes
 - merck
@@ -2164,6 +2290,7 @@ ai_models:
 - metal
 - metals
 - method
+- methodology
 - methods
 - metric
 - metrics
@@ -2214,6 +2341,7 @@ ai_models:
 - misuse
 - mitigate
 - mitigating
+- mitigation
 - mixed
 - mixing
 - mixture-of-experts
@@ -2277,6 +2405,7 @@ ai_models:
 - multi-task
 - multi-turn
 - multi-view
+- multibillion-dollar
 - multilingual
 - multimodal
 - multiplayer
@@ -2289,6 +2418,7 @@ ai_models:
 - murder
 - musalem
 - muscle
+- museum
 - music
 - must-read
 - muted
@@ -2300,11 +2430,13 @@ ai_models:
 - names
 - narrative
 - narrow
+- narrows
 - nascar
 - nasdaq
 - nation
 - national
 - nations
+- nationwide
 - native
 - natixis
 - natural
@@ -2340,8 +2472,10 @@ ai_models:
 - nikkei
 - nobody
 - noise
+- nomura
 - nonlinear
 - nordic
+- nordstrom
 - normal
 - normalizing
 - north
@@ -2352,6 +2486,7 @@ ai_models:
 - notes
 - nothing
 - notice
+- notion
 - novartis
 - novel
 - november
@@ -2367,6 +2502,8 @@ ai_models:
 - object
 - objectives
 - objects
+- observability
+- observable
 - observation
 - observations
 - obsolete
@@ -2384,12 +2521,15 @@ ai_models:
 - official
 - officials
 - offline
+- offset
 - offshore
+- often
 - older
 - on-device
 - on-policy
 - one-day
 - one-step
+- one-year
 - online
 - ontario
 - ontology
@@ -2423,6 +2563,7 @@ ai_models:
 - optimization
 - optimize
 - optimizer
+- optimizing
 - option
 - options
 - oracle
@@ -2435,6 +2576,7 @@ ai_models:
 - organize
 - orientation
 - original
+- orleans
 - orszag
 - other
 - others
@@ -2447,6 +2589,7 @@ ai_models:
 - outperform
 - outperforms
 - output
+- outputs
 - outside
 - outsized
 - outweighs
@@ -2499,6 +2642,7 @@ ai_models:
 - paschi
 - passenger
 - passes
+- passing
 - password
 - patch
 - patches
@@ -2513,6 +2657,7 @@ ai_models:
 - pause
 - pauses
 - paying
+- payment
 - payments
 - payoff
 - payout
@@ -2530,12 +2675,14 @@ ai_models:
 - perception
 - perfect
 - performance
+- perks
 - perpetual
 - perplexity
 - persian
 - persist
 - persistent
 - person
+- persona
 - personal
 - personality
 - personalization
@@ -2548,10 +2695,12 @@ ai_models:
 - phone
 - photo
 - photos
+- photoshop
 - physical
 - physically
 - physics
 - physics-informed
+- picked
 - pickier
 - picks
 - piece
@@ -2582,6 +2731,7 @@ ai_models:
 - platform
 - platforms
 - platinum
+- platonic
 - plausible
 - playbook
 - player
@@ -2596,6 +2746,7 @@ ai_models:
 - plugins
 - plunge
 - plunges
+- pocket
 - podcast
 - podcasts
 - point
@@ -2611,6 +2762,7 @@ ai_models:
 - politics
 - polls
 - polymarket
+- poppi
 - popular
 - popularity
 - porcelli
@@ -2641,8 +2793,10 @@ ai_models:
 - precise
 - precision
 - predict
+- predictable
 - predicting
 - prediction
+- predictions
 - predictive
 - predicts
 - preference
@@ -2654,6 +2808,7 @@ ai_models:
 - premium
 - prepare
 - prepares
+- preps
 - presence
 - preservation
 - preserve
@@ -2669,11 +2824,13 @@ ai_models:
 - prices
 - pricey
 - pricing
+- primary
 - prime
 - primitive
 - primitives
 - principal
 - print
+- priorities
 - priors
 - prison
 - privacy
@@ -2697,6 +2854,7 @@ ai_models:
 - production
 - productivity
 - products
+- profiles
 - profit
 - profitability
 - profits
@@ -2721,6 +2879,7 @@ ai_models:
 - proposal
 - proposed
 - proposes
+- prospective
 - prospects
 - protect
 - protection
@@ -2753,6 +2912,7 @@ ai_models:
 - pushing
 - putin
 - putting
+- puzzles
 - python
 - qatar
 - quality
@@ -2768,6 +2928,7 @@ ai_models:
 - queries
 - query
 - question
+- questioning
 - questions
 - quiet
 - quits
@@ -2818,6 +2979,7 @@ ai_models:
 - really
 - reason
 - reasoning
+- reasons
 - rebalance
 - rebels
 - rebound
@@ -2877,13 +3039,16 @@ ai_models:
 - regulators
 - regulatory
 - reinforcement
+- reinforcing
 - reject
 - rejected
 - rejects
 - relational
 - relations
+- relationship
 - relative
 - release
+- released
 - releases
 - relevance
 - relevant
@@ -2918,6 +3083,7 @@ ai_models:
 - reportedly
 - reporting
 - reports
+- repos
 - representation
 - representational
 - representations
@@ -2972,6 +3138,7 @@ ai_models:
 - retreats
 - retrieval
 - retrieval-augmented
+- retrieved
 - return
 - returns
 - reusable
@@ -2987,6 +3154,7 @@ ai_models:
 - reviewed
 - reviews
 - revisiting
+- revisits
 - revival
 - revive
 - revives
@@ -3064,6 +3232,7 @@ ai_models:
 - samsung
 - sanctions
 - sandbox
+- santa
 - satellite
 - satya
 - saudi
@@ -3121,6 +3290,7 @@ ai_models:
 - seeing
 - seeking
 - seeks
+- seems
 - segmentation
 - seize
 - selection
@@ -3132,6 +3302,7 @@ ai_models:
 - self-improvement
 - self-improving
 - self-supervised
+- seller
 - sellers
 - selling
 - selloff
@@ -3162,6 +3333,7 @@ ai_models:
 - server
 - servers
 - service
+- servicenow
 - services
 - serving
 - session
@@ -3202,6 +3374,7 @@ ai_models:
 - shipping
 - ships
 - shock
+- shooting
 - shopify
 - shoppers
 - shopping
@@ -3213,6 +3386,7 @@ ai_models:
 - showdown
 - showing
 - shows
+- shrink
 - shrinking
 - shrinks
 - shrug
@@ -3232,6 +3406,7 @@ ai_models:
 - silver
 - simple
 - simulated
+- simulating
 - simulation
 - simulator
 - simulators
@@ -3265,6 +3440,7 @@ ai_models:
 - small
 - small-cap
 - smaller
+- smallest
 - smart
 - smarter
 - smartphone
@@ -3313,6 +3489,7 @@ ai_models:
 - spatiotemporal
 - special
 - specialized
+- specs
 - spectral
 - speculation
 - speculative
@@ -3342,6 +3519,7 @@ ai_models:
 - spring
 - spurns
 - spurs
+- spying
 - sqlite
 - square
 - squeeze
@@ -3368,6 +3546,7 @@ ai_models:
 - stanley
 - starbucks
 - stars
+- starship
 - start
 - started
 - starting
@@ -3397,6 +3576,7 @@ ai_models:
 - stepfun
 - stephen
 - steps
+- stereo
 - steven
 - sticks
 - still
@@ -3419,9 +3599,11 @@ ai_models:
 - storytelling
 - straight
 - strain
+- strained
 - straining
 - strains
 - strait
+- strata
 - strategic
 - strategies
 - strategist
@@ -3467,13 +3649,16 @@ ai_models:
 - subscribers
 - subscription
 - subscriptions
+- subspace
 - subway
 - success
 - succession
+- successor
 - suffer
 - sugar
 - suite
 - sullivan
+- summarization
 - summer
 - summit
 - summons
@@ -3502,7 +3687,9 @@ ai_models:
 - surveillance
 - survey
 - survive
+- suspected
 - suspends
+- sustain
 - sustainable
 - swaps
 - swarm
@@ -3532,9 +3719,11 @@ ai_models:
 - tackle
 - tackles
 - tactile
+- tailwinds
 - taiwan
 - takaichi
 - take-private
+- takeaways
 - takeover
 - takes
 - taking
@@ -3551,6 +3740,7 @@ ai_models:
 - targets
 - tariff
 - tariffs
+- task-aware
 - tasks
 - taste
 - taught
@@ -3610,6 +3800,7 @@ ai_models:
 - thinks
 - third
 - thompson
+- though
 - thought
 - thoughts
 - thousands
@@ -3659,6 +3850,7 @@ ai_models:
 - toward
 - towards
 - tower
+- trace
 - traces
 - tracing
 - track
@@ -3685,6 +3877,7 @@ ai_models:
 - trajectories
 - trajectory
 - transcription
+- transcripts
 - transfer
 - transferable
 - transfers
@@ -3696,6 +3889,7 @@ ai_models:
 - transition
 - translation
 - transmission
+- transparency
 - transport
 - travel
 - travelers
@@ -3730,8 +3924,10 @@ ai_models:
 - trying
 - tumble
 - tumbles
+- tumor
 - tungsten
 - tuning
+- turbines
 - turbulence
 - turkey
 - turkish
@@ -3754,27 +3950,34 @@ ai_models:
 - ukraine
 - ultra
 - ultrasound
+- uncertain
 - uncertainty
 - uncertainty-aware
 - unchanged
 - uncover
+- underperform
 - understand
 - understanding
 - underwater
 - underway
+- unease
+- unexpectedly
 - unicorn
 - unicredit
 - unified
 - unifying
 - union
+- unions
 - united
 - unitree
 - unity
 - universal
 - universe
 - university
+- unknown
 - unlearning
 - unlikely
+- unlock
 - unlocking
 - unprecedented
 - unrest
@@ -3813,6 +4016,7 @@ ai_models:
 - values
 - vanderbilt
 - vanguard
+- variance
 - variational
 - vector
 - vehicle
@@ -3821,6 +4025,7 @@ ai_models:
 - venezuela
 - venezuelan
 - venture
+- ventures
 - vercel
 - verifiable
 - verification
@@ -3856,6 +4061,7 @@ ai_models:
 - vitol
 - vocal
 - voice
+- voices
 - volatile
 - volatility
 - volcano
@@ -3889,6 +4095,7 @@ ai_models:
 - wasserstein
 - watch
 - watchdog
+- watching
 - water
 - watermarking
 - watermarks
@@ -3919,6 +4126,8 @@ ai_models:
 - weights
 - welch
 - welcome
+- welfare
+- wellness
 - wells
 - wendy
 - whatsapp
@@ -3958,6 +4167,7 @@ ai_models:
 - workforce
 - working
 - workloads
+- workplace
 - works
 - workspace
 - world
