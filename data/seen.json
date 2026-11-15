@@ -77473,5 +77473,95 @@
     "title": "AirMozambique Warns of Flight Cancellations Due to Fuel Shortage",
     "category": "ai_models",
     "score": 15
+  },
+  "6cb66fff133cf1a9": {
+    "title": "Inference Gateway Desktop, an AI client for any model provider",
+    "category": "ai_models",
+    "score": 9
+  },
+  "c59a858aac2d77a3": {
+    "title": "A browser API for choosing and running local AI models",
+    "category": "ai_models",
+    "score": 9
+  },
+  "134a585da5892df5": {
+    "title": "Show HN: 1MB Tenstorrent driver with ptx like kernels",
+    "category": "ai_models",
+    "score": 5
+  },
+  "25ed99c4dfba0042": {
+    "title": "Show HN: atl, a Rust CLI for Jira, Confluence and Bitbucket with ~15ms overhead",
+    "category": "ai_models",
+    "score": 3
+  },
+  "ac5cbdee72062f11": {
+    "title": "AI models hate Python and love PHP: we asked 12 of them 1,200 times",
+    "category": "ai_models",
+    "score": 8
+  },
+  "2b5ffbea9ef5af3b": {
+    "title": "Factum \u2013 Human-first, AI-native modeling for VS Code",
+    "category": "ai_models",
+    "score": 9
+  },
+  "2a592cd0bd71d0bc": {
+    "title": "Should proper mouse support be added in CLI harnesses",
+    "category": "ai_models",
+    "score": 8
+  },
+  "117651de1335ae76": {
+    "title": "Show HN: New Model- NCM Model \u2013 Are Memory Hungry LLMs Dead",
+    "category": "ai_models",
+    "score": 5
+  },
+  "80f2a34cbe9d0bec": {
+    "title": "Project Tapestry: A consortium approach to training frontier foundation models",
+    "category": "ai_models",
+    "score": 13
+  },
+  "25d0731449c5ac0f": {
+    "title": "Show HN: Pizza \u2013 An event-driven AI agent, no while true",
+    "category": "ai_models",
+    "score": 9
+  },
+  "c5fff0e0944b8e02": {
+    "title": "Show HN: I wrote 100 SaaS ideas with buyer, pricing, and MVP plan for each",
+    "category": "ai_models",
+    "score": 7
+  },
+  "e13a4bd95b8b6ac7": {
+    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+    "category": "ai_models",
+    "score": 9
+  },
+  "ec95423fbb6c25a8": {
+    "title": "Roughed-Up Bond Traders Look to Fedspeak, Minutes for Next Move",
+    "category": "ai_models",
+    "score": 22
+  },
+  "5665216703203543": {
+    "title": "Anthropic\u2019s IPO Makes Dario Amodei the New Face of the AI Boom",
+    "category": "ai_models",
+    "score": 18
+  },
+  "4a93220b1512c00e": {
+    "title": "Nvidia Fallout, Next Mega IPO, FAA Router Failure",
+    "category": "ai_models",
+    "score": 37
+  },
+  "9b98296f35edcbb1": {
+    "title": "Peru\u2019s Economy Unexpectedly Slows as Mining, Farming Slump",
+    "category": "ai_models",
+    "score": 11
+  },
+  "e145a696d049959a": {
+    "title": "Bookmarked: News Stories On Our Reading List",
+    "category": "ai_models",
+    "score": 20
+  },
+  "020351a63a22e559": {
+    "title": "By The Way: Headlines You May Have Missed",
+    "category": "ai_models",
+    "score": 20
   }
 }
