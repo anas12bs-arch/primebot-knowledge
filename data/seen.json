@@ -77648,5 +77648,245 @@
     "title": "Pictet Adds Japan Stocks in Diversification Push After Midterms",
     "category": "ai_models",
     "score": 26
+  },
+  "29c61cead02f12c3": {
+    "title": "Qwen4 Max: Intelligence, Performance and Price Analysis",
+    "category": "ai_models",
+    "score": 8
+  },
+  "2867f3480e90e23f": {
+    "title": "Show HN: A benchmark that diffs the whole database after an AI agent's task",
+    "category": "ai_models",
+    "score": 8
+  },
+  "2ae9632ca60329b0": {
+    "title": "Show HN: Free AI Background Remover with Local Browser Privacy Mode (No Sign-Up)",
+    "category": "ai_models",
+    "score": 10
+  },
+  "f003fdbf393ad4e7": {
+    "title": "Show HN: AquarIum \u2013 pick your favorite (AI-generated) fish tank",
+    "category": "ai_models",
+    "score": 8
+  },
+  "17a5495fa61c43f8": {
+    "title": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
+    "category": "ai_models",
+    "score": 35
+  },
+  "0e616007d0311f27": {
+    "title": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
+    "category": "ai_models",
+    "score": 39
+  },
+  "fb633972b816166b": {
+    "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+    "category": "ai_models",
+    "score": 43
+  },
+  "23f39915e28f54f3": {
+    "title": "BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations",
+    "category": "ai_models",
+    "score": 49
+  },
+  "4dc52c1c30681cda": {
+    "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
+    "category": "ai_models",
+    "score": 45
+  },
+  "6d7768aa269f2319": {
+    "title": "Restoring Diversity in Distilled Image and Video Generators by Probing Activations",
+    "category": "ai_models",
+    "score": 40
+  },
+  "424a7166ca49698b": {
+    "title": "JVT: Just Video Transformer makes pixel-space video diffusion simple",
+    "category": "ai_models",
+    "score": 53
+  },
+  "6044d75f017e82f2": {
+    "title": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
+    "category": "ai_models",
+    "score": 34
+  },
+  "b486f086aff0edb1": {
+    "title": "Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond",
+    "category": "ai_models",
+    "score": 36
+  },
+  "58b53c2745b9cbfa": {
+    "title": "Why Finite Intelligence Works in an Infinite World: A Mathematical Theory",
+    "category": "ai_models",
+    "score": 42
+  },
+  "a255e117e2b812eb": {
+    "title": "ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL",
+    "category": "ai_models",
+    "score": 42
+  },
+  "4a0c4669c0456e3a": {
+    "title": "Alignment by Socialization: Learning Tradeoffs Under Selection",
+    "category": "ai_models",
+    "score": 45
+  },
+  "c81743c0e2d724d3": {
+    "title": "Understanding Contextual Bias in Agricultural CNNs Through Hidden-Neuron Concept Induction",
+    "category": "ai_models",
+    "score": 47
+  },
+  "05e51928892b5d4b": {
+    "title": "WaferTetris: Efficient Freeform Mapping on Wafer-Scale Accelerators",
+    "category": "ai_models",
+    "score": 42
+  },
+  "2cc3f0ace6059211": {
+    "title": "EventSpikeSeg: Memory-Aware Mixed-Signal Architecture for Event-Camera Spiking Segmentation",
+    "category": "ai_models",
+    "score": 41
+  },
+  "d5a07eb1cf0d49c7": {
+    "title": "Box-conditional Hypothesis Testing for Out-of-Distribution Object Detection",
+    "category": "ai_models",
+    "score": 32
+  },
+  "0da92092deb98283": {
+    "title": "StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval",
+    "category": "ai_models",
+    "score": 46
+  },
+  "d6475341fb1fa3c5": {
+    "title": "Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination",
+    "category": "ai_models",
+    "score": 45
+  },
+  "2b648b5d78a98e94": {
+    "title": "MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading",
+    "category": "ai_models",
+    "score": 37
+  },
+  "d8dc68f1a9e5f035": {
+    "title": "On numerical issues of divergences between nearly equal distributions",
+    "category": "ai_models",
+    "score": 29
+  },
+  "0eb706874612a745": {
+    "title": "Asymptotic Margins and Feature Confinement in Conic Classification Heads under Softmax Cross-Entropy",
+    "category": "ai_models",
+    "score": 32
+  },
+  "34fdc75c7732674c": {
+    "title": "Agentic induction of common data elements and information extraction from sarcoma case report abstracts",
+    "category": "ai_models",
+    "score": 30
+  },
+  "7567abc5b8d6d93f": {
+    "title": "Agentic AI for Discovering Fault-Tolerant Quantum Circuits",
+    "category": "ai_models",
+    "score": 46
+  },
+  "1307b611519837a2": {
+    "title": "ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models",
+    "category": "ai_models",
+    "score": 41
+  },
+  "91e666382ffe031a": {
+    "title": "TradeGauntlet: Evaluating Compliance Controls for Autonomous Trading Agents",
+    "category": "ai_models",
+    "score": 43
+  },
+  "a22318abd9f9f947": {
+    "title": "Apple launches new app to study how people use AI for health",
+    "category": "ai_models",
+    "score": 12
+  },
+  "eeaa8e582757a15c": {
+    "title": "UK Rate-Hike Bets Are Picking Up With Key Inflation Data Due",
+    "category": "ai_models",
+    "score": 4
+  },
+  "2a391922c3a58fca": {
+    "title": "Horizons Middle East & Africa 11/16/2026 (Video)",
+    "category": "ai_models",
+    "score": 5
+  },
+  "6f0129dc2f526476": {
+    "title": "South Africa\u2019s Rand Tests 17 Per Dollar as Political Risks Rise",
+    "category": "ai_models",
+    "score": 23
+  },
+  "82c4b536ebe9271d": {
+    "title": "China\u2019s Economy Disappoints With New Stimulus Yet to Kick In",
+    "category": "ai_models",
+    "score": 31
+  },
+  "491506f3bd86544b": {
+    "title": "IDR/USD: Indonesian Rupiah Falls to Record Low as Fed Bets Boost Dollar",
+    "category": "ai_models",
+    "score": 27
+  },
+  "4ee3901ceac15e85": {
+    "title": "YTL Power Scrutinized Amid Nvidia Turmoil, Alleged China Links",
+    "category": "ai_models",
+    "score": 28
+  },
+  "3e7b61ec8afa5bd4": {
+    "title": "HFT Firm Graviton\u2019s Singapore Profit Surge Makes Indian Founders Billionaires",
+    "category": "ai_models",
+    "score": 29
+  },
+  "0abe3390c84ef1d8": {
+    "title": "Nvidia Fallout, Anthropic Listing Squeeze Asian Chip Stocks Anew",
+    "category": "ai_models",
+    "score": 21
+  },
+  "416bada0539dd5bf": {
+    "title": "First Milei, Now Lula Enters the Fray to Shape Spain\u2019s Election",
+    "category": "ai_models",
+    "score": 21
+  },
+  "78da2bd39487e9c1": {
+    "title": "Skipping the Gym? British Bank Analysts Are Paying Attention",
+    "category": "ai_models",
+    "score": 14
+  },
+  "8648f6925e3c2188": {
+    "title": "Emerging-Market Stocks, Currencies Fall as AI Concerns Persist",
+    "category": "ai_models",
+    "score": 19
+  },
+  "51bdc2ae7612b0a5": {
+    "title": "Fall in China Demand May Signal Need for Easing: Analyst",
+    "category": "ai_models",
+    "score": 43
+  },
+  "ec9bb689274e1f14": {
+    "title": "MTN in Talks to Buy Telkom in South African Cash, Share Deal",
+    "category": "ai_models",
+    "score": 8
+  },
+  "5958b6050884dab4": {
+    "title": "China Car Output Slows to Four-Year Low as Domestic Demand Drops",
+    "category": "ai_models",
+    "score": 18
+  },
+  "32290faa8e8af5bc": {
+    "title": "EQT Sees \u201cWave\u201d of Take-Private Opportunities in Japan",
+    "category": "ai_models",
+    "score": 14
+  },
+  "76191cf2c69723b4": {
+    "title": "Philippines Seeks New Equilibrium With China",
+    "category": "ai_models",
+    "score": 15
+  },
+  "1a9c66ea472de14d": {
+    "title": "Chinese Iron Ore Futures Hit Four-Year Low on Weak Steel Outlook",
+    "category": "ai_models",
+    "score": 18
+  },
+  "6d3ac869612a4e05": {
+    "title": "Wheat Falls on Optimism Trilateral Talks Will Free Up Black Sea",
+    "category": "ai_models",
+    "score": 13
   }
 }
