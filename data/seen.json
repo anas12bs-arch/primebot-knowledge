@@ -78338,5 +78338,250 @@
     "title": "Hearst is working with creators to execute original content and brand deals on the fly",
     "category": "ai_models",
     "score": 34
+  },
+  "bd6846303970654d": {
+    "title": "We ship 60% faster now. It wasn't the AI model",
+    "category": "ai_models",
+    "score": 5
+  },
+  "573dea5afacfa861": {
+    "title": "China taps US AI models to train homegrown rivals as chip curbs bite",
+    "category": "ai_models",
+    "score": 12
+  },
+  "3f1f4c12d38e45a4": {
+    "title": "Autopilot: Use whichever AI model you want, with one coding-agent interface",
+    "category": "ai_models",
+    "score": 7
+  },
+  "d80cea531026b274": {
+    "title": "Show HN: Harness for building/cloning SaaS using open-weight models",
+    "category": "ai_models",
+    "score": 11
+  },
+  "cc2b170bcc9a6d18": {
+    "title": "Mizan bias benchmark: testing AI models",
+    "category": "ai_models",
+    "score": 8
+  },
+  "7de4dfa9c60e243f": {
+    "title": "Latent Lattice Language Models",
+    "category": "ai_models",
+    "score": 43
+  },
+  "08587c50cc9ad11b": {
+    "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
+    "category": "ai_models",
+    "score": 44
+  },
+  "741a74ff30cecea0": {
+    "title": "FaceJev: Direct Visual Decisions for Face Forgery Detection",
+    "category": "ai_models",
+    "score": 43
+  },
+  "d05adc9e2a4c8f49": {
+    "title": "Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction",
+    "category": "ai_models",
+    "score": 42
+  },
+  "6b094b83d0e335bc": {
+    "title": "How VLMs Plan What's Next",
+    "category": "ai_models",
+    "score": 32
+  },
+  "7da79a5907c965d2": {
+    "title": "Hyperlyve: Parallelized Enumeration and Exact Lyapunov Stability Certification for Deep ReLU Networks",
+    "category": "ai_models",
+    "score": 39
+  },
+  "dd0f3dbe278d62fc": {
+    "title": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
+    "category": "ai_models",
+    "score": 53
+  },
+  "0be46844e399a921": {
+    "title": "Optimal Autoregressive Chain-of-Thought Learning via Bagging",
+    "category": "ai_models",
+    "score": 31
+  },
+  "87dd6d60d2954bd8": {
+    "title": "SADL: On the Demand-Supply Geometry of Representation Collapse",
+    "category": "ai_models",
+    "score": 41
+  },
+  "022cf705a2e38f8f": {
+    "title": "Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K",
+    "category": "ai_models",
+    "score": 32
+  },
+  "29eb189d6ed9832e": {
+    "title": "Beyond Job Titles: Interpreting Early-Career Job Advertisements with Sparse Autoencoders and Semantic Clustering",
+    "category": "ai_models",
+    "score": 49
+  },
+  "d617b4fc1cdb68c7": {
+    "title": "CertiSum: Bitwise-Identical MXFP4 Training Across Platforms and Parallelism Layouts",
+    "category": "ai_models",
+    "score": 34
+  },
+  "3d976fa9687d6c44": {
+    "title": "ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises",
+    "category": "ai_models",
+    "score": 46
+  },
+  "375d85edd1a82e94": {
+    "title": "When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents",
+    "category": "ai_models",
+    "score": 39
+  },
+  "081b08def23e4b73": {
+    "title": "DynSurvX: Time-Resolved Explanations for Dynamic Survival Predictions",
+    "category": "ai_models",
+    "score": 45
+  },
+  "1798f2fcfed1b54d": {
+    "title": "When Do Histology Foundation Models Need Geometric Test-Time Augmentation?",
+    "category": "ai_models",
+    "score": 44
+  },
+  "01d7f18fc8019602": {
+    "title": "Wildfire-SSR: Geolocation-Aware Multimodal Fusion for Structure-Level Wildfire Risk Assessment",
+    "category": "ai_models",
+    "score": 42
+  },
+  "4f56a0dca15d805d": {
+    "title": "Severe but Harmless: Stress-Testing Shift Severity for Frozen Time-Series Forecasters",
+    "category": "ai_models",
+    "score": 52
+  },
+  "9f393105fabf0e20": {
+    "title": "Reference Forcing: Long Video Generation with Region-Guided Drift Correction",
+    "category": "ai_models",
+    "score": 49
+  },
+  "7ebe9551f2102b63": {
+    "title": "Reading or Remembering? Measuring Temporal Contamination in Language Models",
+    "category": "ai_models",
+    "score": 35
+  },
+  "3d7f53357d593732": {
+    "title": "BLIP-Live: Balancing Timeliness & Firing Precision in Proactive Streaming Video Agents",
+    "category": "ai_models",
+    "score": 61
+  },
+  "dc3c5073b7134dc3": {
+    "title": "Benchmarking memory and nonlinear processing capacity of quantum recurrent neural networks for time series prediction",
+    "category": "ai_models",
+    "score": 44
+  },
+  "d6649a654a0118c4": {
+    "title": "ONAM: Fitting Orthogonal Neural Additive Models for Post-Hoc Interpretability of Black-Box Predictions",
+    "category": "ai_models",
+    "score": 45
+  },
+  "0b2ec16161bd3666": {
+    "title": "TRACE: Topological Representations for Anomaly detection through Contrastive Embeddings",
+    "category": "ai_models",
+    "score": 46
+  },
+  "cc00e6a211d77cbe": {
+    "title": "Right Reason, Wrong Advice: Evaluating Recourse in LLM Explanations of Denied Requests",
+    "category": "ai_models",
+    "score": 42
+  },
+  "0e7f690aa4ff229b": {
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "category": "ai_models",
+    "score": 15
+  },
+  "b82b64ef90f76e66": {
+    "title": "How Revolut raises ambition without lowering the bar",
+    "category": "ai_models",
+    "score": 15
+  },
+  "6fbb5e8802f84c9c": {
+    "title": "The Latest Longevity Hack Is Surprisingly Low-Tech",
+    "category": "ai_models",
+    "score": 22
+  },
+  "5c378897b4f42ad5": {
+    "title": "US Gas Pump Price Hits Lowest Since March as Oil Supply Recovers",
+    "category": "ai_models",
+    "score": 16
+  },
+  "793502902201854a": {
+    "title": "Unloved 30-Year Bond Is a Surprise Hit With UK Retail Investors",
+    "category": "ai_models",
+    "score": 14
+  },
+  "9fed00cf45d90db9": {
+    "title": "Shanghai Exchange Intervenes After Historic Copper Crunch",
+    "category": "ai_models",
+    "score": 15
+  },
+  "5e74caead5c30099": {
+    "title": "Deutsche Bank Leak Shows Payments Linked to Epstein",
+    "category": "ai_models",
+    "score": 28
+  },
+  "a36e79fc220c4196": {
+    "title": "Turkish Households Buckle Under Gold-Price Slide, Funds Crisis",
+    "category": "ai_models",
+    "score": 24
+  },
+  "6fdbe27fdfc01854": {
+    "title": "Nvidia Earnings Are Sideshow as CEO Ouster Looms Over Stock",
+    "category": "ai_models",
+    "score": 15
+  },
+  "330bec7f3222929f": {
+    "title": "Zurich\u2019s Greco Boosts Revenue, Capital Gain From Beazley Deal",
+    "category": "ai_models",
+    "score": 19
+  },
+  "b2c041e8b7ae8fee": {
+    "title": "T. Rowe Sticks to Bearish Treasuries Bet That Fueled Banner 2026",
+    "category": "ai_models",
+    "score": 16
+  },
+  "85204e616d3b7c5b": {
+    "title": "Pirelli Falls as Sinochem Sells \u20ac455 Million Stake in Tiremaker",
+    "category": "ai_models",
+    "score": 17
+  },
+  "9da91faa185d2678": {
+    "title": "Turkey Fund Assets Shrink by $54 Billion Amid Manipulation Probe",
+    "category": "ai_models",
+    "score": 20
+  },
+  "fc776366a4b39765": {
+    "title": "Barclays\u2019 Rajadhayaksha Says Nvidia Market Angst Overdone",
+    "category": "ai_models",
+    "score": 25
+  },
+  "90a89b3de1daa0bc": {
+    "title": "KKR Is Said to Emerge as Preferred Bidder for Japanese Curry Chain Ichibanya",
+    "category": "ai_models",
+    "score": 14
+  },
+  "22520433a137e0da": {
+    "title": "Deutsche Bank Processed Large Sums Linked to Epstein: FT",
+    "category": "ai_models",
+    "score": 18
+  },
+  "52be0a795a53215c": {
+    "title": "Nvidia Fallout Hits Southeast Asia Hard",
+    "category": "ai_models",
+    "score": 29
+  },
+  "68e6d8add05ad782": {
+    "title": "Old Mutual Sells $1 Billion of South Africa Malls to Vukile",
+    "category": "ai_models",
+    "score": 17
+  },
+  "92beb25ac0088df2": {
+    "title": "European Stocks Fall as US Chip Curbs Ignite Fresh AI Selloff",
+    "category": "ai_models",
+    "score": 26
   }
 }
