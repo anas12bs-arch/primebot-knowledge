@@ -78863,5 +78863,320 @@
     "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
     "category": "ai_models",
     "score": 29
+  },
+  "62f5744b901b5569": {
+    "title": "#1 on Sesame's TurnBench with a 14.9M-parameter turn-taking model",
+    "category": "ai_models",
+    "score": 8
+  },
+  "07b404784b93cef4": {
+    "title": "Show HN: Sikemux \u2013 a whole team of AI coders in one window (Rust, MIT)",
+    "category": "ai_models",
+    "score": 5
+  },
+  "c19f50a3e9a385a8": {
+    "title": "GPT-6.2 Astra and Sol deliver most of the AA Cost per Task Pareto frontier",
+    "category": "ai_models",
+    "score": 9
+  },
+  "a5a96cf48fc1d6fb": {
+    "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+    "category": "ai_models",
+    "score": 12
+  },
+  "ea3f365b6f4e3288": {
+    "title": "FastFrames: Video Generation at Interactive Latency",
+    "category": "ai_models",
+    "score": 13
+  },
+  "396e26783625eb9d": {
+    "title": "Fine-Grained Japanese Clinical Named Entity Recognition: A Controlled Comparison of BERT and Open-Weight Large Language Models",
+    "category": "ai_models",
+    "score": 52
+  },
+  "36a83d8569a5b427": {
+    "title": "Learning Optimal Transport Plans Via Autoregressive Token Regression",
+    "category": "ai_models",
+    "score": 47
+  },
+  "f8939d040ac52c06": {
+    "title": "Communicate the Change: Efficient Expert Parallelism via Activation Compression",
+    "category": "ai_models",
+    "score": 48
+  },
+  "f91fc185307b4d6c": {
+    "title": "Joint-ID: Transformer-based Joint Image Enhancement and Depth Estimation for Underwater Environments",
+    "category": "ai_models",
+    "score": 36
+  },
+  "b5ae1071d98535f4": {
+    "title": "Sample-efficient Personalization of Large Language Model Alignment with Multidimensional User Preference Data",
+    "category": "ai_models",
+    "score": 50
+  },
+  "4fab0efb7ce7e9e3": {
+    "title": "ARG-Avatar: Animation-Rendering Guidance for Efficient Feedforward Avatar Reconstruction",
+    "category": "ai_models",
+    "score": 43
+  },
+  "72ef6689ba1cada3": {
+    "title": "Flocking Time and Graph Volume in Nonlinear Cucker-Smale Models with Dynamic Networks",
+    "category": "ai_models",
+    "score": 38
+  },
+  "162d502c40e1adeb": {
+    "title": "EGS: A Complementary Safety Framework for Educational LLMs",
+    "category": "ai_models",
+    "score": 49
+  },
+  "8fce16e2fdb31329": {
+    "title": "An Optimization Framework for Denoising Generation",
+    "category": "ai_models",
+    "score": 39
+  },
+  "dfd9ee3c35daab45": {
+    "title": "MIRAGE: Motion Identity Reduction via Autoregressive Generative Encoding for Privacy-Preserving Skeleton-based Motion Data",
+    "category": "ai_models",
+    "score": 41
+  },
+  "0c6b516a6e8720e9": {
+    "title": "RISA: Recoverable Sparse Attention for Block-Diffusion Language Models",
+    "category": "ai_models",
+    "score": 48
+  },
+  "bc522a3c624d8475": {
+    "title": "SRED: Sparse Regional Evidence Distillation Across Magnifications in Whole-Slide Imaging",
+    "category": "ai_models",
+    "score": 51
+  },
+  "7efe35478e2612e8": {
+    "title": "From Imperfective Paradox to Moorean Absurdity: Single-Chain Reasoning Lock-In and Multi-Candidate Verbalization Across Aspectual and Pragmatic Ambiguity",
+    "category": "ai_models",
+    "score": 36
+  },
+  "59dc6074c38c4ed9": {
+    "title": "Is 4-Bit Quantization More Than Noise to a Chat Model's Safety Behaviour? Attributing Behavioural Shifts with Matched Perturbations",
+    "category": "ai_models",
+    "score": 26
+  },
+  "735b0bcfaf53202b": {
+    "title": "CueClash: Frontier Vision-Language Models Judge 3-D Relations Close to the Picture Plane",
+    "category": "ai_models",
+    "score": 37
+  },
+  "b5b4149c2e9dc13a": {
+    "title": "RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When It Isn't",
+    "category": "ai_models",
+    "score": 42
+  },
+  "95eccaf9a6e2cec1": {
+    "title": "CorrectCast: Selective Multimodal Context for Scale-Aware Residual Correction in Precipitation Nowcasting",
+    "category": "ai_models",
+    "score": 46
+  },
+  "4f7a14d52d6a0ef2": {
+    "title": "The Only Edge Was Memorized in Training: LLM Trading Agents Around Earnings and Bad News",
+    "category": "ai_models",
+    "score": 42
+  },
+  "e75483788becfcfb": {
+    "title": "Reconfiguring Procedural Knowledge for Compositional Robot Skill Adaptation",
+    "category": "ai_models",
+    "score": 45
+  },
+  "134ec305f8e63b85": {
+    "title": "Towards Optimism-Pessimism Trade-off in Model-based Offline-to-Online Reinforcement Learning",
+    "category": "ai_models",
+    "score": 42
+  },
+  "d1169526f5f5b6af": {
+    "title": "Readie: Low-Latency Code Sandboxes for AI Agents",
+    "category": "ai_models",
+    "score": 39
+  },
+  "b2df269779128a74": {
+    "title": "Not All Evidence Is Admissible: Evidence Governance for Tool-Augmented Medical Agents",
+    "category": "ai_models",
+    "score": 35
+  },
+  "a82fbd82e3546281": {
+    "title": "HandRSI: Recursive Self-Improvement for Hand Pose Estimation",
+    "category": "ai_models",
+    "score": 36
+  },
+  "b34b0a32cb2dafea": {
+    "title": "What RL on Expert-Built Tasks Teaches Nemotron 3.5 Super",
+    "category": "ai_models",
+    "score": 44
+  },
+  "5bb184fd2eaab682": {
+    "title": "Centroid Spectral Coupling: Implicit Alignment and Representation Diversity in Self-Supervised Learning",
+    "category": "ai_models",
+    "score": 38
+  },
+  "3047d7657748ea76": {
+    "title": "Introducing ChatGPT for Sales",
+    "category": "ai_models",
+    "score": 18
+  },
+  "e67ed2bf8b668cb1": {
+    "title": "Why Qualcomm teamed with F1\u2019s new star in race for sports marketing ROI",
+    "category": "ai_models",
+    "score": 15
+  },
+  "b330164a6f0ccccf": {
+    "title": "Nvidia\u2019s startup stakes ballooned to $65B, but Huang\u2019s exit puts future  deals in doubt",
+    "category": "ai_models",
+    "score": 31
+  },
+  "ceeb5bf897d71eb6": {
+    "title": "Nvidia promises that revenue will keep soaring \u2014 for now",
+    "category": "ai_models",
+    "score": 18
+  },
+  "9818d892a2fa5769": {
+    "title": "Nvidia is abandoning China after Jensen Huang\u2019s ouster",
+    "category": "ai_models",
+    "score": 8
+  },
+  "8339a30c8d70bc4c": {
+    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang\u2019s exit",
+    "category": "ai_models",
+    "score": 12
+  },
+  "8a256ad53f34b968": {
+    "title": "Nvidia says it doesn\u2019t plan to reappoint Jensen Huang as CEO",
+    "category": "ai_models",
+    "score": 10
+  },
+  "c55f92969fc4ef13": {
+    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+    "category": "ai_models",
+    "score": 12
+  },
+  "b16a598086e446c0": {
+    "title": "SEC reportedly investigating Nvidia amid Huang exit",
+    "category": "ai_models",
+    "score": 18
+  },
+  "1961d923c37034d5": {
+    "title": "Google joins the tech outage trend by announcing it\u2019s not having one",
+    "category": "ai_models",
+    "score": 9
+  },
+  "e9270132a5cc9562": {
+    "title": "Gold Slumps Below $3,800 as Fed Officials Signal More Rate Hikes",
+    "category": "ai_models",
+    "score": 17
+  },
+  "b799c7a547e46a1f": {
+    "title": "Stocks, Futures Pare Nvidia Earnings-Led Gains: Markets Wrap",
+    "category": "ai_models",
+    "score": 28
+  },
+  "25addf320be4bade": {
+    "title": "China Sets Strongest Yuan Fixing Since 2022 as APEC Begins",
+    "category": "ai_models",
+    "score": 16
+  },
+  "8cc04e4f0d7bc111": {
+    "title": "Cobalt\u2019s Outlook Darkens as Memory Chip Costs Hit Gadgets Demand",
+    "category": "ai_models",
+    "score": 14
+  },
+  "e3ec66f91c25602f": {
+    "title": "Ping An Group To Reduce Public Equity Allocation",
+    "category": "ai_models",
+    "score": 24
+  },
+  "5db758492e990b02": {
+    "title": "Quant Trader Graviton Expands Office Space in India, Singapore",
+    "category": "ai_models",
+    "score": 22
+  },
+  "e196efec3daac1eb": {
+    "title": "SQM Sees Positive Lithium Demand Outlook Even as Prices Slide",
+    "category": "ai_models",
+    "score": 22
+  },
+  "60d54b3f8f1570e6": {
+    "title": "Latest Oil Market News and Analysis for Nov. 18",
+    "category": "ai_models",
+    "score": 18
+  },
+  "55d14130238ac2fc": {
+    "title": "David Jones to Cut 1,500 Jobs in Survival Fight, Union Says",
+    "category": "ai_models",
+    "score": 15
+  },
+  "bee6966c198889e6": {
+    "title": "Fidelity Says Even at 6% Treasuries Fail to Be \u2018Massively Cheap\u2019",
+    "category": "ai_models",
+    "score": 14
+  },
+  "cec76def4ffb79a9": {
+    "title": "Thailand Sees US Chip Curbs as Risk to Data Center Drive",
+    "category": "ai_models",
+    "score": 25
+  },
+  "765835f4a64ddb78": {
+    "title": "Council on Foreign Relations\u2019 McGuire on Trump-XI Meeting Implications for Chips",
+    "category": "ai_models",
+    "score": 29
+  },
+  "1b448f92606c694c": {
+    "title": "China Bank Rally Gains Momentum as Global AI Trade Unravels",
+    "category": "ai_models",
+    "score": 29
+  },
+  "518c964b12d2e53b": {
+    "title": "Willy Shih on Risks With Nvidia\u2019s Supply Chain",
+    "category": "ai_models",
+    "score": 27
+  },
+  "a4e52c8e7556c4fe": {
+    "title": "Australia Revamps Pension Fund Test to Unlock New Investment",
+    "category": "ai_models",
+    "score": 22
+  },
+  "a3a8b0e3347bd90b": {
+    "title": "China Is Finding Workarounds on Restrictions: Sara Hsu",
+    "category": "ai_models",
+    "score": 26
+  },
+  "129ca083c0ebcc1e": {
+    "title": "Former Darden CEO: Cava Better Off As A Private Company",
+    "category": "ai_models",
+    "score": 26
+  },
+  "4db6b1cd8573af76": {
+    "title": "Nothing to Nitpick With Nvidia Results: Erika Klauer",
+    "category": "ai_models",
+    "score": 19
+  },
+  "ccbe7e395e63ca86": {
+    "title": "Apollo\u2019s Rowan Says Insurance Will Power the $8 Trillion AI Boom",
+    "category": "ai_models",
+    "score": 18
+  },
+  "ed314a4f86f00577": {
+    "title": "Putin Arrives in China for Trump, Xi Meeting",
+    "category": "ai_models",
+    "score": 13
+  },
+  "93ca44c005914306": {
+    "title": "Sick of pirates and freebooters? Meta brings its \u201ccontent protection\u201d tool to Instagram.",
+    "category": "ai_models",
+    "score": 26
+  },
+  "b87206a5895815b9": {
+    "title": "Tubi wants more creator content. The Kickstarter-backed \u201cFandom Fund\u201d is here to help.",
+    "category": "ai_models",
+    "score": 25
+  },
+  "fce35cc834751221": {
+    "title": "Among social media ads, short-form video drives the most actions",
+    "category": "ai_models",
+    "score": 37
   }
 }
