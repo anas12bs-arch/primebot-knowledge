@@ -79178,5 +79178,270 @@
     "title": "Among social media ads, short-form video drives the most actions",
     "category": "ai_models",
     "score": 37
+  },
+  "144676424ffd2b7e": {
+    "title": "We built Australia's own AI model, and today it's open to the world",
+    "category": "ai_models",
+    "score": 8
+  },
+  "efc5b06220796386": {
+    "title": "Show HN: Murer AI \u2013 Single Platform Multiple Models",
+    "category": "ai_models",
+    "score": 8
+  },
+  "f5c9afaee2a42535": {
+    "title": "Ask HN: Should we shut down current AI strategy? Vent Your Heart Out",
+    "category": "ai_models",
+    "score": 6
+  },
+  "00b8b317a3d79b68": {
+    "title": "Microsoft expands direct competition with OpenAI and Anthropic",
+    "category": "ai_models",
+    "score": 10
+  },
+  "bddac43a00f59d00": {
+    "title": "Ask HN: Can world models lead to racisim? Are there any Alignment frameworks?",
+    "category": "ai_models",
+    "score": 11
+  },
+  "b26c3f82ac0c6625": {
+    "title": "Show HN: Director's Lookbook, named looks for image, video and music prompts",
+    "category": "ai_models",
+    "score": 11
+  },
+  "8c249173051f8d96": {
+    "title": "FastFrames: Video Generation at Interactive Latency",
+    "category": "ai_models",
+    "score": 13
+  },
+  "93cc6a01f2ff3829": {
+    "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+    "category": "ai_models",
+    "score": 43
+  },
+  "f7e9ceb9d2e9db58": {
+    "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+    "category": "ai_models",
+    "score": 48
+  },
+  "df7f16983898ee3e": {
+    "title": "FastFrames: Video Generation at Interactive Latency",
+    "category": "ai_models",
+    "score": 44
+  },
+  "804d2e1494171ea8": {
+    "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+    "category": "ai_models",
+    "score": 40
+  },
+  "d3e6c6158a3c82d9": {
+    "title": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
+    "category": "ai_models",
+    "score": 38
+  },
+  "6983adf5979169ca": {
+    "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+    "category": "ai_models",
+    "score": 34
+  },
+  "d4599a17421856c1": {
+    "title": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
+    "category": "ai_models",
+    "score": 35
+  },
+  "39fb3465789a3283": {
+    "title": "Higher-Scoring Coding Models Did Not Get More Work Done",
+    "category": "ai_models",
+    "score": 40
+  },
+  "1359aea4b2ad5084": {
+    "title": "EviSlide-MIL: Multi-Query Pooling and Shared Prediction for Class-Incremental Whole-Slide Image Classification",
+    "category": "ai_models",
+    "score": 49
+  },
+  "1ba775ac45e8ba49": {
+    "title": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving",
+    "category": "ai_models",
+    "score": 42
+  },
+  "76b5f3d0831c964a": {
+    "title": "Learning Grounded Reasoning from Human Gaze",
+    "category": "ai_models",
+    "score": 46
+  },
+  "4292e0ac6f6a37f5": {
+    "title": "Distortion-Free Semantic Watermarks for Black-Box Generative Models",
+    "category": "ai_models",
+    "score": 36
+  },
+  "5926931f0893af10": {
+    "title": "Reading Scene States: Uncovering Safety Failures in Vision-Language Models",
+    "category": "ai_models",
+    "score": 40
+  },
+  "cb9af4741aba60de": {
+    "title": "Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and QLoRA on a Laptop iGPU",
+    "category": "ai_models",
+    "score": 31
+  },
+  "21b086fc4d484154": {
+    "title": "Agent Trust Infrastructure (ATI): A Federated Identity, Trust, Attestation, and Accountability Architecture for Cross-Organization Autonomous AI Agents",
+    "category": "ai_models",
+    "score": 44
+  },
+  "d3d4c14a9c435370": {
+    "title": "Learned versus Kinematic Trajectory Prediction under Reduced Observation Frequency",
+    "category": "ai_models",
+    "score": 41
+  },
+  "bb326bc47efad6ef": {
+    "title": "Structure--Residual Inductive Biases for Language Model Pretraining",
+    "category": "ai_models",
+    "score": 31
+  },
+  "6271bb7f57fb9862": {
+    "title": "WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition",
+    "category": "ai_models",
+    "score": 43
+  },
+  "cd30a49bc0f1bb7a": {
+    "title": "Retrieval-Augmented Correction for Generalist Medical Image Segmentation",
+    "category": "ai_models",
+    "score": 44
+  },
+  "3aed4359266d47d8": {
+    "title": "Any2Building: Unifying Point Clouds and Images for Building Reconstruction via Shared Spatial Queries",
+    "category": "ai_models",
+    "score": 40
+  },
+  "2f3d44c3d92e3063": {
+    "title": "Polarity Composition Hypothesis: Causal Evidence from Negation in NLI",
+    "category": "ai_models",
+    "score": 43
+  },
+  "d9119fca6502e029": {
+    "title": "Say Less, Hallucinate Less? Diagnosing and Restoring Object Coverage in Preference-Optimized Vision-Language Models",
+    "category": "ai_models",
+    "score": 33
+  },
+  "94b713757a876adc": {
+    "title": "D\u00e9j\u00e0 View: A Shared Working-Memory Model for Visual Tasks",
+    "category": "ai_models",
+    "score": 28
+  },
+  "89f4bb404d8dd2a2": {
+    "title": "Inference after coding agents",
+    "category": "ai_models",
+    "score": 33
+  },
+  "d67ee912f90fbc9d": {
+    "title": "Attribution Through the Decoder: Prediction-Space Explanations for Structured Outputs",
+    "category": "ai_models",
+    "score": 42
+  },
+  "a1de396d3910fa2e": {
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "category": "ai_models",
+    "score": 9
+  },
+  "6857d55c198be036": {
+    "title": "BASF\u2019s Evonik Chase Tests Potential Merz Successor",
+    "category": "ai_models",
+    "score": 22
+  },
+  "d608cd75e5bddce2": {
+    "title": "Apollo Is Focused on Investment Grade, De Giorgi Says",
+    "category": "ai_models",
+    "score": 31
+  },
+  "bbfb8f25f7905cc1": {
+    "title": "Xi, Trump Begin Summit With Warm Embrace",
+    "category": "ai_models",
+    "score": 14
+  },
+  "f317098cbd8c8e36": {
+    "title": "Adults Want Kids\u2019 Toys This Holiday Season",
+    "category": "ai_models",
+    "score": 16
+  },
+  "939a58ffaa523faa": {
+    "title": "Anthropic Approaches Final IPO Hurdle After Tech Stocks Churn",
+    "category": "ai_models",
+    "score": 20
+  },
+  "1a760ec2cd557c40": {
+    "title": "Xi, Putin Assail Trade Barriers Ahead of Summit With Trump",
+    "category": "ai_models",
+    "score": 30
+  },
+  "0c902ef7be599c7c": {
+    "title": "Alstom Falls on Expectations of Equity Raise to Reduce Debt",
+    "category": "ai_models",
+    "score": 18
+  },
+  "34961e16434a5adb": {
+    "title": "Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade",
+    "category": "ai_models",
+    "score": 34
+  },
+  "c95f913148c9a496": {
+    "title": "Data Center Buildout to Continue, Kirkland & Ellis Says",
+    "category": "ai_models",
+    "score": 30
+  },
+  "65a882d63e2ce66a": {
+    "title": "Anthropic Crypto Bets Imply $1.7 Trillion Despite AI Rout",
+    "category": "ai_models",
+    "score": 27
+  },
+  "636940c800f7c227": {
+    "title": "BlackRock\u2019s HPS Seeks Billions for New Direct Lending Fund",
+    "category": "ai_models",
+    "score": 27
+  },
+  "c91359a4a3bbd92b": {
+    "title": "SpiceJet Approves 55 Billion Rupee Fundraising to Aid Turnaround",
+    "category": "ai_models",
+    "score": 18
+  },
+  "9cb3ff6ccee866cb": {
+    "title": "Copper Slumps to Seven-Month Low as Doubts Over Demand Grow",
+    "category": "ai_models",
+    "score": 17
+  },
+  "1b2a49617fd4b737": {
+    "title": "MUFG: Reverse Yankees Are About 20% of Europe Corporates",
+    "category": "ai_models",
+    "score": 33
+  },
+  "f01221b3d265304a": {
+    "title": "Eurobank to Buy 65% of Bulgaria\u2019s Fibank for \u20ac650 Million",
+    "category": "ai_models",
+    "score": 15
+  },
+  "17930f7632137c90": {
+    "title": "Kenya Parks $1.9 Billion Vodacom-Safaricom Cash in Bonds Pending Court Ruling",
+    "category": "ai_models",
+    "score": 17
+  },
+  "2f4c63d77ceacfa8": {
+    "title": "UK Inflation Accelerates to Highest Level in a Year",
+    "category": "ai_models",
+    "score": 26
+  },
+  "53673f5f90056b1d": {
+    "title": "Bloomberg Global Credit Forum: Where Do Debt Markets Go From Here? Live Updates",
+    "category": "ai_models",
+    "score": 13
+  },
+  "24ac5554d7df313a": {
+    "title": "Xi-Trump-Putin Trilateral: A Great Power Stitch-Up?",
+    "category": "ai_models",
+    "score": 20
+  },
+  "58dc9cd2b547dceb": {
+    "title": "As Netflix and Disney sniff around, YouTube hypes its creators\u2019 \u201cworld-class, studio-quality\u201d programming at L.A. Premieres event",
+    "category": "ai_models",
+    "score": 27
   }
 }
