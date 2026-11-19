@@ -79667,5 +79667,225 @@
   "845305442b3d78da": {
     "title": "SuperBlimp | Captain Itch",
     "reason": "irrelevant"
+  },
+  "3c2500862b97cbfc": {
+    "title": "I open-sourced an AI loop for RISC-V CPU design months prior to OpenAI",
+    "category": "ai_models",
+    "score": 9
+  },
+  "f539fcdaf975fdb9": {
+    "title": "Gemini 4 Neon",
+    "category": "ai_models",
+    "score": 4
+  },
+  "c36bf9af33dcf875": {
+    "title": "AI use is up 330\u00d7. The bill is up 115\u00d7",
+    "category": "ai_models",
+    "score": 3
+  },
+  "b47f360a69664805": {
+    "title": "Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests",
+    "category": "ai_models",
+    "score": 11
+  },
+  "d0cbe30135736c27": {
+    "title": "SRE-1: 27B model for Production Investigations",
+    "category": "ai_models",
+    "score": 8
+  },
+  "2ccec9c436a3a35c": {
+    "title": "Live streaming model evals executing real DevOps tasks",
+    "category": "ai_models",
+    "score": 8
+  },
+  "fdd1e7098ce87df9": {
+    "title": "Show HN: GTA 6 is out, so I built an agent to do my job in Chrome",
+    "category": "ai_models",
+    "score": 6
+  },
+  "58da586369f33999": {
+    "title": "Research acceleration: The jagged frontier",
+    "category": "ai_models",
+    "score": 24
+  },
+  "53d809d7420a3923": {
+    "title": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
+    "category": "ai_models",
+    "score": 23
+  },
+  "99be0c0a7e074380": {
+    "title": "Managing frontier AI risk: From training to deployment",
+    "category": "ai_models",
+    "score": 23
+  },
+  "9de3387bb4a984fb": {
+    "title": "22 Reasons to Sponsor SaaStr AI 2027. 900+ Qualified Leads Is Just One of Them.",
+    "category": "ai_models",
+    "score": 29
+  },
+  "1a013d78f5b0b897": {
+    "title": "Anthropic Will Get to $100B in Revenue with ~7% of the Headcount Google and Meta Needed",
+    "category": "ai_models",
+    "score": 15
+  },
+  "a72c192f9c5058ba": {
+    "title": "5 Interesting Learnings from the Databricks AI Index: Open-Weight Jumps to 31% of Enterprise Tokens, 72% of Companies Now Use Multiple Model Providers, and a 281x Gap Between Median and Power Users",
+    "category": "ai_models",
+    "score": 47
+  },
+  "108d95f376814446": {
+    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "category": "ai_models",
+    "score": 23
+  },
+  "afb1f8fc849417da": {
+    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is \u2018unpatchable\u2019",
+    "category": "ai_models",
+    "score": 23
+  },
+  "e78487095dd37232": {
+    "title": "Elon Musk says ousting Jensen Huang is like \u2018kicking Michael Jordan off your team\u2019",
+    "category": "ai_models",
+    "score": 8
+  },
+  "d442346cc5e57a26": {
+    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang\u2019s exit",
+    "category": "ai_models",
+    "score": 15
+  },
+  "49ff21afd78ef9de": {
+    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+    "category": "ai_models",
+    "score": 26
+  },
+  "aed3ea0dfc61854d": {
+    "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+    "category": "ai_models",
+    "score": 17
+  },
+  "80bdab190c6dbdb4": {
+    "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+    "category": "ai_models",
+    "score": 16
+  },
+  "734339654a32d098": {
+    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: \u2018It\u2019s time to start running\u2019",
+    "category": "ai_models",
+    "score": 19
+  },
+  "4546d2f009c0f33e": {
+    "title": "Palmer Luckey thinks China is \u2018thrilled to have Jensen out,\u2019 so he wants the ousted Nvidia CEO reinstated",
+    "category": "ai_models",
+    "score": 12
+  },
+  "388adedcc584c5bf": {
+    "title": "Sam Altman says his life is so weird that he\u2019s unfazed by Andrew Garfield portraying him in upcoming movie",
+    "category": "ai_models",
+    "score": 8
+  },
+  "53453b71f99b11c7": {
+    "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+    "category": "ai_models",
+    "score": 17
+  },
+  "cde8e42aa5a90b78": {
+    "title": "Copper Rebounds After Rout as Physical Tightness Persists",
+    "category": "ai_models",
+    "score": 27
+  },
+  "4d8740985632f1d7": {
+    "title": "Gold Rises From 14-Month Low as Dip Buying Offsets Hawkish Fed",
+    "category": "ai_models",
+    "score": 17
+  },
+  "da48bbfab620d294": {
+    "title": "Morgan Stanley\u2019s Hornbach Says Rogue AI Biggest Underpriced Risk",
+    "category": "ai_models",
+    "score": 23
+  },
+  "017601d1238615ed": {
+    "title": "China Markets Up to $2 Billion of Dollar Bonds in Hong Kong",
+    "category": "ai_models",
+    "score": 15
+  },
+  "6df32107b7bbf1d0": {
+    "title": "Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center",
+    "category": "ai_models",
+    "score": 20
+  },
+  "414001db34ca7f55": {
+    "title": "Anthropic Prices at $83 a Share in Record-Sized Offering",
+    "category": "ai_models",
+    "score": 43
+  },
+  "8f3a6558d2f84455": {
+    "title": "Korea Investors Buy Record Amount of Treasuries in September",
+    "category": "ai_models",
+    "score": 17
+  },
+  "1cdcb07a6e1e0d7a": {
+    "title": "Jeffrey Sachs Expects Friendly Trilateral Outcome",
+    "category": "ai_models",
+    "score": 16
+  },
+  "31fcbb986e5299fc": {
+    "title": "China Oil Imports Rebound as Beijing Turns Back to Stockpiling",
+    "category": "ai_models",
+    "score": 27
+  },
+  "0751f4f845e4a4bd": {
+    "title": "US Stock Futures Climb on Anthropic IPO Pricing: Markets Wrap",
+    "category": "ai_models",
+    "score": 30
+  },
+  "4fb31cdbcca63d51": {
+    "title": "Trade and AI Rivalry to Dominate APEC Summit",
+    "category": "ai_models",
+    "score": 24
+  },
+  "b2c7c6519fa015b0": {
+    "title": "Latest Oil Market News and Analysis for Nov. 19",
+    "category": "ai_models",
+    "score": 12
+  },
+  "aa65c442ebeab252": {
+    "title": "Ex-Google Engineer May Face New Charges Over Bets on Gemini 3.0",
+    "category": "ai_models",
+    "score": 23
+  },
+  "0354cc014e7f89e5": {
+    "title": "Seesaw Day for Markets, Anthropic IPO Looms",
+    "category": "ai_models",
+    "score": 42
+  },
+  "042065c008dbbb5d": {
+    "title": "Jane Fraser on IPO Pipeline, AI, & Interest Rate Outlook",
+    "category": "ai_models",
+    "score": 30
+  },
+  "7865cf5665301a93": {
+    "title": "Bain Pushes Back LNG Glut Outlook to 2030 as War Tightens Market",
+    "category": "ai_models",
+    "score": 28
+  },
+  "00d8a4a7abbf9667": {
+    "title": "Former SEC Chair Gary Gensler Warns Anthropic\u2019s Cash Flow Poses Big Risk To AI Economy",
+    "category": "ai_models",
+    "score": 24
+  },
+  "056be5f704d04fc1": {
+    "title": "Chicago\u2019s Third CFO This Year Saw Red Flags Before Exit",
+    "category": "ai_models",
+    "score": 19
+  },
+  "c870f8db41562854": {
+    "title": "GTA VI is smashing Twitch\u2019s records\u2014and it wants to make sure advertisers don\u2019t miss out",
+    "category": "ai_models",
+    "score": 32
+  },
+  "fd5b39ac906a0513": {
+    "title": "IShowSpeed hits the cover of LIFE Magazine on 90th anniversary of first issue",
+    "category": "ai_models",
+    "score": 28
   }
 }
