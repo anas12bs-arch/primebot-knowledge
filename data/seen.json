@@ -79887,5 +79887,260 @@
     "title": "IShowSpeed hits the cover of LIFE Magazine on 90th anniversary of first issue",
     "category": "ai_models",
     "score": 28
+  },
+  "30130641c9daf0ea": {
+    "title": "Friendship-BENCH: What if Real-time Conversation Models had more Personality?",
+    "category": "ai_models",
+    "score": 11
+  },
+  "87c1792c9b7a6944": {
+    "title": "ORA: Open Robot-Use Agents",
+    "category": "ai_models",
+    "score": 6
+  },
+  "c819b1eaf1b4ec08": {
+    "title": "Vals AI \u2013 Compare AI models across real-world benchmarks",
+    "category": "ai_models",
+    "score": 14
+  },
+  "83717beb62ca883f": {
+    "title": "Show HN: Git Hook for Model Identifation",
+    "category": "ai_models",
+    "score": 4
+  },
+  "4baca98125bdd857": {
+    "title": "Madras School System and AI Learning Share Similarity",
+    "category": "ai_models",
+    "score": 8
+  },
+  "c3cff98b52b84915": {
+    "title": "Itsfree.ai \u2013 Every model you can use for free",
+    "category": "ai_models",
+    "score": 5
+  },
+  "85ba55bc379536ba": {
+    "title": "UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation",
+    "category": "ai_models",
+    "score": 41
+  },
+  "c8a82f25279054b9": {
+    "title": "$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling",
+    "category": "ai_models",
+    "score": 45
+  },
+  "b084456b863fd476": {
+    "title": "Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
+    "category": "ai_models",
+    "score": 46
+  },
+  "6f0e473998f566f9": {
+    "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+    "category": "ai_models",
+    "score": 33
+  },
+  "87d10f92995ecde5": {
+    "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+    "category": "ai_models",
+    "score": 42
+  },
+  "68e2ae2a24d58ba5": {
+    "title": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
+    "category": "ai_models",
+    "score": 42
+  },
+  "e55c48afe0f89999": {
+    "title": "Unified Law for Visual Tasks (The Four Laws of Computer Vision)",
+    "category": "ai_models",
+    "score": 29
+  },
+  "7968cb090592e2e6": {
+    "title": "PrismRestore: A Compact Restoration Toolbox for Agentic Image Restoration",
+    "category": "ai_models",
+    "score": 39
+  },
+  "f90655dc75d257bb": {
+    "title": "Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation",
+    "category": "ai_models",
+    "score": 42
+  },
+  "fae6ce90fba294a0": {
+    "title": "ShadowTransfer: A Geographic Transfer Benchmark for Overhead Shadow Detection",
+    "category": "ai_models",
+    "score": 49
+  },
+  "81e54812da020f91": {
+    "title": "Equivariant Modeling with Polynomial Features via Minimal Homogeneous Generators",
+    "category": "ai_models",
+    "score": 32
+  },
+  "d45e25dfd8e7a777": {
+    "title": "On Evaluating User Simulators for Interactive Agents",
+    "category": "ai_models",
+    "score": 43
+  },
+  "113dc9500fe02bc8": {
+    "title": "Cap-and-Track: Optimizing LLM Inference Request Dispatch Across Shifting Capacity",
+    "category": "ai_models",
+    "score": 39
+  },
+  "dd960162601ffc7d": {
+    "title": "Who are you? The Personal Imitation Game",
+    "category": "ai_models",
+    "score": 35
+  },
+  "fe624d5833b6cb92": {
+    "title": "Ground, Iterate, Trace: Decomposing AI Research Ideation",
+    "category": "ai_models",
+    "score": 45
+  },
+  "cedb3872f85dd348": {
+    "title": "Monoculture Robust Learning",
+    "category": "ai_models",
+    "score": 36
+  },
+  "5ca16125cb30a2a7": {
+    "title": "Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs",
+    "category": "ai_models",
+    "score": 47
+  },
+  "9ecad94f0d87d696": {
+    "title": "Auditing black-box clinical prediction models with a large language model through queries alone: a blinded test with planted flaws",
+    "category": "ai_models",
+    "score": 49
+  },
+  "9aabd80c1d8f281a": {
+    "title": "Learning to Interact in Multi-Agent Self-Play for Controllable Autonomous Driving Scenario Generation",
+    "category": "ai_models",
+    "score": 53
+  },
+  "6826da23f73c5526": {
+    "title": "TangentPDE: Learning Local Operator Responses with Sparse Finite-Difference Supervision",
+    "category": "ai_models",
+    "score": 47
+  },
+  "74e69f777a2a7ac9": {
+    "title": "WorldRuler: Interactive World Modeling under Configurable Rules",
+    "category": "ai_models",
+    "score": 41
+  },
+  "876dc6bec15a43c8": {
+    "title": "Choosing What to Observe: Budget-Paired Counterfactual Audits for Credible Evaluation of Visual Agents",
+    "category": "ai_models",
+    "score": 45
+  },
+  "4bfc0c72ff62c3f8": {
+    "title": "NereidVLA: Learning to Understand and Navigate the Underwater World",
+    "category": "ai_models",
+    "score": 42
+  },
+  "eb9192d925bc7d62": {
+    "title": "Gaspard: Expressive unified speech and gesture synthesis with continuous autoregressive flow-matching and decoupled classifier-free guidance",
+    "category": "ai_models",
+    "score": 47
+  },
+  "932eeb93657c3175": {
+    "title": "Can Programs Replace LLM Judges? Executable Program Judges for Scalable and Efficient Relevance Labeling",
+    "category": "ai_models",
+    "score": 40
+  },
+  "0ac5ba52c6bb0229": {
+    "title": "Path to Year-End Rally Looks Clearer After Anthropic",
+    "category": "ai_models",
+    "score": 18
+  },
+  "97d44e06fcafbf6b": {
+    "title": "Nick Khan on Making WWE a Global Media Power",
+    "category": "ai_models",
+    "score": 12
+  },
+  "cbd42c3188541e3e": {
+    "title": "This Is The Problem With AI's Most Bullish Chart",
+    "category": "ai_models",
+    "score": 13
+  },
+  "51f72227c1c43f4e": {
+    "title": "Odd Lots: AI\u2019s Credit Crunch Moment (Podcast)",
+    "category": "ai_models",
+    "score": 35
+  },
+  "148e50533bb2fee2": {
+    "title": "Dollar and Commodities Hint at Cooler Growth Ahead: Market Analysis",
+    "category": "ai_models",
+    "score": 19
+  },
+  "48899a2643382f58": {
+    "title": "Anthropic Shares Indicated Up to 24% Higher on Gray Market",
+    "category": "ai_models",
+    "score": 20
+  },
+  "801c5af7b21b601e": {
+    "title": "Modi Calls on Indian Companies to Expand Global Ambitions",
+    "category": "ai_models",
+    "score": 21
+  },
+  "f1554dd26a89d658": {
+    "title": "Taiwan Tightens Short Selling Curbs to Support Stock Market",
+    "category": "ai_models",
+    "score": 23
+  },
+  "8f8fec99041fe012": {
+    "title": "ITU: Focus On Ensuring Syria Becomes a Digital Hub",
+    "category": "ai_models",
+    "score": 38
+  },
+  "680ec228eb60c698": {
+    "title": "Hong Kong Family Office Unwinds $3.9 Billion of Bets Around AI",
+    "category": "ai_models",
+    "score": 22
+  },
+  "b3360bd515d13cb4": {
+    "title": "US Tech Stocks Are Set to Rally as Anthropic IPO Boosts AI Trade",
+    "category": "ai_models",
+    "score": 19
+  },
+  "1e83944e0cd50109": {
+    "title": "Philippines Returns to Retail Dollar Bonds as Peso Rebounds",
+    "category": "ai_models",
+    "score": 21
+  },
+  "2aa3142679e41626": {
+    "title": "Oil Traders in Talks With QatarEnergy for Long-Term Supplies",
+    "category": "ai_models",
+    "score": 19
+  },
+  "62adf070a075864a": {
+    "title": "Traders\u2019 Relief on UK Inflation May Prove Short-Lived as Price Woes Mount",
+    "category": "ai_models",
+    "score": 10
+  },
+  "042686718676b5ad": {
+    "title": "Investec Profit Climbs as South Africa Unit Offsets UK Weakness",
+    "category": "ai_models",
+    "score": 20
+  },
+  "ae61523cb3eaf9c0": {
+    "title": "ZKH's Wang On Earnings",
+    "category": "ai_models",
+    "score": 20
+  },
+  "b3984b524961d7f4": {
+    "title": "Tiger-Backed Razorpay Said to Near\u00a0Public\u00a0Filing for India IPO",
+    "category": "ai_models",
+    "score": 19
+  },
+  "b5f7e72d3eba83ae": {
+    "title": "Xi Hosts Trump at APEC Summit in Shenzhen",
+    "category": "ai_models",
+    "score": 28
+  },
+  "03fdd3e4018bdaac": {
+    "title": "Netflix is rallying post-Warner Bros. with revised IRL installation plans and a potential bid for NBCUniversal",
+    "category": "ai_models",
+    "score": 23
+  },
+  "e806433d5314e63b": {
+    "title": "Another Disney creator deal: YouTube illusionist Zach King joins the Mouse House",
+    "category": "ai_models",
+    "score": 31
   }
 }
