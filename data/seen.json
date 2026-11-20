@@ -80592,5 +80592,225 @@
     "title": "Top 5 Branded Videos of the Week: Tech, physics, Christmas, oh my",
     "category": "ai_models",
     "score": 32
+  },
+  "ffe949ac58ba18c4": {
+    "title": "Show HN: GhostFleet: A Battleship game with an advanced AI opponent",
+    "category": "ai_models",
+    "score": 7
+  },
+  "35ac5c77774e1694": {
+    "title": "Posterior Matching Distillation",
+    "category": "ai_models",
+    "score": 54
+  },
+  "c9e4efdf2f9a9ea0": {
+    "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+    "category": "ai_models",
+    "score": 52
+  },
+  "b130bc63cdc59ab6": {
+    "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+    "category": "ai_models",
+    "score": 30
+  },
+  "7c100c8e4b364376": {
+    "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
+    "category": "ai_models",
+    "score": 49
+  },
+  "649bdecb4b3b61b1": {
+    "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
+    "category": "ai_models",
+    "score": 45
+  },
+  "d318f17cb4532ea1": {
+    "title": "ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement",
+    "category": "ai_models",
+    "score": 37
+  },
+  "9350205b9d3281fb": {
+    "title": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
+    "category": "ai_models",
+    "score": 48
+  },
+  "25d889ab7f62302d": {
+    "title": "Bio-PM-Guided Synthetic IMU Generation",
+    "category": "ai_models",
+    "score": 40
+  },
+  "3a3ad0f6a354e946": {
+    "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+    "category": "ai_models",
+    "score": 33
+  },
+  "6100a45d00808ec6": {
+    "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
+    "category": "ai_models",
+    "score": 54
+  },
+  "a4a89f4fb4fa24f3": {
+    "title": "Active Feature Acquisition by Distilling an Oracle Teacher",
+    "category": "ai_models",
+    "score": 41
+  },
+  "c806354f3a7f6ee5": {
+    "title": "PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation",
+    "category": "ai_models",
+    "score": 49
+  },
+  "99d0186c1a5e31b2": {
+    "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
+    "category": "ai_models",
+    "score": 47
+  },
+  "f5b3d940312d1aa3": {
+    "title": "Realized versus Population Reliability: Anytime-Valid Self-Consistency Certification under Correlated Reasoning",
+    "category": "ai_models",
+    "score": 39
+  },
+  "00830eab26e1ff01": {
+    "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+    "category": "ai_models",
+    "score": 42
+  },
+  "7726583e78142258": {
+    "title": "Verify the Verifier: Specification-Grounded LLM Cross-Checking for Bugs That Escape UVM Scoreboards",
+    "category": "ai_models",
+    "score": 37
+  },
+  "a95a8860f8eb49d3": {
+    "title": "ProtoDiffusion: Token-per-Layer Generative Modeling of Multi-Layer Images",
+    "category": "ai_models",
+    "score": 49
+  },
+  "8301a2de388380e5": {
+    "title": "Represented but misread: Post-training changes how language models read out what they represent",
+    "category": "ai_models",
+    "score": 36
+  },
+  "c75a18ddf2583270": {
+    "title": "Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs",
+    "category": "ai_models",
+    "score": 42
+  },
+  "b84b00e31c210fca": {
+    "title": "GEOHunter: Mapping a Generative Engine Optimization Network in the Wild",
+    "category": "ai_models",
+    "score": 52
+  },
+  "24760f3d771dfd0d": {
+    "title": "Multi-institutional grading of Barrett's esophagus dysplasia without stain normalization using a pathology foundation model and multiple instance learning",
+    "category": "ai_models",
+    "score": 42
+  },
+  "99d5b538040d55e1": {
+    "title": "MM-SystemOneBias: Evaluating Bias in Multimodal Jev-Style System One Decision Models",
+    "category": "ai_models",
+    "score": 47
+  },
+  "18238adcb359f00e": {
+    "title": "Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)",
+    "category": "ai_models",
+    "score": 48
+  },
+  "5c43d5088517726c": {
+    "title": "The Geometry of Lies: Knowledge and Persona Directions for Detecting Deception in Large Language Models",
+    "category": "ai_models",
+    "score": 42
+  },
+  "f84cee9829bb9cfa": {
+    "title": "AURA: AUdio-dRiven streaming Avatar",
+    "category": "ai_models",
+    "score": 41
+  },
+  "29d465c525e1c20d": {
+    "title": "Copper Rout Worsens as AI Selloff Wreaks Havoc in Metals Markets",
+    "category": "ai_models",
+    "score": 19
+  },
+  "f1dbb6c66c41e616": {
+    "title": "Gabon Seeks IMF Deal Next Month After Audit Shows Lower Debt",
+    "category": "ai_models",
+    "score": 19
+  },
+  "8269292ea145f7a5": {
+    "title": "How an American AI Company Uses Chinese Open-Weight Models",
+    "category": "ai_models",
+    "score": 15
+  },
+  "5fbedc565144116f": {
+    "title": "Odd Lots: How an AI Native Company Chooses Its Models (Podcast)",
+    "category": "ai_models",
+    "score": 48
+  },
+  "55dfab2e7936aba7": {
+    "title": "Bond Sales Hit \u20ac2 Trillion Europe Record as AI Surge Takes Hold",
+    "category": "ai_models",
+    "score": 15
+  },
+  "d3d7cee7dc2eff8a": {
+    "title": "Anthropic Pop Is Followed By a Fizzle: Market Analysis",
+    "category": "ai_models",
+    "score": 15
+  },
+  "a5184a1c36a75d77": {
+    "title": "Hong Kong Stocks Sink to Brink of Bear Market as Selloff Worsens",
+    "category": "ai_models",
+    "score": 11
+  },
+  "497a0fc44b0b1b2d": {
+    "title": "Lufthansa to Eliminate 1,000 Jobs At Struggling Flagship Airline",
+    "category": "ai_models",
+    "score": 16
+  },
+  "a5f2aa3f1f7de3e7": {
+    "title": "Moodliar: Investec Comfortable with UK Business Foundation",
+    "category": "ai_models",
+    "score": 45
+  },
+  "3f4fea1fedbffa5a": {
+    "title": "South Africa\u2019s Richards Bay Terminal Loads Record Chrome Cargo",
+    "category": "ai_models",
+    "score": 18
+  },
+  "b9b3503456ce658b": {
+    "title": "China Axes Palm Oil Purchases With Storage Space Running Out",
+    "category": "ai_models",
+    "score": 23
+  },
+  "f2ad2bc8efa33d4e": {
+    "title": "US Stock Futures Fall as AI Selloff Spreads to Asia and Europe",
+    "category": "ai_models",
+    "score": 23
+  },
+  "f672e93da0465347": {
+    "title": "Castleberry-Hernandez: Saudi Action on Houthis Into 2027",
+    "category": "ai_models",
+    "score": 34
+  },
+  "a977cdde71ee5f23": {
+    "title": "AI Anxiety Returns With Flight From Risk Seen Hitting FTSE 100",
+    "category": "ai_models",
+    "score": 11
+  },
+  "e8c68f3e9a5c540b": {
+    "title": "Poland Probes Blast Near Ukraine Border After Airspace Violation",
+    "category": "ai_models",
+    "score": 20
+  },
+  "1639873fc5cf7fc9": {
+    "title": "Metro Bank Draws Early Interest From Barclays, Lone Star",
+    "category": "ai_models",
+    "score": 16
+  },
+  "e6ee7f36d6ab3efb": {
+    "title": "Tech Valuation Plunge Brings Some Opportunities: Taking Stock",
+    "category": "ai_models",
+    "score": 23
+  },
+  "1fda74ce8e66f9ba": {
+    "title": "YouTube says it won\u2019t terminate Russell Brand\u2019s channel after rape conviction",
+    "category": "ai_models",
+    "score": 18
   }
 }
