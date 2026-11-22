@@ -7,6 +7,7 @@ ai_models:
 - above
 - abroad
 - abstention
+- abuse
 - academic
 - academy
 - accelerate
@@ -52,6 +53,7 @@ ai_models:
 - adjustments
 - admits
 - adobe
+- adopt
 - adoption
 - adults
 - advance
@@ -83,6 +85,7 @@ ai_models:
 - aggregation
 - aging
 - agnostic
+- agreed
 - agreement
 - agrees
 - agricultural
@@ -90,16 +93,19 @@ ai_models:
 - ai-assisted
 - ai-based
 - ai-driven
+- ai-first
 - ai-fueled
 - ai-generated
 - ai-native
 - ai-powered
 - ai-written
+- airasia
 - airbnb
 - airline
 - airlines
 - airport
 - airports
+- airspace
 - airtel
 - airways
 - alarm
@@ -115,6 +121,7 @@ ai_models:
 - alibaba-backed
 - alien
 - aligned
+- aligning
 - alignment
 - alive
 - all-time
@@ -145,6 +152,8 @@ ai_models:
 - amazon
 - ambani
 - ambassador
+- ambient
+- ambiguity
 - ambitions
 - ambitious
 - america
@@ -154,6 +163,8 @@ ai_models:
 - among
 - amoroso
 - amortized
+- amount
+- amundi
 - analysis
 - analyst
 - analysts
@@ -204,6 +215,7 @@ ai_models:
 - approaches
 - appropriate
 - approval
+- approved
 - approves
 - approximate
 - approximation
@@ -225,6 +237,7 @@ ai_models:
 - around
 - arrested
 - arrests
+- arrive
 - arrives
 - artifacts
 - artificial
@@ -235,6 +248,7 @@ ai_models:
 - assembly
 - assess
 - assessment
+- assessments
 - asset
 - assets
 - assignment
@@ -253,6 +267,7 @@ ai_models:
 - attack
 - attacking
 - attacks
+- attempt
 - attend
 - attention
 - attract
@@ -261,17 +276,20 @@ ai_models:
 - auction
 - auctions
 - audience
+- audiences
 - audio
 - audio-visual
 - audit
 - auditable
 - auditing
+- audits
 - augmentation
 - august
 - australia
 - australian
 - autoencoder
 - autoencoders
+- automate
 - automated
 - automatic
 - automating
@@ -279,6 +297,7 @@ ai_models:
 - automations
 - autonomous
 - autonomously
+- autopilot
 - autoregressive
 - available
 - avatar
@@ -322,6 +341,7 @@ ai_models:
 - battery
 - battle
 - battlefield
+- bayer
 - bayesian
 - bearish
 - beating
@@ -336,6 +356,7 @@ ai_models:
 - begins
 - behavior
 - behavioral
+- behavioural
 - behind
 - beijing
 - belief
@@ -360,6 +381,7 @@ ai_models:
 - betting
 - beyond
 - bharat
+- biases
 - bidding
 - bidirectional
 - bigger
@@ -385,6 +407,7 @@ ai_models:
 - blackrock
 - blackstone
 - blame
+- blast
 - blender
 - blessing
 - blind
@@ -465,6 +488,7 @@ ai_models:
 - bring
 - bringing
 - brings
+- brink
 - britain
 - british
 - broad
@@ -498,6 +522,7 @@ ai_models:
 - bullion
 - bullish
 - bulls
+- bumble
 - bundle
 - burger
 - burnham
@@ -523,6 +548,7 @@ ai_models:
 - calls
 - camera
 - cameras
+- cameron
 - campaign
 - campaigns
 - campus
@@ -581,6 +607,7 @@ ai_models:
 - certification
 - certified
 - chain
+- chain-of-thought
 - chains
 - chair
 - chairman
@@ -588,6 +615,7 @@ ai_models:
 - challenges
 - chance
 - change
+- changed
 - changes
 - changing
 - channel
@@ -639,6 +667,7 @@ ai_models:
 - choose
 - choosing
 - chris
+- christmas
 - chrome
 - chunking
 - churn
@@ -648,6 +677,7 @@ ai_models:
 - circuits
 - citadel
 - citations
+- cites
 - cities
 - citigroup
 - citing
@@ -662,6 +692,8 @@ ai_models:
 - classes
 - classical
 - classification
+- classifier
+- classifier-free
 - classifiers
 - claude
 - clean
@@ -682,6 +714,7 @@ ai_models:
 - clips
 - clock
 - clone
+- cloning
 - close
 - closed
 - closer
@@ -693,6 +726,7 @@ ai_models:
 - clouded
 - cloudflare
 - clouds
+- clues
 - cluster
 - clustering
 - co-design
@@ -738,6 +772,7 @@ ai_models:
 - coming
 - command
 - comments
+- commerce
 - commercial
 - commits
 - committee
@@ -767,6 +802,7 @@ ai_models:
 - complex
 - complexity
 - compliance
+- complicates
 - component
 - composite
 - composition
@@ -789,6 +825,7 @@ ai_models:
 - concerning
 - concerns
 - concrete
+- condition
 - conditional
 - conditioning
 - conditions
@@ -801,6 +838,7 @@ ai_models:
 - conflict
 - conflicts
 - conformal
+- confronts
 - congo
 - congress
 - connect
@@ -808,10 +846,12 @@ ai_models:
 - consensus
 - consequences
 - consider
+- considering
 - considers
 - consistency
 - consistent
 - console
+- consortium
 - constellation
 - constrained
 - constraint
@@ -825,6 +865,7 @@ ai_models:
 - contact
 - contain
 - container
+- contamination
 - content
 - contest
 - context
@@ -844,10 +885,13 @@ ai_models:
 - controls
 - convenes
 - convergence
+- conversation
 - conversational
 - conversations
+- convert
 - convertible
 - convex
+- convicted
 - convolutional
 - cooking
 - cooler
@@ -886,6 +930,7 @@ ai_models:
 - court
 - courts
 - covariate
+- cover
 - coverage
 - covid
 - cowork
@@ -921,6 +966,7 @@ ai_models:
 - cross-view
 - crowd
 - crowded
+- crowdstrike
 - crude
 - cruise
 - crunch
@@ -945,6 +991,7 @@ ai_models:
 - customizable
 - cutting
 - cyber
+- cyberattacks
 - cybersecurity
 - cycle
 - czech
@@ -993,7 +1040,9 @@ ai_models:
 - declares
 - decline
 - declines
+- decoder
 - decoding
+- decomposing
 - decomposition
 - decoupled
 - decoupling
@@ -1010,6 +1059,7 @@ ai_models:
 - defenders
 - defends
 - defense
+- defenses
 - defensive
 - deficit
 - defies
@@ -1079,6 +1129,7 @@ ai_models:
 - diagnostics
 - diagrams
 - dialogue
+- diamond
 - diaspora
 - dictation
 - diesel
@@ -1090,6 +1141,7 @@ ai_models:
 - differently
 - difficult
 - diffusion
+- diffusion-based
 - digest
 - digital
 - dilemma
@@ -1131,11 +1183,13 @@ ai_models:
 - distill
 - distillation
 - distilling
+- distractions
 - distress
 - distressed
 - distributed
 - distribution
 - distributional
+- distributions
 - diverge
 - diverse
 - diversify
@@ -1157,6 +1211,7 @@ ai_models:
 - dominance
 - dominate
 - domino
+- donald
 - doomsday
 - doordash
 - doors
@@ -1182,6 +1237,7 @@ ai_models:
 - drills
 - drive
 - driven
+- driver
 - drivers
 - drives
 - driving
@@ -1200,6 +1256,8 @@ ai_models:
 - dutch
 - dynamic
 - dynamics
+- eagle
+- earlier
 - early
 - earnings
 - earth
@@ -1243,6 +1301,7 @@ ai_models:
 - eleven
 - elevenlabs
 - eliciting
+- elite
 - elliott
 - ellison
 - elusive
@@ -1276,6 +1335,7 @@ ai_models:
 - encoding
 - end-to-end
 - endgame
+- endpoint
 - endpoints
 - energy
 - energy-based
@@ -1310,11 +1370,14 @@ ai_models:
 - environmental
 - environments
 - envoy
+- epstein
+- equal
 - equation
 - equations
 - equipment
 - equities
 - equity
+- equivariant
 - erase
 - erases
 - error
@@ -1323,6 +1386,7 @@ ai_models:
 - escalates
 - escalating
 - escalation
+- escape
 - estate
 - estimate
 - estimates
@@ -1367,6 +1431,7 @@ ai_models:
 - executives
 - exhibit
 - exist
+- existential
 - existing
 - exits
 - exodus
@@ -1408,6 +1473,7 @@ ai_models:
 - expose
 - exposed
 - exposes
+- exposing
 - exposure
 - express
 - expressive
@@ -1473,6 +1539,8 @@ ai_models:
 - feels
 - few-shot
 - fewer
+- ffmpeg
+- fiber
 - fidelity
 - field
 - fields
@@ -1484,6 +1552,7 @@ ai_models:
 - figures
 - files
 - filing
+- films
 - filtering
 - final
 - finally
@@ -1498,6 +1567,7 @@ ai_models:
 - fine-tuning
 - fines
 - finish
+- finite
 - fintech
 - fired
 - firefly
@@ -1510,6 +1580,7 @@ ai_models:
 - five-year
 - fixed
 - fixes
+- fixing
 - flags
 - flagship
 - flares
@@ -1522,6 +1593,7 @@ ai_models:
 - flock
 - flood
 - flooding
+- floor
 - florida
 - flow-matching
 - flows
@@ -1546,6 +1618,7 @@ ai_models:
 - foreign
 - forex
 - forget
+- forgetting
 - formal
 - formally
 - former
@@ -1564,6 +1637,7 @@ ai_models:
 - frame
 - framework
 - frameworks
+- franc
 - france
 - franchisee
 - franklin
@@ -1596,6 +1670,7 @@ ai_models:
 - future
 - futures
 - gabon
+- gadgets
 - gaining
 - gains
 - gallon
@@ -1609,6 +1684,7 @@ ai_models:
 - gauge
 - gaussian
 - gemini
+- gemma
 - general
 - general-purpose
 - generalist
@@ -1623,6 +1699,7 @@ ai_models:
 - generative
 - generator
 - generators
+- geographic
 - geometric
 - geometry
 - geometry-aware
@@ -1643,6 +1720,7 @@ ai_models:
 - glencore
 - glm-5
 - global
+- globalization
 - globally
 - goals
 - going
@@ -1761,6 +1839,7 @@ ai_models:
 - hides
 - hierarchical
 - high-dimensional
+- high-fidelity
 - high-grade
 - high-resolution
 - high-stakes
@@ -1809,14 +1888,17 @@ ai_models:
 - houthi
 - houthis
 - huang
+- hubspot
 - hugging
 - human
+- human-ai
 - humanity
 - humanoid
 - humanoids
 - humans
 - hundreds
 - hungary
+- hurdle
 - hurricane
 - hurts
 - hybrid
@@ -1830,6 +1912,7 @@ ai_models:
 - ideation
 - identification
 - identify
+- identifying
 - identity
 - ignoring
 - illegal
@@ -1839,11 +1922,14 @@ ai_models:
 - imagery
 - images
 - imagination
+- imagine
 - imaging
 - imbalance
 - imbalanced
 - imitation
+- immersive
 - impact
+- implications
 - implicit
 - import
 - importance
@@ -1886,11 +1972,13 @@ ai_models:
 - indonesian
 - indoor
 - inducing
+- inductive
 - industrial
 - industry
 - inference
 - infinite
 - inflation
+- inflationary
 - inflows
 - influence
 - influencer
@@ -1920,13 +2008,16 @@ ai_models:
 - insurer
 - insurers
 - integrated
+- integrating
 - integration
 - integrity
 - intel
 - intelligence
 - intelligent
 - intensify
+- intensity
 - intent
+- interact
 - interaction
 - interactive
 - interest
@@ -1942,6 +2033,7 @@ ai_models:
 - interpretable
 - interpretation
 - interpreting
+- intervenes
 - intervention
 - interventions
 - interview
@@ -1969,6 +2061,7 @@ ai_models:
 - iranian
 - ireland
 - isaias
+- island
 - islands
 - isolate
 - isolation
@@ -1981,6 +2074,7 @@ ai_models:
 - iterative
 - itself
 - jackson
+- jailbreak
 - jakarta
 - james
 - january
@@ -2000,9 +2094,12 @@ ai_models:
 - joint-embedding
 - jolts
 - jonathan
+- jones
 - jordan
+- journalism
 - jpmorgan
 - judge
+- judges
 - judging
 - judgment
 - jumbo
@@ -2049,6 +2146,7 @@ ai_models:
 - largest
 - laser
 - lasting
+- latency
 - latent
 - latents
 - later
@@ -2069,6 +2167,7 @@ ai_models:
 - layered
 - layers
 - layoffs
+- layouts
 - leader
 - leaderboard
 - leaders
@@ -2125,6 +2224,7 @@ ai_models:
 - lineup
 - linger
 - linguistic
+- linked
 - linking
 - links
 - linux
@@ -2174,11 +2274,13 @@ ai_models:
 - losses
 - louis
 - lovable
+- low-latency
 - low-rank
 - low-resource
 - lower
 - lowers
 - lowest
+- lufthansa
 - lululemon
 - lures
 - lutnick
@@ -2205,6 +2307,7 @@ ai_models:
 - malaysian
 - malware
 - mamba
+- mammal
 - manage
 - managed
 - management
@@ -2234,6 +2337,7 @@ ai_models:
 - massive
 - masters
 - match
+- matched
 - matches
 - matching
 - material
@@ -2255,12 +2359,14 @@ ai_models:
 - measure
 - measured
 - measurement
+- measurements
 - measures
 - measuring
 - mechanism
 - mechanisms
 - mechanistic
 - media
+- median
 - medical
 - medicine
 - meeting
@@ -2299,6 +2405,7 @@ ai_models:
 - miami
 - michael
 - michele
+- micro
 - microdrama
 - microdramas
 - micron
@@ -2406,6 +2513,7 @@ ai_models:
 - multi-turn
 - multi-view
 - multibillion-dollar
+- multichannel
 - multilingual
 - multimodal
 - multiplayer
@@ -2427,6 +2535,7 @@ ai_models:
 - mythos
 - méxico
 - nadella
+- named
 - names
 - narrative
 - narrow
@@ -2461,6 +2570,7 @@ ai_models:
 - neural
 - neuro-symbolic
 - neutral
+- neutrality
 - never
 - newest
 - nickel
@@ -2522,6 +2632,7 @@ ai_models:
 - officials
 - offline
 - offset
+- offsets
 - offshore
 - often
 - older
@@ -2531,11 +2642,13 @@ ai_models:
 - one-step
 - one-year
 - online
+- onlyfans
 - ontario
 - ontology
 - opaque
 - open-ended
 - open-source
+- open-sourced
 - open-vocabulary
 - open-weight
 - open-weights
@@ -2578,9 +2691,12 @@ ai_models:
 - original
 - orleans
 - orszag
+- orthogonal
 - other
 - others
+- ouster
 - out-of-distribution
+- outage
 - outbound
 - outbreak
 - outcomes
@@ -2590,11 +2706,13 @@ ai_models:
 - outperforms
 - output
 - outputs
+- outreach
 - outside
 - outsized
 - outweighs
 - overcome
 - overdeck
+- overdone
 - overhaul
 - overheating
 - overnight
@@ -2668,6 +2786,7 @@ ai_models:
 - peers
 - pemex
 - penalty
+- pending
 - pension
 - pentagon
 - people
@@ -2681,6 +2800,7 @@ ai_models:
 - persian
 - persist
 - persistent
+- persists
 - person
 - persona
 - personal
@@ -2688,7 +2808,9 @@ ai_models:
 - personalization
 - personalized
 - perspective
+- perturbations
 - petrobras
+- pharma
 - phase
 - philippine
 - philippines
@@ -2702,7 +2824,9 @@ ai_models:
 - physics-informed
 - picked
 - pickier
+- picking
 - picks
+- picture
 - piece
 - pilots
 - pimco
@@ -2723,6 +2847,7 @@ ai_models:
 - plain
 - planes
 - planned
+- planner
 - planning
 - plans
 - plant
@@ -2765,6 +2890,7 @@ ai_models:
 - poppi
 - popular
 - popularity
+- population
 - porcelli
 - porsche
 - portfolio
@@ -2774,6 +2900,7 @@ ai_models:
 - positions
 - positive
 - possible
+- post-hoc
 - post-ipo
 - post-training
 - posterior
@@ -2830,10 +2957,12 @@ ai_models:
 - primitives
 - principal
 - print
+- prior
 - priorities
 - priors
 - prison
 - privacy
+- privacy-preserving
 - private
 - proactive
 - probabilistic
@@ -2915,6 +3044,8 @@ ai_models:
 - puzzles
 - python
 - qatar
+- qualcomm
+- qualified
 - quality
 - quant
 - quantification
@@ -2977,6 +3108,7 @@ ai_models:
 - realistic
 - reality
 - really
+- realtime
 - reason
 - reasoning
 - reasons
@@ -2997,6 +3129,7 @@ ai_models:
 - recommendations
 - reconstruction
 - record
+- record-breaking
 - records
 - recover
 - recovery
@@ -3038,6 +3171,7 @@ ai_models:
 - regulator
 - regulators
 - regulatory
+- reimagining
 - reinforcement
 - reinforcing
 - reject
@@ -3067,6 +3201,7 @@ ai_models:
 - rendering
 - renewal
 - renewed
+- renews
 - rents
 - reopen
 - repair
@@ -3090,6 +3225,7 @@ ai_models:
 - repricing
 - reproducibility
 - republicans
+- repurposing
 - request
 - requests
 - requirements
@@ -3103,6 +3239,7 @@ ai_models:
 - reserves
 - reset
 - reshape
+- reshapes
 - reshuffle
 - residents
 - residual
@@ -3118,9 +3255,13 @@ ai_models:
 - responsible
 - restart
 - restaurant
+- restaurants
 - restoration
+- restoring
 - restrict
+- restrictions
 - restrictive
+- restricts
 - restructuring
 - result
 - results
@@ -3128,6 +3269,7 @@ ai_models:
 - resumes
 - retail
 - retailer
+- retailers
 - retention
 - rethink
 - rethinking
@@ -3144,6 +3286,7 @@ ai_models:
 - reusable
 - reuse
 - revamp
+- revamps
 - reveal
 - revealed
 - reveals
@@ -3158,11 +3301,13 @@ ai_models:
 - revival
 - revive
 - revives
+- revolut
 - revolution
 - revthink
 - reward
 - rewards
 - rework
+- richards
 - richest
 - rides
 - ridge
@@ -3184,6 +3329,7 @@ ai_models:
 - roadster
 - roars
 - rober
+- robert
 - robinson
 - roblox
 - robot
@@ -3202,14 +3348,17 @@ ai_models:
 - rosenberg
 - rotation
 - round
+- roundup
 - route
 - router
 - routes
 - routing
+- rowan
 - rubenstein
 - rubio
 - rubric
 - rules
+- ruling
 - rumored
 - running
 - runoff
@@ -3217,9 +3366,11 @@ ai_models:
 - runway
 - rupee
 - rupiah
+- russell
 - russia
 - russian
 - ryanair
+- saaspocalypse
 - saastr
 - sachs
 - safeguards
@@ -3228,11 +3379,13 @@ ai_models:
 - safety
 - sales
 - salesforce
+- salvador
 - sampling
 - samsung
 - sanctions
 - sandbox
 - santa
+- sarah
 - satellite
 - satya
 - saudi
@@ -3247,6 +3400,7 @@ ai_models:
 - scandal
 - scanner
 - scarcity
+- scenario
 - scene
 - scenes
 - schedule
@@ -3259,6 +3413,7 @@ ai_models:
 - science
 - scientific
 - scientist
+- scientists
 - score
 - scores
 - scoring
@@ -3268,6 +3423,7 @@ ai_models:
 - scratch
 - screen
 - screening
+- screenshots
 - scripts
 - scrunch
 - scrutiny
@@ -3301,6 +3457,7 @@ ai_models:
 - self-hosted
 - self-improvement
 - self-improving
+- self-play
 - self-supervised
 - seller
 - sellers
@@ -3319,6 +3476,7 @@ ai_models:
 - sensing
 - sensitive
 - sensitivity
+- sensor
 - sentences
 - sentiment
 - separating
@@ -3364,6 +3522,7 @@ ai_models:
 - sheinbaum
 - shell
 - shelves
+- shenzhen
 - shield
 - shift
 - shifted
@@ -3374,6 +3533,7 @@ ai_models:
 - shipping
 - ships
 - shock
+- shocks
 - shooting
 - shopify
 - shoppers
@@ -3381,7 +3541,9 @@ ai_models:
 - short
 - short-term
 - shortage
+- shortfall
 - shorts
+- shots
 - shouldn
 - showdown
 - showing
@@ -3404,6 +3566,7 @@ ai_models:
 - silent
 - silicon
 - silver
+- similarity
 - simple
 - simulated
 - simulating
@@ -3423,6 +3586,7 @@ ai_models:
 - sketch
 - skill
 - skills
+- skydance
 - slack
 - slams
 - slash
@@ -3445,12 +3609,14 @@ ai_models:
 - smarter
 - smartphone
 - smith
+- snack
 - snapchat
 - soaring
 - soars
 - soccer
 - sociable
 - social
+- social-first
 - societies
 - softbank
 - softmax
@@ -3488,6 +3654,7 @@ ai_models:
 - spatial
 - spatiotemporal
 - special
+- specialist
 - specialized
 - specs
 - spectral
@@ -3513,6 +3680,7 @@ ai_models:
 - sports
 - spotify
 - spotlight
+- spotlights
 - spread
 - spreads
 - spree
@@ -3580,6 +3748,7 @@ ai_models:
 - steven
 - sticks
 - still
+- stimulus
 - stochastic
 - stock
 - stock-market
@@ -3617,8 +3786,10 @@ ai_models:
 - street
 - strength
 - strengthen
+- strengthening
 - strengthens
 - stress
+- stress-testing
 - stresses
 - stretch
 - stretches
@@ -3665,6 +3836,7 @@ ai_models:
 - suncatcher
 - super
 - super-resolution
+- superhuman
 - superintelligence
 - supertankers
 - supervised
@@ -3686,6 +3858,7 @@ ai_models:
 - surprisingly
 - surveillance
 - survey
+- survival
 - survive
 - suspected
 - suspends
@@ -3701,6 +3874,7 @@ ai_models:
 - switch
 - switches
 - switching
+- switzerland
 - sycophancy
 - sydney
 - symbolic
@@ -3710,6 +3884,7 @@ ai_models:
 - synthetic
 - synthid
 - syracuse
+- syria
 - system
 - systematic
 - systems
@@ -3744,6 +3919,7 @@ ai_models:
 - tasks
 - taste
 - taught
+- taxes
 - taxonomy
 - taylor
 - teach
@@ -3785,8 +3961,10 @@ ai_models:
 - text-to-speech
 - textual
 - texture
+- thailand
 - thames
 - thanks
+- thanksgiving
 - theaters
 - theft
 - themselves
@@ -3858,6 +4036,7 @@ ai_models:
 - tracking
 - tracks
 - trade
+- trade-off
 - trade-offs
 - trader
 - traders
@@ -3890,6 +4069,7 @@ ai_models:
 - translation
 - transmission
 - transparency
+- transparent
 - transport
 - travel
 - travelers
@@ -3908,11 +4088,13 @@ ai_models:
 - tries
 - trigger
 - triggers
+- trilateral
 - trillion
 - trillion-dollar
 - tripled
 - triples
 - troops
+- tropical
 - troubled
 - truce
 - trump
@@ -3949,12 +4131,15 @@ ai_models:
 - uganda
 - ukraine
 - ultra
+- ultra-high-resolution
 - ultrasound
+- uncensored
 - uncertain
 - uncertainty
 - uncertainty-aware
 - unchanged
 - uncover
+- uncovering
 - underperform
 - understand
 - understanding
@@ -3962,6 +4147,7 @@ ai_models:
 - underway
 - unease
 - unexpectedly
+- unfolding
 - unicorn
 - unicredit
 - unified
@@ -3980,6 +4166,7 @@ ai_models:
 - unlock
 - unlocking
 - unprecedented
+- unravels
 - unrest
 - unsecured
 - unsolved
@@ -3988,6 +4175,7 @@ ai_models:
 - unveil
 - unveils
 - unwind
+- unwinds
 - update
 - updates
 - upgrade
@@ -4035,6 +4223,7 @@ ai_models:
 - versus
 - vertical
 - veteran
+- vfxshow
 - victory
 - video
 - videos
@@ -4072,6 +4261,7 @@ ai_models:
 - voter
 - voters
 - votes
+- vulnerabilities
 - vulnerability
 - vulnerable
 - wagers
@@ -4086,6 +4276,7 @@ ai_models:
 - wanting
 - wants
 - warfare
+- warned
 - warner
 - warning
 - warnings
@@ -4110,6 +4301,7 @@ ai_models:
 - wealth
 - wealthy
 - weaponized
+- weapons
 - wearable
 - weather
 - webgpu
@@ -4122,8 +4314,10 @@ ai_models:
 - weighing
 - weighs
 - weight
+- weight-space
 - weighting
 - weights
+- weird
 - welch
 - welcome
 - welfare
@@ -4144,6 +4338,7 @@ ai_models:
 - wider
 - widest
 - wikipedia
+- wildfire
 - wildlife
 - wilson
 - windfall
