@@ -82067,5 +82067,230 @@
     "title": "Facebook is paying college creators to post Reels",
     "category": "ai_models",
     "score": 28
+  },
+  "9f78cee464619905": {
+    "title": "Looped Weight-Space Programming: use AI to set model weights",
+    "category": "ai_models",
+    "score": 12
+  },
+  "d77aad01b5091c63": {
+    "title": "Show HN: Agent-first-browse \u2013 Web automation with delta snapshots and LangGraph",
+    "category": "ai_models",
+    "score": 9
+  },
+  "41f1df3694ae71d6": {
+    "title": "Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
+    "category": "ai_models",
+    "score": 45
+  },
+  "014f544b418d7077": {
+    "title": "Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory",
+    "category": "ai_models",
+    "score": 47
+  },
+  "d65905d61ef6682d": {
+    "title": "Modern Self-Supervised Vision Transformers Are Pareidolic",
+    "category": "ai_models",
+    "score": 36
+  },
+  "3e3e5ce3713fa19d": {
+    "title": "Let Vision-Language Models Generate Images through Their Representations",
+    "category": "ai_models",
+    "score": 49
+  },
+  "19017341755c364d": {
+    "title": "TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming",
+    "category": "ai_models",
+    "score": 38
+  },
+  "ae07ac1bbdbcfaaa": {
+    "title": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
+    "category": "ai_models",
+    "score": 45
+  },
+  "a64954ec4c625923": {
+    "title": "How Far Can Linear Go? BiPert, a Unified Framework for Single-Cell Perturbation Modelling",
+    "category": "ai_models",
+    "score": 46
+  },
+  "5965b6d2e4cc2bbb": {
+    "title": "Self-Supervised Dataset Distillation via Mutual Information Maximization",
+    "category": "ai_models",
+    "score": 44
+  },
+  "76d122c8b84b4be9": {
+    "title": "Agentic AI for Intent Management and Control in Autonomous Communication Networks",
+    "category": "ai_models",
+    "score": 49
+  },
+  "60b33fdf3f1595e5": {
+    "title": "CTLink: A Text-Prompted Segmentation Model for Linking Radiology Report Findings to 3D Chest CT Scans",
+    "category": "ai_models",
+    "score": 27
+  },
+  "26ff446012e11c64": {
+    "title": "LeJEPA Features Are Not Isotropic, and Should Not Be",
+    "category": "ai_models",
+    "score": 31
+  },
+  "2e593b5b2e0e90aa": {
+    "title": "Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning",
+    "category": "ai_models",
+    "score": 44
+  },
+  "1d2c836d4b85780f": {
+    "title": "Flood forecasting using a physics-guided conditional denoising diffusion probabilistic model",
+    "category": "ai_models",
+    "score": 46
+  },
+  "ca4f222865359396": {
+    "title": "Verifying the Outputs of PDE Solvers: From Finite Elements to Neural Surrogates",
+    "category": "ai_models",
+    "score": 52
+  },
+  "de6d3ea47f9a0968": {
+    "title": "WorldLatent: A Unified 4D Latent Space for World Perception and Generation",
+    "category": "ai_models",
+    "score": 51
+  },
+  "29a5f0c7bc954d7d": {
+    "title": "Matching Under Metric Privacy",
+    "category": "ai_models",
+    "score": 30
+  },
+  "d58b6985c3adfc5b": {
+    "title": "ToolSmith: An Automatic Tool-Generation Framework for Multimodal Search Agents",
+    "category": "ai_models",
+    "score": 43
+  },
+  "2820a931bdf46a44": {
+    "title": "Learning Neurovascular Codes for EEG-to-fMRI Synthesis",
+    "category": "ai_models",
+    "score": 37
+  },
+  "a9857f2faa3c69cc": {
+    "title": "Know When to Abstain: Conformal Confidence Estimation for Text-to-SQL",
+    "category": "ai_models",
+    "score": 40
+  },
+  "bf8c71fe2ac4958a": {
+    "title": "CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy Grafting",
+    "category": "ai_models",
+    "score": 46
+  },
+  "10b6220d90a50e50": {
+    "title": "On-Policy Codec Distillation for Efficient All-in-One Video Generation",
+    "category": "ai_models",
+    "score": 50
+  },
+  "12e3e0bf572ed55e": {
+    "title": "Needwise: Generation-Free Conversational Recommendation from Need-Level Typed Decisions",
+    "category": "ai_models",
+    "score": 37
+  },
+  "8bf3d7ffc695cbb3": {
+    "title": "Reducing Order Sensitivity in Decision Models",
+    "category": "ai_models",
+    "score": 45
+  },
+  "16182ce91185083c": {
+    "title": "EEG Decoding in Context: A Framework for Tuning-Free EEG Foundation Models",
+    "category": "ai_models",
+    "score": 54
+  },
+  "27d9980af2f9bb7e": {
+    "title": "Precision-Aware Learning Rate Transfer Across Block Count in LLM Post-Training",
+    "category": "ai_models",
+    "score": 44
+  },
+  "cae8dc6ddec86284": {
+    "title": "Copper Erases Nvidia Bounce as Stocks Come Back Under Pressure",
+    "category": "ai_models",
+    "score": 23
+  },
+  "45eb28f38aa92e15": {
+    "title": "Commerzbank Mulls Partial Withdrawal From US Treasury Market",
+    "category": "ai_models",
+    "score": 18
+  },
+  "b0ba0d755bd92ba0": {
+    "title": "China Probes Fourth Politburo Member in Major Leadership Shakeup",
+    "category": "ai_models",
+    "score": 23
+  },
+  "3a110fcf4c90b2c2": {
+    "title": "JPMorgan, HSBC Trade New London Digital Gold for First Time",
+    "category": "ai_models",
+    "score": 18
+  },
+  "63021137576abcfa": {
+    "title": "Arabica Drops as Exchange Stockpiles Surge Most in 28 Years",
+    "category": "ai_models",
+    "score": 22
+  },
+  "ce83254418c4a570": {
+    "title": "Compass Plans New York Main Listing, Adding to London Exodus",
+    "category": "ai_models",
+    "score": 13
+  },
+  "a52552408dc2ec51": {
+    "title": "Huang\u2019s Return Hits the Reset Button for AI Bets",
+    "category": "ai_models",
+    "score": 7
+  },
+  "ee97bdca5e65d974": {
+    "title": "Nvidia Market Whiplash Far From Over, Says RBC\u2019s Wu Silverman",
+    "category": "ai_models",
+    "score": 21
+  },
+  "0ea66ddcc209eef8": {
+    "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+    "category": "ai_models",
+    "score": 19
+  },
+  "b988e895228503ae": {
+    "title": "LME to List New Aluminum Brand as Historic Squeeze Deepens",
+    "category": "ai_models",
+    "score": 22
+  },
+  "6f39b1d66eea9e55": {
+    "title": "Forced Buying Aided Biggest Rally Since April 2025, Nomura Says",
+    "category": "ai_models",
+    "score": 15
+  },
+  "0fe3859890b33864": {
+    "title": "Treasuries Advance as Cheaper Oil Eases Inflation Concerns",
+    "category": "ai_models",
+    "score": 21
+  },
+  "bdf626f6a659c9ed": {
+    "title": "Grocery Prices Are on the Rise, Just in Time for Thanksgiving",
+    "category": "ai_models",
+    "score": 21
+  },
+  "48c9e64337a3fa63": {
+    "title": "Lemssouguer\u2019s Big Unwind Offers Glimpse Into Complex Credit Bets",
+    "category": "ai_models",
+    "score": 22
+  },
+  "10f61c6d955c0c7d": {
+    "title": "LME Speeds Up Procedure for Listing Metal From New Plants",
+    "category": "ai_models",
+    "score": 15
+  },
+  "653c493fd184129f": {
+    "title": "Commerzbank Considers Partial Treasury Market Pullback",
+    "category": "ai_models",
+    "score": 33
+  },
+  "2837d9c248eafe0a": {
+    "title": "Actuate to Invest $327 million in Spain\u2019s Largest Battery Deal",
+    "category": "ai_models",
+    "score": 17
+  },
+  "56d9232917d6c1c4": {
+    "title": "Google just filed a patent for a future without content creators",
+    "category": "ai_models",
+    "score": 28
   }
 }
