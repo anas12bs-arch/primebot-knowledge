@@ -82582,5 +82582,280 @@
     "title": "Roblox wants players to celebrate Thanksgiving by building a \u201cridiculously tall tower\u201d",
     "category": "ai_models",
     "score": 33
+  },
+  "2cf8507839f5e5f9": {
+    "title": "Finetuning models 6x cheaper than Tinker",
+    "category": "ai_models",
+    "score": 8
+  },
+  "ade278c8145c4b2e": {
+    "title": "AI employees sound alarm: models too powerful to ever release",
+    "category": "ai_models",
+    "score": 12
+  },
+  "01ae8feeb6f3a67b": {
+    "title": "Show HN: Reddit Alt with open moderation funded by 1-cent votes. AI filter",
+    "category": "ai_models",
+    "score": 7
+  },
+  "8b13d9be4a6b39e7": {
+    "title": "Why locally hosted models are not the answer",
+    "category": "ai_models",
+    "score": 9
+  },
+  "716b188f01ba2e49": {
+    "title": "FastFrames: Video Generation at Interactive Latency",
+    "category": "ai_models",
+    "score": 15
+  },
+  "381bf0a3eaa4ff4f": {
+    "title": "We're racing towards dangers, Yoshua Bengio says",
+    "category": "ai_models",
+    "score": 6
+  },
+  "ef008d66d5e06c14": {
+    "title": "OmniAct: One Policy, One Million Embodiments",
+    "category": "ai_models",
+    "score": 36
+  },
+  "a98942469fe994bd": {
+    "title": "PointX: Multi-View Consistent Intrinsics by Querying Surface Points",
+    "category": "ai_models",
+    "score": 35
+  },
+  "e7e9e813bd8ee55e": {
+    "title": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
+    "category": "ai_models",
+    "score": 32
+  },
+  "b6e3f484867c0a3f": {
+    "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
+    "category": "ai_models",
+    "score": 47
+  },
+  "0ad2b523e0d3cc3e": {
+    "title": "CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
+    "category": "ai_models",
+    "score": 47
+  },
+  "fc4eeb5c211ce4b6": {
+    "title": "One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography",
+    "category": "ai_models",
+    "score": 39
+  },
+  "42d49f088d18d494": {
+    "title": "Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild",
+    "category": "ai_models",
+    "score": 45
+  },
+  "5969e7d21494bc55": {
+    "title": "ROAM-Bench: Evaluating Embodied Active Spatial Intelligence through Evidence Verification",
+    "category": "ai_models",
+    "score": 53
+  },
+  "2b1a7893fdba64b8": {
+    "title": "iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction",
+    "category": "ai_models",
+    "score": 45
+  },
+  "32e7e23d5ddd58a4": {
+    "title": "Physicl Scenes: An Artist-created 3D Dataset for Learning Perception and Action",
+    "category": "ai_models",
+    "score": 48
+  },
+  "8a70d424d1d79ebc": {
+    "title": "BriConstrain: Geometrically Constrained Decoding for Autoregressive Brick Assembly Generation",
+    "category": "ai_models",
+    "score": 47
+  },
+  "c1ff04bdf824133f": {
+    "title": "A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit",
+    "category": "ai_models",
+    "score": 34
+  },
+  "e0b24c4f2bbe258b": {
+    "title": "Exploratory Midtraining for Robot Policies",
+    "category": "ai_models",
+    "score": 34
+  },
+  "4c608058dd1e8393": {
+    "title": "SAG-Mem-1.0 Technical Report",
+    "category": "ai_models",
+    "score": 52
+  },
+  "9129502af3799d6e": {
+    "title": "MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing",
+    "category": "ai_models",
+    "score": 52
+  },
+  "46cd46f0ee4aa54a": {
+    "title": "Read My Lips: Context-aware Lip Reading Using Language and Audio-Visual Models",
+    "category": "ai_models",
+    "score": 34
+  },
+  "9971c92d30f0e475": {
+    "title": "Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching Draft and Target Distributions",
+    "category": "ai_models",
+    "score": 40
+  },
+  "b1428095dfcba7a5": {
+    "title": "Temporal Conditioning for Human Behavioral Cloning in Chess",
+    "category": "ai_models",
+    "score": 50
+  },
+  "d30a69f2c56cccde": {
+    "title": "Reinforcement Learning Can Be Recovered From Its Own Rollouts",
+    "category": "ai_models",
+    "score": 40
+  },
+  "1ec948f061fffe58": {
+    "title": "GREMLIN: Generating Random Environments for Meta-Learning with Interacting Networks",
+    "category": "ai_models",
+    "score": 52
+  },
+  "640db7b68b0d2b32": {
+    "title": "Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing Performance",
+    "category": "ai_models",
+    "score": 38
+  },
+  "9921eeddef57752d": {
+    "title": "EventDiffusion: Learning Native Event Stream Distribution from Videos",
+    "category": "ai_models",
+    "score": 54
+  },
+  "f990679adbc274bf": {
+    "title": "AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design",
+    "category": "ai_models",
+    "score": 43
+  },
+  "af2c026470779a19": {
+    "title": "The Radar-based Activities of Daily Living (R-ADL) Dataset",
+    "category": "ai_models",
+    "score": 46
+  },
+  "3e65314a4da880fa": {
+    "title": "Uncertainty-Aware Candidate Generation for Entity Linking in Cyber Threat Intelligence",
+    "category": "ai_models",
+    "score": 45
+  },
+  "a3c9028eefd69cfd": {
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "category": "ai_models",
+    "score": 19
+  },
+  "11304642d4ef0ee9": {
+    "title": "Yale\u2019s Sonnenfeld: Nvidia is a \u2018detriment\u2019 to US industrial might \u2014 not a champion",
+    "category": "ai_models",
+    "score": 41
+  },
+  "6ade78d15f5ff932": {
+    "title": "Maybank Reviews Portfolio as Chip Curbs Hit Data Centers",
+    "category": "ai_models",
+    "score": 23
+  },
+  "6af9ac20306ad874": {
+    "title": "Malaysia\u2019s Government Will Likely Serve Full Term: Anwar Adviser",
+    "category": "ai_models",
+    "score": 18
+  },
+  "c5ecb76b1f5c4cd4": {
+    "title": "Stock Losses Build as AI Trade Falters, Oil Drops: Markets Wrap",
+    "category": "ai_models",
+    "score": 30
+  },
+  "b1cbc757c1cbdf19": {
+    "title": "Latest Oil Market News and Analysis for Nov. 25",
+    "category": "ai_models",
+    "score": 16
+  },
+  "a415b86cf203b2c9": {
+    "title": "Xi Probes Shanghai Boss, Widening Political Shakeup",
+    "category": "ai_models",
+    "score": 20
+  },
+  "8286a346631cf2c7": {
+    "title": "Dangote Refinery Set to Become Africa\u2019s Biggest Listed Company",
+    "category": "ai_models",
+    "score": 16
+  },
+  "89a024a357d6eb13": {
+    "title": "Huang Boost Fades Quickly as AI Fears Sink TSMC, SK Hynix Shares",
+    "category": "ai_models",
+    "score": 21
+  },
+  "c3e892f3deb1ac39": {
+    "title": "Australia Edges China Out of Pacific Foothold in Solomon Islands",
+    "category": "ai_models",
+    "score": 17
+  },
+  "df1dc057fa53347b": {
+    "title": "Japan\u2019s 40-Year Bond Sale Draws Weaker Demand on Risk Off Mood",
+    "category": "ai_models",
+    "score": 13
+  },
+  "f052d2dd499e8d0a": {
+    "title": "Metals Mixed After Major Selloff as Traders Await US Inflation",
+    "category": "ai_models",
+    "score": 21
+  },
+  "dcbfe65feaecf6b8": {
+    "title": "Starbucks Is Said to Engage Banks for Sale of Japan Business",
+    "category": "ai_models",
+    "score": 16
+  },
+  "7d2f69d7824e0ef7": {
+    "title": "India\u2019s Anti-AI Stock Trade Confronts Rich Valuations, Global Tariff Risks",
+    "category": "ai_models",
+    "score": 20
+  },
+  "bf1df8f1c5ceaef3": {
+    "title": "Rakuten Credit Risk Surges After Yen Bond Offering Scrapped",
+    "category": "ai_models",
+    "score": 16
+  },
+  "4f7a093c3a59ddad": {
+    "title": "Australia\u2019s Hot Inflation Vindicates RBA\u2019s Hawkish Policy Stance",
+    "category": "ai_models",
+    "score": 22
+  },
+  "f4cc166d1e3c3935": {
+    "title": "India Pension Funds Pivot to Bonds as Equity Exposure Nears Cap",
+    "category": "ai_models",
+    "score": 24
+  },
+  "1652262e8c40aafb": {
+    "title": "Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets",
+    "category": "ai_models",
+    "score": 19
+  },
+  "a38e8201822f2705": {
+    "title": "HDBank Turns to Global Investors With Bonds, Loan to Fund Growth in Vietnam",
+    "category": "ai_models",
+    "score": 20
+  },
+  "bf5c12799383ed92": {
+    "title": "RBA\u2019s Jacobs Says Financial Conditions \u2018Restrictive\u2019 After Hikes",
+    "category": "ai_models",
+    "score": 22
+  },
+  "668ff905beff5572": {
+    "title": "US Readies Tariff Hike on China, EU Goods",
+    "category": "ai_models",
+    "score": 18
+  },
+  "57e892bd848cc6a6": {
+    "title": "Butterball CEO on Thanksgiving Dinner Outlook",
+    "category": "ai_models",
+    "score": 40
+  },
+  "434a36ede2e73f29": {
+    "title": "Thumbnails help YouTubers build audiences. Now everyone can put custom \u2018nails on their Shorts.",
+    "category": "ai_models",
+    "score": 27
+  },
+  "332d2e7d86bca553": {
+    "title": "Ms Rachel is fighting for kids\u2019 rights to legal representation",
+    "category": "ai_models",
+    "score": 32
   }
 }
