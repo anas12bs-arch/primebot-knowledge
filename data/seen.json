@@ -83182,5 +83182,260 @@
     "title": "Top 50 Most Viewed YouTube Channels Worldwide \u2022 Week Of 11/22/2026",
     "category": "ai_models",
     "score": 30
+  },
+  "12b2d68117a5b32e": {
+    "title": "I built an Android app to run GGUF AI models offline on your phone",
+    "category": "ai_models",
+    "score": 9
+  },
+  "fd7623c75cc3f9e6": {
+    "title": "Show HN: Hozo compiles React Native to native UI and semantic HTML",
+    "category": "ai_models",
+    "score": 6
+  },
+  "6479b0b7dc085d44": {
+    "title": "Tell HN: Finality is like the speed of light to LLMs from the labs",
+    "category": "ai_models",
+    "score": 6
+  },
+  "3ae0167249a2a34c": {
+    "title": "Ask HN: Did Aaron Swartz make modern AI possible?",
+    "category": "ai_models",
+    "score": 5
+  },
+  "8e3cded60daf5cec": {
+    "title": "Pushing the US Open-Weight Frontier",
+    "category": "ai_models",
+    "score": 9
+  },
+  "f926385ee9424b28": {
+    "title": "AnyCam: Anything Can Represent Camera for Video Generation",
+    "category": "ai_models",
+    "score": 43
+  },
+  "c18edf695ffbc752": {
+    "title": "Tracking Any Point with Agentic Visual Reasoning",
+    "category": "ai_models",
+    "score": 47
+  },
+  "0f8bd73c026011a7": {
+    "title": "Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning",
+    "category": "ai_models",
+    "score": 41
+  },
+  "9cec97ccd70c6b5e": {
+    "title": "Improving and Expanding Video Editing Capabilities Without Videos",
+    "category": "ai_models",
+    "score": 38
+  },
+  "60618702e7adbfc1": {
+    "title": "LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Proxies",
+    "category": "ai_models",
+    "score": 33
+  },
+  "8f6045dc37bafea3": {
+    "title": "A Mesh for Every Moment",
+    "category": "ai_models",
+    "score": 38
+  },
+  "2651bd036685381f": {
+    "title": "Tokenisation is not in APX",
+    "category": "ai_models",
+    "score": 24
+  },
+  "1fd2087c540f058f": {
+    "title": "Can image generation help visual reasoning? An empirical study",
+    "category": "ai_models",
+    "score": 46
+  },
+  "0c272f1d0957d70a": {
+    "title": "Attack Policy Selection can Mislead Monitor Evaluators",
+    "category": "ai_models",
+    "score": 41
+  },
+  "89f7edbca3397dbf": {
+    "title": "DynMF2: Rigid Motion Factorization by Expectation-Maximization for Monocular 4D Reconstruction and Motion Segmentation",
+    "category": "ai_models",
+    "score": 37
+  },
+  "fbfcf56e67bbe252": {
+    "title": "A gene informed benchmark for BioScoring of pathology foundation models",
+    "category": "ai_models",
+    "score": 39
+  },
+  "a082da14360400dc": {
+    "title": "High-Fidelity Image Matting with Pixel-Space Diffusion Transformers",
+    "category": "ai_models",
+    "score": 46
+  },
+  "e653365b440ea301": {
+    "title": "Diverse Alternative Reasoning Traces for Hard Math Problems",
+    "category": "ai_models",
+    "score": 41
+  },
+  "df48ba91d19d058b": {
+    "title": "Mixture-of-Loops Transformer",
+    "category": "ai_models",
+    "score": 35
+  },
+  "7899a915459b0d69": {
+    "title": "$\u03bc$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents",
+    "category": "ai_models",
+    "score": 54
+  },
+  "5d13d9426c8f1327": {
+    "title": "Cairn: Object-Centric 3D Trajectory Priors for Steering Frozen VLAs",
+    "category": "ai_models",
+    "score": 43
+  },
+  "08a3473254de6b7b": {
+    "title": "LiveVAE: Causal Window Attention Makes Efficient Streaming Video VAE",
+    "category": "ai_models",
+    "score": 55
+  },
+  "559c5049d6e079d6": {
+    "title": "Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation",
+    "category": "ai_models",
+    "score": 41
+  },
+  "5dc89a03fb68ba2a": {
+    "title": "ProbFaS: Probabilistic Video Frame Selection for MLLMs via Multi-Fidelity Calibration",
+    "category": "ai_models",
+    "score": 45
+  },
+  "baeebdc53582ef2b": {
+    "title": "Enhancing Maritime Domain Awareness using Latent Space Representations",
+    "category": "ai_models",
+    "score": 47
+  },
+  "cf508ec44a9f6f83": {
+    "title": "What a Drop Reveals: Sim-to-Real Material Estimation for Deformable Objects from Video",
+    "category": "ai_models",
+    "score": 35
+  },
+  "9294d9bc13983732": {
+    "title": "Interpretable and Accurate Hybrid Decision Trees with Selective Case-Based Splits",
+    "category": "ai_models",
+    "score": 41
+  },
+  "2e53c29d2eb171d9": {
+    "title": "FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation",
+    "category": "ai_models",
+    "score": 38
+  },
+  "b4a3a3cb4f6e31d9": {
+    "title": "Stranger Things: When Objects Appear Without Their Typical Neighbors",
+    "category": "ai_models",
+    "score": 43
+  },
+  "11752d81296c1aee": {
+    "title": "Towards Closing the Performance Gap in Cross-Modal Place Recognition",
+    "category": "ai_models",
+    "score": 47
+  },
+  "530ae65948b9cdd9": {
+    "title": "Trump\u2019s Tariffs Blunt Appeal of Moving Production Out of China",
+    "category": "ai_models",
+    "score": 24
+  },
+  "40bb5742b561aead": {
+    "title": "Asian Stock Markets Are Cheap Enough Now: Market Analysis",
+    "category": "ai_models",
+    "score": 18
+  },
+  "126807dc9fdb33c2": {
+    "title": "Japan\u2019s Insurers Have \u2018Given Up\u2019 on Yen With Record-Low Hedging",
+    "category": "ai_models",
+    "score": 14
+  },
+  "0a4674d77fd9b156": {
+    "title": "Houthis Target Jeddah and Jazan Ports as Attacks on Saudi Arabia Intensify",
+    "category": "ai_models",
+    "score": 39
+  },
+  "b20027b11d8d61b4": {
+    "title": "FTSE 100 Eyes Rebound as Shift to UK Gilts Pauses",
+    "category": "ai_models",
+    "score": 8
+  },
+  "1dbeb7555056e7c9": {
+    "title": "Diesel-Carrying Ship Sinks Off Spanish Island of Ibiza, One Dead",
+    "category": "ai_models",
+    "score": 13
+  },
+  "7935ed950c0ff1e4": {
+    "title": "China Tech Stocks Rebound From Record Slump",
+    "category": "ai_models",
+    "score": 31
+  },
+  "d97f796ed6989dbb": {
+    "title": "Banks Seek RBI FX Swaps After Record Inflows Into Indian Stocks",
+    "category": "ai_models",
+    "score": 26
+  },
+  "9569905b99b578d4": {
+    "title": "Qatar Has Boosted LNG Exports to Their Highest Since February",
+    "category": "ai_models",
+    "score": 25
+  },
+  "70b24e08499ebe35": {
+    "title": "UK Faces Third Day of Strained Electricity Supplies on Cold Snap",
+    "category": "ai_models",
+    "score": 20
+  },
+  "6a75c163f84cff1f": {
+    "title": "Gold Wavers After Battering as Traders Assess Fed Path, AI Angst",
+    "category": "ai_models",
+    "score": 30
+  },
+  "8e3654adba24e86c": {
+    "title": "Why the AI Panic May Be Premature",
+    "category": "ai_models",
+    "score": 13
+  },
+  "6e17accb3fb0ea23": {
+    "title": "FTSE 100 Live Updates: UK Stocks Jump as Volatile Stock Markets Cool",
+    "category": "ai_models",
+    "score": 7
+  },
+  "d26c641eccb79722": {
+    "title": "US Proposes New Tariffs, Asian Stocks Rise As AI Trade Rebounds",
+    "category": "ai_models",
+    "score": 38
+  },
+  "63ec3dd0509e2001": {
+    "title": "Rupee Hits 8-Month High as India November Stock Inflows Reach $14.7 Billion: INR",
+    "category": "ai_models",
+    "score": 14
+  },
+  "c2e2fcaf35bdfa89": {
+    "title": "Vietnam Weighs Delaying Nuclear Power Plants Beyond 2035 Target",
+    "category": "ai_models",
+    "score": 22
+  },
+  "b268f84b7dbb4285": {
+    "title": "Oil Rises as Houthis Attack Two Saudi Ports on Red Sea",
+    "category": "ai_models",
+    "score": 38
+  },
+  "f5dc331ce6cab556": {
+    "title": "US Tariff Plan Raises Stakes for India to Clinch Trade Deal",
+    "category": "ai_models",
+    "score": 36
+  },
+  "2a790939d50739dd": {
+    "title": "Everyone wants a piece of creator IPs. Outshine Talent founder Barbara Jones is making that work in her clients\u2019 favor.",
+    "category": "ai_models",
+    "score": 30
+  },
+  "9acceff3783fd291": {
+    "title": "Top 50 Most Subscribed YouTube Channels Worldwide \u2022 Week Of 11/22/2026",
+    "category": "ai_models",
+    "score": 30
+  },
+  "f488513d5902fa0f": {
+    "title": "X is doubling down on short-form vertical video with a series of updates",
+    "category": "ai_models",
+    "score": 33
   }
 }
